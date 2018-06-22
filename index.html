@@ -55,8 +55,6 @@
 		<nav class="header-menu">
 			<ul>
 			
-				<li><a href="/IT-Hub-Frankfurt">IT Hub Frankfurt</a></li>
-	        
 				<li><a href="/intro">团队介绍</a></li>
 	        
 				<li><a href="/">Home</a></li>
@@ -121,8 +119,6 @@
 			
 				
 			
-				
-			
 			
 			
 			<nav class="header-nav">
@@ -139,15 +135,13 @@
 				<ul style="width: 70%">
 				
 				
-					<li style="width: 20%"><a href="/IT-Hub-Frankfurt">IT Hub Frankfurt</a></li>
+					<li style="width: 25%"><a href="/intro">团队介绍</a></li>
 		        
-					<li style="width: 20%"><a href="/intro">团队介绍</a></li>
+					<li style="width: 25%"><a href="/">Home</a></li>
 		        
-					<li style="width: 20%"><a href="/">Home</a></li>
+					<li style="width: 25%"><a href="/archives/">Archive</a></li>
 		        
-					<li style="width: 20%"><a href="/archives/">Archive</a></li>
-		        
-					<li style="width: 20%"><a href="/aboutme/">Aboutme</a></li>
+					<li style="width: 25%"><a href="/aboutme/">Aboutme</a></li>
 		        
 				</ul>
 			</nav>
@@ -164,49 +158,77 @@
           <div id="js-content" class="content-ll">
             
   
-    <article id="post-debug-ionic-on-real-device-with-vscode" class="article article-type-post  article-index" itemscope itemprop="blogPost">
+    <article id="post-chatbot-with-python" class="article article-type-post  article-index" itemscope itemprop="blogPost">
   <div class="article-inner">
     
       <header class="article-header">
         
   
     <h1 itemprop="name">
-      <a class="article-title" href="/2018/04/19/debug-ionic-on-real-device-with-vscode/">debug ionic on real device with vscode</a>
+      <a class="article-title" href="/2018/06/22/chatbot-with-python/">chatbot with python</a>
     </h1>
   
 
         
-        <a href="/2018/04/19/debug-ionic-on-real-device-with-vscode/" class="archive-article-date">
-  	<time datetime="2018-04-19T20:52:29.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-04-19</time>
+        <a href="/2018/06/22/chatbot-with-python/" class="archive-article-date">
+  	<time datetime="2018-06-22T02:14:20.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-06-22</time>
 </a>
         
       </header>
     
     <div class="article-entry" itemprop="articleBody">
       
-        <ul>
-<li>install cordova extension on vscode</li>
+        <h1 id="Implement-chatbot-with-python"><a href="#Implement-chatbot-with-python" class="headerlink" title="Implement chatbot with python"></a>Implement chatbot with python</h1><h2 id="Agenda"><a href="#Agenda" class="headerlink" title="Agenda"></a>Agenda</h2><ul>
+<li>Introduce chatbot</li>
+<li>introduce python</li>
+<li>install Development environment </li>
+<li>run our own chatbot</li>
+<li>design our own chatbot</li>
+<li>code  our own chatbot</li>
 </ul>
-<p><img src="/2018/04/19/debug-ionic-on-real-device-with-vscode/screenshots/inoicdebug1.png" alt="step1"></p>
-<ul>
-<li>set breakpoint at source code</li>
+<h2 id="Introduce-chatbot"><a href="#Introduce-chatbot" class="headerlink" title="Introduce chatbot"></a>Introduce chatbot</h2><p>quoted from wiki</p>
+<blockquote>
+<p>A chatbot (also known as a talkbot, chatterbot, Bot, IM bot, interactive agent, or Artificial Conversational Entity) is a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods. Such programs are often designed to convincingly simulate how a human would behave as a conversational partner, thereby passing the Turing test. Chatbots are typically used in dialog systems for various practical purposes including customer service or information acquisition. Some chatterbots use sophisticated natural language processing systems, but many simpler systems scan for keywords within the input, then pull a reply with the most matching keywords, or the most similar wording pattern, from a database.</p>
+</blockquote>
+<h3 id="Different-types-of-chatbot"><a href="#Different-types-of-chatbot" class="headerlink" title="Different types of chatbot"></a>Different types of chatbot</h3><ul>
+<li><p>based on predefined template</p>
+</li>
+<li><p>based on indexing </p>
+</li>
+<li><p>based on machine translation </p>
+</li>
+<li><p>based on deep learning </p>
+</li>
 </ul>
-<p><img src="/2018/04/19/debug-ionic-on-real-device-with-vscode/screenshots/ionicdebug3.png" alt="step2"></p>
-<ul>
-<li><p>make sure usb debug mode enabled on your handy and run below command to attach device </p>
-<p>  `</p>
-<pre><code>adb devices
-</code></pre><p>  `<br><img src="/2018/04/19/debug-ionic-on-real-device-with-vscode/screenshots/ionicdebug2.png" alt="step3"></p>
+<h3 id="Install-Development-Enviornment"><a href="#Install-Development-Enviornment" class="headerlink" title="Install Development Enviornment"></a>Install Development Enviornment</h3><ul>
+<li><p>python3</p>
+</li>
+<li><p>anaconda / virtualenv </p>
+<p><img src="/2018/06/22/chatbot-with-python/screenshot/installenv.JPG" alt="installenv"></p>
 </li>
 </ul>
 <ul>
-<li>In VSCode Debug mode, run Android on Devices</li>
+<li><p>pycharm</p>
+<p><img src="/2018/06/22/chatbot-with-python/screenshot/pycharme1.JPG" alt="pycharme1"></p>
+</li>
 </ul>
-<p><img src="/2018/04/19/debug-ionic-on-real-device-with-vscode/screenshots/ionicdebug4.png" alt="step2"></p>
-<ul>
-<li>Hit the breakpoint at run time</li>
+<p>  <img src="/2018/06/22/chatbot-with-python/screenshot/pycharme2.JPG" alt="pycharme2">    </p>
+<h3 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h3><p><a href="/2018/06/22/chatbot-with-python/video/demo.mp4">Demo Video </a></p>
+<p><img src="/2018/06/22/chatbot-with-python/screenshot/demo.JPG" alt="demo"></p>
+<h3 id="Design-chatbot"><a href="#Design-chatbot" class="headerlink" title="Design chatbot"></a>Design chatbot</h3><ul>
+<li>Input model   - user inputs questions </li>
+<li>chatbot model -  chatbot responses questions</li>
+<li>output model  - display responses to user</li>
 </ul>
-<p><img src="/2018/04/19/debug-ionic-on-real-device-with-vscode/screenshots/ionicdebug5.png" alt="step2"></p>
+<h4 id="input-model"><a href="#input-model" class="headerlink" title="input model"></a>input model</h4><p>user inputs quetsions in html form  and sends qutestions via  GET method (webservice) to chatbot<br><img src="/2018/06/22/chatbot-with-python/screenshot/inputmodel.png" alt="input"></p>
+<h4 id="chatbot-model"><a href="#chatbot-model" class="headerlink" title="chatbot model"></a>chatbot model</h4><p>initialize chatbot, let bot to use  Q&amp;A conversion template , based on the template to response questions<br><img src="/2018/06/22/chatbot-with-python/screenshot/botmodel1.png" alt="chatbot"></p>
+<p><img src="/2018/06/22/chatbot-with-python/screenshot/botmodel2.png" alt="chatbot"></p>
+<h4 id="output-model"><a href="#output-model" class="headerlink" title="output model"></a>output model</h4><p><img src="/2018/06/22/chatbot-with-python/screenshot/outputmodel.png" alt="output"></p>
+<h3 id="Reference-Link"><a href="#Reference-Link" class="headerlink" title="Reference Link"></a>Reference Link</h3><ul>
+<li>Virtualenv <a href="https://www.the5fire.com/virtualenv-python-env.html" target="_blank" rel="external">https://www.the5fire.com/virtualenv-python-env.html</a></li>
+<li>Anaconda <a href="https://blog.csdn.net/jbhand/article/details/77883457" target="_blank" rel="external">https://blog.csdn.net/jbhand/article/details/77883457</a> </li>
+<li>Pycharm <a href="https://blog.csdn.net/gaokao2011/article/details/77163820" target="_blank" rel="external">https://blog.csdn.net/gaokao2011/article/details/77163820</a></li>
+</ul>
 
       
 
@@ -219,7 +241,66 @@
 
       
         <p class="article-more-link">
-          <a class="article-more-a" href="/2018/04/19/debug-ionic-on-real-device-with-vscode/">展开全文 >></a>
+          <a class="article-more-a" href="/2018/06/22/chatbot-with-python/">展开全文 >></a>
+        </p>
+      
+
+      
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</article>
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        
+    </div>
+</aside>
+
+
+
+
+  
+    <article id="post-Frankfurt-IT-Hub-Summit-2018-06" class="article article-type-post  article-index" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
+  
+    <h1 itemprop="name">
+      <a class="article-title" href="/2018/06/22/Frankfurt-IT-Hub-Summit-2018-06/">Frankfurt IT Hub Summit 2018 06</a>
+    </h1>
+  
+
+        
+        <a href="/2018/06/22/Frankfurt-IT-Hub-Summit-2018-06/" class="archive-article-date">
+  	<time datetime="2018-06-22T02:13:41.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-06-22</time>
+</a>
+        
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h4 id="IT-Hub-Summit-2018-06"><a href="#IT-Hub-Summit-2018-06" class="headerlink" title="IT Hub Summit 2018 06"></a>IT Hub Summit 2018 06</h4><h6 id="Topics"><a href="#Topics" class="headerlink" title="Topics"></a>Topics</h6><ul>
+<li><p>Cloud Computing </p>
+</li>
+<li><p>Wechat Programming </p>
+</li>
+</ul>
+
+      
+
+      
+    </div>
+    <div class="article-info article-info-index">
+      
+      
+      
+
+      
+        <p class="article-more-link">
+          <a class="article-more-a" href="/2018/06/22/Frankfurt-IT-Hub-Summit-2018-06/">展开全文 >></a>
         </p>
       
 
@@ -253,7 +334,7 @@
 
         
         <a href="/2018/04/18/Alicloud-Domain-email/" class="archive-article-date">
-  	<time datetime="2018-04-18T09:56:51.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-04-18</time>
+  	<time datetime="2018-04-18T03:56:51.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-04-18</time>
 </a>
         
       </header>
@@ -316,7 +397,7 @@
 
         
         <a href="/2018/04/14/Tensorflow/" class="archive-article-date">
-  	<time datetime="2018-04-14T20:33:33.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-04-14</time>
+  	<time datetime="2018-04-14T14:33:33.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-04-14</time>
 </a>
         
       </header>
@@ -378,7 +459,7 @@
 
         
         <a href="/2018/04/14/Flask-on-Unix-VPS/" class="archive-article-date">
-  	<time datetime="2018-04-14T20:30:43.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-04-14</time>
+  	<time datetime="2018-04-14T14:30:43.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-04-14</time>
 </a>
         
       </header>
@@ -427,60 +508,6 @@
 
 
   
-    <article id="post-chatbot" class="article article-type-post  article-index" itemscope itemprop="blogPost">
-  <div class="article-inner">
-    
-      <header class="article-header">
-        
-  
-    <h1 itemprop="name">
-      <a class="article-title" href="/2018/03/04/chatbot/">chatbot</a>
-    </h1>
-  
-
-        
-        <a href="/2018/03/04/chatbot/" class="archive-article-date">
-  	<time datetime="2018-03-04T13:49:05.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-03-04</time>
-</a>
-        
-      </header>
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <p>TensorFlow练习13: 制作一个简单的聊天机器人<br><a href="http://blog.topspeedsnail.com/archives/10735" target="_blank" rel="external">http://blog.topspeedsnail.com/archives/10735</a></p>
-
-      
-
-      
-    </div>
-    <div class="article-info article-info-index">
-      
-      
-      
-
-      
-        <p class="article-more-link">
-          <a class="article-more-a" href="/2018/03/04/chatbot/">展开全文 >></a>
-        </p>
-      
-
-      
-      <div class="clearfix"></div>
-    </div>
-  </div>
-</article>
-
-<aside class="wrap-side-operation">
-    <div class="mod-side-operation">
-        
-        
-    </div>
-</aside>
-
-
-
-
-  
     <article id="post-tomcatvps" class="article article-type-post  article-index" itemscope itemprop="blogPost">
   <div class="article-inner">
     
@@ -494,7 +521,7 @@
 
         
         <a href="/2017/12/26/tomcatvps/" class="archive-article-date">
-  	<time datetime="2017-12-26T10:53:01.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-12-26</time>
+  	<time datetime="2017-12-26T03:53:01.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-12-26</time>
 </a>
         
       </header>
@@ -564,7 +591,7 @@
 
         
         <a href="/2017/12/16/mapmidashboard/" class="archive-article-date">
-  	<time datetime="2017-12-16T12:08:03.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-12-16</time>
+  	<time datetime="2017-12-16T05:08:03.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-12-16</time>
 </a>
         
       </header>
@@ -626,7 +653,7 @@
 
         
         <a href="/2017/11/24/mapmi/" class="archive-article-date">
-  	<time datetime="2017-11-24T19:09:11.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-11-24</time>
+  	<time datetime="2017-11-24T12:09:11.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-11-24</time>
 </a>
         
       </header>
@@ -714,7 +741,7 @@
 
         
         <a href="/2017/10/23/bigdata/" class="archive-article-date">
-  	<time datetime="2017-10-23T17:49:06.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-10-23</time>
+  	<time datetime="2017-10-23T11:49:06.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-10-23</time>
 </a>
         
       </header>
@@ -771,7 +798,7 @@
 
         
         <a href="/2017/10/06/vuemeetup/" class="archive-article-date">
-  	<time datetime="2017-10-06T12:19:34.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-10-06</time>
+  	<time datetime="2017-10-06T06:19:34.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-10-06</time>
 </a>
         
       </header>
