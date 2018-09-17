@@ -8,19 +8,19 @@
   <link rel="dns-prefetch" href="https://stewchicken.github.io">
   <title>How to use log4j2 | Y.W&#39;s Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="Log4j2 is very powerful logging framework, I will show you how to use it through below stepsimport dependenciessetting for daily rolling, compression, and max backup sizecustomerize the location of lo">
+  <meta name="description" content="Log4j2 is very powerful logging framework, I will show you how to use some of most important features to use it, you have to add dependencies  setting for daily file rolling, compressing log files to">
 <meta property="og:type" content="article">
 <meta property="og:title" content="How to use log4j2">
 <meta property="og:url" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/index.html">
 <meta property="og:site_name" content="Y.W&#39;s Blog">
-<meta property="og:description" content="Log4j2 is very powerful logging framework, I will show you how to use it through below stepsimport dependenciessetting for daily rolling, compression, and max backup sizecustomerize the location of lo">
+<meta property="og:description" content="Log4j2 is very powerful logging framework, I will show you how to use some of most important features to use it, you have to add dependencies  setting for daily file rolling, compressing log files to">
 <meta property="og:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left">
 <meta property="og:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/log4j2.PNG">
 <meta property="og:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/locationandlambda.PNG">
-<meta property="og:updated_time" content="2018-09-17T09:23:29.021Z">
+<meta property="og:updated_time" content="2018-09-17T09:41:24.127Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="How to use log4j2">
-<meta name="twitter:description" content="Log4j2 is very powerful logging framework, I will show you how to use it through below stepsimport dependenciessetting for daily rolling, compression, and max backup sizecustomerize the location of lo">
+<meta name="twitter:description" content="Log4j2 is very powerful logging framework, I will show you how to use some of most important features to use it, you have to add dependencies  setting for daily file rolling, compressing log files to">
 <meta name="twitter:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left">
   
     <link rel="alternative" href="/atom.xml" title="Y.W&#39;s Blog" type="application/atom+xml">
@@ -181,13 +181,14 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h2 id="Log4j2-is-very-powerful-logging-framework-I-will-show-you-how-to-use-it-through-below-steps"><a href="#Log4j2-is-very-powerful-logging-framework-I-will-show-you-how-to-use-it-through-below-steps" class="headerlink" title="Log4j2 is very powerful logging framework, I will show you how to use it through below steps"></a>Log4j2 is very powerful logging framework, I will show you how to use it through below steps</h2><h4 id="import-dependencies"><a href="#import-dependencies" class="headerlink" title="import dependencies"></a>import dependencies</h4><h4 id="setting-for-daily-rolling-compression-and-max-backup-size"><a href="#setting-for-daily-rolling-compression-and-max-backup-size" class="headerlink" title="setting for daily rolling, compression, and max backup size"></a>setting for daily rolling, compression, and max backup size</h4><h4 id="customerize-the-location-of-log4j2’s-config-file"><a href="#customerize-the-location-of-log4j2’s-config-file" class="headerlink" title="customerize the location of log4j2’s config file"></a>customerize the location of log4j2’s config file</h4><h4 id="using-lambda-expression-in-log4j2"><a href="#using-lambda-expression-in-log4j2" class="headerlink" title="using lambda expression in log4j2"></a>using lambda expression in log4j2</h4><ul>
-<li><p>add jars into pom.xml<br><img src="/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left" alt="dependencies"></p>
+        <h2 id="Log4j2-is-very-powerful-logging-framework-I-will-show-you-how-to-use-some-of-most-important-features"><a href="#Log4j2-is-very-powerful-logging-framework-I-will-show-you-how-to-use-some-of-most-important-features" class="headerlink" title="Log4j2 is very powerful logging framework, I will show you how to use some of most important features"></a>Log4j2 is very powerful logging framework, I will show you how to use some of most important features</h2><ul>
+<li><p>to use it, you have to add dependencies<br><img src="/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left" alt="dependencies"></p>
 </li>
-<li><p>log4j2.xml setting for daily rolling, compressing log to gz format, max backup size as 30,<br>console and file appenders, and log level on package and root level </p>
+<li><p>setting for daily file rolling, compressing log files to gz format, max backup file numbers as 30 files, using console and file appenders, and setting log level on package and root level </p>
 <p><img src="/2018/09/17/How-to-use-log4j2/screenshot/log4j2.PNG" alt="dependencies"></p>
 </li>
-<li><p>customerize location of log4j2.xml, if it is not default location and default name, using lambda experssion in your log<br><img src="/2018/09/17/How-to-use-log4j2/screenshot/locationandlambda.PNG" alt="dependencies"></p>
+<li><p>Customizing location and name of log4j2.xml,if it is not default, and using lambda experssion in your log</p>
+<p><img src="/2018/09/17/How-to-use-log4j2/screenshot/locationandlambda.PNG" alt="dependencies"></p>
 </li>
 </ul>
 
