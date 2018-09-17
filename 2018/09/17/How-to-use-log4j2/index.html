@@ -6,17 +6,22 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
   <link rel="dns-prefetch" href="https://stewchicken.github.io">
-  <title>Archives | Y.W&#39;s Blog</title>
+  <title>How to use log4j2 | Y.W&#39;s Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="programming for Web/App/Java/SOA/BigData">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Y.W&#39;s Blog">
-<meta property="og:url" content="https://stewchicken.github.io/archives/index.html">
+  <meta name="description" content="Log4j2 is very powerful logging framework, I will show you how to use it through below stepsimport dependenciessetting for daily rolling, compression, and max backup sizecustomerize the location of lo">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How to use log4j2">
+<meta property="og:url" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/index.html">
 <meta property="og:site_name" content="Y.W&#39;s Blog">
-<meta property="og:description" content="programming for Web/App/Java/SOA/BigData">
+<meta property="og:description" content="Log4j2 is very powerful logging framework, I will show you how to use it through below stepsimport dependenciessetting for daily rolling, compression, and max backup sizecustomerize the location of lo">
+<meta property="og:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left">
+<meta property="og:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/log4j2.PNG">
+<meta property="og:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/locationandlambda.PNG">
+<meta property="og:updated_time" content="2018-09-17T09:23:29.021Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Y.W&#39;s Blog">
-<meta name="twitter:description" content="programming for Web/App/Java/SOA/BigData">
+<meta name="twitter:title" content="How to use log4j2">
+<meta name="twitter:description" content="Log4j2 is very powerful logging framework, I will show you how to use it through below stepsimport dependenciessetting for daily rolling, compression, and max backup sizecustomerize the location of lo">
+<meta name="twitter:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left">
   
     <link rel="alternative" href="/atom.xml" title="Y.W&#39;s Blog" type="application/atom+xml">
   
@@ -156,331 +161,159 @@
             <canvas data-colors="#eaeaea" data-sectionHeight="100" data-contentId="js-content" id="myCanvas1" class="anm-canvas"></canvas>
           </div>
           <div id="js-content" class="content-ll">
-            
+            <article id="post-How-to-use-log4j2" class="article article-type-post " itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
   
+    <h1 class="article-title" itemprop="name">
+      How to use log4j2
+    </h1>
   
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2018" class="archive-year">2018</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2018/09/17/How-to-use-log4j2/" class="archive-article-date">
+
+        
+        <a href="/2018/09/17/How-to-use-log4j2/" class="archive-article-date">
   	<time datetime="2018-09-17T08:19:32.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-09-17</time>
 </a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/09/17/How-to-use-log4j2/">How to use log4j2</a>
-    </h1>
-  
-
-        <div class="article-info info-on-right">
-          
-          
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
+        
+      </header>
     
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2018/07/15/Frankfurt-IT-Hub-Summit-2018-Aug/" class="archive-article-date">
-  	<time datetime="2018-07-15T13:33:04.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-07-15</time>
-</a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/07/15/Frankfurt-IT-Hub-Summit-2018-Aug/">Frankfurt IT Hub Summit 2018 Aug</a>
-    </h1>
-  
-
-        <div class="article-info info-on-right">
-          
-          
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2018/06/22/chatbot-with-python/" class="archive-article-date">
-  	<time datetime="2018-06-22T08:14:20.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-06-22</time>
-</a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/06/22/chatbot-with-python/">chatbot with python</a>
-    </h1>
-  
-
-        <div class="article-info info-on-right">
-          
-          
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2018/06/22/Frankfurt-IT-Hub-Summit-2018-06/" class="archive-article-date">
-  	<time datetime="2018-06-22T08:13:41.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-06-22</time>
-</a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/06/22/Frankfurt-IT-Hub-Summit-2018-06/">Frankfurt IT Hub Summit 2018 06</a>
-    </h1>
-  
-
-        <div class="article-info info-on-right">
-          
-	<div class="article-tag tagcloud">
-		<i class="icon-price-tags icon"></i>
-		<ul class="article-tag-list">
-			 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color2">wechat</a>
-        		</li>
-      		 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">IT讲座</a>
-        		</li>
-      		
-		</ul>
-	</div>
-
-          
-	<div class="article-category tagcloud">
-		<i class="icon-book icon"></i>
-		<ul class="article-tag-list">
-			 
-        		<li class="article-tag-list-item">
-        			<a href="/categories/programming//" class="article-tag-list-link color2">programming</a>
-        		</li>
-      		
-		</ul>
-	</div>
-
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2018/04/18/Alicloud-Domain-email/" class="archive-article-date">
-  	<time datetime="2018-04-18T09:56:51.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-04-18</time>
-</a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/04/18/Alicloud-Domain-email/">Alicloud Domain email</a>
-    </h1>
-  
-
-        <div class="article-info info-on-right">
-          
-          
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2018/04/14/Tensorflow/" class="archive-article-date">
-  	<time datetime="2018-04-14T20:33:33.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-04-14</time>
-</a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/04/14/Tensorflow/">Tensorflow</a>
-    </h1>
-  
-
-        <div class="article-info info-on-right">
-          
-          
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2018/04/14/Flask-on-Unix-VPS/" class="archive-article-date">
-  	<time datetime="2018-04-14T20:30:43.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-04-14</time>
-</a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/04/14/Flask-on-Unix-VPS/">Flask on Unix VPS</a>
-    </h1>
-  
-
-        <div class="article-info info-on-right">
-          
-          
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
+    <div class="article-entry" itemprop="articleBody">
       
-        </div></section>
+        <h2 id="Log4j2-is-very-powerful-logging-framework-I-will-show-you-how-to-use-it-through-below-steps"><a href="#Log4j2-is-very-powerful-logging-framework-I-will-show-you-how-to-use-it-through-below-steps" class="headerlink" title="Log4j2 is very powerful logging framework, I will show you how to use it through below steps"></a>Log4j2 is very powerful logging framework, I will show you how to use it through below steps</h2><h4 id="import-dependencies"><a href="#import-dependencies" class="headerlink" title="import dependencies"></a>import dependencies</h4><h4 id="setting-for-daily-rolling-compression-and-max-backup-size"><a href="#setting-for-daily-rolling-compression-and-max-backup-size" class="headerlink" title="setting for daily rolling, compression, and max backup size"></a>setting for daily rolling, compression, and max backup size</h4><h4 id="customerize-the-location-of-log4j2’s-config-file"><a href="#customerize-the-location-of-log4j2’s-config-file" class="headerlink" title="customerize the location of log4j2’s config file"></a>customerize the location of log4j2’s config file</h4><h4 id="using-lambda-expression-in-log4j2"><a href="#using-lambda-expression-in-log4j2" class="headerlink" title="using lambda expression in log4j2"></a>using lambda expression in log4j2</h4><ul>
+<li><p>add jars into pom.xml<br><img src="/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left" alt="dependencies"></p>
+</li>
+<li><p>log4j2.xml setting for daily rolling, compressing log to gz format, max backup size as 30,<br>console and file appenders, and log level on package and root level </p>
+<p><img src="/2018/09/17/How-to-use-log4j2/screenshot/log4j2.PNG" alt="dependencies"></p>
+</li>
+<li><p>customerize location of log4j2.xml, if it is not default location and default name, using lambda experssion in your log<br><img src="/2018/09/17/How-to-use-log4j2/screenshot/locationandlambda.PNG" alt="dependencies"></p>
+</li>
+</ul>
+
+      
+
+      
+        <div class="page-reward">
+          <a href="javascript:;" class="page-reward-btn tooltip-top">
+            <div class="tooltip tooltip-east">
+            <span class="tooltip-item">
+              赏
+            </span>
+            <span class="tooltip-content">
+              <span class="tooltip-text">
+                <span class="tooltip-inner">
+                  <p class="reward-p"><i class="icon icon-quo-left"></i>谢谢你请我吃糖果<i class="icon icon-quo-right"></i></p>
+                  <div class="reward-box">
+                    
+                    
+                    <div class="reward-box-item">
+                      <img class="reward-img" src="/image/wechatpay.png">
+                      <span class="reward-type">微信</span>
+                    </div>
+                    
+                  </div>
+                </span>
+              </span>
+            </span>
+          </div>
+          </a>
+        </div>
+      
+    </div>
+    <div class="article-info article-info-index">
       
       
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2017" class="archive-year">2017</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2017/12/26/tomcatvps/" class="archive-article-date">
-  	<time datetime="2017-12-26T10:53:01.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-12-26</time>
-</a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2017/12/26/tomcatvps/">tomcatvps</a>
-    </h1>
-  
+      
 
-        <div class="article-info info-on-right">
-          
-          
+      
 
+      
+        
+<div class="share-btn share-icons tooltip-left">
+  <div class="tooltip tooltip-east">
+    <span class="tooltip-item">
+      <a href="javascript:;" class="share-sns share-outer">
+        <i class="icon icon-share"></i>
+      </a>
+    </span>
+    <span class="tooltip-content">
+      <div class="share-wrap">
+        <div class="share-icons">
+          <a class="weibo share-sns" href="javascript:;" data-type="weibo">
+            <i class="icon icon-weibo"></i>
+          </a>
+          <a class="weixin share-sns wxFab" href="javascript:;" data-type="weixin">
+            <i class="icon icon-weixin"></i>
+          </a>
+          <a class="qq share-sns" href="javascript:;" data-type="qq">
+            <i class="icon icon-qq"></i>
+          </a>
+          <a class="douban share-sns" href="javascript:;" data-type="douban">
+            <i class="icon icon-douban"></i>
+          </a>
+          <a class="qzone share-sns" href="javascript:;" data-type="qzone">
+            <i class="icon icon-qzone"></i>
+          </a>
+          <a class="facebook share-sns" href="javascript:;" data-type="facebook">
+            <i class="icon icon-facebook"></i>
+          </a>
+          <a class="twitter share-sns" href="javascript:;" data-type="twitter">
+            <i class="icon icon-twitter"></i>
+          </a>
+          <a class="google share-sns" href="javascript:;" data-type="google">
+            <i class="icon icon-google"></i>
+          </a>
         </div>
-        <div class="clearfix"></div>
-    </header>
+      </div>
+    </span>
+  </div>
+</div>
+
+<div class="page-modal wx-share js-wx-box">
+    <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
+    <p>扫一扫，分享到微信</p>
+    <div class="wx-qrcode">
+      <img src="http://s.jiathis.com/qrcode.php?url=https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/" alt="微信分享二维码">
+    </div>
+</div>
+
+<div class="mask js-mask"></div>
+      
+      <div class="clearfix"></div>
+    </div>
   </div>
 </article>
+
   
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2017/12/16/mapmidashboard/" class="archive-article-date">
-  	<time datetime="2017-12-16T12:08:03.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-12-16</time>
-</a>
-        </div>
-    	 
+<nav id="article-nav">
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2017/12/16/mapmidashboard/">mapmidashboard</a>
-    </h1>
+  
+    <a href="/2018/07/15/Frankfurt-IT-Hub-Summit-2018-Aug/" id="article-nav-older" class="article-nav-link-wrap">
+      <div class="article-nav-title">Frankfurt IT Hub Summit 2018 Aug</div>
+      <i class="icon-circle-right"></i>
+    </a>
+  
+</nav>
+
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        
+    </div>
+</aside>
+
+
+
+  
+  
   
 
-        <div class="article-info info-on-right">
-          
-          
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2017/11/24/mapmi/" class="archive-article-date">
-  	<time datetime="2017-11-24T19:09:11.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2017-11-24</time>
-</a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2017/11/24/mapmi/">mapmi</a>
-    </h1>
   
 
-        <div class="article-info info-on-right">
-          
-          
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-  
-    </div></section>
   
 
-    
-    <nav id="page-nav">
-      <span class="page-number current">1</span><a class="page-number" href="/archives/page/2/">2</a><a class="page-number" href="/archives/page/3/">3</a><a class="extend next" rel="next" href="/archives/page/2/">Next &raquo;</a>
-    </nav>
   
 
 
@@ -504,8 +337,8 @@
 	var yiliaConfig = {
 		mathjax: false,
 		isHome: false,
-		isPost: false,
-		isArchive: true,
+		isPost: true,
+		isArchive: false,
 		isTag: false,
 		isCategory: false,
 		open_in_new: false,
