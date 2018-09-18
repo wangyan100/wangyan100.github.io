@@ -8,19 +8,19 @@
   <link rel="dns-prefetch" href="https://stewchicken.github.io">
   <title>How to use log4j2 | Y.W&#39;s Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="Log4j2 is very powerful logging framework, I will show you how to use some of most important features to use it, you have to add dependencies  setting for daily file rolling, compressing log files to">
+  <meta name="description" content="Log4j2 is very powerful logging framework, here shows you how to use some of most important features Daily File Rolling Compressing log file to gz format Set Max backup file numbers Using Lambda Expre">
 <meta property="og:type" content="article">
 <meta property="og:title" content="How to use log4j2">
 <meta property="og:url" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/index.html">
 <meta property="og:site_name" content="Y.W&#39;s Blog">
-<meta property="og:description" content="Log4j2 is very powerful logging framework, I will show you how to use some of most important features to use it, you have to add dependencies  setting for daily file rolling, compressing log files to">
+<meta property="og:description" content="Log4j2 is very powerful logging framework, here shows you how to use some of most important features Daily File Rolling Compressing log file to gz format Set Max backup file numbers Using Lambda Expre">
 <meta property="og:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left">
 <meta property="og:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/log4j2.PNG">
 <meta property="og:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/locationandlambda.PNG">
-<meta property="og:updated_time" content="2018-09-17T09:41:24.127Z">
+<meta property="og:updated_time" content="2018-09-18T12:48:32.827Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="How to use log4j2">
-<meta name="twitter:description" content="Log4j2 is very powerful logging framework, I will show you how to use some of most important features to use it, you have to add dependencies  setting for daily file rolling, compressing log files to">
+<meta name="twitter:description" content="Log4j2 is very powerful logging framework, here shows you how to use some of most important features Daily File Rolling Compressing log file to gz format Set Max backup file numbers Using Lambda Expre">
 <meta name="twitter:image" content="https://stewchicken.github.io/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left">
   
     <link rel="alternative" href="/atom.xml" title="Y.W&#39;s Blog" type="application/atom+xml">
@@ -181,17 +181,25 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h2 id="Log4j2-is-very-powerful-logging-framework-I-will-show-you-how-to-use-some-of-most-important-features"><a href="#Log4j2-is-very-powerful-logging-framework-I-will-show-you-how-to-use-some-of-most-important-features" class="headerlink" title="Log4j2 is very powerful logging framework, I will show you how to use some of most important features"></a>Log4j2 is very powerful logging framework, I will show you how to use some of most important features</h2><ul>
-<li><p>to use it, you have to add dependencies<br><img src="/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left" alt="dependencies"></p>
-</li>
-<li><p>setting for daily file rolling, compressing log files to gz format, max backup file numbers as 30 files, using console and file appenders, and setting log level on package and root level </p>
-<p><img src="/2018/09/17/How-to-use-log4j2/screenshot/log4j2.PNG" alt="dependencies"></p>
-</li>
-<li><p>Customizing location and name of log4j2.xml,if it is not default, and using lambda experssion in your log</p>
-<p><img src="/2018/09/17/How-to-use-log4j2/screenshot/locationandlambda.PNG" alt="dependencies"></p>
-</li>
+        <h2 id="Log4j2-is-very-powerful-logging-framework-here-shows-you-how-to-use-some-of-most-important-features"><a href="#Log4j2-is-very-powerful-logging-framework-here-shows-you-how-to-use-some-of-most-important-features" class="headerlink" title="Log4j2 is very powerful logging framework, here shows you how to use some of most important features"></a>Log4j2 is very powerful logging framework, here shows you how to use some of most important features</h2><ul>
+<li>Daily File Rolling</li>
+<li>Compressing log file to gz format</li>
+<li>Set Max backup file numbers</li>
+<li>Using Lambda Expression in log to improve performance</li>
 </ul>
-
+<p>Daily File Rolling, compressing log file,  backup file numbers are very important for logging , unfortunately the old logging frameworks did not support them well, we even have to use cron job to do those tasks . Now with log4j2, it supports all those features even with Lambda expression.</p>
+<p>I will use some examples to show you how to do those things.</p>
+<p>Firstly you need to add dependency for Log4j2 in your project, below is example with maven<br><img src="/2018/09/17/How-to-use-log4j2/screenshot/dependencies.PNG?classes=float-left" alt="dependencies"></p>
+<p>Line 6, 12 are for console and file appenders,  Line 14 and 21 are for log file’s daily file rolling and file compressing format, Line 23 is for log file max backup numbers</p>
+<p>  <img src="/2018/09/17/How-to-use-log4j2/screenshot/log4j2.PNG" alt="dependencies"></p>
+<p>Below example is for customizing log4j2 config file’s location and name, if the config file’s name is not default, for example, log4j2.xml, and not in classpath. You could use system.setProperty to give customized value.</p>
+<p>Another very useful feature of Log4j2 is to support Lambda expression. By using it, you could improve performance by lazy logging.</p>
+<p>Without Lambda , you have to always call isTraceEnabled , then build you logs in extra method getRandomNumber()</p>
+<p> <img src="/2018/09/17/How-to-use-log4j2/screenshot/locationandlambda.PNG" alt="dependencies"></p>
+ <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"> if (logger.isTraceEnabled()) &#123;</div><div class="line">    logger.trace(&quot;Number is &#123;&#125;&quot;, getRandomNumer());</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>With Lambda, you could avoid this, and also can write what getRandomNoumber method does in Lambda expression to improve performance and make your code tidy<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">logger.trace(&quot;Number is &#123;&#125;&quot;, () -&gt; getRandomNumber());</div></pre></td></tr></table></figure></p>
+<p>or</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">logger.trace(&quot;Number is &#123;&#125;&quot;, () -&gt; &#123; </div><div class="line">	Random rand = new Random(); </div><div class="line">	return rand.nextInt(50) + 1;</div><div class="line">&#125;);</div></pre></td></tr></table></figure>
       
 
       
