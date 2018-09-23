@@ -8,16 +8,16 @@
   <link rel="dns-prefetch" href="https://stewchicken.github.io">
   <title>camel-xquery | Y.W&#39;s Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="How to parse message to XQuery’s function paramterIf you XQuery does not have function which takes input message as paramter, you could simply build route like below and it will work. 1from(&amp;quot;file">
+  <meta name="description" content="How to parse message to XQuery’s function paramterBy Apache Camel, you could easily pass Xml file to XQuery,if you XQuery does not have function which takes input message as paramter, you could simply">
 <meta property="og:type" content="article">
 <meta property="og:title" content="camel-xquery">
 <meta property="og:url" content="https://stewchicken.github.io/2018/09/22/camel-xquery/index.html">
 <meta property="og:site_name" content="Y.W&#39;s Blog">
-<meta property="og:description" content="How to parse message to XQuery’s function paramterIf you XQuery does not have function which takes input message as paramter, you could simply build route like below and it will work. 1from(&amp;quot;file">
-<meta property="og:updated_time" content="2018-09-22T11:03:04.744Z">
+<meta property="og:description" content="How to parse message to XQuery’s function paramterBy Apache Camel, you could easily pass Xml file to XQuery,if you XQuery does not have function which takes input message as paramter, you could simply">
+<meta property="og:updated_time" content="2018-09-23T15:48:43.488Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="camel-xquery">
-<meta name="twitter:description" content="How to parse message to XQuery’s function paramterIf you XQuery does not have function which takes input message as paramter, you could simply build route like below and it will work. 1from(&amp;quot;file">
+<meta name="twitter:description" content="How to parse message to XQuery’s function paramterBy Apache Camel, you could easily pass Xml file to XQuery,if you XQuery does not have function which takes input message as paramter, you could simply">
   
     <link rel="alternative" href="/atom.xml" title="Y.W&#39;s Blog" type="application/atom+xml">
   
@@ -177,13 +177,14 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h2 id="How-to-parse-message-to-XQuery’s-function-paramter"><a href="#How-to-parse-message-to-XQuery’s-function-paramter" class="headerlink" title="How to parse message to XQuery’s function paramter"></a>How to parse message to XQuery’s function paramter</h2><p>If you XQuery does not have function which takes input message as paramter, you could simply build route like below and it will work.</p>
+        <h2 id="How-to-parse-message-to-XQuery’s-function-paramter"><a href="#How-to-parse-message-to-XQuery’s-function-paramter" class="headerlink" title="How to parse message to XQuery’s function paramter"></a>How to parse message to XQuery’s function paramter</h2><p>By Apache Camel, you could easily pass Xml file to XQuery,<br>if you XQuery does not have function which takes input message as paramter, you could simply build route like below and it will work.</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">from(&quot;file:src/data?moveFailed=.error&quot;). to(&quot;xquery:myxquery.xq&quot;).to(&quot;file:target/output&quot;);</div></pre></td></tr></table></figure>
 <p>But if you xquery has its’s function which taking input xml message as parameter, then this route will not work, since you need pass xml as message to xquery </p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">declare variable $request as element() external;</div><div class="line">return xf:my_xquery_function($request)</div></pre></td></tr></table></figure>
 <p>But you could use $in.body(camel buildi in variable) which mapped to body(message, xml string) to pass it to XQuery’s function with a little bit modification as below, and of couse make sure the XQuery version is &gt;=3.0, since parse-xml is function since XQuery3.0</p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">declare variable $in.body as xs:string external;</div><div class="line">let $request :=parse-xml($in.body)/*</div><div class="line">return xf:my_xquery_function($request)</div></pre></td></tr></table></figure>
-
+<p>Of couse, you also need to convert message from file to Xml String in this case as below shown.</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">from(&quot;file:src/data?moveFailed=.error&quot;).convertBodyTo(String.class).to(&quot;xquery:myxquery.xq&quot;).to(&quot;file:target/output&quot;);</div></pre></td></tr></table></figure>
       
 
       
