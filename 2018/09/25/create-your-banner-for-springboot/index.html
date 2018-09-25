@@ -6,17 +6,21 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
   <link rel="dns-prefetch" href="https://stewchicken.github.io">
-  <title>Archives: 2018/9 | Y.W&#39;s Blog</title>
+  <title>create your banner for springboot | Y.W&#39;s Blog</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="programming for Web/App/Java/SOA/BigData">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Y.W&#39;s Blog">
-<meta property="og:url" content="https://stewchicken.github.io/archives/2018/09/index.html">
+  <meta name="description" content="How to change SpringBoot bannerThe default banner of springboot is like below shown, you could use new text and new picture to replace default banner.   Why we need it?You can use this feature to cust">
+<meta property="og:type" content="article">
+<meta property="og:title" content="create your banner for springboot">
+<meta property="og:url" content="https://stewchicken.github.io/2018/09/25/create-your-banner-for-springboot/index.html">
 <meta property="og:site_name" content="Y.W&#39;s Blog">
-<meta property="og:description" content="programming for Web/App/Java/SOA/BigData">
+<meta property="og:description" content="How to change SpringBoot bannerThe default banner of springboot is like below shown, you could use new text and new picture to replace default banner.   Why we need it?You can use this feature to cust">
+<meta property="og:image" content="https://stewchicken.github.io/2018/09/25/create-your-banner-for-springboot/images/origbanner.PNG">
+<meta property="og:image" content="https://stewchicken.github.io/2018/09/25/create-your-banner-for-springboot/images/newbanner.PNG">
+<meta property="og:updated_time" content="2018-09-25T14:28:25.637Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Y.W&#39;s Blog">
-<meta name="twitter:description" content="programming for Web/App/Java/SOA/BigData">
+<meta name="twitter:title" content="create your banner for springboot">
+<meta name="twitter:description" content="How to change SpringBoot bannerThe default banner of springboot is like below shown, you could use new text and new picture to replace default banner.   Why we need it?You can use this feature to cust">
+<meta name="twitter:image" content="https://stewchicken.github.io/2018/09/25/create-your-banner-for-springboot/images/origbanner.PNG">
   
     <link rel="alternative" href="/atom.xml" title="Y.W&#39;s Blog" type="application/atom+xml">
   
@@ -156,103 +160,164 @@
             <canvas data-colors="#eaeaea" data-sectionHeight="100" data-contentId="js-content" id="myCanvas1" class="anm-canvas"></canvas>
           </div>
           <div id="js-content" class="content-ll">
-            
+            <article id="post-create-your-banner-for-springboot" class="article article-type-post " itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+      <header class="article-header">
+        
   
+    <h1 class="article-title" itemprop="name">
+      create your banner for springboot
+    </h1>
   
-    
-    
-      
-      
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/archives/2018" class="archive-year">2018</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2018/09/25/create-your-banner-for-springboot/" class="archive-article-date">
+
+        
+        <a href="/2018/09/25/create-your-banner-for-springboot/" class="archive-article-date">
   	<time datetime="2018-09-25T14:08:56.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-09-25</time>
 </a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/09/25/create-your-banner-for-springboot/">create your banner for springboot</a>
-    </h1>
-  
+        
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h1 id="How-to-change-SpringBoot-banner"><a href="#How-to-change-SpringBoot-banner" class="headerlink" title="How to change SpringBoot banner"></a>How to change SpringBoot banner</h1><p>The default banner of springboot is like below shown, you could use new text and new picture to replace default banner.  </p>
+<h3 id="Why-we-need-it"><a href="#Why-we-need-it" class="headerlink" title="Why we need it?"></a>Why we need it?</h3><p>You can use this feature to customize your own banner and increase your team’s recognition of your own brand or product.</p>
+<h3 id="default-banner"><a href="#default-banner" class="headerlink" title="default banner"></a>default banner</h3><p> <img src="/2018/09/25/create-your-banner-for-springboot/images/origbanner.PNG" alt="default banner"></p>
+<h3 id="new-banner"><a href="#new-banner" class="headerlink" title="new banner"></a>new banner</h3><p><img src="/2018/09/25/create-your-banner-for-springboot/images/newbanner.PNG" alt="new banner"></p>
+<h3 id="How-to-do-this"><a href="#How-to-do-this" class="headerlink" title="How to do this?"></a>How to do this?</h3><ul>
+<li><p>put your the new banner.txt into resources directory</p>
+</li>
+<li><p>put your the new banner image into resource directory or via  below settings in application.properties</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">spring.banner.location=classpath:/path/to/banner/bannername.txt </div><div class="line">spring.banner.image.location=classpath:banner.gif</div><div class="line">spring.banner.image.width=  //TODO</div><div class="line">spring.banner.image.height= //TODO</div><div class="line">spring.banner.image.margin= //TODO</div><div class="line">spring.banner.image.invert= //TODO</div></pre></td></tr></table></figure>
+</li>
+<li><p>restart the application</p>
+</li>
+</ul>
 
-        <div class="article-info info-on-right">
-          
-          
+      
 
+      
+        <div class="page-reward">
+          <a href="javascript:;" class="page-reward-btn tooltip-top">
+            <div class="tooltip tooltip-east">
+            <span class="tooltip-item">
+              赏
+            </span>
+            <span class="tooltip-content">
+              <span class="tooltip-text">
+                <span class="tooltip-inner">
+                  <p class="reward-p"><i class="icon icon-quo-left"></i>谢谢你请我吃糖果<i class="icon icon-quo-right"></i></p>
+                  <div class="reward-box">
+                    
+                    
+                    <div class="reward-box-item">
+                      <img class="reward-img" src="/image/wechatpay.png">
+                      <span class="reward-type">微信</span>
+                    </div>
+                    
+                  </div>
+                </span>
+              </span>
+            </span>
+          </div>
+          </a>
         </div>
-        <div class="clearfix"></div>
-    </header>
+      
+    </div>
+    <div class="article-info article-info-index">
+      
+      
+      
+
+      
+
+      
+        
+<div class="share-btn share-icons tooltip-left">
+  <div class="tooltip tooltip-east">
+    <span class="tooltip-item">
+      <a href="javascript:;" class="share-sns share-outer">
+        <i class="icon icon-share"></i>
+      </a>
+    </span>
+    <span class="tooltip-content">
+      <div class="share-wrap">
+        <div class="share-icons">
+          <a class="weibo share-sns" href="javascript:;" data-type="weibo">
+            <i class="icon icon-weibo"></i>
+          </a>
+          <a class="weixin share-sns wxFab" href="javascript:;" data-type="weixin">
+            <i class="icon icon-weixin"></i>
+          </a>
+          <a class="qq share-sns" href="javascript:;" data-type="qq">
+            <i class="icon icon-qq"></i>
+          </a>
+          <a class="douban share-sns" href="javascript:;" data-type="douban">
+            <i class="icon icon-douban"></i>
+          </a>
+          <a class="qzone share-sns" href="javascript:;" data-type="qzone">
+            <i class="icon icon-qzone"></i>
+          </a>
+          <a class="facebook share-sns" href="javascript:;" data-type="facebook">
+            <i class="icon icon-facebook"></i>
+          </a>
+          <a class="twitter share-sns" href="javascript:;" data-type="twitter">
+            <i class="icon icon-twitter"></i>
+          </a>
+          <a class="google share-sns" href="javascript:;" data-type="google">
+            <i class="icon icon-google"></i>
+          </a>
+        </div>
+      </div>
+    </span>
+  </div>
+</div>
+
+<div class="page-modal wx-share js-wx-box">
+    <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
+    <p>扫一扫，分享到微信</p>
+    <div class="wx-qrcode">
+      <img src="http://s.jiathis.com/qrcode.php?url=https://stewchicken.github.io/2018/09/25/create-your-banner-for-springboot/" alt="微信分享二维码">
+    </div>
+</div>
+
+<div class="mask js-mask"></div>
+      
+      <div class="clearfix"></div>
+    </div>
   </div>
 </article>
+
   
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2018/09/22/camel-xquery/" class="archive-article-date">
-  	<time datetime="2018-09-22T10:43:46.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-09-22</time>
-</a>
-        </div>
-    	 
+<nav id="article-nav">
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/09/22/camel-xquery/">camel-xquery</a>
-    </h1>
+  
+    <a href="/2018/09/22/camel-xquery/" id="article-nav-older" class="article-nav-link-wrap">
+      <div class="article-nav-title">camel-xquery</div>
+      <i class="icon-circle-right"></i>
+    </a>
+  
+</nav>
+
+
+<aside class="wrap-side-operation">
+    <div class="mod-side-operation">
+        
+        
+    </div>
+</aside>
+
+
+
+  
+  
   
 
-        <div class="article-info info-on-right">
-          
-          
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <div class="archive-article-inner">
-    <header class="archive-article-header">
-      	<div class="article-meta">
-	      	<a href="/2018/09/17/How-to-use-log4j2/" class="archive-article-date">
-  	<time datetime="2018-09-17T08:19:32.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2018-09-17</time>
-</a>
-        </div>
-    	 
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/2018/09/17/How-to-use-log4j2/">How to use log4j2</a>
-    </h1>
   
 
-        <div class="article-info info-on-right">
-          
-          
-
-        </div>
-        <div class="clearfix"></div>
-    </header>
-  </div>
-</article>
-  
-  
-    </div></section>
   
 
-    
+  
 
 
           </div>
@@ -275,8 +340,8 @@
 	var yiliaConfig = {
 		mathjax: false,
 		isHome: false,
-		isPost: false,
-		isArchive: true,
+		isPost: true,
+		isArchive: false,
 		isTag: false,
 		isCategory: false,
 		open_in_new: false,
