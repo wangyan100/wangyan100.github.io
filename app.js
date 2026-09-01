@@ -101,7 +101,7 @@ function applySearch() {
 
 async function initialize() {
   try {
-    const response = await fetch("manifest.json");
+    const response = await fetch("manifest.json?v=20260901", { cache: "no-store" });
     if (!response.ok) {
       throw new Error("manifest.json was not found. Run generate_static_site.py first.");
     }
