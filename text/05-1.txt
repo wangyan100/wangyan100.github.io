@@ -1,0 +1,58 @@
+Schule
+Grundschule
+Hauptschule
+Realschule
+Gymnasium
+Gesamtschule
+Studienkolleg
+Hochschule
+Universität
+Doktor
+Doktoren
+Dozent
+Dozentin
+Hiwi
+Lehrer
+Lehrerin
+Professor
+Professoren
+Schüler
+Schülerin
+Student
+Studentin
+Tutor
+Tutoren
+Kreide
+Interaktive Whiteboards
+IWB
+Multimedia
+Pult
+Stundenplan
+Tafel
+Blogseminar
+Exkursion
+Kolloquium
+Ringvorlesung
+Seminar
+Tutorium
+Vorlesung
+Übung
+Abitur
+Examen
+Hausarbeit
+Klausur
+Die mündliche Prüfung
+Die schriftliche Prüfung
+Zeugnis
+Sprechen Sie bitte die folgenden Sätze
+Das Gymnasium ist die höchste Schulart in Deutschland und zielt für die Schüler ab, die in der Zukunft an der Universität studieren möchten.
+In manchen Bundesländern gibt es Gesamtschulen, in denen Hauptschule, Realschule und Gymnasium zusammen sind.
+Im Studienkolleg können sich die ausländischen Studenten auf das Fachstudium an der Universität vorbereiten.
+Sein Vater ist Professor für Maschinenbau.
+Der Lehrer setzt sich zwischen Pult und Tafel.
+Unter der Leitung von dem Lehrer unternehmen alle Teilnehmenden des Seminars eine Exkursion.
+Im Gegensatz zu einem Seminar bedeutet Kolloquium einen fachlichen Gedankenaustausch ohne feste Form.
+Man macht normalerweise am Ende der zwölften Klasse Abitur am Gymnasium.
+Nach dem zehnten Semester hat Hans sein Examen gemacht.
+Ihr habt bei der mündlichen Prüfung gut abgeschnitten.
+Ich habe die schriftliche Prüfung bestanden.

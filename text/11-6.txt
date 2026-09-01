@@ -1,0 +1,47 @@
+Algebra 1 Bruchstrich, Doppelbruch
+der echte Bruch, der eigentliche Bruch
+der unechte Bruch, der uneigentliche Bruch
+Zähler, Nenner, Hauptnenner
+der endliche Dezimalbruch
+der unendliche Dezimalbruch
+der unendliche periodische Dezimalbruch
+der unendliche unperiodische Dezimalbruch
+Dezimalsystem
+Komma
+die algebraische Formel
+Teiler
+der gemeinsame Teiler
+der größte gemeinsame Teiler
+Primfaktor
+Primfaktorzerlegung
+imaginäre Zahlen
+irrationale Zahlen
+komplexe Zahlen
+natürliche Zahlen
+rationale Zahlen
+proportional
+Rate
+Verhältnis
+Proportion
+Sprechen Sie bitte die folgenden Sätze
+Wenn bei einer Bruchzahl der Betrag des Zählers
+kleiner als der des Nenners ist,
+dann spricht man von einem echten oder eigentlichen Bruch.
+In manchen Fällen wird der Bruchstrich auch schräg geschrieben.
+Wenn der Zähler der Bruchzahl größer als der Nenner ist,
+bezeichnet man solche Bruchzahl als den unechten Bruch.
+Doppelbrüche
+lassen sich durch Erweitern mit einem geeigneten Faktor vereinfachen.
+Zähler und Nenner eines Bruches sind ganze Zahlen.
+Bei einem Bruch darf der Nenner nicht Null sein.
+Unter einem endlichen Dezimalbruch versteht man einen Dezimalbruch,
+der bis auf die letzte Stelle berechenbar ist.
+Pi ist ein typischer unendlicher unperiodischer Dezimalbruch.
+Die gemeinsamen Teiler von 12 und 18
+sind also 1, 2, 3, 6
+und der größte gemeinsame Teiler von diesen ist 6.
+Die reellen Zahlen beinhalten die rationalen Zahlen
+und die irrationalen Zahlen.
+Irrationale Zahl ist auch der unendliche unperiodische Dezimalbruch.
+Die kleinste natürliche Zahl ist die Null.
+20 steht im Verhältnis zu 100 wie 1 zu 5.

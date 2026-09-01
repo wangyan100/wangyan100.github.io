@@ -1,0 +1,64 @@
+Krankenhaus
+Arzt
+Ärztin
+Bereitschaftsarzt
+Chirurg
+Hausarzt
+Internist
+Krankenschwester
+Oberarzt
+Stationsarzt
+Allergie
+Durchfall
+Fieber
+Grippe
+Husten
+Krebs
+Schmerz
+sich entzünden
+W
+Blutdruckmesser
+Fieberthermometer
+Hohlnadel
+Mull
+Ohrthermometer
+Rollstuhl
+Stethoskop
+behandeln
+diagnostizieren
+gesund
+krank
+operieren
+Puls
+Therapie
+untersuchen
+verordnen
+verschreiben
+Antibiotikum
+Apotheker
+Kapsel
+Medikament
+Pille
+Rezept
+Salbe
+Spray
+Tablette
+Tropfen
+Sprechen Sie bitte die folgenden Sätze
+Der Arzt verordnet dem Patienten ein Medikament.
+Der Arzt diagnostizierte die Krankheit als Lungenentzündung.
+Der Arzt hat ihm die Tabletten gegen Kopfschmerzen verschrieben.
+Er hat hier einen guten Ruf als Hausarzt.
+Zu den Aufgaben des Internisten zählt die Prävention, Diagnose und Behandlung von Erkrankungen.
+Schwindelanfall ist ein Symptom von Unterernährung.
+Er hat eine Allergie gegen Blütenstaub.
+Sie hat Erbrechen und Durchfall.
+Das Fieber fällt.
+Das Fieber steigt.
+Das Kind hat sich wieder eine Grippe eingefangen.
+Ich hörte gequältes Stöhnen und Husten.
+Krebs ruft im frühen Stadium in der Regel keine Beschwerden hervor.
+Wo hast du Schmerzen?
+Ihr Puls war nicht mehr fühlbar.
+Apotheken dürfen starke Beruhigungsmittel nur gegen Rezept verkaufen.
+Sie trägt die Salbe auf ihre Wunde auf.

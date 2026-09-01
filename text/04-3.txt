@@ -1,0 +1,59 @@
+Strand
+Badeanzug
+Schwimmanzug
+Badehose
+Bikini
+Sonnenbrille
+Sonnenhut
+Tauchanzug
+Tauchbrille
+Kokospalme
+Meeresschildkröte
+Meeresstille
+Möwe
+Riff
+Sand
+Seesterne
+Welle
+auflaufen
+Dampfer
+Kreuzfahrtschiff
+Motorboot
+Passagierschiff
+Segelschiff
+Yacht
+zurücklegen
+Beachsocker
+Beachvolleyball
+Sandbad
+Sandburg errichten
+Schwimmen
+Segeln
+Surfen
+Tauchen
+Meerenge
+Meeresarm
+Meeresboden
+Meeresgrund
+Meeresspiegel
+Meeresoberfläche
+Meeresströmung
+Meeresufer
+Sprechen Sie bitte die folgenden Sätze.
+Die Möwen kreisen ein Segelschiff um und kreischen.
+Das Schiff ist auf ein Riff aufgelaufen.
+Der Skandal verläuft im Sande.
+Die Heirat der zwei berühmten schlagen hohe Wellen.
+Die Titanic ist ein bekanntes Kreuzfahrtschiff,
+das auf ihrer Jungfernfahrt im Jahr 1912 untergegangen ist.
+Insgesamt hat das Passagierschiff 3240 Seemeilen zurückgelegt.
+Abends machten die Jachten am Kai fest.
+Am Strand liegen die Eltern in der Sonne,
+während die Kinder Sandburgen errichten.
+Ihre Augen schwimmen.
+Heute können vollständige Blinde
+mit Hilfe einer Spezialsoftware im Internet surfen.
+Das Zimmer taucht in die Sonne.
+Alle Flüsse laufen ins Meer.
+Nach der Temperatur kann Meeresströmung
+in kalte und warme Strömung eingeteilt werden.

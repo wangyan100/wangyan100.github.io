@@ -1,0 +1,45 @@
+Verkehrsmittel 1 Abfahrt
+Ankunft
+Entwerter Fahrplan
+Haltegriff Haltestelle
+Station Stopp
+Halt Fahrgast
+Mitfahren
+Nehmen Standort
+Taxameter Taxifahrer
+Taxichaufför Taxilicht
+Ausgang
+Aussteigen Eingang
+Einsteigen Fahrrichtung
+Linie Platz
+Umsteigen
+Abteil Bahnhof
+Bahnsteig Gleis
+Klasse Pünktlich
+Reservieren Schaffner
+Verspätung Dauer
+Die einfache Fahrt Hin- und Rückfahrt
+Fahrkarte Sparangebot
+Reisende Reisender
+Reiseplan
+Sprechen Sie bitte die folgenden Sätze.
+Nach der Ankunft in Deutschland muss man
+sich beim Einwohnermeldeamt anmelden.
+Entwerter können entweder stationär
+an Haltestellen oder Bahnhöfen
+oder mobil im Fahrzeug angebracht sein.
+Ich möchte an der nächsten Haltestelle
+aussteigen. Auch wenn wir ein Taxi nehmen,
+können wir den Zug nicht erreichen.
+Unser Mitgefühl gilt den betroffenen
+Fahrgästen und Busfahrern sowie deren
+Familien und Freunden. Alle Ausgänge
+waren versperrt. Er steigt
+endlich im allerletzten Moment in den Zug
+ein. Die Nummer meines Abteils war
+auf das Zugticket gedruckt. Unser
+Zug ist auf Gleis 5 angekommen.
+Der Zug hat möglicherweise 10 Minuten
+Verspätung, deshalb kann ich nicht pünktlich
+ankommen. Wir haben unsere Fahrkarten
+beim Schalter gelöst.

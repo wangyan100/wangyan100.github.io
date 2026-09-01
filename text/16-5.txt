@@ -1,0 +1,18 @@
+Wetter, Blitz, blitzen, Donner, donnern, Regenbogen, sich bewölken
+Wolke, Wetterbericht, Wettervorhersage, Zirrus, Feuchtigkeit, Gewitter
+Nebel, Niederschlag, Nieseln, Regnen, Schauer, Sprühregen, Tröpfeln, Frieren, Frost
+Graupeln, Hagel, Reif, Schneefall, Schneesturm, Schneien
+bedeckt, bewölkt, halb bedeckt, Heiter
+wolkenlos, wolkig, Brise, Hurikan
+Monsun, Orkan, Sturm, Typhoon, Tornado, Wirbelsturm
+Sprechen Sie bitte die folgenden Sätze
+Der Blitz hat in den Baum eingeschlagen. Es blitzt und donnert. Der Donner grollt.
+Der Regenbogen ist allmählich verschwunden. Wolken stehen am Himmel.
+Der Wetterbericht hat gewittrige Schauer vorhergesagt. Im Wetterbericht stand, es bleibe jetzt eine ganze Weile sonnig und warm.
+Nach dem Gewitter war die Luft erquickend. Ein leichter Nebel lagert über dem See. Es hat gestern nur getröpfelt.
+Es regnet in Strömen. Sprühregen kommt vor allem in den Subtropen, in den Tropen und in den gemäßigten Breiten vor.
+Es friert Stein und Bein. Der Frost steckt noch im Boden.
+Einer der schwersten Schneestürme seit vielen Jahren hat die US-Ostküste getroffen.
+Es hat aufgehört zu schneien. Der Himmel bedeckte sich mit Wolken. Vom Meer her wehte eine Brise.
+Ein Hurikan ist ein tropischer Wirbelsturm. Monsune ändern alle halben Jahre ihre Richtung.
+Vor allem im Herbst und Winter brausen Orkane über West- und Mitteleuropa. Am Nordpol gibt es keinen Typhoon.

@@ -1,0 +1,58 @@
+Baseball
+Außenspieler
+Baseman
+Fänger
+Innenspieler
+Läufer
+Schlagmann
+Should-stop
+Werfer
+Außenfeld
+Base
+Mahlkissen
+Mahlquadrat
+Schlagmal
+Homeplate
+Strikezone
+Tribüne
+Umzäunung
+Hit
+Home run
+Inning
+Out
+Run
+Strike
+Strikeout
+Kopfhaube
+Baseballmütze
+Baseballschläger
+Brustschutz
+Fanghandschuh
+Gesichtsmaske
+Schlaghelm
+Erlaufen
+Erreichen
+Erzielen
+Schlagen
+Stehlen
+Treffen
+Verfehlen
+Werfen
+Sprechen Sie bitte die folgenden Sätze.
+Die Teams im Baseball erringen Punkte durch Ablaufen der Bases.
+Baseballspiel wird von zwei Mannschaften zu je neun Spielern gespielt.
+Der Ball berührte den Handschuh des Fängers.
+Ein Läufer kann jederzeit versuchen, die Base zu stehlen,
+auch wenn der Ball vom Schlagmann gar nicht geschlagen wurde.
+Schlagmänner und Läufer im Feld tragen Schlaghelme zum Schützen von Kopftreffern mit dem Ball.
+Der Schlagmann hat den Ball getroffen.
+Dieser Werfer hat zwei Strikes geworfen.
+Im Baseball ist die Homeplate die Endbase.
+Der Hauptschiedsrichter kann sich leicht entscheiden, ob der Ball in der Strikezone war oder nicht.
+Das Spielfeld besteht aus zwei Teilen und wird durch eine Umzäunung begrenzt.
+Ein Homerun zählt als Hit.
+Ein Baseballspiel besteht im Regelfall aus neun Innings.
+Der Fanghandschuh des First Basemans ist etwas größer als jene der anderen.
+Der Schiedsrichter zeigte einen Strikeout durch eine Handbewegung an.
+Die Heimmannschaft hat schnell den ersten Run erzielt.
+Der Schuss verfehlte sein Ziel.

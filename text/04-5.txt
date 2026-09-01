@@ -1,0 +1,53 @@
+Vergnügungspark
+Einlasszeit
+Eintritt frei
+Eintrittskarte
+Familienticket
+Gruppenticket
+Gutschein
+Jahreskarte
+Regulär
+Familie
+Gäste mit Behinderung
+Kleinkind
+Schulklasse
+Senior
+Vorlage des Ausweises
+Achterbahn
+Floßfahrt
+Karussell
+Labyrinth
+Piratenschiff
+Riesenrad
+Spukhaus
+begeistert
+erregend
+erschreckend
+langweilig
+nervös
+schrecklich
+spannend
+erlaubt
+gestattet
+verboten
+untersagt
+Sicherheit
+Vorsicht
+Kuscheltier
+Plüschfigur
+Sprechen Sie bitte die folgenden Sätze.
+Das Ticket kann nach Einlasszeit nicht mehr umgetauscht werden.
+Alle Eintrittskarten sind weg und die Kassen bleiben am Abend geschlossen.
+Der reguläre Eintrittspreis gilt für Erwachsene.
+So etwas kommt in den besten Familien vor.
+Das Unternehmen geht vom Senior auf den Junior über.
+Gegen Vorlage des Ausweises erhalten die Gäste mit Behinderung einen reduzierten Eintrittspreis.
+Die Gedanken fahren in ihrem Kopf Karussell.
+Die Natur findet keinen Ausweg aus dem Labyrinthe der verworrenen und widersprechenden Kräfte.
+Und der Menschen muss sterben.
+Die Leiden des jungen Werther.
+Riesenrad ist mir zu langweilig.
+Das Grillen im Freizeitpark ist untersagt.
+Die Armee bringt sich in Sicherheit.
+Vorsicht Stufe!
+Gibt es in dem Shop Souvenirs zu kaufen?

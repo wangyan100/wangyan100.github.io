@@ -1,0 +1,29 @@
+Gericht, angeklagte, angeklagter
+beklagte, beklagter, Kläger
+Opfer, Richter, Schöffe, Staatsanwalt, Täter, Zeuge
+abweisen, Beweisaufnahme, Klage
+Rechtsstreit, Prozessieren, Verhandlung, zurückziehen
+Anwalt, Berufung
+Mandant, Rechtsfall, verteidigen, plädieren
+Vertreter, begnadigen, freisprechen
+Geldstrafe, Gesamtstrafe, Haft, Todesstrafe
+verurteilen, vollstrecken, betrügen
+Diebstahl, Fahrlässigkeit
+gesetzwidrig, rechtswidrig, kidnappen
+Tatmotiv, Tatort
+Sprechen Sie bitte die folgenden Sätze
+Der Beklagte wird verurteilt, an den Kläger 1000 Euro zu bezahlen.
+Er ist ein gerechter Richter. War der Täter alleine oder hatte er Gehilfen?
+Haben Sie Zeugen, die diese Aussage bestätigen können?
+Das Landgericht Frankfurt am Main hat zu Unrecht die Klage abgewiesen.
+Die Klägerin hat den Rechtsstreit zurückgezogen.
+Der alte Mann prozessierte gegen jeden in der Nachbarschaft.
+Der Verteidiger will Rücksprache mit seinem Mandanten nehmen.
+Die Verhandlung fand unter Ausschluss der Öffentlichkeit statt.
+Der Verteidiger plädierte auf Freispruch.
+Das Gericht hat den Beschuldigten Mangelsbeweises freigesprochen.
+Er wurde zu drei Jahren Haft verurteilt.
+Es ist noch umstritten, ob die Todesstrafe abgeschafft werden soll.
+Die junge Frau weigerte sich, das Urteil zu vollstrecken.
+Eine Verbrecherbande hat seinen Sohn gekidnappt und verlangt ein Lösegeld.
+Der Tatort ist die beliebte Krimireihe der ARD.

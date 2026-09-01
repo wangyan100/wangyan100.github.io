@@ -1,0 +1,17 @@
+Verkehrsmittel 2
+Bergfahrrad, Geländefahrrad, Klingel, Lenker, Pedal, Rad, Radfahrer, Sattel, Bombenflugzeug,
+Charterflugzeug, Flugboot, Helikopter, Hubschrauber, Passagierflugzeug, Segelflugzeug, Transportflugzeug,
+Beiwagen, Drei-Redrik, Führerschein, Mofa, Mokick, Moped, Motorroller, Zwei-Redrik, Krankentrage, Notarzt, Notfall, Notfallkoffer, Notfallrucksack, Sanität, Sauerstoffflasche,
+Transportieren, Rakete, Raumfahrer, Raumschiff, Raumstation, Fischdampfer, Frachter, Kahn, Schlauchboot
+Sprechen Sie bitte die folgenden Sätze
+In der Werbungssprache werden Mountainbikes öfter als Geländefahrräder verwendet.
+Beim Radfahren kann man mit dem Lenker die Richtung bestimmen.
+Eines der Pedale meines Fahrrads ist kaputt und muss repariert werden.
+Laut einer großen Umfrage fühlen sich Radfahrer in Deutschland beim Fahren immer unsicherer.
+Ein Führerschein ist zum Autofahren erforderlich.
+Die Feuerwehr nutzte ein Leitergerüst und einen Flaschenzug, um den Mann auf einer Krankentrage nach unten zu bringen.
+In dem Erste-Hilfe-Kurs lernt man, wie man mit Notfällen umgeht.
+Die Raumfahrtbehörde wird nächsten Monat eine Rakete starten.
+Die Raumfahrer befinden sich in einem schwere, losen Zustand.
+Der Schlepper hat am Montag den im Boden gebliebenen Fischdampfer in tiefes Wasser gezogen.
+Er pumpt sein Schlauchboot auf, setzt sich hinein und rudert los.

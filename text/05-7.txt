@@ -1,0 +1,53 @@
+Feuerwehrstation und Polizei
+Brandmeister
+Feuerwehr
+Feuerwehrmann
+Bulle
+Detektiv
+Kommissar
+Polizist
+Polizistin
+Streifenpolizist
+Verbrecher
+Feuerwehrleiter
+Feuerwehrhelm
+Gasmaske
+Schutzmaske
+Handschelle
+Knüppel
+die Kugelsichere Weste
+Polizeieuniform
+Sauerstoffmaske
+Feuerwehrfahrzeug
+Gefangenkraftwagen
+Polizeiwagen
+Polizeimotorrad
+Kugel
+Pistole
+Sturmgewehr
+Tränengasgranate
+ausbrechen
+Brand
+Brandschutz
+brennen
+Fluchtweg
+niederbrennen
+Rauch
+Sauerstoff
+Sprechen Sie bitte die folgenden Sätze
+Wenn diese Wohnung brannte, kam die Feuerwehr.
+Seit dem Großbrand melden sich immer mehr freiwillige Feuerwehren.
+Der Detektiv hängt sich an den Verbrecher.
+Der Polizist führt den Verbrecher mit Handschellen ab.
+Da liegt der Knüppel beim Hund.
+Er schlägt seinen Kollegen nur seine eigenen Waffen.
+Eine Kugel hat ihn getroffen.
+Der Räuber bedrohte die Kassiererin mit einer Pistole.
+Nach der Explosion einer Tränengasgranate in einem Nachtclub in Venezuela
+sind mindestens 17 Menschen ums Leben gekommen.
+Wenn das Feuer ausgebrochen ist,
+muss man möglichst schnell Fluchtwege finden.
+Das Haus war völlig niedergebrannt.
+Kein Rauch ohne Flamme.
+Wasser ist eine Verbindung aus Wasserstoff und Sauerstoff.
+Ohne Sauerstoff kann kein Feuer brennen.

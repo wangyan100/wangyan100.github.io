@@ -1,0 +1,56 @@
+Lurche und Reptilien
+Frosch
+Kamm-Molch
+Kaulkwappe
+Kröte
+Laubfrosch
+Pfeilgift-Frosch
+Riesensalamander
+Salamander
+Chamäleon
+Echse
+Gekko
+Großkopfschildkröte
+Schildkröte
+Tabasko-Schildkröte
+Wasserdosen-Schildkröte
+Zierschildkröte
+Blumentopfschlange
+Boarschlange
+Giftschlange
+Hutschlange
+Königskobra
+Python
+Schlange
+Alligator
+Krokodil
+Leistenkrokodil
+Spitzkrokodil
+Varan
+Sommerschlaf
+Winterschlaf
+Hibernation
+Abstreifen
+Kriechen
+Nachttier
+Quaken
+Sichschlängeln
+Sprechen Sie bitte die folgenden Sätze
+Der Frosch quakt
+Kröten leben oft in feuchten Gebieten.
+Der Salamander kann dem Mythos nach im Feuer wohnen.
+Wie ein Chamäleon passt er sich dem jeweiligen Umfeld an.
+Die meisten Gekkonen sind ausgesprochen nachtaktiv.
+Schildkröten können Farben besser differenzieren als Menschen.
+Da Fleisch und Eier von Tabasko-Schildkröte hohe Preise erzielen, wird sie überjagt.
+Zierschildkröten bevorzugen langsam fließende, flache Gewässer
+mit weichem, schlammigem Grund und starker Vegetation.
+Königskobra ist die größte Giftschlange der Welt.
+Der Python hat die Haut abgestreift.
+Die Schlange kriecht über den Boden.
+Alle Krokodile sind vor allem Fleischfresser.
+Ein Spaziergänger hat am Dienstagabend ein junges Krokodil am See gesehen.
+Varane entsprechen in ihrem Äußeren der Grundform einer Echse
+mit vier Beinen und einem Schwanz.
+Der Winterschläfer verwandelt sich in Hibernation
+von einem gleich warmen Tier in ein wechselwarmes Tier.
