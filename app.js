@@ -16,23 +16,43 @@ function renderTrackList() {
   trackList.innerHTML = "";
 
   if (!state.filteredTracks.length) {
-    const empty = document.createElement("li");
+    const empty = document.createElement("p");
     empty.className = "empty";
     empty.textContent = "No tracks found.";
     trackList.append(empty);
     return;
   }
 
+  let currentChapter = null;
+  let chapterList = null;
   state.filteredTracks.forEach((track, index) => {
+    if (track.chapter !== currentChapter) {
+      currentChapter = track.chapter;
+      const group = document.createElement("section");
+      group.className = "chapter-group";
+
+      if (track.chapterTitle) {
+        const heading = document.createElement("h2");
+        heading.className = "chapter-title";
+        heading.textContent = `${track.chapterTitle} ${track.chapterTitleZh}`;
+        group.append(heading);
+      }
+
+      chapterList = document.createElement("ol");
+      chapterList.className = "chapter-lessons";
+      group.append(chapterList);
+      trackList.append(group);
+    }
+
     const item = document.createElement("li");
     const button = document.createElement("button");
     button.className = "track-button";
     button.type = "button";
-    button.textContent = track.title;
+    button.textContent = track.lessonTitle || track.title;
     button.classList.toggle("is-active", index === state.activeIndex);
     button.addEventListener("click", () => selectTrack(index));
     item.append(button);
-    trackList.append(item);
+    chapterList.append(item);
   });
 }
 
@@ -52,7 +72,7 @@ async function selectTrack(index) {
 
   state.activeIndex = Math.max(0, Math.min(index, state.filteredTracks.length - 1));
   const track = state.filteredTracks[state.activeIndex];
-  trackTitle.textContent = track.title;
+  trackTitle.textContent = track.lessonTitle || track.title;
   audioPlayer.src = track.audio;
   previousButton.disabled = state.activeIndex === 0;
   nextButton.disabled = state.activeIndex === state.filteredTracks.length - 1;
@@ -67,9 +87,15 @@ async function selectTrack(index) {
 
 function applySearch() {
   const query = searchInput.value.trim().toLowerCase();
-  state.filteredTracks = state.tracks.filter((track) =>
-    track.title.toLowerCase().includes(query)
-  );
+  state.filteredTracks = state.tracks.filter((track) => {
+    const searchableText = [
+      track.title,
+      track.chapterTitle,
+      track.chapterTitleZh,
+      track.lessonTitle,
+    ].filter(Boolean).join(" ").toLowerCase();
+    return searchableText.includes(query);
+  });
   selectTrack(0);
 }
 

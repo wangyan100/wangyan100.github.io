@@ -49,25 +49,14 @@ audio {
 .library {
   display: flex;
   flex-direction: column;
-  min-height: calc(100vh - 2.5rem);
+  height: calc(100vh - 2.5rem);
+  min-height: 0;
   padding: 1rem;
 }
 
 .brand {
-  display: grid;
-  grid-template-columns: 4rem 1fr;
-  gap: 0.9rem;
-  align-items: center;
   padding-bottom: 1rem;
   border-bottom: 1px solid var(--line);
-}
-
-.cover {
-  width: 4rem;
-  height: 4rem;
-  object-fit: cover;
-  border-radius: 6px;
-  border: 1px solid var(--line);
 }
 
 .kicker {
@@ -118,10 +107,33 @@ h3 {
 
 .track-list {
   display: grid;
-  gap: 0.35rem;
+  flex: 1;
+  gap: 1rem;
+  min-height: 0;
   margin: 0;
   padding: 0;
-  overflow: auto;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.chapter-group {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.chapter-title {
+  padding: 0 0.35rem 0.35rem;
+  border-bottom: 1px solid var(--line);
+  color: var(--green);
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.chapter-lessons {
+  display: grid;
+  gap: 0.2rem;
+  margin: 0;
+  padding: 0;
   list-style: none;
 }
 
@@ -216,6 +228,7 @@ h3 {
   }
 
   .library {
+    height: auto;
     min-height: auto;
     max-height: 45vh;
   }

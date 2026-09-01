@@ -10,15 +10,12 @@
     <main class="shell">
       <aside class="library" aria-label="Audio library">
         <div class="brand">
-          <img class="cover" src="book.png" alt="" onerror="this.remove()">
-          <div>
-            <p class="kicker">German audio</p>
-            <h1>Audio Reader</h1>
-          </div>
+          <p class="kicker">German audio</p>
+          <h1>Audio Reader</h1>
         </div>
         <label class="search-label" for="search">Search</label>
-        <input id="search" class="search" type="search" autocomplete="off" placeholder="01-1">
-        <ol id="trackList" class="track-list"></ol>
+        <input id="search" class="search" type="search" autocomplete="off" placeholder="Kapitel, 01-1, 水果...">
+        <nav id="trackList" class="track-list" aria-label="Chapters and lessons"></nav>
       </aside>
 
       <section class="reader" aria-live="polite">
