@@ -7,6 +7,7 @@ const state = {
 const trackList = document.querySelector("#trackList");
 const searchInput = document.querySelector("#search");
 const trackTitle = document.querySelector("#trackTitle");
+const trackPosition = document.querySelector("#trackPosition");
 const audioPlayer = document.querySelector("#audioPlayer");
 const transcript = document.querySelector("#transcript");
 const previousButton = document.querySelector("#previousTrack");
@@ -73,6 +74,7 @@ async function selectTrack(index) {
   state.activeIndex = Math.max(0, Math.min(index, state.filteredTracks.length - 1));
   const track = state.filteredTracks[state.activeIndex];
   trackTitle.textContent = track.lessonTitle || track.title;
+  trackPosition.textContent = `Lesson ${state.activeIndex + 1} of ${state.filteredTracks.length}`;
   audioPlayer.src = track.audio;
   previousButton.disabled = state.activeIndex === 0;
   nextButton.disabled = state.activeIndex === state.filteredTracks.length - 1;
@@ -111,6 +113,7 @@ async function initialize() {
 
     if (!state.tracks.length) {
       trackTitle.textContent = "No lessons published";
+      trackPosition.textContent = "";
       transcript.textContent = "Run generate_static_site.py after the TXT files are ready.";
       renderTrackList();
       return;
