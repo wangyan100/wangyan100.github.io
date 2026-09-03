@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>German Audio Reader</title>
-    <link rel="stylesheet" href="styles.css?v=20260902063917392938">
+    <link rel="stylesheet" href="styles.css?v=20260903070220543152">
   </head>
   <body>
     <main class="shell">
@@ -17,6 +17,11 @@
         <input id="search" class="search" type="search" autocomplete="off" placeholder="Kapitel, 01-1, 水果...">
         <nav id="trackList" class="track-list" aria-label="Chapters and lessons"></nav>
       </aside>
+
+      <div class="pane-resizer" role="separator" aria-label="调整目录和播放区的高度" aria-orientation="horizontal" tabindex="0">
+        <span class="resizer-grip" aria-hidden="true"></span>
+        <span class="resizer-label">拖动调整目录</span>
+      </div>
 
       <section class="reader" aria-live="polite">
         <header class="reader-header">
@@ -40,6 +45,6 @@
       </section>
     </main>
 
-    <script src="app.js?v=20260902063917392938"></script>
+    <script src="app.js?v=20260903070220543152"></script>
   </body>
 </html>

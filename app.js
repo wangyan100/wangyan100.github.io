@@ -12,6 +12,51 @@ const audioPlayer = document.querySelector("#audioPlayer");
 const transcript = document.querySelector("#transcript");
 const previousButton = document.querySelector("#previousTrack");
 const nextButton = document.querySelector("#nextTrack");
+const shell = document.querySelector(".shell");
+const library = document.querySelector(".library");
+const paneResizer = document.querySelector(".pane-resizer");
+
+function setLibraryHeight(clientY) {
+  const shellBounds = shell.getBoundingClientRect();
+  const minimum = 160;
+  const maximum = shellBounds.height - 260;
+  const height = Math.max(minimum, Math.min(clientY - shellBounds.top, maximum));
+  shell.style.setProperty("--library-height", `${height}px`);
+}
+
+function initializePaneResizer() {
+  let isDragging = false;
+
+  paneResizer.addEventListener("pointerdown", (event) => {
+    isDragging = true;
+    paneResizer.setPointerCapture(event.pointerId);
+    document.body.classList.add("is-resizing");
+  });
+
+  paneResizer.addEventListener("pointermove", (event) => {
+    if (isDragging) {
+      setLibraryHeight(event.clientY);
+    }
+  });
+
+  const stopDragging = (event) => {
+    isDragging = false;
+    if (paneResizer.hasPointerCapture(event.pointerId)) {
+      paneResizer.releasePointerCapture(event.pointerId);
+    }
+    document.body.classList.remove("is-resizing");
+  };
+
+  paneResizer.addEventListener("pointerup", stopDragging);
+  paneResizer.addEventListener("pointercancel", stopDragging);
+  paneResizer.addEventListener("keydown", (event) => {
+    if (event.key === "ArrowUp" || event.key === "ArrowDown") {
+      event.preventDefault();
+      const current = shell.getBoundingClientRect().top + library.getBoundingClientRect().height;
+      setLibraryHeight(current + (event.key === "ArrowDown" ? 32 : -32));
+    }
+  });
+}
 
 function renderTrackList() {
   trackList.innerHTML = "";
@@ -130,5 +175,6 @@ async function initialize() {
 searchInput.addEventListener("input", applySearch);
 previousButton.addEventListener("click", () => selectTrack(state.activeIndex - 1));
 nextButton.addEventListener("click", () => selectTrack(state.activeIndex + 1));
+initializePaneResizer();
 
 initialize();

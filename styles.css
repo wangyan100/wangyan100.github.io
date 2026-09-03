@@ -36,6 +36,7 @@ audio {
   gap: 1.25rem;
   min-height: 100vh;
   padding: 1.25rem;
+  height: 100vh;
 }
 
 .library,
@@ -52,6 +53,10 @@ audio {
   height: calc(100vh - 2.5rem);
   min-height: 0;
   padding: 1rem;
+}
+
+.pane-resizer {
+  display: none;
 }
 
 .brand {
@@ -166,6 +171,8 @@ h3 {
   grid-template-rows: auto auto minmax(0, 1fr);
   gap: 1rem;
   padding: clamp(1rem, 4vw, 2rem);
+  min-height: 0;
+  height: 100%;
 }
 
 .reader-header {
@@ -230,15 +237,46 @@ h3 {
 @media (max-width: 800px) {
   .shell {
     grid-template-columns: 1fr;
+    grid-template-rows: minmax(10rem, var(--library-height, 35vh)) 1.5rem 1fr;
+    height: calc(100svh - 1.5rem);
+    min-height: 0;
     padding: 0.75rem;
     gap: 0.75rem;
   }
 
   .library {
     height: auto;
-    min-height: auto;
-    max-height: 35vh;
+    min-height: 0;
+    overflow: hidden;
     padding: 0.8rem;
+  }
+
+  .pane-resizer {
+    display: flex;
+    position: relative;
+    z-index: 2;
+    align-items: center;
+    justify-content: center;
+    height: 1.5rem;
+    touch-action: none;
+    cursor: ns-resize;
+  }
+
+  .resizer-grip {
+    width: 4.5rem;
+    height: 0.3rem;
+    border-radius: 999px;
+    background: var(--accent);
+    box-shadow: 0 0 0 0.35rem rgba(246, 241, 231, 0.92);
+  }
+
+  .resizer-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
   }
 
   .brand {
@@ -263,8 +301,23 @@ h3 {
   }
 
   .reader {
+    grid-row: 3;
+    min-height: 0;
+    height: 100%;
+    overflow: hidden;
     gap: 0.8rem;
     padding: 1rem;
+  }
+
+  .chapter-lessons {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.25rem 0.4rem;
+  }
+
+  .track-button {
+    min-height: 2.45rem;
+    padding: 0.5rem 0.6rem;
+    font-size: 0.95rem;
   }
 
   .transcript-panel {
