@@ -15,6 +15,20 @@ const nextButton = document.querySelector("#nextTrack");
 const shell = document.querySelector(".shell");
 const library = document.querySelector(".library");
 const paneResizer = document.querySelector(".pane-resizer");
+const openLibraryButton = document.querySelector("#openLibrary");
+const closeLibraryButton = document.querySelector("#closeLibrary");
+const libraryBackdrop = document.querySelector("#libraryBackdrop");
+
+function setLibraryOpen(isOpen) {
+  document.body.classList.toggle("is-library-open", isOpen);
+  libraryBackdrop.hidden = !isOpen;
+  openLibraryButton.setAttribute("aria-expanded", String(isOpen));
+  if (isOpen) {
+    closeLibraryButton.focus();
+  } else {
+    openLibraryButton.focus();
+  }
+}
 
 function setLibraryHeight(clientY) {
   const shellBounds = shell.getBoundingClientRect();
@@ -25,6 +39,10 @@ function setLibraryHeight(clientY) {
 }
 
 function initializePaneResizer() {
+  if (!paneResizer) {
+    return;
+  }
+
   let isDragging = false;
 
   paneResizer.addEventListener("pointerdown", (event) => {
@@ -96,7 +114,10 @@ function renderTrackList() {
     button.type = "button";
     button.textContent = track.lessonTitle || track.title;
     button.classList.toggle("is-active", index === state.activeIndex);
-    button.addEventListener("click", () => selectTrack(index));
+    button.addEventListener("click", () => {
+      selectTrack(index);
+      setLibraryOpen(false);
+    });
     item.append(button);
     chapterList.append(item);
   });
@@ -175,6 +196,14 @@ async function initialize() {
 searchInput.addEventListener("input", applySearch);
 previousButton.addEventListener("click", () => selectTrack(state.activeIndex - 1));
 nextButton.addEventListener("click", () => selectTrack(state.activeIndex + 1));
+openLibraryButton.addEventListener("click", () => setLibraryOpen(true));
+closeLibraryButton.addEventListener("click", () => setLibraryOpen(false));
+libraryBackdrop.addEventListener("click", () => setLibraryOpen(false));
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && document.body.classList.contains("is-library-open")) {
+    setLibraryOpen(false);
+  }
+});
 initializePaneResizer();
 
 initialize();

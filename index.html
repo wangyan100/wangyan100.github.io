@@ -4,11 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>German Audio Reader</title>
-    <link rel="stylesheet" href="styles.css?v=20260903070220543152">
+    <link rel="stylesheet" href="styles.css?v=20260903071431416278">
   </head>
   <body>
     <main class="shell">
-      <aside class="library" aria-label="Audio library">
+      <aside id="library" class="library" aria-label="Audio library">
+        <div class="library-topbar">
+          <button id="closeLibrary" class="close-library" type="button" aria-label="关闭目录">×</button>
+        </div>
         <div class="brand">
           <p class="kicker">German audio</p>
           <h1>Audio Reader</h1>
@@ -18,13 +21,14 @@
         <nav id="trackList" class="track-list" aria-label="Chapters and lessons"></nav>
       </aside>
 
-      <div class="pane-resizer" role="separator" aria-label="调整目录和播放区的高度" aria-orientation="horizontal" tabindex="0">
-        <span class="resizer-grip" aria-hidden="true"></span>
-        <span class="resizer-label">拖动调整目录</span>
-      </div>
+      <div id="libraryBackdrop" class="library-backdrop" hidden></div>
 
       <section class="reader" aria-live="polite">
         <header class="reader-header">
+          <button id="openLibrary" class="menu-button" type="button" aria-label="打开目录" aria-controls="library" aria-expanded="false">
+            <span aria-hidden="true">☰</span>
+            <span>目录</span>
+          </button>
           <div>
             <p class="kicker">Now playing</p>
             <h2 id="trackTitle">Loading...</h2>
@@ -45,6 +49,6 @@
       </section>
     </main>
 
-    <script src="app.js?v=20260903070220543152"></script>
+    <script src="app.js?v=20260903071431416278"></script>
   </body>
 </html>
