@@ -1254,7 +1254,7 @@
     "chapter": 17,
     "chapterTitle": "Kapitel 17 Was gibt's noch?",
     "chapterTitleZh": "还有什么呢?",
-    "lessonTitle": "17.1 颜色",
+    "lessonTitle": "17.1 特性",
     "audio": "media/17-1.mp3",
     "text": "text/17-1.txt",
     "content": "data/17-1.json"
@@ -1264,7 +1264,7 @@
     "chapter": 17,
     "chapterTitle": "Kapitel 17 Was gibt's noch?",
     "chapterTitleZh": "还有什么呢?",
-    "lessonTitle": "17.2 兴趣爱好",
+    "lessonTitle": "17.2 颜色",
     "audio": "media/17-2.mp3",
     "text": "text/17-2.txt",
     "content": "data/17-2.json"
@@ -1274,7 +1274,7 @@
     "chapter": 17,
     "chapterTitle": "Kapitel 17 Was gibt's noch?",
     "chapterTitleZh": "还有什么呢?",
-    "lessonTitle": "17.3 乐器",
+    "lessonTitle": "17.3 兴趣爱好",
     "audio": "media/17-3.mp3",
     "text": "text/17-3.txt",
     "content": "data/17-3.json"
@@ -1284,7 +1284,7 @@
     "chapter": 17,
     "chapterTitle": "Kapitel 17 Was gibt's noch?",
     "chapterTitleZh": "还有什么呢?",
-    "lessonTitle": "17.4 建筑艺术",
+    "lessonTitle": "17.4 乐器",
     "audio": "media/17-4.mp3",
     "text": "text/17-4.txt",
     "content": "data/17-4.json"
@@ -1294,7 +1294,7 @@
     "chapter": 17,
     "chapterTitle": "Kapitel 17 Was gibt's noch?",
     "chapterTitleZh": "还有什么呢?",
-    "lessonTitle": "17.5 童话故事",
+    "lessonTitle": "17.5 建筑艺术",
     "audio": "media/17-5.mp3",
     "text": "text/17-5.txt",
     "content": "data/17-5.json"
@@ -1304,7 +1304,7 @@
     "chapter": 17,
     "chapterTitle": "Kapitel 17 Was gibt's noch?",
     "chapterTitleZh": "还有什么呢?",
-    "lessonTitle": "17.6 摄影",
+    "lessonTitle": "17.6 童话故事",
     "audio": "media/17-6.mp3",
     "text": "text/17-6.txt",
     "content": "data/17-6.json"
@@ -1314,7 +1314,7 @@
     "chapter": 17,
     "chapterTitle": "Kapitel 17 Was gibt's noch?",
     "chapterTitleZh": "还有什么呢?",
-    "lessonTitle": "17.7 出版社",
+    "lessonTitle": "17.7 摄影",
     "audio": "media/17-7.mp3",
     "text": "text/17-7.txt",
     "content": "data/17-7.json"
@@ -1324,7 +1324,7 @@
     "chapter": 17,
     "chapterTitle": "Kapitel 17 Was gibt's noch?",
     "chapterTitleZh": "还有什么呢?",
-    "lessonTitle": "17.8",
+    "lessonTitle": "17.8 出版社",
     "audio": "media/17-8.mp3",
     "text": "text/17-8.txt",
     "content": "data/17-8.json"
