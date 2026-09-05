@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Lebensphasen",
+        "Einzelkind",
+        "Zwilling",
+        "Drilling",
+        "Kindheit",
+        "Jugend",
+        "Minderjährig",
+        "Schulkind",
+        "Kindertagesstätte",
+        "Kindergarten",
+        "Schulpflicht",
+        "Hochschulbildung",
+        "Berufsbildung",
+        "Fortbildung",
+        "promovieren",
+        "studieren",
+        "Junge",
+        "Mädchen",
+        "Mädel",
+        "Adoleszens",
+        "Puppertät",
+        "Erwachsene",
+        "Erwachsener",
+        "Midlife-Krise",
+        "Wechseljahre",
+        "in Rente gehen",
+        "in Pension gehen",
+        "Ableben",
+        "Entschlafen",
+        "Selbstmord",
+        "Suizid",
+        "Sterben",
+        "ums Leben kommen",
+        "Friedhof",
+        "Trauerfeier",
+        "Beisetzung",
+        "Alleinerziehende",
+        "Alleinerziehender",
+        "Dink",
+        "geschieden",
+        "kinderlos",
+        "ledig",
+        "Regenbogenfamilie",
+        "verheiratet",
+        "verwitwet"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Diese rasche Minute war die glücklichste meiner Kindheit.",
+        "In Deutschland gibt es rund 52.000 Kindergartenstätten. 1919 wurde Schulpflicht in der Weimarer Verfassung einheitlich für ganz Deutschland festgeschrieben.",
+        "In den 80er Jahren ging sie zur Fortbildung nach Schweden.",
+        "Die Weltgesundheitsorganisation definiert die Adoleszenz als die Periode des Lebens zwischen 10 und 20 Jahren.",
+        "Eine Midlife-Krise bezeichnet ein persönliches Unwohlbefinden im mittleren Lebensabschnitt des Menschen.",
+        "Wechseljahre entwickelt sich über längere Zeit hinweg und ist mit einem Rückgang der Hormonbildung verbunden.",
+        "Viele soziale Faktoren wie schwierige Lebensumstände, Arbeitslosigkeit, all das seien Risikofaktoren, die zu Selbstmord führen können.",
+        "Ich spazierte zum Friedhof und verbrachte die Zeit damit, die Inschriften auf den Grabsteinen zu lesen.",
+        "Die Zahl der Alleinerziehenden in Deutschland steigt.",
+        "Regenbogenfamilien werden Familien genannt, bei denen Kinder bei zwei gleichgeschlechtlichen Partnern als eine Familie leben."
+      ]
+    }
+  ]
+}

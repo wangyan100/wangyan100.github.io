@@ -1,0 +1,64 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Ehescheidung",
+        "alkoholsüchtig",
+        "anbrüllen",
+        "Drogensucht",
+        "Entfremdung",
+        "Familiengewalt",
+        "Gewalttätigkeit",
+        "jemandem die kalte Schulter zeigen",
+        "misshandeln",
+        "die außereheliche Liebesbeziehung",
+        "betrogen",
+        "betrügen",
+        "dritte",
+        "dritter",
+        "Ehebruch",
+        "Fremdgehen",
+        "Lügen",
+        "Seitensprung",
+        "auseinanderleben",
+        "Eheleute getrennt",
+        "getrennt leben",
+        "scheitern",
+        "zerrütten",
+        "beenden",
+        "beendigen",
+        "Ehelösung einreichen",
+        "einvernehmlich scheiden",
+        "Scheidungsantrag",
+        "sich entscheiden",
+        "Exfrau",
+        "Ex-Mann",
+        "Scheidungsrecht",
+        "Unterhalt",
+        "Vormund",
+        "Wiederheirat"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Für alkoholsüchtige Menschen besteht es ein starker Wunsch oder Zwang, Alkohol zu trinken.",
+        "Familiengewalt betrifft nicht nur Frauen, sondern auch Männer.",
+        "Er misshandelt seinen Sohn durch Körperstrafe.",
+        "Fremdgehen ist zwar immer ein Betrug an einer Person, doch dahinter steckt nicht selten eine komplexere Geschichte.",
+        "Jede Trennung der Eltern ist schlimm für ein Kind, ob die Eltern verheiratet waren oder nicht.",
+        "Viele Eheleute glauben, die Trennung muss irgendwie aktenkundig gemacht werden.",
+        "Beide Ehegatten halten ihre Ehe für gescheitert.",
+        "Die dauernden Streitigkeiten haben ihre Ehe zerrüttet.",
+        "Zu Beginn der 1990er Jahre sind mehr als 80% der Scheidungen innerhalb der ersten 15 Ehejahre vollzogen worden.",
+        "Der Mann war zum Zeitpunkt der Ehe-Lösung bereits mehr als 80 Jahre alt.",
+        "In Deutschland wurde die Mehrheit der Scheidungen von Frauen eingereicht.",
+        "Ich bin der Meinung, dass bei einem einvernehmlichen Scheidungsverfahren die Scheidungskosten unangemessen hoch sind.",
+        "Wegen der Wiederheirat wurde der katholische Chefarzt eines katholischen Krankenhauses entlassen."
+      ]
+    }
+  ]
+}

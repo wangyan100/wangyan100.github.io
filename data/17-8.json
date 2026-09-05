@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Verlag",
+        "Beiträger",
+        "Herausgeber",
+        "Kolumnist",
+        "Maler",
+        "Mituhrheber",
+        "Propaganda",
+        "Schriftsteller",
+        "Auflage",
+        "Erscheinen",
+        "Exemplar",
+        "Herausgeben",
+        "Impressum",
+        "Neuerscheinung",
+        "Neuerscheinung",
+        "publizieren",
+        "Chefredakteur",
+        "Designer",
+        "Editor",
+        "Illustrator",
+        "Redakteur",
+        "Verleger",
+        "Beauftragen",
+        "Korrektur",
+        "Korrigieren",
+        "Manuskript",
+        "Revidieren",
+        "Überarbeiten",
+        "Unterschreiben",
+        "Änderungen vorbehalten",
+        "Auflagenhöhe",
+        "Urheberrecht",
+        "Druck",
+        "Honorar",
+        "Redaktionsschluss",
+        "Schließen",
+        "Urheberrechtsschutz"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Bei welchem Verlag erscheint das Werk?",
+        "Helmut Schmidt ist einer der Herausgeber des Handbuchs.",
+        "Er wird als Kolumnist für eine Schweizer Tageszeitung arbeiten.",
+        "Die Regierung wirft einigen Programmen vor, Propaganda zu betreiben.",
+        "Das ist eine Zeitschrift mit einer hohen Auflage.",
+        "Dieses Buch ist schon rund 50.000 Exemplare gedruckt worden.",
+        "Seine Aufsätze wurden in Buchform herausgegeben.",
+        "Der Redakteur empfiehlt den Lesern einen lesenswerten Roman.",
+        "Der erste Verleger lehnte das Buch ab.",
+        "Dem zweiten gefiel dieses Buch.",
+        "Der neue Ministerpräsident wurde mit der Kabinettsbildung beauftragt.",
+        "Bitte korrigieren Sie mich, wenn ich etwas Falsches sage.",
+        "Er schickt das Manuskript an einen Redakteur.",
+        "Ich habe den Vertrag in der letzten Woche unterschrieben.",
+        "Das geschützte Objekt des Urheberrechts ist in allen Rechtsordnungen ein Werk der Kunst.",
+        "Wer als Arzt mitmacht, kann pro Behandlung 20 bis 30 Euro als Honorar erhalten."
+      ]
+    }
+  ]
+}

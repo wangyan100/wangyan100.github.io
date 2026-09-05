@@ -1,0 +1,67 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Küche",
+        "Backofen",
+        "Reiskocher",
+        "Elektroherd",
+        "Gasherd",
+        "Kühlschrank",
+        "Mikrowellenherd",
+        "Spülmaschine",
+        "Toaster",
+        "Wasserkocher",
+        "Pfanne",
+        "Schnellkochtopf",
+        "Wok",
+        "Essstäbchen",
+        "Gabel",
+        "Löffel",
+        "Messer",
+        "Blech",
+        "Kanne",
+        "Krug",
+        "Schale",
+        "Schüssel",
+        "Teller",
+        "Becher",
+        "Seidel",
+        "Glas",
+        "Henkelbecher",
+        "Kelch",
+        "Sektglas",
+        "Tasse",
+        "Allzweckmesser",
+        "Ausbeinmesser",
+        "Brotmesser",
+        "Fleischmesser",
+        "Gemüsemesser",
+        "Hackmesser",
+        "Messerblock",
+        "Schälmesser"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Backofen und Herd sind in Deutschland wichtige Bestandteile jeder Küche.",
+        "Man kann Eier in der Pfanne braten.",
+        "Jeder Topf findet seinen Deckel.",
+        "Wenn man Essstäbchen gekreuzt ablegt, wird es Unglück bringen.",
+        "Wenn ein Deutscher Besteck sagt, meint er Gabel, Löffel und Messer.",
+        "Er hat die Suppe mit dem Löffel gegessen.",
+        "Das Messer schneidet sehr scharf.",
+        "Bereite bitte das Blech für den Kuchen vor.",
+        "In diese Kanne passen 1,8 Liter.",
+        "Der Krug geht so lange zum Wasser, bis er bricht.",
+        "Marie schabte den Reis aus der Schüssel.",
+        "Könnten Sie mir bitte einen der Becher da rüberreichen?",
+        "Mein Kollege hat ein Glas über den Durst getrunken und ist in den Tiefschlaf geraten."
+      ]
+    }
+  ]
+}

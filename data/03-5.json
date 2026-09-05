@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Badezimmer",
+        "Badlüfter",
+        "Föhn",
+        "Haartrockner",
+        "Personenwaage",
+        "Warmwasserbereiter",
+        "Badewanne",
+        "Brause",
+        "Duschkopf",
+        "Dusche",
+        "Handtuchhalter",
+        "Klosett",
+        "Waschbecken",
+        "Wasserhahn",
+        "Badesalz",
+        "Bodylotion",
+        "Duschgel",
+        "Duschhaube",
+        "Haarspülung",
+        "Seife",
+        "Shampoo",
+        "Zahnbürste",
+        "die elektrische Zahnbürste",
+        "Zahncreme",
+        "Zahnpaste",
+        "Rasierapparat",
+        "Rasiercreme",
+        "Badematte",
+        "Badeschwamm",
+        "Duschschwamm",
+        "Badetuch",
+        "Duschvorhang",
+        "Handtuch",
+        "Waschhandschuh",
+        "Abtrocknen",
+        "Abwaschen",
+        "Abwischen",
+        "Duschen",
+        "Putzen",
+        "Rasieren",
+        "Waschen"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Die Badewanne läuft über.",
+        "Er möchte unter die Brause gehen.",
+        "Der Misserfolg bei der Prüfung ist für mich wie eine kalte Dusche.",
+        "Handtuchhalter dienen zum Hängen der Handtücher.",
+        "Sie erhebt sich vom Klosett.",
+        "Sie bestreicht die Bodylotion auf ihrem Körper.",
+        "Die Seife reinigt.",
+        "Nachdem das Shampoo ausgewaschen wurde, kann die Haarspülung auf die Haare aufgetragen werden.",
+        "Er nimmt ein Badetuch, um seinen Körper abzutrocknen.",
+        "Reinigungsöl lässt sich nicht leicht abwaschen.",
+        "Bevor man seine Zähne putzt, presst man die Zahncreme auf die Zahnbürste.",
+        "Ich möchte mich nicht mehr rasieren, sondern meinen Bart wachsen lassen."
+      ]
+    }
+  ]
+}

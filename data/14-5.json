@@ -1,0 +1,50 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Accessoires 2 Knie-Strumpf",
+        "Netz-Strumpfhose Nylon-Strumpf",
+        "Socke Strumpf",
+        "Strumpfhose Strumpfsocke",
+        "Filzhut Florentiner",
+        "Hut Kappe",
+        "Mütze Sombrero",
+        "Strickmütze Strohhut",
+        "Federputz Gesteck",
+        "Gutkrempel Schirm",
+        "Schmuckband Stumpen",
+        "Turban Zylinder",
+        "Cape Dreieckstuch",
+        "Halstuch Kopftuch",
+        "Schal Spitze",
+        "Umschlagtuch Bindegürtel",
+        "Gürtel Krawattenhalter",
+        "Krawattennadel Letzchen",
+        "Mantelgürtel Schleier"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Diese beiden Strümpfe gehören nicht zusammen.",
+        "An Ihrem Knie-Strumpf läuft eine Masche.",
+        "Die Polizei fand in ihrer Nähe eine Socke, die der Täter ihr in den Mund gesteckt hatte.",
+        "Die Weiber haben dünne Strumpfhosen und müssen frieren, aber es sieht hübsch aus.",
+        "Ein schwarzer Filzhut des verstorbenen Popgiganten Michael Jackson kommt Ende September in Paris unter den Hammer.",
+        "Das Mädchen hatte einen roten Hut auf und eine weiße Jacke an.",
+        "Man schwitzt mit dieser Kappe im Sommer weniger.",
+        "Jedem Narren gefällt seine Kappe.",
+        "Seit er in Mexico City lebt, trägt er immer diesen dämlichen Sombrero.",
+        "Die schöne Frau hat ihr Haar unter einem schwarzen Turban verborgen.",
+        "Ein Schleier verhüllt ihr Gesicht.",
+        "Warum haben Schornsteinfeger ausgerechnet einen Zylinder auf dem Kopf?",
+        "Sein Gesicht maskierte er mit einem dunklen Dreieckstuch.",
+        "Die Farbe des Gürtels zeigt den Grad des Kämpfers an.",
+        "Nur am Hals trägt er ein weißes Letzchen."
+      ]
+    }
+  ]
+}

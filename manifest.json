@@ -6,7 +6,8 @@
     "chapterTitleZh": "吃东西",
     "lessonTitle": "1.1 水果",
     "audio": "media/01-1.mp3",
-    "text": "text/01-1.txt"
+    "text": "text/01-1.txt",
+    "content": "data/01-1.json"
   },
   {
     "title": "01-2",
@@ -15,7 +16,8 @@
     "chapterTitleZh": "吃东西",
     "lessonTitle": "1.2 蔬菜",
     "audio": "media/01-2.mp3",
-    "text": "text/01-2.txt"
+    "text": "text/01-2.txt",
+    "content": "data/01-2.json"
   },
   {
     "title": "01-3",
@@ -24,7 +26,8 @@
     "chapterTitleZh": "吃东西",
     "lessonTitle": "1.3 肉类",
     "audio": "media/01-3.mp3",
-    "text": "text/01-3.txt"
+    "text": "text/01-3.txt",
+    "content": "data/01-3.json"
   },
   {
     "title": "01-4",
@@ -33,7 +36,8 @@
     "chapterTitleZh": "吃东西",
     "lessonTitle": "1.4 海鲜",
     "audio": "media/01-4.mp3",
-    "text": "text/01-4.txt"
+    "text": "text/01-4.txt",
+    "content": "data/01-4.json"
   },
   {
     "title": "01-5",
@@ -42,7 +46,8 @@
     "chapterTitleZh": "吃东西",
     "lessonTitle": "1.5 零食",
     "audio": "media/01-5.mp3",
-    "text": "text/01-5.txt"
+    "text": "text/01-5.txt",
+    "content": "data/01-5.json"
   },
   {
     "title": "01-6",
@@ -51,7 +56,8 @@
     "chapterTitleZh": "吃东西",
     "lessonTitle": "1.6 主食和菜",
     "audio": "media/01-6.mp3",
-    "text": "text/01-6.txt"
+    "text": "text/01-6.txt",
+    "content": "data/01-6.json"
   },
   {
     "title": "01-7",
@@ -60,7 +66,8 @@
     "chapterTitleZh": "吃东西",
     "lessonTitle": "1.7 烘焙类和奶制品",
     "audio": "media/01-7.mp3",
-    "text": "text/01-7.txt"
+    "text": "text/01-7.txt",
+    "content": "data/01-7.json"
   },
   {
     "title": "01-8",
@@ -69,7 +76,8 @@
     "chapterTitleZh": "吃东西",
     "lessonTitle": "1.8 调味料",
     "audio": "media/01-8.mp3",
-    "text": "text/01-8.txt"
+    "text": "text/01-8.txt",
+    "content": "data/01-8.json"
   },
   {
     "title": "02-1",
@@ -78,7 +86,8 @@
     "chapterTitleZh": "喝东西",
     "lessonTitle": "2.1 烈酒",
     "audio": "media/02-1.mp3",
-    "text": "text/02-1.txt"
+    "text": "text/02-1.txt",
+    "content": "data/02-1.json"
   },
   {
     "title": "02-2",
@@ -87,7 +96,8 @@
     "chapterTitleZh": "喝东西",
     "lessonTitle": "2.2 葡萄酒",
     "audio": "media/02-2.mp3",
-    "text": "text/02-2.txt"
+    "text": "text/02-2.txt",
+    "content": "data/02-2.json"
   },
   {
     "title": "02-3",
@@ -96,7 +106,8 @@
     "chapterTitleZh": "喝东西",
     "lessonTitle": "2.3 啤酒",
     "audio": "media/02-3.mp3",
-    "text": "text/02-3.txt"
+    "text": "text/02-3.txt",
+    "content": "data/02-3.json"
   },
   {
     "title": "02-4",
@@ -105,7 +116,8 @@
     "chapterTitleZh": "喝东西",
     "lessonTitle": "2.4 鸡尾酒",
     "audio": "media/02-4.mp3",
-    "text": "text/02-4.txt"
+    "text": "text/02-4.txt",
+    "content": "data/02-4.json"
   },
   {
     "title": "02-5",
@@ -114,7 +126,8 @@
     "chapterTitleZh": "喝东西",
     "lessonTitle": "2.5 饮料",
     "audio": "media/02-5.mp3",
-    "text": "text/02-5.txt"
+    "text": "text/02-5.txt",
+    "content": "data/02-5.json"
   },
   {
     "title": "02-6",
@@ -123,7 +136,8 @@
     "chapterTitleZh": "喝东西",
     "lessonTitle": "2.6 咖啡",
     "audio": "media/02-6.mp3",
-    "text": "text/02-6.txt"
+    "text": "text/02-6.txt",
+    "content": "data/02-6.json"
   },
   {
     "title": "02-7",
@@ -132,7 +146,8 @@
     "chapterTitleZh": "喝东西",
     "lessonTitle": "2.7 汤品",
     "audio": "media/02-7.mp3",
-    "text": "text/02-7.txt"
+    "text": "text/02-7.txt",
+    "content": "data/02-7.json"
   },
   {
     "title": "02-8",
@@ -141,7 +156,8 @@
     "chapterTitleZh": "喝东西",
     "lessonTitle": "2.8 描述",
     "audio": "media/02-8.mp3",
-    "text": "text/02-8.txt"
+    "text": "text/02-8.txt",
+    "content": "data/02-8.json"
   },
   {
     "title": "03-1",
@@ -150,7 +166,8 @@
     "chapterTitleZh": "住房",
     "lessonTitle": "3.1 厨房",
     "audio": "media/03-1.mp3",
-    "text": "text/03-1.txt"
+    "text": "text/03-1.txt",
+    "content": "data/03-1.json"
   },
   {
     "title": "03-2",
@@ -159,7 +176,8 @@
     "chapterTitleZh": "住房",
     "lessonTitle": "3.2 卧室",
     "audio": "media/03-2.mp3",
-    "text": "text/03-2.txt"
+    "text": "text/03-2.txt",
+    "content": "data/03-2.json"
   },
   {
     "title": "03-3",
@@ -168,7 +186,8 @@
     "chapterTitleZh": "住房",
     "lessonTitle": "3.3 客厅",
     "audio": "media/03-3.mp3",
-    "text": "text/03-3.txt"
+    "text": "text/03-3.txt",
+    "content": "data/03-3.json"
   },
   {
     "title": "03-4",
@@ -177,7 +196,8 @@
     "chapterTitleZh": "住房",
     "lessonTitle": "3.4 书房",
     "audio": "media/03-4.mp3",
-    "text": "text/03-4.txt"
+    "text": "text/03-4.txt",
+    "content": "data/03-4.json"
   },
   {
     "title": "03-5",
@@ -186,7 +206,8 @@
     "chapterTitleZh": "住房",
     "lessonTitle": "3.5 浴室",
     "audio": "media/03-5.mp3",
-    "text": "text/03-5.txt"
+    "text": "text/03-5.txt",
+    "content": "data/03-5.json"
   },
   {
     "title": "03-6",
@@ -195,7 +216,8 @@
     "chapterTitleZh": "住房",
     "lessonTitle": "3.6 其他建筑部分",
     "audio": "media/03-6.mp3",
-    "text": "text/03-6.txt"
+    "text": "text/03-6.txt",
+    "content": "data/03-6.json"
   },
   {
     "title": "03-7",
@@ -204,7 +226,8 @@
     "chapterTitleZh": "住房",
     "lessonTitle": "3.7 其他房间",
     "audio": "media/03-7.mp3",
-    "text": "text/03-7.txt"
+    "text": "text/03-7.txt",
+    "content": "data/03-7.json"
   },
   {
     "title": "03-8",
@@ -213,7 +236,8 @@
     "chapterTitleZh": "住房",
     "lessonTitle": "3.8 居住",
     "audio": "media/03-8.mp3",
-    "text": "text/03-8.txt"
+    "text": "text/03-8.txt",
+    "content": "data/03-8.json"
   },
   {
     "title": "04-1",
@@ -222,7 +246,8 @@
     "chapterTitleZh": "休闲时光",
     "lessonTitle": "4.1 电影院",
     "audio": "media/04-1.mp3",
-    "text": "text/04-1.txt"
+    "text": "text/04-1.txt",
+    "content": "data/04-1.json"
   },
   {
     "title": "04-2",
@@ -231,7 +256,8 @@
     "chapterTitleZh": "休闲时光",
     "lessonTitle": "4.2 公园",
     "audio": "media/04-2.mp3",
-    "text": "text/04-2.txt"
+    "text": "text/04-2.txt",
+    "content": "data/04-2.json"
   },
   {
     "title": "04-3",
@@ -240,7 +266,8 @@
     "chapterTitleZh": "休闲时光",
     "lessonTitle": "4.3 海滩",
     "audio": "media/04-3.mp3",
-    "text": "text/04-3.txt"
+    "text": "text/04-3.txt",
+    "content": "data/04-3.json"
   },
   {
     "title": "04-4",
@@ -249,7 +276,8 @@
     "chapterTitleZh": "休闲时光",
     "lessonTitle": "4.4 远足",
     "audio": "media/04-4.mp3",
-    "text": "text/04-4.txt"
+    "text": "text/04-4.txt",
+    "content": "data/04-4.json"
   },
   {
     "title": "04-5",
@@ -258,7 +286,8 @@
     "chapterTitleZh": "休闲时光",
     "lessonTitle": "4.5 游乐园",
     "audio": "media/04-5.mp3",
-    "text": "text/04-5.txt"
+    "text": "text/04-5.txt",
+    "content": "data/04-5.json"
   },
   {
     "title": "04-6",
@@ -267,7 +296,8 @@
     "chapterTitleZh": "休闲时光",
     "lessonTitle": "4.6 卡拉OK",
     "audio": "media/04-6.mp3",
-    "text": "text/04-6.txt"
+    "text": "text/04-6.txt",
+    "content": "data/04-6.json"
   },
   {
     "title": "04-7",
@@ -276,7 +306,8 @@
     "chapterTitleZh": "休闲时光",
     "lessonTitle": "4.7 博物馆",
     "audio": "media/04-7.mp3",
-    "text": "text/04-7.txt"
+    "text": "text/04-7.txt",
+    "content": "data/04-7.json"
   },
   {
     "title": "04-8",
@@ -285,7 +316,8 @@
     "chapterTitleZh": "休闲时光",
     "lessonTitle": "4.8 图书馆",
     "audio": "media/04-8.mp3",
-    "text": "text/04-8.txt"
+    "text": "text/04-8.txt",
+    "content": "data/04-8.json"
   },
   {
     "title": "05-1",
@@ -294,7 +326,8 @@
     "chapterTitleZh": "公共场所",
     "lessonTitle": "5.1 学校",
     "audio": "media/05-1.mp3",
-    "text": "text/05-1.txt"
+    "text": "text/05-1.txt",
+    "content": "data/05-1.json"
   },
   {
     "title": "05-2",
@@ -303,7 +336,8 @@
     "chapterTitleZh": "公共场所",
     "lessonTitle": "5.2 公司",
     "audio": "media/05-2.mp3",
-    "text": "text/05-2.txt"
+    "text": "text/05-2.txt",
+    "content": "data/05-2.json"
   },
   {
     "title": "05-3",
@@ -312,7 +346,8 @@
     "chapterTitleZh": "公共场所",
     "lessonTitle": "5.3 邮局",
     "audio": "media/05-3.mp3",
-    "text": "text/05-3.txt"
+    "text": "text/05-3.txt",
+    "content": "data/05-3.json"
   },
   {
     "title": "05-4",
@@ -321,7 +356,8 @@
     "chapterTitleZh": "公共场所",
     "lessonTitle": "5.4 法院",
     "audio": "media/05-4.mp3",
-    "text": "text/05-4.txt"
+    "text": "text/05-4.txt",
+    "content": "data/05-4.json"
   },
   {
     "title": "05-5",
@@ -330,7 +366,8 @@
     "chapterTitleZh": "公共场所",
     "lessonTitle": "5.5 银行",
     "audio": "media/05-5.mp3",
-    "text": "text/05-5.txt"
+    "text": "text/05-5.txt",
+    "content": "data/05-5.json"
   },
   {
     "title": "05-6",
@@ -339,7 +376,8 @@
     "chapterTitleZh": "公共场所",
     "lessonTitle": "5.6 医院",
     "audio": "media/05-6.mp3",
-    "text": "text/05-6.txt"
+    "text": "text/05-6.txt",
+    "content": "data/05-6.json"
   },
   {
     "title": "05-7",
@@ -348,7 +386,8 @@
     "chapterTitleZh": "公共场所",
     "lessonTitle": "5.7 消防局和警察局",
     "audio": "media/05-7.mp3",
-    "text": "text/05-7.txt"
+    "text": "text/05-7.txt",
+    "content": "data/05-7.json"
   },
   {
     "title": "05-8",
@@ -357,7 +396,8 @@
     "chapterTitleZh": "公共场所",
     "lessonTitle": "5.8 宗教场所",
     "audio": "media/05-8.mp3",
-    "text": "text/05-8.txt"
+    "text": "text/05-8.txt",
+    "content": "data/05-8.json"
   },
   {
     "title": "06-1",
@@ -366,7 +406,8 @@
     "chapterTitleZh": "运动",
     "lessonTitle": "6.1 游泳",
     "audio": "media/06-1.mp3",
-    "text": "text/06-1.txt"
+    "text": "text/06-1.txt",
+    "content": "data/06-1.json"
   },
   {
     "title": "06-2",
@@ -375,7 +416,8 @@
     "chapterTitleZh": "运动",
     "lessonTitle": "6.2 网球",
     "audio": "media/06-2.mp3",
-    "text": "text/06-2.txt"
+    "text": "text/06-2.txt",
+    "content": "data/06-2.json"
   },
   {
     "title": "06-3",
@@ -384,7 +426,8 @@
     "chapterTitleZh": "运动",
     "lessonTitle": "6.3 篮球",
     "audio": "media/06-3.mp3",
-    "text": "text/06-3.txt"
+    "text": "text/06-3.txt",
+    "content": "data/06-3.json"
   },
   {
     "title": "06-4",
@@ -393,7 +436,8 @@
     "chapterTitleZh": "运动",
     "lessonTitle": "6.4 棒球",
     "audio": "media/06-4.mp3",
-    "text": "text/06-4.txt"
+    "text": "text/06-4.txt",
+    "content": "data/06-4.json"
   },
   {
     "title": "06-5",
@@ -402,7 +446,8 @@
     "chapterTitleZh": "运动",
     "lessonTitle": "6.5 足球",
     "audio": "media/06-5.mp3",
-    "text": "text/06-5.txt"
+    "text": "text/06-5.txt",
+    "content": "data/06-5.json"
   },
   {
     "title": "06-6",
@@ -411,7 +456,8 @@
     "chapterTitleZh": "运动",
     "lessonTitle": "6.6 乒乓球",
     "audio": "media/06-6.mp3",
-    "text": "text/06-6.txt"
+    "text": "text/06-6.txt",
+    "content": "data/06-6.json"
   },
   {
     "title": "06-7",
@@ -420,7 +466,8 @@
     "chapterTitleZh": "运动",
     "lessonTitle": "6.7 健身",
     "audio": "media/06-7.mp3",
-    "text": "text/06-7.txt"
+    "text": "text/06-7.txt",
+    "content": "data/06-7.json"
   },
   {
     "title": "06-8",
@@ -429,7 +476,8 @@
     "chapterTitleZh": "运动",
     "lessonTitle": "6.8 其他运动",
     "audio": "media/06-8.mp3",
-    "text": "text/06-8.txt"
+    "text": "text/06-8.txt",
+    "content": "data/06-8.json"
   },
   {
     "title": "07-1",
@@ -438,7 +486,8 @@
     "chapterTitleZh": "心情",
     "lessonTitle": "7.1 开心",
     "audio": "media/07-1.mp3",
-    "text": "text/07-1.txt"
+    "text": "text/07-1.txt",
+    "content": "data/07-1.json"
   },
   {
     "title": "07-2",
@@ -447,7 +496,8 @@
     "chapterTitleZh": "心情",
     "lessonTitle": "7.2 惊讶",
     "audio": "media/07-2.mp3",
-    "text": "text/07-2.txt"
+    "text": "text/07-2.txt",
+    "content": "data/07-2.json"
   },
   {
     "title": "07-3",
@@ -456,7 +506,8 @@
     "chapterTitleZh": "心情",
     "lessonTitle": "7.3 害怕",
     "audio": "media/07-3.mp3",
-    "text": "text/07-3.txt"
+    "text": "text/07-3.txt",
+    "content": "data/07-3.json"
   },
   {
     "title": "07-4",
@@ -465,7 +516,8 @@
     "chapterTitleZh": "心情",
     "lessonTitle": "7.4 生气",
     "audio": "media/07-4.mp3",
-    "text": "text/07-4.txt"
+    "text": "text/07-4.txt",
+    "content": "data/07-4.json"
   },
   {
     "title": "07-5",
@@ -474,7 +526,8 @@
     "chapterTitleZh": "心情",
     "lessonTitle": "7.5 讨厌",
     "audio": "media/07-5.mp3",
-    "text": "text/07-5.txt"
+    "text": "text/07-5.txt",
+    "content": "data/07-5.json"
   },
   {
     "title": "07-6",
@@ -483,7 +536,8 @@
     "chapterTitleZh": "心情",
     "lessonTitle": "7.6 悲伤",
     "audio": "media/07-6.mp3",
-    "text": "text/07-6.txt"
+    "text": "text/07-6.txt",
+    "content": "data/07-6.json"
   },
   {
     "title": "08-1",
@@ -492,7 +546,8 @@
     "chapterTitleZh": "交通",
     "lessonTitle": "8.1 交通工具 (I)",
     "audio": "media/08-1.mp3",
-    "text": "text/08-1.txt"
+    "text": "text/08-1.txt",
+    "content": "data/08-1.json"
   },
   {
     "title": "08-2",
@@ -501,7 +556,8 @@
     "chapterTitleZh": "交通",
     "lessonTitle": "8.2 交通工具 (II)",
     "audio": "media/08-2.mp3",
-    "text": "text/08-2.txt"
+    "text": "text/08-2.txt",
+    "content": "data/08-2.json"
   },
   {
     "title": "08-3",
@@ -510,7 +566,8 @@
     "chapterTitleZh": "交通",
     "lessonTitle": "8.3 汽车",
     "audio": "media/08-3.mp3",
-    "text": "text/08-3.txt"
+    "text": "text/08-3.txt",
+    "content": "data/08-3.json"
   },
   {
     "title": "08-4",
@@ -519,7 +576,8 @@
     "chapterTitleZh": "交通",
     "lessonTitle": "8.4 机场",
     "audio": "media/08-4.mp3",
-    "text": "text/08-4.txt"
+    "text": "text/08-4.txt",
+    "content": "data/08-4.json"
   },
   {
     "title": "08-5",
@@ -528,7 +586,8 @@
     "chapterTitleZh": "交通",
     "lessonTitle": "8.5 港口",
     "audio": "media/08-5.mp3",
-    "text": "text/08-5.txt"
+    "text": "text/08-5.txt",
+    "content": "data/08-5.json"
   },
   {
     "title": "08-6",
@@ -537,7 +596,8 @@
     "chapterTitleZh": "交通",
     "lessonTitle": "8.6 道路",
     "audio": "media/08-6.mp3",
-    "text": "text/08-6.txt"
+    "text": "text/08-6.txt",
+    "content": "data/08-6.json"
   },
   {
     "title": "08-7",
@@ -546,7 +606,8 @@
     "chapterTitleZh": "交通",
     "lessonTitle": "8.7 加油站",
     "audio": "media/08-7.mp3",
-    "text": "text/08-7.txt"
+    "text": "text/08-7.txt",
+    "content": "data/08-7.json"
   },
   {
     "title": "08-8",
@@ -555,7 +616,8 @@
     "chapterTitleZh": "交通",
     "lessonTitle": "8.8 交通事故",
     "audio": "media/08-8.mp3",
-    "text": "text/08-8.txt"
+    "text": "text/08-8.txt",
+    "content": "data/08-8.json"
   },
   {
     "title": "09-1",
@@ -564,7 +626,8 @@
     "chapterTitleZh": "人体",
     "lessonTitle": "9.1 头部",
     "audio": "media/09-1.mp3",
-    "text": "text/09-1.txt"
+    "text": "text/09-1.txt",
+    "content": "data/09-1.json"
   },
   {
     "title": "09-2",
@@ -573,7 +636,8 @@
     "chapterTitleZh": "人体",
     "lessonTitle": "9.2 颈和躯干",
     "audio": "media/09-2.mp3",
-    "text": "text/09-2.txt"
+    "text": "text/09-2.txt",
+    "content": "data/09-2.json"
   },
   {
     "title": "09-3",
@@ -582,7 +646,8 @@
     "chapterTitleZh": "人体",
     "lessonTitle": "9.3 四肢",
     "audio": "media/09-3.mp3",
-    "text": "text/09-3.txt"
+    "text": "text/09-3.txt",
+    "content": "data/09-3.json"
   },
   {
     "title": "09-4",
@@ -591,7 +656,8 @@
     "chapterTitleZh": "人体",
     "lessonTitle": "9.4 内脏",
     "audio": "media/09-4.mp3",
-    "text": "text/09-4.txt"
+    "text": "text/09-4.txt",
+    "content": "data/09-4.json"
   },
   {
     "title": "09-5",
@@ -600,7 +666,8 @@
     "chapterTitleZh": "人体",
     "lessonTitle": "9.5 泌尿、生殖系统",
     "audio": "media/09-5.mp3",
-    "text": "text/09-5.txt"
+    "text": "text/09-5.txt",
+    "content": "data/09-5.json"
   },
   {
     "title": "09-6",
@@ -609,7 +676,8 @@
     "chapterTitleZh": "人体",
     "lessonTitle": "9.6 其他人体组成部分",
     "audio": "media/09-6.mp3",
-    "text": "text/09-6.txt"
+    "text": "text/09-6.txt",
+    "content": "data/09-6.json"
   },
   {
     "title": "09-7",
@@ -618,7 +686,8 @@
     "chapterTitleZh": "人体",
     "lessonTitle": "9.7 健康状况",
     "audio": "media/09-7.mp3",
-    "text": "text/09-7.txt"
+    "text": "text/09-7.txt",
+    "content": "data/09-7.json"
   },
   {
     "title": "10-1",
@@ -627,7 +696,8 @@
     "chapterTitleZh": "节日",
     "lessonTitle": "10.1 圣诞节",
     "audio": "media/10-1.mp3",
-    "text": "text/10-1.txt"
+    "text": "text/10-1.txt",
+    "content": "data/10-1.json"
   },
   {
     "title": "10-2",
@@ -636,7 +706,8 @@
     "chapterTitleZh": "节日",
     "lessonTitle": "10.2 复活节",
     "audio": "media/10-2.mp3",
-    "text": "text/10-2.txt"
+    "text": "text/10-2.txt",
+    "content": "data/10-2.json"
   },
   {
     "title": "10-3",
@@ -645,7 +716,8 @@
     "chapterTitleZh": "节日",
     "lessonTitle": "10.3 万圣节",
     "audio": "media/10-3.mp3",
-    "text": "text/10-3.txt"
+    "text": "text/10-3.txt",
+    "content": "data/10-3.json"
   },
   {
     "title": "10-4",
@@ -654,7 +726,8 @@
     "chapterTitleZh": "节日",
     "lessonTitle": "10.4 春节",
     "audio": "media/10-4.mp3",
-    "text": "text/10-4.txt"
+    "text": "text/10-4.txt",
+    "content": "data/10-4.json"
   },
   {
     "title": "10-5",
@@ -663,7 +736,8 @@
     "chapterTitleZh": "节日",
     "lessonTitle": "10.5 中秋节",
     "audio": "media/10-5.mp3",
-    "text": "text/10-5.txt"
+    "text": "text/10-5.txt",
+    "content": "data/10-5.json"
   },
   {
     "title": "10-6",
@@ -672,7 +746,8 @@
     "chapterTitleZh": "节日",
     "lessonTitle": "10.6 母亲节、父亲节",
     "audio": "media/10-6.mp3",
-    "text": "text/10-6.txt"
+    "text": "text/10-6.txt",
+    "content": "data/10-6.json"
   },
   {
     "title": "10-7",
@@ -681,7 +756,8 @@
     "chapterTitleZh": "节日",
     "lessonTitle": "10.7 世界地球日",
     "audio": "media/10-7.mp3",
-    "text": "text/10-7.txt"
+    "text": "text/10-7.txt",
+    "content": "data/10-7.json"
   },
   {
     "title": "10-8",
@@ -690,7 +766,8 @@
     "chapterTitleZh": "节日",
     "lessonTitle": "10.8 其他节日",
     "audio": "media/10-8.mp3",
-    "text": "text/10-8.txt"
+    "text": "text/10-8.txt",
+    "content": "data/10-8.json"
   },
   {
     "title": "11-1",
@@ -699,7 +776,8 @@
     "chapterTitleZh": "关于数字",
     "lessonTitle": "11.1 数字",
     "audio": "media/11-1.mp3",
-    "text": "text/11-1.txt"
+    "text": "text/11-1.txt",
+    "content": "data/11-1.json"
   },
   {
     "title": "11-2",
@@ -708,7 +786,8 @@
     "chapterTitleZh": "关于数字",
     "lessonTitle": "11.2 日期和日期",
     "audio": "media/11-2.mp3",
-    "text": "text/11-2.txt"
+    "text": "text/11-2.txt",
+    "content": "data/11-2.json"
   },
   {
     "title": "11-3",
@@ -717,7 +796,8 @@
     "chapterTitleZh": "关于数字",
     "lessonTitle": "11.3 时间",
     "audio": "media/11-3.mp3",
-    "text": "text/11-3.txt"
+    "text": "text/11-3.txt",
+    "content": "data/11-3.json"
   },
   {
     "title": "11-4",
@@ -726,7 +806,8 @@
     "chapterTitleZh": "关于数字",
     "lessonTitle": "11.4 计量单位",
     "audio": "media/11-4.mp3",
-    "text": "text/11-4.txt"
+    "text": "text/11-4.txt",
+    "content": "data/11-4.json"
   },
   {
     "title": "11-5",
@@ -735,7 +816,8 @@
     "chapterTitleZh": "关于数字",
     "lessonTitle": "11.5 简单计算",
     "audio": "media/11-5.mp3",
-    "text": "text/11-5.txt"
+    "text": "text/11-5.txt",
+    "content": "data/11-5.json"
   },
   {
     "title": "11-6",
@@ -744,7 +826,8 @@
     "chapterTitleZh": "关于数字",
     "lessonTitle": "11.6 代数 (I)",
     "audio": "media/11-6.mp3",
-    "text": "text/11-6.txt"
+    "text": "text/11-6.txt",
+    "content": "data/11-6.json"
   },
   {
     "title": "11-7",
@@ -753,7 +836,8 @@
     "chapterTitleZh": "关于数字",
     "lessonTitle": "11.7 代数 (II)",
     "audio": "media/11-7.mp3",
-    "text": "text/11-7.txt"
+    "text": "text/11-7.txt",
+    "content": "data/11-7.json"
   },
   {
     "title": "11-8",
@@ -762,7 +846,8 @@
     "chapterTitleZh": "关于数字",
     "lessonTitle": "11.8 几何",
     "audio": "media/11-8.mp3",
-    "text": "text/11-8.txt"
+    "text": "text/11-8.txt",
+    "content": "data/11-8.json"
   },
   {
     "title": "12-1",
@@ -771,7 +856,8 @@
     "chapterTitleZh": "恋爱婚姻",
     "lessonTitle": "12.1 恋爱关系",
     "audio": "media/12-1.mp3",
-    "text": "text/12-1.txt"
+    "text": "text/12-1.txt",
+    "content": "data/12-1.json"
   },
   {
     "title": "12-2",
@@ -780,7 +866,8 @@
     "chapterTitleZh": "恋爱婚姻",
     "lessonTitle": "12.2 情侣",
     "audio": "media/12-2.mp3",
-    "text": "text/12-2.txt"
+    "text": "text/12-2.txt",
+    "content": "data/12-2.json"
   },
   {
     "title": "12-3",
@@ -789,7 +876,8 @@
     "chapterTitleZh": "恋爱婚姻",
     "lessonTitle": "12.3 约会",
     "audio": "media/12-3.mp3",
-    "text": "text/12-3.txt"
+    "text": "text/12-3.txt",
+    "content": "data/12-3.json"
   },
   {
     "title": "12-4",
@@ -798,7 +886,8 @@
     "chapterTitleZh": "恋爱婚姻",
     "lessonTitle": "12.4 庆祝",
     "audio": "media/12-4.mp3",
-    "text": "text/12-4.txt"
+    "text": "text/12-4.txt",
+    "content": "data/12-4.json"
   },
   {
     "title": "12-5",
@@ -807,7 +896,8 @@
     "chapterTitleZh": "恋爱婚姻",
     "lessonTitle": "12.5 争吵",
     "audio": "media/12-5.mp3",
-    "text": "text/12-5.txt"
+    "text": "text/12-5.txt",
+    "content": "data/12-5.json"
   },
   {
     "title": "12-6",
@@ -816,7 +906,8 @@
     "chapterTitleZh": "恋爱婚姻",
     "lessonTitle": "12.6 结婚",
     "audio": "media/12-6.mp3",
-    "text": "text/12-6.txt"
+    "text": "text/12-6.txt",
+    "content": "data/12-6.json"
   },
   {
     "title": "12-7",
@@ -825,7 +916,8 @@
     "chapterTitleZh": "恋爱婚姻",
     "lessonTitle": "12.7 怀孕",
     "audio": "media/12-7.mp3",
-    "text": "text/12-7.txt"
+    "text": "text/12-7.txt",
+    "content": "data/12-7.json"
   },
   {
     "title": "12-8",
@@ -834,7 +926,8 @@
     "chapterTitleZh": "恋爱婚姻",
     "lessonTitle": "12.8 离婚",
     "audio": "media/12-8.mp3",
-    "text": "text/12-8.txt"
+    "text": "text/12-8.txt",
+    "content": "data/12-8.json"
   },
   {
     "title": "13-1",
@@ -843,7 +936,8 @@
     "chapterTitleZh": "人与国家",
     "lessonTitle": "13.1 五感",
     "audio": "media/13-1.mp3",
-    "text": "text/13-1.txt"
+    "text": "text/13-1.txt",
+    "content": "data/13-1.json"
   },
   {
     "title": "13-2",
@@ -852,7 +946,8 @@
     "chapterTitleZh": "人与国家",
     "lessonTitle": "13.2 动作",
     "audio": "media/13-2.mp3",
-    "text": "text/13-2.txt"
+    "text": "text/13-2.txt",
+    "content": "data/13-2.json"
   },
   {
     "title": "13-3",
@@ -861,7 +956,8 @@
     "chapterTitleZh": "人与国家",
     "lessonTitle": "13.3 外表",
     "audio": "media/13-3.mp3",
-    "text": "text/13-3.txt"
+    "text": "text/13-3.txt",
+    "content": "data/13-3.json"
   },
   {
     "title": "13-4",
@@ -870,7 +966,8 @@
     "chapterTitleZh": "人与国家",
     "lessonTitle": "13.4 人生阶段",
     "audio": "media/13-4.mp3",
-    "text": "text/13-4.txt"
+    "text": "text/13-4.txt",
+    "content": "data/13-4.json"
   },
   {
     "title": "13-5",
@@ -879,7 +976,8 @@
     "chapterTitleZh": "人与国家",
     "lessonTitle": "13.5 家庭成员",
     "audio": "media/13-5.mp3",
-    "text": "text/13-5.txt"
+    "text": "text/13-5.txt",
+    "content": "data/13-5.json"
   },
   {
     "title": "13-6",
@@ -888,7 +986,8 @@
     "chapterTitleZh": "人与国家",
     "lessonTitle": "13.6 地区与民族",
     "audio": "media/13-6.mp3",
-    "text": "text/13-6.txt"
+    "text": "text/13-6.txt",
+    "content": "data/13-6.json"
   },
   {
     "title": "13-7",
@@ -897,7 +996,8 @@
     "chapterTitleZh": "人与国家",
     "lessonTitle": "13.7 国家 (I)",
     "audio": "media/13-7.mp3",
-    "text": "text/13-7.txt"
+    "text": "text/13-7.txt",
+    "content": "data/13-7.json"
   },
   {
     "title": "13-8",
@@ -906,7 +1006,8 @@
     "chapterTitleZh": "人与国家",
     "lessonTitle": "13.8 国家 (II)",
     "audio": "media/13-8.mp3",
-    "text": "text/13-8.txt"
+    "text": "text/13-8.txt",
+    "content": "data/13-8.json"
   },
   {
     "title": "14-1",
@@ -915,7 +1016,8 @@
     "chapterTitleZh": "梳妆打扮",
     "lessonTitle": "14.1 衣服",
     "audio": "media/14-1.mp3",
-    "text": "text/14-1.txt"
+    "text": "text/14-1.txt",
+    "content": "data/14-1.json"
   },
   {
     "title": "14-2",
@@ -924,7 +1026,8 @@
     "chapterTitleZh": "梳妆打扮",
     "lessonTitle": "14.2 上衣",
     "audio": "media/14-2.mp3",
-    "text": "text/14-2.txt"
+    "text": "text/14-2.txt",
+    "content": "data/14-2.json"
   },
   {
     "title": "14-3",
@@ -933,7 +1036,8 @@
     "chapterTitleZh": "梳妆打扮",
     "lessonTitle": "14.3 下装与内衣",
     "audio": "media/14-3.mp3",
-    "text": "text/14-3.txt"
+    "text": "text/14-3.txt",
+    "content": "data/14-3.json"
   },
   {
     "title": "14-4",
@@ -942,7 +1046,8 @@
     "chapterTitleZh": "梳妆打扮",
     "lessonTitle": "14.4 配饰 (I)",
     "audio": "media/14-4.mp3",
-    "text": "text/14-4.txt"
+    "text": "text/14-4.txt",
+    "content": "data/14-4.json"
   },
   {
     "title": "14-5",
@@ -951,7 +1056,8 @@
     "chapterTitleZh": "梳妆打扮",
     "lessonTitle": "14.5 配饰 (II)",
     "audio": "media/14-5.mp3",
-    "text": "text/14-5.txt"
+    "text": "text/14-5.txt",
+    "content": "data/14-5.json"
   },
   {
     "title": "14-6",
@@ -960,7 +1066,8 @@
     "chapterTitleZh": "梳妆打扮",
     "lessonTitle": "14.6 鞋",
     "audio": "media/14-6.mp3",
-    "text": "text/14-6.txt"
+    "text": "text/14-6.txt",
+    "content": "data/14-6.json"
   },
   {
     "title": "14-7",
@@ -969,7 +1076,8 @@
     "chapterTitleZh": "梳妆打扮",
     "lessonTitle": "14.7 美发",
     "audio": "media/14-7.mp3",
-    "text": "text/14-7.txt"
+    "text": "text/14-7.txt",
+    "content": "data/14-7.json"
   },
   {
     "title": "14-8",
@@ -978,7 +1086,8 @@
     "chapterTitleZh": "梳妆打扮",
     "lessonTitle": "14.8 化妆品",
     "audio": "media/14-8.mp3",
-    "text": "text/14-8.txt"
+    "text": "text/14-8.txt",
+    "content": "data/14-8.json"
   },
   {
     "title": "15-1",
@@ -987,7 +1096,8 @@
     "chapterTitleZh": "动物",
     "lessonTitle": "15.1 昆虫",
     "audio": "media/15-1.mp3",
-    "text": "text/15-1.txt"
+    "text": "text/15-1.txt",
+    "content": "data/15-1.json"
   },
   {
     "title": "15-2",
@@ -996,7 +1106,8 @@
     "chapterTitleZh": "动物",
     "lessonTitle": "15.2 海洋动物",
     "audio": "media/15-2.mp3",
-    "text": "text/15-2.txt"
+    "text": "text/15-2.txt",
+    "content": "data/15-2.json"
   },
   {
     "title": "15-3",
@@ -1005,7 +1116,8 @@
     "chapterTitleZh": "动物",
     "lessonTitle": "15.3 哺乳动物 (I)",
     "audio": "media/15-3.mp3",
-    "text": "text/15-3.txt"
+    "text": "text/15-3.txt",
+    "content": "data/15-3.json"
   },
   {
     "title": "15-4",
@@ -1014,7 +1126,8 @@
     "chapterTitleZh": "动物",
     "lessonTitle": "15.4 哺乳动物 (II)",
     "audio": "media/15-4.mp3",
-    "text": "text/15-4.txt"
+    "text": "text/15-4.txt",
+    "content": "data/15-4.json"
   },
   {
     "title": "15-5",
@@ -1023,7 +1136,8 @@
     "chapterTitleZh": "动物",
     "lessonTitle": "15.5 鸟类 (I)",
     "audio": "media/15-5.mp3",
-    "text": "text/15-5.txt"
+    "text": "text/15-5.txt",
+    "content": "data/15-5.json"
   },
   {
     "title": "15-6",
@@ -1032,7 +1146,8 @@
     "chapterTitleZh": "动物",
     "lessonTitle": "15.6 鸟类 (II)",
     "audio": "media/15-6.mp3",
-    "text": "text/15-6.txt"
+    "text": "text/15-6.txt",
+    "content": "data/15-6.json"
   },
   {
     "title": "15-7",
@@ -1041,7 +1156,8 @@
     "chapterTitleZh": "动物",
     "lessonTitle": "15.7 两栖类和爬行类",
     "audio": "media/15-7.mp3",
-    "text": "text/15-7.txt"
+    "text": "text/15-7.txt",
+    "content": "data/15-7.json"
   },
   {
     "title": "15-8",
@@ -1050,7 +1166,8 @@
     "chapterTitleZh": "动物",
     "lessonTitle": "15.8 宠物",
     "audio": "media/15-8.mp3",
-    "text": "text/15-8.txt"
+    "text": "text/15-8.txt",
+    "content": "data/15-8.json"
   },
   {
     "title": "16-1",
@@ -1059,7 +1176,8 @@
     "chapterTitleZh": "大自然",
     "lessonTitle": "16.1 地球",
     "audio": "media/16-1.mp3",
-    "text": "text/16-1.txt"
+    "text": "text/16-1.txt",
+    "content": "data/16-1.json"
   },
   {
     "title": "16-2",
@@ -1068,7 +1186,8 @@
     "chapterTitleZh": "大自然",
     "lessonTitle": "16.2 地形 (I)",
     "audio": "media/16-2.mp3",
-    "text": "text/16-2.txt"
+    "text": "text/16-2.txt",
+    "content": "data/16-2.json"
   },
   {
     "title": "16-3",
@@ -1077,7 +1196,8 @@
     "chapterTitleZh": "大自然",
     "lessonTitle": "16.3 地形 (II)",
     "audio": "media/16-3.mp3",
-    "text": "text/16-3.txt"
+    "text": "text/16-3.txt",
+    "content": "data/16-3.json"
   },
   {
     "title": "16-4",
@@ -1086,7 +1206,8 @@
     "chapterTitleZh": "大自然",
     "lessonTitle": "16.4 自然资源",
     "audio": "media/16-4.mp3",
-    "text": "text/16-4.txt"
+    "text": "text/16-4.txt",
+    "content": "data/16-4.json"
   },
   {
     "title": "16-5",
@@ -1095,7 +1216,8 @@
     "chapterTitleZh": "大自然",
     "lessonTitle": "16.5 天气",
     "audio": "media/16-5.mp3",
-    "text": "text/16-5.txt"
+    "text": "text/16-5.txt",
+    "content": "data/16-5.json"
   },
   {
     "title": "16-6",
@@ -1104,7 +1226,8 @@
     "chapterTitleZh": "大自然",
     "lessonTitle": "16.6 花卉",
     "audio": "media/16-6.mp3",
-    "text": "text/16-6.txt"
+    "text": "text/16-6.txt",
+    "content": "data/16-6.json"
   },
   {
     "title": "16-7",
@@ -1113,7 +1236,8 @@
     "chapterTitleZh": "大自然",
     "lessonTitle": "16.7 树与草",
     "audio": "media/16-7.mp3",
-    "text": "text/16-7.txt"
+    "text": "text/16-7.txt",
+    "content": "data/16-7.json"
   },
   {
     "title": "16-8",
@@ -1122,7 +1246,8 @@
     "chapterTitleZh": "大自然",
     "lessonTitle": "16.8 宇宙",
     "audio": "media/16-8.mp3",
-    "text": "text/16-8.txt"
+    "text": "text/16-8.txt",
+    "content": "data/16-8.json"
   },
   {
     "title": "17-1",
@@ -1131,7 +1256,8 @@
     "chapterTitleZh": "还有什么呢?",
     "lessonTitle": "17.1 颜色",
     "audio": "media/17-1.mp3",
-    "text": "text/17-1.txt"
+    "text": "text/17-1.txt",
+    "content": "data/17-1.json"
   },
   {
     "title": "17-2",
@@ -1140,7 +1266,8 @@
     "chapterTitleZh": "还有什么呢?",
     "lessonTitle": "17.2 兴趣爱好",
     "audio": "media/17-2.mp3",
-    "text": "text/17-2.txt"
+    "text": "text/17-2.txt",
+    "content": "data/17-2.json"
   },
   {
     "title": "17-3",
@@ -1149,7 +1276,8 @@
     "chapterTitleZh": "还有什么呢?",
     "lessonTitle": "17.3 乐器",
     "audio": "media/17-3.mp3",
-    "text": "text/17-3.txt"
+    "text": "text/17-3.txt",
+    "content": "data/17-3.json"
   },
   {
     "title": "17-4",
@@ -1158,7 +1286,8 @@
     "chapterTitleZh": "还有什么呢?",
     "lessonTitle": "17.4 建筑艺术",
     "audio": "media/17-4.mp3",
-    "text": "text/17-4.txt"
+    "text": "text/17-4.txt",
+    "content": "data/17-4.json"
   },
   {
     "title": "17-5",
@@ -1167,7 +1296,8 @@
     "chapterTitleZh": "还有什么呢?",
     "lessonTitle": "17.5 童话故事",
     "audio": "media/17-5.mp3",
-    "text": "text/17-5.txt"
+    "text": "text/17-5.txt",
+    "content": "data/17-5.json"
   },
   {
     "title": "17-6",
@@ -1176,7 +1306,8 @@
     "chapterTitleZh": "还有什么呢?",
     "lessonTitle": "17.6 摄影",
     "audio": "media/17-6.mp3",
-    "text": "text/17-6.txt"
+    "text": "text/17-6.txt",
+    "content": "data/17-6.json"
   },
   {
     "title": "17-7",
@@ -1185,7 +1316,8 @@
     "chapterTitleZh": "还有什么呢?",
     "lessonTitle": "17.7 出版社",
     "audio": "media/17-7.mp3",
-    "text": "text/17-7.txt"
+    "text": "text/17-7.txt",
+    "content": "data/17-7.json"
   },
   {
     "title": "17-8",
@@ -1194,6 +1326,7 @@
     "chapterTitleZh": "还有什么呢?",
     "lessonTitle": "17.8",
     "audio": "media/17-8.mp3",
-    "text": "text/17-8.txt"
+    "text": "text/17-8.txt",
+    "content": "data/17-8.json"
   }
 ]

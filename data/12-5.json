@@ -1,0 +1,68 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "streit",
+        "knatsch",
+        "krach",
+        "schimpfen",
+        "Schimpfwort",
+        "sich zerstreiten",
+        "streitbar",
+        "Streiterei",
+        "uneinig",
+        "eifersucht",
+        "eifersüchtig",
+        "Kleinigkeit",
+        "Konflikt",
+        "Missverständnis",
+        "neid",
+        "neidisch",
+        "Verdacht",
+        "Faust",
+        "Ohrfeige",
+        "Prügelei",
+        "prügeln",
+        "Schlägerei",
+        "verprügeln",
+        "Dialog",
+        "enttäuschen",
+        "missverstehen",
+        "reden",
+        "schlichten",
+        "sich verständigen",
+        "Strategie",
+        "verstehen",
+        "entschuldigen",
+        "Entschuldigung",
+        "Verzeihung",
+        "Schuld",
+        "sich aussöhnen",
+        "vergeben",
+        "vermitteln",
+        "verzeihen"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "In dieser Diskussion sind die Geschäftspartner noch uneinig.",
+        "Sie ist neidisch auf ihren Freund.",
+        "In der Vergangenheit hatte der Kaiser Gewalt über Leben und Tod.",
+        "Der starke Mann hielt dem Gegenüber die Faust unter die Nase.",
+        "Die Tochter bekommt eine saftige Ohrfeige von ihrer Mutter.",
+        "Ich bin enttäuscht davon.",
+        "Meine Eltern können mich nicht abholen.",
+        "Es gelang ihm nicht, den Streit zu schlichten.",
+        "Ich habe schon verstanden, was du meinst.",
+        "Die Mutter hat ihrem Sohn die Schuld längst vergeben.",
+        "Nach einer Abhandlung haben sich die beiden Geschäftspartner ausgesöhnt.",
+        "Der Staatspräsident möchte die Konflikte zwischen den Einheimischen und den Ausländern vermitteln.",
+        "Hast du schon wieder die ganze Nacht lang geweint?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "feiern einladen",
+        "Geburtstagsfeier",
+        "Geburtstagsgeschenk",
+        "Geburtstagskind",
+        "Geburtstagsparty",
+        "Geburtstagstisch",
+        "Geburtstagstorte",
+        "teilnehmen",
+        "anstoßen",
+        "Jahrestag",
+        "Liebling",
+        "Rosenhochzeit",
+        "die silberne Hochzeit",
+        "Perlenhochzeit",
+        "die goldene Hochzeit",
+        "beschenkt von jemandem werden",
+        "Candlelight-Dinner",
+        "Grußkarte",
+        "Liebhaber",
+        "Liebhaberin",
+        "Rosenstrauß",
+        "verwöhnen",
+        "viel lieb",
+        "Atmosphäre",
+        "Bilderrahmen",
+        "Ewigkeit",
+        "herzförmig",
+        "Kristall",
+        "Kunstblume",
+        "Luftballon",
+        "Spirale",
+        "Eros",
+        "Gedenktag",
+        "Jupiter",
+        "Lostag",
+        "Venus",
+        "zurückführen"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Herzlichen Glückwunsch zum Geburtstag!",
+        "Meine beste Freundin verschickt mir die Einladung zu Ihrer Geburtstagsfeier.",
+        "Das Geburtstagskind lebe hoch!",
+        "Man kann daran teilnehmen, aber das ist nicht obligatorisch.",
+        "Schätzchen, lass uns auf die Liebe anstoßen!",
+        "Am 3.",
+        "Oktober haben alle Deutschen den Jahrestag der Wiedervereinigung Deutschlands gefeiert.",
+        "Nach zehn gemeinsamen Ehejahren darf gefeiert werden.",
+        "Die Rosenhochzeit Die Franzosen sind die aufmerksameren Liebhaber, finden es sehr wichtig, den Partner zu verwöhnen.",
+        "Es ist schon eine Ewigkeit her.",
+        "Das neue Ehepaar lässt Luftballons fliegen.",
+        "Eros ist in der griechischen Mythologie der ursprüngliche Gott der Liebe.",
+        "Jupiter gilt als Beschützer des Staates sowie der Familie und des Hauses.",
+        "Der 14.",
+        "Februar galt im Volksglauben auch als einer der sogenannten Lostage.",
+        "Venus war eine der drei Göttinnen im Schönheitswettbewerb der griechischen Antike.",
+        "Er führte den Unfall auf einen Defekt an den Bremsen zurück."
+      ]
+    }
+  ]
+}

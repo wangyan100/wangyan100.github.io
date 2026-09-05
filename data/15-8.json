@@ -1,0 +1,68 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Haustiere",
+        "Bellen",
+        "Chihuahua",
+        "Halsband",
+        "Hundeleine",
+        "Hundesteuer",
+        "Husky",
+        "Jagdhund",
+        "Labrador",
+        "Schäferhund",
+        "Schnauze",
+        "Federstab",
+        "Futter",
+        "Kater",
+        "Katzenbaum",
+        "Miauen",
+        "Perserkatze",
+        "Rasse",
+        "Wildkatze",
+        "Falle",
+        "Hamster",
+        "Käfig",
+        "Mäuschen",
+        "Meerschweinchen",
+        "Rennmaus",
+        "Angorakaninchen",
+        "Fell",
+        "Hoppeln",
+        "Kaninchen",
+        "Löffel",
+        "Schlappohr",
+        "Schwanz",
+        "Aquarium",
+        "Einsiedlerkrebs",
+        "Filter",
+        "Fischglas",
+        "Füttern",
+        "Wasserpflanze",
+        "Zierfisch"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Hunde, die viel bellen, beißen nicht Die Hundeleine wird oft am Halsband des Hundes befestigt.",
+        "Die Haltung von Haushunden ist in Deutschland steuerpflichtig und die Hundesteuer wird von der Gemeinde erhoben.",
+        "Der Labrador ist ein mittelgroßer und kräftig gebauter Hund mit einem breiteren Schädel.",
+        "Die Katze ist so glücklich, weil es heute mehr Futter als sonst gibt.",
+        "Kater fühlte sich auf seinem Arm sichtlich wohl.",
+        "Wenn man so wachsam wie die Wildkatze ist, dann kann einem gar nichts passieren.",
+        "Hamster sind vorwiegend Pflanzenfresser und insbesondere Samenfresser.",
+        "Meerschweinchen sind Pflanzenfresser, die je nach Art und Lebensraum unterschiedlichste Pflanzen zu sich nehmen.",
+        "Der Hase stellt die Löffel hoch.",
+        "Mit Kamm und Bürste kann man die losen Haare der Angorakaninchen auskämmen, damit das Fell nicht verfilzt.",
+        "Die Affen rollen beim Laufen den Schwanz ein.",
+        "Bei den im Aquarium kultivierten Pflanzen handelt es sich entweder um Wasserpflanzen oder um auch emas gedeihende Sumpfpflanzen.",
+        "Hier darf der Vermieter seinen Mietern untersagen, diese Tiere zu füttern."
+      ]
+    }
+  ]
+}

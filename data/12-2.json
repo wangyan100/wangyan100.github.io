@@ -1,0 +1,66 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Liebespaar",
+        "Beziehungsdreieck",
+        "Ex-Freund",
+        "Ex-Freundin",
+        "Freund",
+        "Freundin",
+        "geliebte",
+        "geliebter",
+        "verliebte",
+        "verliebter Paar",
+        "bisexuell",
+        "heterosexuell",
+        "homosexuell Lesbe",
+        "Schwule",
+        "Transgender",
+        "ansprechen",
+        "Ehevermittler",
+        "Heiratsvermittlung Lebensgefährte",
+        "Lebensgefährten",
+        "verkuppeln",
+        "zusammen",
+        "zusammenleben an der Hand führen",
+        "anfassen",
+        "flirten",
+        "intim",
+        "kuscheln",
+        "Liebkosen",
+        "Streicheleinheit umarmen",
+        "küssen",
+        "wild",
+        "zärtlich",
+        "Luftkuss",
+        "Zungenkuss auseinander sein",
+        "mit jemandem Schluss machen",
+        "sich trennen"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Er traute sich nicht, seine Ex-Freundin wieder anzusprechen.",
+        "Sie sieht ihren Freund voller Zärtlichkeit an.",
+        "Nachts traf er sich immer mit seiner Geliebten.",
+        "Transgeschlechtlichkeit ist unabhängig von sexueller Orientierung.",
+        "Prinzipiell ist jeder Mensch bisexuell veranlagt.",
+        "Sind zwei Mädchen oder zwei Junge ein Paar, sind sie homosexuell.",
+        "Homosexuelle Mädchen werden als junge Lesben bezeichnet.",
+        "Dieser Ehevermittler möchte diese junge Frau mit einem älteren Mann verkuppeln.",
+        "In den meisten Ländern Europas ist Heiratsvermittlung heute meist eine kommerzielle Dienstleistung.",
+        "Wir sind zusammen, seit wir 17 sind.",
+        "Die Mutter fasste ihr Kind an und ging über die Straße.",
+        "Das Liebespaar kuschelt zusammen.",
+        "Sie hauchte ihm einen Luftkuss zu.",
+        "Nach der Trennung von seiner Freundin ist es ihm lange Zeit ziemlich schlecht gegangen.",
+        "Wir sind schon lange auseinander."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Schlafzimmer",
+        "Bett",
+        "Doppelbett",
+        "Einzelbett",
+        "Massivholzbett",
+        "Metallbett",
+        "Polterbett",
+        "Kommode",
+        "Nachttisch",
+        "Nachtschrank",
+        "Bettdecke",
+        "Betttuch",
+        "Bettlaken",
+        "Heizdecke",
+        "Kopfkissen",
+        "Kopfkissenbezug",
+        "Matratze",
+        "Zudeck",
+        "Zudecke",
+        "Frisierspiegel",
+        "Schminkspiegel",
+        "Kamm",
+        "Parfum",
+        "Schmuckkästchen",
+        "Standspiegel",
+        "Wandspiegel",
+        "Wattestäbchen",
+        "Mottenkugel",
+        "Kleiderbügel",
+        "Kleiderständer",
+        "Kleiderstange",
+        "Vakuumbeutel",
+        "Alptraum",
+        "Mittagsschlaf",
+        "Schlaflosigkeit",
+        "Schlafstörung",
+        "Traum"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Du sollst dich ins Bett legen und dich ausruhen.",
+        "Das neue Doppelbett ist ungeeignet und das Ehepaar wollte es zurückgeben.",
+        "Er erwacht auf einem Einzelbett in einem leeren Raum.",
+        "Meine Freunde haben mir eine Kommode geschenkt.",
+        "Auf dem Nachttisch liegt eine Bettlampe.",
+        "Im Winter brauche ich eine dicke Bettdecke.",
+        "Feilchenblätter waren ihre Matratze und ein Rosenblatt ihr Deckblatt.",
+        "Däumelinchen Mein Vater deckt meine junge Schwester sorgsam mit einer Zudecke zu.",
+        "Sie kämmt ihre langen schwarzen Haare mit diesem Kamm.",
+        "Diese Frau trägt so viel Parfüm auf, dass es stark und herb riecht.",
+        "Der Mann hilft seiner Frau, den Mantel auf den Kleiderbügel zu hängen.",
+        "Auf dem Kleiderständer im Flur trappierte der Designer verschiedene Kopfdeckungen.",
+        "Wenn uns Alpträume jede Nacht quälen, kann es zu Schlafstörungen kommen.",
+        "Er leidet schwer unter Schlaflosigkeit.",
+        "Der Traum ist ausgeträumt."
+      ]
+    }
+  ]
+}

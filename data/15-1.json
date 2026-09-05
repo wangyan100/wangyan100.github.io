@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Insekten",
+        "Ameise",
+        "Biene",
+        "Fangheuschrecke",
+        "Libelle",
+        "Marienkäfer",
+        "Mistkäfer",
+        "Schmetterling",
+        "Seidenraupe",
+        "Bockkäfer",
+        "Fliege",
+        "Goldlaufkäfer",
+        "Grashüpfer",
+        "Heuschrecke",
+        "Moskito",
+        "Motte",
+        "Termite",
+        "Grille",
+        "Larve",
+        "Leuchtkäfer",
+        "Reißkäfer",
+        "Schwimmkäfer",
+        "Spinne",
+        "Wespe",
+        "Fühler",
+        "Flügel",
+        "Facettenauge",
+        "Saugrüssel",
+        "Stachel",
+        "Kopf",
+        "Thorax",
+        "Abdomen",
+        "Flattern",
+        "Saugen",
+        "Schwärmen",
+        "Sich verpuppen",
+        "Summen",
+        "Stechen"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Sie ist fleißig wie eine Ameise.",
+        "Bienen ernähren sich rein vegetarisch.",
+        "Je näher er dem Bienenstock kam, desto deutlicher konnte er die Bienen-Summen hören.",
+        "Die Lebensdauer der adulten Libellen beträgt durchschnittlich etwa 6 bis 8 Wochen.",
+        "Libellen haben bis zu 30.000 Omatidien pro Facettenauge.",
+        "In der Wiese saßen so viele Grashüpfer, dass die Geräuschkulisse ohrenbetäubend war.",
+        "Heuschrecken werden in Teilen Afrikas, Asiens und Südamerikas als eiweißreiche Nahrung gegessen.",
+        "Das Leben eines Moskitos gliedert sich in vier verschiedene Stadien.",
+        "Ei, Larve, Puppe und Imago.",
+        "Diese Larve verpuppt sich und aus der Puppe schlüpft der Schmetterling.",
+        "Die Larven der meisten Bockkäferarten ernähren sich von Holz.",
+        "Leuchtkäfer sind auf allen Kontinenten mit Ausnahme der Antarktis zu finden.",
+        "Einige Spinnen sind Schädlinge, andere sind Nutztiere.",
+        "Das Mädchen wurde am Donnerstag im Kindergarten von einer Wespe in den Finger gestochen.",
+        "Die Fühler vom Bockkäfer sind länger als sein Körper."
+      ]
+    }
+  ]
+}

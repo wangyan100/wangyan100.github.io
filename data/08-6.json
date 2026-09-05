@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Weg",
+        "Allee",
+        "Boulevard",
+        "Einbahnstraße",
+        "Fahrbahn",
+        "Gasse",
+        "Hauptstraße",
+        "Landstraße",
+        "Querstraße",
+        "Radweg",
+        "Bürgersteig",
+        "Fußgänger",
+        "Fußgängerin",
+        "Fußgängerübergang",
+        "Fahrweg",
+        "Kreuzung",
+        "Verkehrsinsel",
+        "Überqueren",
+        "Brückenbahn",
+        "Brückenpfeiler",
+        "Steg",
+        "Unterführung",
+        "Viadukt",
+        "Widerlager",
+        "Zugbrücke",
+        "Überführung",
+        "Ampel",
+        "Tempolimit",
+        "Verkehrspolizei",
+        "Verkehrsregel",
+        "Verkehrsschild",
+        "Verkehrswiedrig",
+        "Parkgebühr",
+        "Parkplatz",
+        "Parkschein",
+        "Parkverbot",
+        "Stau",
+        "Verkehrschaos",
+        "Verkehrsreich",
+        "Verkehrsstark"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Die Karl-Marx-Allee in Berlin In Berlin war ein Prachtboulevard mit luxuriösem Wohnraum, der in den 1950er Jahren errichtet worden war.",
+        "Ab dem 1.",
+        "Juli soll auf französischen Landstraßen das Tempolimit auf 80 kmh gesenkt werden.",
+        "Fahren sollen die neuen Tretroller in der Regel auf Radwegen oder Fahrbahnen.",
+        "Ein Autofahrer war am Freitagabend mit hoher Geschwindigkeit eine Gruppe Passanten auf einem Bürgersteig zugerasst.",
+        "Eine Fußgängerin hat in Rostock ein totes Baby auf einer Straße entdeckt.",
+        "Bis zum 8.",
+        "Lebensjahr dürfen Kinder mit ihrem Fahrrad auf dem Gehweg fahren.",
+        "Bitte überqueren Sie nicht die Straße, wenn die Ampel noch rot ist.",
+        "Der Parkplatz dient ausschließlich Kunden des Kaufhauses.",
+        "Auf welchem Parkplatz Sie Ihren Pkw abgestellt haben, sowie das Datum und die Uhrzeit Ihres Parkbeginns.",
+        "Wir sollen eine andere Straße nehmen, um Staus zu vermeiden.",
+        "Mit seiner über 30-jährigen Erfahrung steuert der Busfahrer souveräne durch das Verkehrschaos."
+      ]
+    }
+  ]
+}

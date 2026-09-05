@@ -1,0 +1,61 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Tag und Datum Januar",
+        "Februar",
+        "März",
+        "April",
+        "Mai",
+        "Juni",
+        "Juli August",
+        "September",
+        "Oktober",
+        "November",
+        "Dezember",
+        "Montag",
+        "Dienstag",
+        "Mittwoch",
+        "Donnerstag",
+        "Freitag",
+        "Samstag",
+        "Sonntag",
+        "Wochenende",
+        "Halbjahr",
+        "Jahrhundert",
+        "Jahrelang",
+        "Schaltjahr",
+        "Zeitalter",
+        "vorgestern",
+        "gestern",
+        "heute",
+        "morgen",
+        "übermorgen"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Der Monat Februar umfasst in Gemeinjahren 28 Tage und in Schaltjahren 29 Tage.",
+        "Zwischen Januar 2016 und März 2019 seien in der EU mehr als 44.000 Fälle der hoch ansteckenden Infektionskrankheit gemeldet worden, teilte die Behörde mit.",
+        "Die Europäische Union will möglichst bis Ende Juni einen neuen Kommissionspräsidenten auswählen.",
+        "Das letzte schwere Erdbeben wurde in Peru am 15.",
+        "August 2007 registriert.",
+        "Die Legislaturperiode hat am 24.",
+        "September 2017 begonnen und wird bis zum Herbst 2021 dauern.",
+        "Der 22.",
+        "Dezember ist auf der Nordhalbkugel der kürzeste Tag im Jahr, die Nacht ist die längste.",
+        "Am kommenden Montag wird sie ihren Rücktritt als Vorsitzende der SPD erklären.",
+        "Der Dienstag gilt in der griechischen Kultur als Unglückstag.",
+        "Am Sonntag klettern die Temperaturen laut deutschem Wetterdienst gar auf bis zu 32 Grad.",
+        "China ist die aufstrebende Großmacht des 21.",
+        "Jahrhunderts.",
+        "Im kolonialen Zeitalter wurde das Reich der Mitte vom Westen ausgebeutet und gedemütigt.",
+        "Diese Familie ist gestern gekommen, bleibt heute und morgen und fährt übermorgen weiter."
+      ]
+    }
+  ]
+}

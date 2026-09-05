@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Basketball",
+        "Akteur",
+        "Auswechselspieler",
+        "Bankspieler",
+        "Feldspieler",
+        "Center",
+        "Forward",
+        "Guard",
+        "Auslinie",
+        "die begrenzte Zone",
+        "Drei-Punkte-Linie",
+        "Endlinie",
+        "Freivorflinie",
+        "Korb",
+        "Vorfeld",
+        "Rückfeld",
+        "Zielbrett",
+        "Dunking",
+        "Faul",
+        "Freivorf",
+        "Halbzeit",
+        "Korbwurf",
+        "Nahwurf",
+        "Treffer",
+        "Viertel",
+        "Weitwurf",
+        "abwehren",
+        "abdrängen",
+        "blockieren",
+        "dribbeln",
+        "in den Korb legen",
+        "rempeln",
+        "springen",
+        "auswärts",
+        "Gastmannschaft",
+        "Heimmannschaft",
+        "Platzmannschaft",
+        "Heimspiel",
+        "Heimvorteil",
+        "startende 5",
+        "Erste 5"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Die Startaufstellung der Feldspieler besteht aus einem Center, zwei Forwards und zwei Guards.",
+        "Der Center ist meist der größte und körperlich stärkste Spieler einer Mannschaft.",
+        "Der Guard gibt den Ball zum Power Forward ab.",
+        "Der Ball hat die Auslinie überschritten.",
+        "Immer wenn Nowitzki zum Korbwurf ansetzte, erhoben sich die Fans von ihren Sitzen.",
+        "Der Schiedsrichter stellt wegen Faul den Feldspieler vom Platz.",
+        "Der ballführende Spieler begeht ein Faul durch rempeln.",
+        "In der zweiten Halbzeit hat die Mannschaft noch einmal aufgedreht.",
+        "Der Treffer in den Korb zählt nach Entfernung zwei oder drei Punkte.",
+        "Ein Basketballspiel besteht aus Vierteln und jedes Viertel hat eine Dauer von 10 Minuten.",
+        "Gute Verteidiger können den Angreifer schnell abdrängen.",
+        "Dieser Spieler kann zwei Meter hoch springen.",
+        "Der 40 Jahre alte Profi kündigte nach dem letzten Heimspiel an, seine Karriere zu beenden.",
+        "Einen Heimvorteil haben Mannschaften an die örtlichen Gegebenheiten besser angepasst zu sein als der Gegner."
+      ]
+    }
+  ]
+}

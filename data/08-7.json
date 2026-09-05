@@ -1,0 +1,70 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Tankstelle",
+        "Selbstbedienung",
+        "Tank",
+        "Tankautomat",
+        "Tankfahrzeug",
+        "Tankpumpe",
+        "Zapfventil",
+        "Zapfschlauch",
+        "Zapfsäule",
+        "Autogas",
+        "Flüssiggas",
+        "Benzin",
+        "Diesel",
+        "Erdgas",
+        "Maschinenöl",
+        "Oktanzahl",
+        "Petroleum",
+        "Wasserstoff",
+        "Abgabemenge",
+        "Betanken",
+        "Grundpreis",
+        "Katalysator",
+        "Kraftstoffeinsparung",
+        "Tankkarte",
+        "Tankwart",
+        "Ölwechselintervall",
+        "Hochdruckstrahl",
+        "Lappen",
+        "Reinigen",
+        "Reinigungsbürste",
+        "Spülen",
+        "Trocknen",
+        "Vorwaschen",
+        "Waschstraße",
+        "Abrechnen",
+        "Absaugen",
+        "Anfahren",
+        "Benutzen",
+        "Verwenden",
+        "Einfüllen",
+        "Einstecken",
+        "Füllen"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Viele Tankstellen in Deutschland verdienen mehr mit dem Verkauf von Supermarktartikeln als mit dem von Kraftstoff.",
+        "An der Tankstelle kann sowohl flüssiger als auch gasförmiger Wasserstoff getankt werden.",
+        "Außerhalb der Öffnungszeiten kann man an manchen Tankstellen einen Tankautomaten benutzen.",
+        "Ein Tankfahrzeug kann flüssige Stoffe, Gase, pulverförmige oder körnige Stoffe befördern.",
+        "Über das Zapfventil wird der Kraftstoff in den Tank des Fahrzeuges gefüllt.",
+        "An einer Zapfsäule hat der Mann plötzlich eine Waffe aus einer Jackentasche gezogen.",
+        "Der Motor dieses Krans kann sowohl mit Benzin als auch mit Autogas betrieben werden.",
+        "Der Diesel-Skandal hat dem Ruf von Volkswagen schwer geschadet.",
+        "Früher war es üblich, dass die Tankwarte auch die Windschutzscheibe putzten.",
+        "Bei stark verschmutzter Wäsche und auch bei großen Textilien wie Gardinen soll man zuerst vorwaschen.",
+        "Ein Vorteil von Waschstraßen ist, dass das Auto meist vom Kunden nicht verlassen werden muss.",
+        "Ich habe das Stromkabel in die Steckdose eingesteckt."
+      ]
+    }
+  ]
+}

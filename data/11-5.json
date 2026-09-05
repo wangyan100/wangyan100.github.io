@@ -1,0 +1,48 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "einfaches rechnen addieren",
+        "Addition plus",
+        "Summe subtrahieren",
+        "Subtraktion minus",
+        "Differenzwert dividieren",
+        "Division durch Quotient",
+        "multiplizieren Multiplikation",
+        "mal Produkt operant",
+        "Divisor Dividend",
+        "Multiplikator Multiplikant",
+        "Subtrahend Minuend",
+        "Summand Divisionszeichen",
+        "Gleichheitszeichen größer als",
+        "kleiner als",
+        "Minuszeichen Malzeichen",
+        "Pluszeichen Ungleichheitszeichen",
+        "Bruch Dezimalbruch",
+        "ganze Zahlen Gradezahlen",
+        "Ungradezahlen Primzahl"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Addition, Subtraktion, Multiplikation und Division sind die vier Grundrechnungsarten.",
+        "Bei der Addition kommt eine hohe Summe heraus.",
+        "Die Addition ist die wichtigste Grundrechenart, denn auf alle mathematischen Operationen bauen auf ihr auf.",
+        "Will man zwei Zahlen addieren, schreibt man dazwischen ein Pluszeichen. 1 plus 1 ist 2.",
+        "Subtrahiert man 58 von 120, erhält man 62.",
+        "Bei der Subtraktion wird eine Zahl von der anderen abgezogen.",
+        "Die Division ist nicht glatt aufgegangen.",
+        "Die beiden Operanden werden in Subtraktion Minuend und Subtrahend genannt.",
+        "Das Ergebnis heißt Differenzwert.",
+        "Wenn die Operanden natürliche oder ganze Zahlen sind, so ist das Ergebnis der Multiplikation ebenfalls wieder eine natürliche oder ganze Zahl.",
+        "Wenn sowohl der Dividend, Divisor, als auch der Wert des Quotienten eine ganze Zahl ist, nennt man den Divisor einen Teiler des Dividenden.",
+        "Eine Geradezahl heißt Gerade, wenn sie ohne Rest durch 2 teilbar ist.",
+        "Eine Primzahl ist eine natürliche Zahl."
+      ]
+    }
+  ]
+}

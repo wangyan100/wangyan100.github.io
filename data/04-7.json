@@ -1,0 +1,66 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Museum anmelden",
+        "Audioguide",
+        "Aushang",
+        "Broschüre",
+        "Führung",
+        "Garderobe",
+        "Schließfach",
+        "Wartebereich",
+        "Antiquität",
+        "Ausstellungsfläche",
+        "Ausstellungshalle",
+        "Ausstellungsobjekt",
+        "Ausstellungsraum",
+        "Dauerausstellung",
+        "Sonderausstellung",
+        "Relief",
+        "Schnitzerei",
+        "Skulptur",
+        "Steinskulptur",
+        "Wachsfigur",
+        "Aquarelle",
+        "Collage",
+        "Gemälde",
+        "Malerei",
+        "Holzschnitt",
+        "Kupferstich",
+        "Lithographie",
+        "Ölgemälde",
+        "Portrait",
+        "Bronzeguss",
+        "Keramik",
+        "Porzellan",
+        "Vase",
+        "beeindrucken",
+        "besichtigen",
+        "besuchen",
+        "genießen",
+        "kritisieren"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Alle Besuche von Gruppen müssen vorher angemeldet werden.",
+        "Audioguides gibt es für alle Museen in den Sprachen Deutsch und Englisch.",
+        "Die genauen Termine werden durch Aushang bekannt gegeben.",
+        "Die Führung durch das Historische Museum ist kostenlos.",
+        "Ihre Garderobe können Sie hier ablegen.",
+        "Rucksäcke und größere Taschen müssen abgegeben oder in Schließfächern aufbewahrt werden.",
+        "Es ist nicht gestattet, in den Ausstellungsräumen zu essen oder zu trinken.",
+        "In der Sonderausstellung sind viele hübsche Porzellane zu sehen.",
+        "Der Roman ist ein Gemälde des Befreiungskrieges in China.",
+        "Auf den ersten Blick erscheint sie wie ein Ölgemälde.",
+        "Der Maler zeichnet von dem Besucher ein Portrait.",
+        "Pergamonmuseum beeindruckt zahlreiche Touristen aus aller Welt."
+      ]
+    }
+  ]
+}

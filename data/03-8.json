@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "wohnen",
+        "Miete",
+        "Kaltmiete",
+        "Warmmiete",
+        "Kaution",
+        "Mieter",
+        "Mietvertrag",
+        "Nebenkosten",
+        "Vermieter",
+        "einziehen",
+        "ausziehen",
+        "umziehen",
+        "Mieten",
+        "Vermieten",
+        "Nachmieten",
+        "Untervermieten",
+        "Apartment",
+        "Einzelapartment",
+        "Wohngemeinschaft",
+        "bungalow",
+        "Wohnhochhaus",
+        "Villa",
+        "Wohnung",
+        "Einliegerwohnung",
+        "Schloss",
+        "Burg",
+        "Hütte",
+        "Wohnheim",
+        "Kaiserpalast",
+        "Ferienhaus",
+        "Ferienwohnung",
+        "Hotel",
+        "Tor",
+        "Hof",
+        "Fensterladen",
+        "Jalousette",
+        "Dachvorsprung",
+        "Zimmerdecke",
+        "Fußboden",
+        "Gästezimmer"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "In der Warmmiete sind die Kosten für Strom, Gas und Wasser einbezogen.",
+        "In Deutschland werden normalerweise drei Monatsmieten als Kaution verlangt.",
+        "Der Mieter hat sein Zimmer an eine Frau untervermietet.",
+        "Soll ich auf dem Mietvertrag unterschreiben?",
+        "Ich möchte ein Zimmer möbliert mieten.",
+        "Nach dem Studium bin ich von Berlin nach Heidelberg umgezogen.",
+        "Wenn ich durch das Wohnviertel fahre, sehe ich viele leerstehende Apartments.",
+        "Um Geld zu sparen, suchen viele Studenten die Wohnungen im Wohnheim.",
+        "Schloss Neuschwanstein ist sehenswert.",
+        "Hier lasst uns Hütten bauen.",
+        "Der Kaiserpalast befindet sich im Zentrum Pekings.",
+        "Das Brandenburger Tor ist das Symbol für Deutschland.",
+        "Der Sturm rappelte an den Fensterläden und das Kind weinte vor Angst."
+      ]
+    }
+  ]
+}

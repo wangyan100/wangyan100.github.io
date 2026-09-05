@@ -1,0 +1,62 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Algebra 2",
+        "Approximation",
+        "Die bekannte Zahl",
+        "Die unbekannte Zahl",
+        "Funktion",
+        "Identität",
+        "Koeffizient",
+        "Kubus",
+        "Quadrat",
+        "Radikant",
+        "Radizieren",
+        "Wurzel",
+        "Kubikwurzel",
+        "Quadratwurzel",
+        "Wurzelexponent",
+        "Wurzelwert",
+        "Wurzelzeichen",
+        "Koordinatenachse",
+        "Abszissenachse",
+        "Ordinatenachse",
+        "Koordinatensystem",
+        "Hyperbil",
+        "Nullpunkt",
+        "Parabel",
+        "Quadrant",
+        "Vektor",
+        "Annähernd gleich",
+        "Identisch",
+        "Unendlich",
+        "Ungleich",
+        "Die lineare Algebra",
+        "Topologie",
+        "Wahrscheinlichkeitstheorie"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Mit der Approximation irrationaler Zahlen durch rationale beschäftigt sich die Theorie der diophantischen Approximation.",
+        "Lineare Funktion ist nicht schwer für ihn.",
+        "Der Koeffizient ist die Zahl in einem Term.",
+        "Sie steht immer vor der Unbekannten.",
+        "Wie 2 von 2x.",
+        "Es ist unmöglich, einen Kubus in zwei Kuben zu zerlegen. 4 zum Quadrat ist 16. 2 ist die Kubikwurzel von 8.",
+        "Koordinatenachsen sind herausgehobene Linien, die für Positionsangaben in Fläche oder Raum den Bezug liefern.",
+        "Die beiden Richtungsachsen von Koordinatenachsen stehen orthogonal aufeinander, schneiden sich also im 90°-Winkel.",
+        "Man bezeichnet die horizontale Achse als Abszissenachse.",
+        "Die vertikale Achse heißt Ordinatenachse.",
+        "In einem karthesischen Koordinatensystem werden die 4 Quadranten entgegen dem Uhrzeigersinn mit 1, 2, 3, 4 bzw. 1, 2, 3, 4 bezeichnet.",
+        "Die Topologie ist ein fundamentales Teilgebiet der Mathematik.",
+        "Die Wahrscheinlichkeitstheorie bildet gemeinsam mit der mathematischen Statistik das weite Feld der Stochastik, die von der Beschreibung zufälliger Ereignisse und ihrer Modellierung handelt."
+      ]
+    }
+  ]
+}

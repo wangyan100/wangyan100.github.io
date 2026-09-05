@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>German Audio Reader</title>
-    <link rel="stylesheet" href="styles.css?v=20260903071431416278">
+    <link rel="stylesheet" href="styles.css?v=20260905095617506764">
   </head>
   <body>
     <main class="shell">
@@ -43,12 +43,20 @@
         <audio id="audioPlayer" class="audio" controls preload="metadata"></audio>
 
         <article class="transcript-panel">
-          <h3>Transcript</h3>
-          <pre id="transcript" class="transcript">Loading transcript...</pre>
+          <div class="transcript-heading">
+            <div>
+              <p class="kicker">Read along</p>
+              <h3>Transcript</h3>
+            </div>
+            <span id="transcriptCount" class="transcript-count"></span>
+          </div>
+          <div id="transcript" class="transcript" aria-live="polite">
+            <p class="transcript-status">Loading transcript...</p>
+          </div>
         </article>
       </section>
     </main>
 
-    <script src="app.js?v=20260903071431416278"></script>
+    <script src="app.js?v=20260905095617506764"></script>
   </body>
 </html>

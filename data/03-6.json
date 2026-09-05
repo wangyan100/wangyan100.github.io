@@ -1,0 +1,45 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "andere Gebäudeteile auf ab Druckknopf Erdgeschoss",
+        "Notruf Untergeschoss",
+        "Überwachungskamera Blumentopf",
+        "Gartenzwerg Gießkanne",
+        "Hundehütte Schlauch",
+        "Sprinkler Zaun",
+        "Antenne Dachgarten",
+        "Dachrinne Ziegel",
+        "Dachzimmer Leiter",
+        "Schornstein Solardach",
+        "Terrasse Balkonblende",
+        "Sonnenschirm Blumenkasten",
+        "Fliegenfenster Lichterkette",
+        "Pflanzenwand Wäscheleine",
+        "Auto Carport",
+        "Lastkraftwagen Rasenmäher",
+        "Geländer Treppe"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Möchtest du den Aufzug nehmen oder die Treppe?",
+        "Ein Gartenzwerg wird verwendet, um Gärten auszustatten und Wohnraum zu dekorieren.",
+        "Und völlig verwirrt hatte der kleine Prinz eine Gießkanne mit frischem Wasser geholt und die Blumen begossen.",
+        "Der kleine Prinz Mit einem Schlauch bewässert man große Grünflächen in Parks.",
+        "Laut Polizei brach ein Mann mit seinem Auto durch den Zaun, als das Paar in der Küche kochte.",
+        "Die Antenne wurde auf dem Dach angebracht.",
+        "Die Bauarbeiter decken ein Dach mit Ziegeln.",
+        "Er hat seine Frau angeherrscht, das Dachzimmer sofort zu verlassen.",
+        "Er ist endlich die Leiter des Erfolgs empor gestiegen.",
+        "Der Schornstein raucht wieder.",
+        "Wir können eine Kaffeepause auf der Terrasse machen.",
+        "Mein Freund hat ein gebrauchtes Auto gekauft."
+      ]
+    }
+  ]
+}

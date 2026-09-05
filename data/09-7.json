@@ -1,0 +1,57 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Gesundheitszustand Lebenserwartung",
+        "physiologisch physisch",
+        "körperlich",
+        "psychisch",
+        "seelisch",
+        "wohl",
+        "wohl Wohlbefinden",
+        "anstecken Ansteckungsquelle",
+        "immun Immundefekt",
+        "immunisieren Prävention",
+        "vorbeugen Verhüten",
+        "Bakterie Druck",
+        "Stress",
+        "Erreger Gift",
+        "Infektion",
+        "Karzinogen Lebensweise",
+        "Strahlung Virus",
+        "akut",
+        "chronisch",
+        "bösartig",
+        "gutartig",
+        "allergisch",
+        "atypisch",
+        "epidemisch infektiös",
+        "altern Alterung",
+        "ergraut Falte",
+        "Runzel Osteoporose"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Menschen sind gesünder und haben eine längere Lebenserwartung.",
+        "Bei der häuslichen Gewalt wird man sowohl körperlich als auch psychisch verletzt.",
+        "Du siehst wohl aus.",
+        "Lass dich von seiner Grippe nicht anstecken.",
+        "Der Engländer Edward Jenner entdeckte im Jahr 1797, dass man den Pocken mit Kuhpocken impfen und immunisieren kann.",
+        "Die Impfung wird durch regelmäßigen Sport vorgebeugt.",
+        "Infektionskrankheiten können durch Bakterien oder Viren hervorgerufen werden.",
+        "Wann steht ihr zu sehr unter Druck und wie geht ihr damit um?",
+        "Darauf kannst du Gift nehmen.",
+        "Max hat eine gesunde Lebensweise und läuft jeden Morgen.",
+        "Die radioaktive Strahlung ist für Menschen sehr gefährlich.",
+        "Die Krankheit trat akut auf.",
+        "Das infektiöse Material wird in besonderen Containern gesammelt und verbrannt.",
+        "Die Krankheit Osteoporose betrifft zunächst ältere Menschen, vor allem Frauen nach der Menopause."
+      ]
+    }
+  ]
+}

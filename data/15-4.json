@@ -1,0 +1,72 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Säugetiere",
+        "zwei",
+        "Dachs",
+        "Fuchs",
+        "Hyäne",
+        "Marderhund",
+        "Polarfuchs",
+        "Schakal",
+        "Wiesel",
+        "Wolf",
+        "Bengalkatze",
+        "Gepard",
+        "Leopard",
+        "Löwe",
+        "Luchs",
+        "Puma",
+        "Silberlöwe",
+        "Tiger",
+        "Affe",
+        "Gibbon",
+        "Gorilla",
+        "Makak",
+        "Mandrill",
+        "Pavian",
+        "Schimpanse",
+        "Stumpfnasenaffe",
+        "Beuteldachs",
+        "Beutelmarder",
+        "Beutelratte",
+        "Koala",
+        "Wombat",
+        "Beutel",
+        "Zitze",
+        "Fledermaus",
+        "Flughund",
+        "Rosettenflughund",
+        "Vampirfledermaus",
+        "Elefant",
+        "Mammut",
+        "Rüssel",
+        "Stoßzahn"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Der Junge ist schlau wie ein Fuchs.",
+        "Der Polarfuchs ist der einzige Wildhund, der die Farbe seines Pelzes den Jahreszeiten entsprechend wechselt.",
+        "Die Bengalkatze wird wegen ihres Fels gejagt.",
+        "Nach dem Mahl bedeckt Leopard seine Beutereste mit Gras, Zweigen oder Laub.",
+        "Pumas sind sehr beweglich und kräftig.",
+        "In Malaysia, Indonesien und Thailand werden Makaken zur Kokosnussernte eingesetzt.",
+        "Beuteldachs sind Allesfresser.",
+        "Ihr Speiseplan reicht von Insekten über kleine Wirbeltiere bis zu pflanzlichem Material.",
+        "Weibliche Beutelwölfe hatten einen geöffneten Beutel, der vier Zitzen enthielt.",
+        "Kängurus springen mit den Hinterbeinen, der Schwanz bleibt in der Luft und dient der Balance.",
+        "Als nachtaktive Tiere besitzen Koalas ein gutes Hörvermögen.",
+        "Erwachsene Wombats haben wenige natürliche Gegner, ihr größter Fressfeind ist der Dingo.",
+        "Natürliche Feinde der Fledermäuse sind vor allem Katzen und Greifvögel.",
+        "Die Touristin setzte sich auf den Elefanten.",
+        "Der Rüssel ist ein Multifunktionsorgan."
+      ]
+    }
+  ]
+}

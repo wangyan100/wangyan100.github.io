@@ -1,0 +1,67 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Säugetiere 1",
+        "Alpaka",
+        "Antilope",
+        "Gämse",
+        "Gazelle",
+        "Kamel",
+        "Lama",
+        "Mufflon",
+        "Bison",
+        "Büffel",
+        "Gnu",
+        "Nilpferd",
+        "Wildschwein",
+        "Jack",
+        "Darmhirsch",
+        "Davidhirsch",
+        "Elch",
+        "Giraffe",
+        "Hirschferkel",
+        "Moschustier",
+        "Reh",
+        "Bergtapir",
+        "Flachlandtapir",
+        "Esel",
+        "Halbesel",
+        "Nashorn",
+        "Schabrackentapir",
+        "Zebra",
+        "Biberratte",
+        "Bilch",
+        "Eichhörnchen",
+        "Murmeltier",
+        "Stachelschwein",
+        "Wühlmaus",
+        "Igel",
+        "Maulwurf",
+        "Reisfeldmaus"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Alpakas werden in Europa wegen ihres ruhigen und friedlichen Charakters auch in der tiergeschützten Therapie eingesetzt.",
+        "Es ist leichter, dass ein Kamel durch ein Nadelöhr gehe, dem das ein Reicher ins Reich Gottes komme.",
+        "Lamas kommen nur in Südamerika vor.",
+        "Yaks variieren ihre Atemfrequenz in Abhängigkeit von der Außentemperatur.",
+        "Die Paarungszeit der Darmhirsche ist Mitte Oktober.",
+        "Ursprünglich im östlichen Asien beheimatet, ist der Davidhirsch in freier Wildbahn seit mehreren hundert Jahren ausgerottet.",
+        "Charakteristisch für den Körperbau des Elches ist der kurze massige Rumpf mit seinen relativ langen Gliedmaßen.",
+        "Die Giraffe, glaubte er, hat deshalb einen langen Hals, weil sie in Generation um Generation nach immer höheren Blättern streckte.",
+        "Das Reh wurde durch die Deutsche Wildtierstiftung als Tier des Jahres 2019 ausgewählt.",
+        "Nashörner leben häufig als Einzelgänger.",
+        "Man schlägt den Sack und meint den Esel.",
+        "Portugiesische Seefahrer sahen Ende des 15.",
+        "Jahrhunderts erstmals Zebras bei ihren Entdeckungsfahrten in Afrika.",
+        "Der Igel stellt seine Stacheln auf."
+      ]
+    }
+  ]
+}

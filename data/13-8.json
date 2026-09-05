@@ -1,0 +1,66 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Staaten 2",
+        "Belgien",
+        "Deutschland",
+        "die Niederlande",
+        "die Schweiz",
+        "England",
+        "Großbritannien",
+        "Frankreich",
+        "Irland",
+        "Österreich",
+        "Luxemburg",
+        "Griechenland",
+        "Italien",
+        "Malta",
+        "Portugal",
+        "Spanien",
+        "der Vatikan",
+        "Bulgarien",
+        "Rumänien",
+        "Dänemark",
+        "Finnland",
+        "Island",
+        "Norwegen",
+        "Schweden",
+        "Ägypten",
+        "Äthiopien",
+        "Libyen",
+        "Marokko",
+        "Rwanda",
+        "Somalia",
+        "Sudan",
+        "die Republik Südafrika",
+        "Australien",
+        "Fiji",
+        "Neuseeland",
+        "Palau"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Belgien hat eine Fläche von 32.545 km².",
+        "Es ist damit ein bisschen kleiner als das deutsche Bundesland Nordrhein-Westfalen.",
+        "Deutschland ist etwa neunmal so groß wie die Schweiz.",
+        "Amsterdam ist die Hauptstadt der Niederlande.",
+        "Die Geografie von England ist geprägt durch niedrige Hügel und Ebenen, aber es gibt auch Hochland im Norden und Südwesten.",
+        "Im Alter von 16 Jahren wurde er von Seeräubern nach Irland entführt.",
+        "Staatsoberhaupt des Vatikans ist der Papst.",
+        "Das ist der Vorsteher der römisch-katholischen Christen.",
+        "Der nördliche Teil Finnlands liegt über dem Polarkreis.",
+        "Die Einwohner Äthiopiens sprechen über 80 verschiedene Sprachen.",
+        "Den elektrischen Strom hat Marokko vor allem aus Kraftwerken, die mit Erdöl oder Erdgas betrieben werden.",
+        "In Rwanda gibt es zwei große Volksgruppen, Hutu und Tutsi.",
+        "In der Kolonialzeit gehörte ein Teil von Somalia zu Italien und ein anderer Teil zu Großbritannien.",
+        "Palau lebt heute vor allem vom Tourismus und dem Fischfang."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "andere Bestandteile des menschlichen Körpers",
+        "Chromosom",
+        "Gen",
+        "sich vererben",
+        "Stammzelle",
+        "Zellkern",
+        "Zellmembran",
+        "Zytoplasma",
+        "Band",
+        "Beuger",
+        "Brustmuskel",
+        "Lendenmuskel",
+        "Muskelgewebe",
+        "Sehne",
+        "Strecker",
+        "Bandscheibe",
+        "Gelenk",
+        "Halswirbel",
+        "Jochbein",
+        "Knorpel",
+        "Rippe",
+        "Schlüsselbein",
+        "Schädel",
+        "Steißbein",
+        "Blutader",
+        "Vene",
+        "Blutgefäß",
+        "Ader",
+        "Blutplättchen",
+        "Blutserum",
+        "Globin",
+        "Haargefäß",
+        "Plasma",
+        "Schlagader",
+        "Gehirn",
+        "Hirn",
+        "Hirnanhang",
+        "Kleinhirn",
+        "Nervenendigungen",
+        "Nervenknoten",
+        "Nervenzentrum",
+        "Rückenmark"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Chromosomen enthalten Erbinformationen.",
+        "Genau wie der Mensch besitzen auch Tiere oder Pflanzen bestimmte Gene.",
+        "Diese Krankheit hat sich vom Vater auf den Sohn vererbt.",
+        "Die Mediziner isolierten aus dem Knochenmark die Stammzellen.",
+        "Meistens sind die Zellkerne kugelförmig oder oval.",
+        "Denn in der Nahrung stecken Fett, Eiweiß und Zucker und die sind wichtige Energiequellen für Muskeln, Organe und vor allem unser Gehirn.",
+        "Zusammen mit den Knochen, Muskeln und Gelenken bilden Sehnen und Bänder den Stütz- und Bewegungsapparat des Menschen.",
+        "Während die Sehnen Knochen mit Muskeln verbinden benötigen wir Bänder um unsere Gelenke zu sichern.",
+        "Das Jochbein im Gesicht ist eine Schwachstelle und bricht sehr häufig nach Unfällen.",
+        "Mithilfe eines MRT's bekommt er ein Bild von seinem Schädel.",
+        "Die Blutplättchen spielen eine wichtige Rolle bei der Blutstillung.",
+        "An den großen Arterien ist der Herzschlag gut tastbar, deshalb werden sie auch als Schlagadern bezeichnet.",
+        "Hinten im Schädel, unterhalb des Großhirns und hinter dem Hirnstamm liegt das Kleinhirn."
+      ]
+    }
+  ]
+}

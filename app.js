@@ -10,6 +10,7 @@ const trackTitle = document.querySelector("#trackTitle");
 const trackPosition = document.querySelector("#trackPosition");
 const audioPlayer = document.querySelector("#audioPlayer");
 const transcript = document.querySelector("#transcript");
+const transcriptCount = document.querySelector("#transcriptCount");
 const previousButton = document.querySelector("#previousTrack");
 const nextButton = document.querySelector("#nextTrack");
 const shell = document.querySelector(".shell");
@@ -123,13 +124,44 @@ function renderTrackList() {
   });
 }
 
+function renderTranscript(content) {
+  transcript.innerHTML = "";
+  let totalItems = 0;
+
+  content.sections.forEach((section) => {
+    const sectionElement = document.createElement("section");
+    sectionElement.className = `transcript-section transcript-section-${section.type}`;
+
+    const heading = document.createElement("h4");
+    heading.textContent = section.title;
+    sectionElement.append(heading);
+
+    const list = document.createElement(section.type === "sentences" ? "ol" : "ul");
+    list.className = "transcript-items";
+    section.items.forEach((item) => {
+      const listItem = document.createElement("li");
+      listItem.textContent = item;
+      list.append(listItem);
+    });
+    totalItems += section.items.length;
+    sectionElement.append(list);
+    transcript.append(sectionElement);
+  });
+
+  transcriptCount.textContent = `${totalItems} items`;
+}
+
 async function loadTranscript(track) {
-  transcript.textContent = "Loading transcript...";
-  const response = await fetch(track.text);
+  transcript.innerHTML = '<p class="transcript-status">Loading transcript...</p>';
+  transcriptCount.textContent = "";
+  const response = await fetch(track.content || track.text);
   if (!response.ok) {
-    throw new Error(`Could not load ${track.text}`);
+    throw new Error(`Could not load ${track.content || track.text}`);
   }
-  transcript.textContent = await response.text();
+  const content = track.content
+    ? await response.json()
+    : { sections: [{ type: "text", title: "Transcript", items: [await response.text()] }] };
+  renderTranscript(content);
 }
 
 async function selectTrack(index) {
@@ -149,7 +181,12 @@ async function selectTrack(index) {
   try {
     await loadTranscript(track);
   } catch (error) {
-    transcript.textContent = error.message;
+    transcript.innerHTML = "";
+    const status = document.createElement("p");
+    status.className = "transcript-status";
+    status.textContent = error.message;
+    transcript.append(status);
+    transcriptCount.textContent = "";
   }
 }
 
@@ -180,7 +217,11 @@ async function initialize() {
     if (!state.tracks.length) {
       trackTitle.textContent = "No lessons published";
       trackPosition.textContent = "";
-      transcript.textContent = "Run generate_static_site.py after the TXT files are ready.";
+      transcript.innerHTML = "";
+      const status = document.createElement("p");
+      status.className = "transcript-status";
+      status.textContent = "Run generate_static_site.py after the TXT files are ready.";
+      transcript.append(status);
       renderTrackList();
       return;
     }
@@ -189,7 +230,11 @@ async function initialize() {
     await selectTrack(0);
   } catch (error) {
     trackTitle.textContent = "Site data unavailable";
-    transcript.textContent = error.message;
+    transcript.innerHTML = "";
+    const status = document.createElement("p");
+    status.className = "transcript-status";
+    status.textContent = error.message;
+    transcript.append(status);
   }
 }
 

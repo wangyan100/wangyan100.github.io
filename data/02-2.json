@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Weine",
+        "Champagner",
+        "Sekt",
+        "Dessertwein",
+        "Fasswein",
+        "Riesling",
+        "Rotwein",
+        "Schaumwein",
+        "Weißwein",
+        "Madeira",
+        "Malaga",
+        "Masala",
+        "Portwein",
+        "Sherry",
+        "Tafelwein",
+        "Landwein",
+        "Prädikatswein",
+        "Kabinett",
+        "Spätlese",
+        "Auslese",
+        "Trockenbärenauslese",
+        "Eiswein",
+        "Kellermeister",
+        "Weinmacher",
+        "Küfer",
+        "Weinkenner",
+        "Winzer",
+        "Önologe",
+        "Sommelier",
+        "Weinkellner",
+        "Federweiße",
+        "Gespritzte",
+        "Weinschorle",
+        "Honigwein",
+        "Mett",
+        "Most",
+        "Obstwein",
+        "Tristerwein"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Im deutschen Sprachraum ist Sekt die Bezeichnung für hochwertige Schaumweine.",
+        "Dessertwein wird in einigen Ländern am Ende einer Mahlzeit mit dem Dessert getrunken.",
+        "Riesling genießt hohes Ansehen auf internationalen Märkten.",
+        "Sie trinkt gern französische Rotweine.",
+        "Um ihre Schaumweine noch besser in Szene zu setzen, engagieren die Winzer Künstler aus aller Welt.",
+        "Man kann Portwein rot bei Zimmertemperatur trinken.",
+        "Sherry wurde im 18. und 19.",
+        "Jahrhundert durch englische Handelshäuser weltweit bekannt gemacht.",
+        "Nach Qualitätsbezeichnung für Wein aus Deutschland ist Tafelwein die niedrigste Qualitätsstufe.",
+        "Der Prädikatswein ist die Bezeichnung für die höchste Weinqualität in Deutschland.",
+        "Die Auslese ist als Wein von der Güte zwischen der Spätlese und der Beerenauslese eingeordnet.",
+        "Weinschorle besteht etwa zur Hälfte aus frischem Weißwein und kohlesäurehaltigem Mineralwasser.",
+        "Honigwein ist zu jeder Jahres- und Tageszeit ein Genuss.",
+        "Aus einer Ortschronik vom Ende des 19.",
+        "Jahrhunderts geht hervor, dass Most auf der Schwäbischen Alb zu einem der wichtigsten Getränke zählte."
+      ]
+    }
+  ]
+}

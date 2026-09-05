@@ -1,0 +1,63 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Gebäcke und Milchprodukte",
+        "Baguette",
+        "Berliner",
+        "Brötchen",
+        "Croissant",
+        "Hörnchen",
+        "Roggenbrot",
+        "Toastbrot",
+        "Vollkornbrot",
+        "Apfelstrudel",
+        "Bienenstich",
+        "Käsekuchen",
+        "Kuchen",
+        "Marmorkuchen",
+        "Mohnkuchen",
+        "Pudding",
+        "Sandkuchen",
+        "Schnecke",
+        "Die Schwarzwälder Kirschtorte",
+        "Streuselkuchen",
+        "Blauschimmelkäse",
+        "Frischkäse",
+        "Gouda",
+        "Hartkäse",
+        "Kochkäse",
+        "Sauermilchkäse",
+        "Schnittkäse",
+        "Schmelzkäse",
+        "Weichkäse",
+        "die mildgesäuerte Butter",
+        "Molkenbutter",
+        "Salzbutter",
+        "Sauerrahmbutter",
+        "Süßrahmbutter"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Berliner Pfannkuchen, kurz Berliner oder auch nur Pfannkuchen, ist ein etwa faustgroßes Gebäck.",
+        "Heute werden Brötchen auch im Handwerk mit Unterstützung von Maschinen überwiegend halbautomatisch gefertigt.",
+        "Croissant gehört heute zu den klassischen Bestandteilen eines französischen Frühstücks.",
+        "Roggenbrot schmeckt sauer.",
+        "Toastbrot ist in der Regel auch nach Ablauf des Mindesthaltbarkeitsdatum genießbar.",
+        "Die Fülle von Apfelstrudel besteht üblicherweise aus süßsauren Äpfeln, Rosinen und Semmelbröseln, Zimt und Kristallzucker.",
+        "Mondkuchen ist ein traditioneller Kuchen in Mittel- und Osteuropa.",
+        "Schwarzwälder Kirschtorte ist heute die bekannteste und beliebteste Torte Deutschlands.",
+        "Blauschimmelkäse ist Schimmelkäse, bei dessen Herstellung blau-grünlich erscheinende Edelschimmelpilze eingesetzt werden.",
+        "Gouda ist eine Art von Schnittkäse.",
+        "Aus 100 Liter Milch werde nur 8-9 kg Sauermilchkäse.",
+        "Ihr Wassergehalt in dem fettfreien Weichkäse liegt bei über 67%.",
+        "Zum Frühstück hat sie zwei Scheiben Brot mit Butter und Marmelade gegessen."
+      ]
+    }
+  ]
+}

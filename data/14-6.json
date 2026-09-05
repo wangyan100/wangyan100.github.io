@@ -1,0 +1,63 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Schuhwerk",
+        "Absatz",
+        "Einlage",
+        "Kappe",
+        "Schuband",
+        "Schuhlöffel",
+        "Schuhspanner",
+        "Schuhwichse",
+        "Sohle",
+        "Clock",
+        "Halbschuh",
+        "Hüttenchuh",
+        "Schleppchen",
+        "Schnürschuh",
+        "Latsch",
+        "Schlappen",
+        "Pantoffel",
+        "Pantolette",
+        "Sandalette",
+        "Slipper",
+        "Zehensandale",
+        "Blockabsatz",
+        "Keilabsatz",
+        "Pumps",
+        "Slingpumps",
+        "Stöckelabsatz",
+        "Stoffpumps",
+        "Arbeitsschuh",
+        "Gummistiefel",
+        "Innenreißverschluss",
+        "Plüschfutter",
+        "Regenstiefel",
+        "Stiefelette",
+        "Westenstiefel"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Meine Mutter trägt gerne hohe Absätze.",
+        "Die Einlage schmiegt sich weich in den Schuh.",
+        "Wann die ersten Schubänder aufkamen, ist nicht genau bekannt.",
+        "Schuhwichse erhält Leder geschmeidig und wasserdicht.",
+        "Clocks stammen ursprünglich aus England und haben über Schweden allgemeine Verbreitung gefunden.",
+        "Schleppchen umschließen den Fuß wie eine zweite Haut.",
+        "Adidas hat eine limitierte Serie Sneakers entworfen.",
+        "Seine Füße stecken in Pantoffeln.",
+        "Ich trage im Sommer Sandalen und keine Socken, weil es angenehm und gesund ist.",
+        "Ich kann leider in Pumps nicht richtig gehen.",
+        "Pumps aus Velourleder mit Schleife werden hier zurzeit gerne gekauft.",
+        "Die Wunschzettel wurden bereits am Nikolaustag geschrieben und in die Stiefel gesteckt.",
+        "Von Hochgebirgen sind in Mittel- und Nordeuropa Gummistiefel aus Naturkautschuk häufiges Schuhwerk für Jäger."
+      ]
+    }
+  ]
+}

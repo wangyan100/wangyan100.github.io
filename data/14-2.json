@@ -1,0 +1,65 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Oberbekleidung",
+        "Partybluse",
+        "Polobluse",
+        "Reversebluse",
+        "Sommerbluse",
+        "Tunika",
+        "Businesshemd",
+        "Fraghemd",
+        "Freizeithemd",
+        "Polohemd",
+        "Fliege",
+        "Krawattenknoten",
+        "Krawatte",
+        "Manschette",
+        "Blazer",
+        "Kapuze",
+        "Ledermantel",
+        "Nerzmantel",
+        "Poncho",
+        "Trenchcoat",
+        "Übergangsmantel",
+        "Basic shirt",
+        "Das T-Shirt mit Rundhalsausschnitt",
+        "Das T-Shirt mit V-Ausschnitt",
+        "Das T-Shirt mit Volantärmeln",
+        "Halbarmshirt",
+        "Ringelshirt",
+        "Anorak",
+        "Daunenjacke",
+        "Strickjacke",
+        "Lederjacke",
+        "Rolli",
+        "Ringelpulli",
+        "Tupfenpullover"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Die weiße Bluse muss unbedingt schnell gebügelt werden.",
+        "Deine Polo-Bluse ist schick und sehr modern.",
+        "Heute trägt die Lehrerin eine kurzärmlige Reverse-Bluse.",
+        "Die Sommerbluse ist schon ganz ausgewaschen.",
+        "Wer seinen Bauch verbergen will, greift zur Tunika.",
+        "Im schlichten hellblauen Businesshemd steht er in einer Ecke des Konferenzraums.",
+        "Trainer lockerte seinen Krawattenknoten.",
+        "Der Blazer wird sowohl zu Hose als auch Rock passen.",
+        "Bekleidet ist Tatverdächtiger mit einem schwarzen Mantel mit einer Kapuze, wie die Polizei mitteilte.",
+        "Es hat begonnen zu regnen.",
+        "Die ältere Frau zieht ihren blauen Trenchcoat enger.",
+        "Genau wie seine Mama trägt der Junge auch ein Ringelshirt.",
+        "Er zieht seinen Anorak an und bringt mich zum Bahnhof zurück.",
+        "Die Hände versteckt er in den Taschen seiner schwarzen Lederjacke.",
+        "Wer den Polarkreis im Juni besucht, braucht eine spezielle Garderobe, bestehend aus Wollmütze, Daunenjacke und langer Unterwäsche."
+      ]
+    }
+  ]
+}

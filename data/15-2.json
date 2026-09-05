@@ -1,0 +1,67 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Meeresfauna",
+        "Dornhai",
+        "Hai",
+        "Katzenhai",
+        "rochen",
+        "Seekatze",
+        "Tigerhai",
+        "Wahlhai",
+        "Klaunfisch",
+        "Hecht",
+        "Hering",
+        "Köhler",
+        "Kugelfisch",
+        "Seepferdchen",
+        "Zackenbarsche",
+        "Delfin",
+        "Meerotter",
+        "Seeotter",
+        "Seebär",
+        "Seehund",
+        "Seekuh",
+        "Seelewe",
+        "Wal",
+        "Walross",
+        "Polyp",
+        "Qualle",
+        "Schwamm",
+        "Seeanimone",
+        "Seestern",
+        "Bartel",
+        "Flosse",
+        "Gräte",
+        "Hauer",
+        "Kieme",
+        "Knorpel",
+        "Schuppe",
+        "Schwimmblase",
+        "Ovipar",
+        "Eierlegen",
+        "Vivipar",
+        "Ovovivipar"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie haben.",
+        "Delfine haben einen sehr guten Gehör und Gesichtssinn.",
+        "Seehunde sind sehr gute Schwimmer, die bis zu 200 Meter tief und 30 Minuten lang tauchen können.",
+        "Die meisten Wale sind vom Aussterben bedroht.",
+        "In China werden einige nicht giftige Quallen als Speise gegessen.",
+        "Die meisten Fische verfügen über sieben Flossen.",
+        "Die Gräte blieb ihm im Hals stecken.",
+        "Die Hauer sind das auffälligste Merkmal des Walrosses.",
+        "Die Schwimmblase ist ein Organ der Knochenfische.",
+        "Viele Haiarten sind Ovovivipar."
+      ]
+    }
+  ]
+}

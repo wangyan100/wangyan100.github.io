@@ -1,0 +1,67 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Verkehrsunfall",
+        "abschürfen",
+        "sich aufschürfen",
+        "anfahren",
+        "Blut",
+        "bluten",
+        "Stoßverletzung",
+        "überfahren",
+        "umfahren",
+        "verletzen",
+        "begutachten",
+        "beschädigen",
+        "Bußgeld",
+        "Reparaturkosten",
+        "Sachverständige",
+        "Sachverständiger",
+        "Schadenssumme",
+        "Schadenbetrag",
+        "Schmerzensgeld",
+        "Verkehrsunfallverursacher",
+        "zerstören",
+        "zustehen",
+        "anprallen",
+        "kollidieren",
+        "zusammenstoßen",
+        "einbiegen",
+        "sich kreuzen",
+        "überholen",
+        "überschreiten",
+        "vorfahren",
+        "Fahrerflucht",
+        "Karambolage",
+        "Kollision",
+        "Zusammenstoß",
+        "Gaffer",
+        "Rettungsgasse",
+        "Spur",
+        "Verunglücken"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Ich habe auf einer dunklen Straße versehentlich ein Kaninchen überfahren.",
+        "Bei dem Unfall kam ein Mensch ums Leben.",
+        "Sieben weitere wurden schwer verletzt.",
+        "Beim Zusammenstoß wurde sein Auto schwer beschädigt.",
+        "Anfang Mai teilte die Staatsanwaltschaft Stuttgart mit, dass die VW-Tochter Porsche mehr als 500 Millionen Euro Bußgeld akzeptierte.",
+        "Die Kosten für die Einschaltung eines Sachverständigen hat die Versicherung des Verkehrsunfallverursachers zu erstatten.",
+        "Es stehen den geschädigten Ansprüche auf Ersatz der Heilbehandlungskosten, ein angemessenes Schmerzensgeld und Ersatz des Verdienstausfalls zu.",
+        "Während des Zweiten Weltkriegs wurde Berlin durch die Bomben zerstört.",
+        "Es steht mir nicht zu, mich darüber zu entscheiden.",
+        "Die beiden Spieler stießen zusammen, als sie beide zum Ball liefen.",
+        "An der nächsten Kreuzung musst du links abbiegen.",
+        "Der Verbrecher hat keine Spuren hinterlassen.",
+        "Im Jahr 2006 verunglückten rund 16.000 Personen im Alter von 15 bis 24 Jahren im Straßenverkehr."
+      ]
+    }
+  ]
+}

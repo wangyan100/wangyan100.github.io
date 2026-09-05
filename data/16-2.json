@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Landformen 1",
+        "Bach",
+        "Bächelchen",
+        "Bächlein",
+        "Buhne",
+        "Delta",
+        "Flussbett",
+        "Flüsschen",
+        "Flüsslein",
+        "Kanal",
+        "Mündung",
+        "Sandbank",
+        "Brandung",
+        "Hebe",
+        "Flut",
+        "Gezeiten",
+        "Insel",
+        "Korallenriff",
+        "Küste",
+        "Ablagerung",
+        "Binnensee",
+        "Bucht",
+        "Deich",
+        "Stausee",
+        "Strandsee",
+        "Ufer",
+        "Becken",
+        "Ebene",
+        "Feuchtgebiet",
+        "Moor",
+        "Sumpf",
+        "Moos",
+        "Schlamm",
+        "Tiefebene",
+        "Beben",
+        "Bergrutsch",
+        "Bodenriss",
+        "Erdspalte",
+        "Erdbeben",
+        "Erdstoß",
+        "Schlammlawine",
+        "Tsunami"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Der Bach rauscht, schlängelt sich durch das Tal.",
+        "Das Wasser des Bächleins ist kristallklar und man kann kleine Fischchen im Wasser erkennen.",
+        "Hier befindet sich der längste von Menschen geschaffene Kanal der Welt.",
+        "Die Gezeiten werden von Erde, Mond und der Sonne bestimmt.",
+        "Im Gegensatz zu einem natürlichen See kann der Wasserstand in einem Stausee stark schwanken.",
+        "Landschaften mit sehr starken Ablagerungen nennt man Sedimentbecken.",
+        "Das Wasser hat die Erde vom Ufer geschwemmt.",
+        "Feuchtgebiete haben eine hohe Bedeutung für Ökologie, Klimaschutz und Hochwasserschutz.",
+        "Moose haben sich vor etwa 400 bis 450 Millionen Jahren aus Grünalgen der Gezeitenzone entwickelt.",
+        "Erdbeben können auch entstehen, wenn zwei kontinentale Platten frontal aufeinander prallen.",
+        "Das heftigste bisher auf der Erde gemessene Erdbeben hatte eine Erdbebenstärke von 9,5 und ereignete sich 1960 in Chile.",
+        "Sommer ist die Saison der Schlammlavinen.",
+        "Im Jahr 2004 löste ein Seebeben vor Sumatra im Indischen Ozean einen gewaltigen Tsunami aus."
+      ]
+    }
+  ]
+}

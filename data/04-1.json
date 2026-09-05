@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Kino",
+        "ausverkauft",
+        "bezahlen",
+        "erhältlich",
+        "Ermäßigung",
+        "Rabatt",
+        "Gültigkeit",
+        "Ticket",
+        "Vorverkauf",
+        "in der Schlange stehen",
+        "Altersbeschränkung",
+        "Erwachsene",
+        "Erwachsener",
+        "freigeben",
+        "in Begleitung eines Elternteils",
+        "Jugendliche",
+        "Jugendlicher",
+        "keine Jugendfreigabe",
+        "Kind",
+        "Drehbuchautor",
+        "Fotograf",
+        "Hauptrolle",
+        "Produzent",
+        "Regisseur",
+        "Schauspieler",
+        "Darsteller",
+        "Actionfilm",
+        "Animations- und Zeichentrickfilm",
+        "Drama",
+        "Erotikfilm",
+        "Horrorfilm",
+        "Komödie",
+        "Science-Fiction-Film",
+        "Thriller",
+        "Abspann",
+        "Leinwand",
+        "Originalfassung",
+        "Projektor",
+        "Synchronisierung",
+        "Untertitel",
+        "Zuschauer"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Der Computer ist nicht mehr zu bezahlen.",
+        "Das Medikament ist nur gegen Rezept erhältlich.",
+        "Darf ich mal fragen?",
+        "Gibt es Rabatt für Studenten?",
+        "Gekaufte Tickets behalten ihre Gültigkeit.",
+        "Der Vorverkauf läuft.",
+        "Der Film ist für Jugendliche nicht freigegeben.",
+        "Die Kinofilme, die von der FSK ab 12 Jahren freigegeben werden, sollen die Kinder ab 6 Jahren in Begleitung eines Elternteils sehen.",
+        "Seine Frau spielt die Hauptrolle in seinem Leben.",
+        "Der Regisseur Ang Li geht nach Berlin und stellt seinen neuen Film persönlich vor.",
+        "Deutsche Komödien können nicht den Geschmack aller Zuschauer treffen.",
+        "Dieser Film wird im nächsten Jahr über die Leinwand laufen.",
+        "Das ist ein Film in chinesischer Originalfassung mit deutschen Untertiteln.",
+        "Die Zuschauer strömen in die Kinos."
+      ]
+    }
+  ]
+}

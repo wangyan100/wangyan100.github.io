@@ -1,0 +1,63 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Kaffee",
+        "Arabica Kaffee",
+        "Java Kaffee",
+        "Berg Kaffee",
+        "Blue Mountain Kaffee",
+        "Brasilien Kaffee",
+        "Kilimanjaro Kaffee",
+        "Colombien Kaffee",
+        "Robusta Kaffee",
+        "Americano",
+        "Café Latte",
+        "Cappuccino",
+        "Espresso",
+        "Caramel Macchiato",
+        "Mocha",
+        "Eiskaffee",
+        "Instant Kaffee",
+        "Schnell Kaffee",
+        "Malz Kaffee",
+        "Marocchino",
+        "Milch Kaffee",
+        "Der türkische Kaffee",
+        "Filter Kaffee",
+        "Kaffeepresse",
+        "Kaffeepulver",
+        "Kaffeepad",
+        "Kaffeekapsel",
+        "Die helle Röstung",
+        "Die starke Röstung",
+        "Die mittlere Röstung",
+        "Die amerikanische Röstung",
+        "Die doppelte Röstung",
+        "Die französische Röstung",
+        "Die italienische Röstung"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Arabica Kaffee hat einen besonders feinen Geschmack denn in den Kaffeebohnen stecken mehr Fette, mehr Zucker und mehr Kaffeeöle drin.",
+        "Der Jamaica Blue Mountain Kaffee zeichnet sich durch seinen sehr milden Geschmack aus.",
+        "Robuster Kaffee kann wegen seiner mehr Koffein bitterer, schärfer schmecken.",
+        "Americano ist ein doppelter Espresso, der mit heißem Wasser verdünnt wird.",
+        "Das wichtigste beim Cappuccino ist nicht der Schaum, sondern das Verhältnis zwischen Espresso und Milch.",
+        "Der Eiskaffee kann mit Rum versetzt sein.",
+        "Die Vorteile von Instant Kaffee liegen auf der Hand.",
+        "Er ist im Handumdrehen zubereitet und besonders lange haltbar.",
+        "Über Lieferungen zufolge, stammt der Marocchino ursprünglich aus dem Norden Italiens.",
+        "Das Mischverhältnis von Kaffee und Milch liegt in Milchkaffee bei etwa 1 zu 1.",
+        "Früher hat man in Deutschland hauptsächlich schwarzen Filterkaffee getrunken.",
+        "Kaffeepulver entsteht durch das Mahlen von gerösteten Kaffeebohnen.",
+        "Die Geröstung ist das wichtigste Merkmal für ein gutes Kaffeprodukt."
+      ]
+    }
+  ]
+}

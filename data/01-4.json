@@ -1,0 +1,67 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Meeresfrüchte",
+        "Aal",
+        "Barsch",
+        "Forelle",
+        "Graskarpfen",
+        "Karpfen",
+        "Stint",
+        "Stör",
+        "Wels",
+        "Kabeljau",
+        "Lachs",
+        "Makrele",
+        "Meerbrassen",
+        "Sardine",
+        "Scholle",
+        "Schwertfisch",
+        "Thunfisch",
+        "Fangschreckenkrebs",
+        "Flusskrebs",
+        "Garnel",
+        "Hummer",
+        "Krebs",
+        "Krill",
+        "Languste",
+        "Krake",
+        "Qualle",
+        "Tintenfisch",
+        "Seegurke",
+        "Seewalze",
+        "Auster",
+        "Jakobsmuschel",
+        "Pilgermuschel",
+        "Miesmuschel",
+        "Muschel",
+        "Scheidenmuschel",
+        "Kaviar",
+        "Seegel"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Er ist glatt wie ein Aal.",
+        "In Australien ist das Züchten und Aussetzen von Karpfen gesetzlich verboten.",
+        "In den letzten Jahrzehnten war der Stint kommerziell kaum von Bedeutung.",
+        "Der Lachs kommt zum Leichen zurück in die Süßgewässer.",
+        "Sardinen erstrecken sich vom nordöstlichen Atlantik und der Nordsee bis zum Senegal.",
+        "Thunfische gehören wegen ihres roten, fetten Fleisches zu den wichtigsten Speisefischen.",
+        "Garnelen sind durch eine Schale geschützt.",
+        "Ein Tintenfisch hat drei Herzen.",
+        "Zwei versorgen seine Arme, das dritte versorgt seinen Körper.",
+        "In Meerestiefen von acht bis neun Kilometern bilden Seegurken rund 90 Prozent der Biomasse.",
+        "Die Auster filtert große Wassermengen, um sich von dem darin enthaltenen Plankton zu ernähren.",
+        "Die Muscheln sind eine Klasse der Weichtiere.",
+        "Kaviar sollte mit Kunststoff oder Perlmutlöffeln gegessen werden, um den Geschmack nicht zu beeinflussen.",
+        "Der Seegel ist getrenntgeschlechtig."
+      ]
+    }
+  ]
+}

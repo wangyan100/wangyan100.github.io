@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Vögel",
+        "Ammer",
+        "Amsel",
+        "Bienenfresser",
+        "Blaumeise",
+        "Blauracke",
+        "Buchfink",
+        "Elster",
+        "Eichelheer",
+        "Fink",
+        "Gimpel",
+        "Kohlmeise",
+        "Meise",
+        "Nachtigall",
+        "Pirol",
+        "Rabe",
+        "Rotkehlchen",
+        "Saatkrähe",
+        "Spatz",
+        "Sperling",
+        "Stieglitz",
+        "Zaunkönig",
+        "Zeisig",
+        "Adler",
+        "Falke",
+        "Geier",
+        "Habicht",
+        "Eule",
+        "Wanderfalke",
+        "Rohrweie",
+        "Schleiereule",
+        "Sperber",
+        "Steinkauz",
+        "Uhu",
+        "Waldohreule",
+        "Mandarinente",
+        "Pelikan",
+        "Pinguin",
+        "Tauchvogel",
+        "Wildgans"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Die weibliche Amsel baut dreimal im Jahr ein Nest.",
+        "Die Blauracke ist eine wärmeliebende Art, die während der Brutmonate Mai, Juni und Juli möglichst trockene und warme Witterungsverhältnisse benötigt.",
+        "In der germanischen Mythologie war die Elster sowohl Götterbote als auch der Vogel der Todesgöttin Hel.",
+        "Meisen brüten gerne in der Nähe von oder in Obstbäumen, wobei sie die dort anzutreffenden Insekten bzw. deren Larven als Nahrung für die Brut verwenden.",
+        "Der Pirol ruft im grünen Hag.",
+        "Der Gesang von Rotkälchen beginnt etwa eine Stunde vor Sonnenaufgang.",
+        "Früher traten die Spatzen in großen Schwärmen auf.",
+        "Der Zaunkönig kann einen Stamm mit den langen Zähnen und den kräftigen Krallen krächt hinaufklettern.",
+        "Die Geier kreisen über dem Aas.",
+        "Ein Habicht ist auf die Erde niedergestoßen und hat seine Beute gefasst.",
+        "Die Eule gilt oft als Sinnbild der Weisheit.",
+        "Die Schleiereule kommt als Brutvogel in vielen Regionen der Welt vor.",
+        "Der Steinkauz galt im antiken Griechenland als Vogel der Weisheit und war Sinnbild der Göttin Athene."
+      ]
+    }
+  ]
+}

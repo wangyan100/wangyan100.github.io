@@ -1,0 +1,70 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Frühlingsfest",
+        "Böller",
+        "Böllern",
+        "Feuerwerk",
+        "Feuerwerkskörper",
+        "Geldgeschenk",
+        "Krach",
+        "Neujahrsbild",
+        "Rote Umschläge",
+        "Spruchband",
+        "Türgott",
+        "Familienfest",
+        "Füllung",
+        "Der Kloß aus Klebreis",
+        "Maultasche",
+        "Reiskuchen",
+        "Silvester",
+        "Silvesterabend",
+        "Zusammenkunft",
+        "Erdzweig",
+        "Mondjahr",
+        "Mondkalender",
+        "Reihenfolge",
+        "Sonnenkalender",
+        "Solarkalender",
+        "Tier",
+        "Zyklus",
+        "Überlieferung",
+        "Drache",
+        "Frühlingsfestgala",
+        "Glückwunsch",
+        "Heimat",
+        "Laterne",
+        "Löwe",
+        "Rätsel",
+        "Tanz",
+        "Aberglaube",
+        "Bambus",
+        "Ernte",
+        "Jahreswechsel",
+        "Pfirsichholz",
+        "Süßigkeit"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Das Frühlingsfest ist in China und vielen anderen asiatischen Ländern das wichtigste Familienfest des Jahres.",
+        "Der Lärm soll Glück bringen und einem alten Aberglauben zufolge böse Geister vertreiben.",
+        "China ist weltweit der größte Exporteur von Feuerwerkskörpern.",
+        "Das gefährliche Fabeltier Nian hatte Angst vor drei Dingen, vor roter Farbe, vor Feuer und vor lautem Krach.",
+        "Die chinesischen Tierkreiszeichen bestehen aus zwölf Tieren, wobei jedem Jahr ein Tier zugeordnet ist.",
+        "Die zwölf Erdzweige mit den zehn Himmelsstemmen ergeben sie den 60-Jahreszyklus des chinesischen Kalenders.",
+        "Die Ankunft des neuen Mondjahres wird auch in den Chinatowns chinesische Einwanderer in vielen Städten der Erde gefeiert.",
+        "Jedes Jahr findet die chinesische Frühlingsfestgala um 20 Uhr am Silvesterabend statt.",
+        "Die Tempel des Erdparks wurden mit roten Laternen dekoriert.",
+        "Auf den Straßen wurden Tänze mit Drachen oder Löwenmasken dargeboten.",
+        "Schwein gilt in Deutschland als Glücksbringer.",
+        "Zum Jahreswechsel um Mitternacht wird meist mit Feuerwerk und Böllern gefeiert."
+      ]
+    }
+  ]
+}

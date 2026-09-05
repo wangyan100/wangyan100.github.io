@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Instrumente",
+        "Blechblasinstrument",
+        "Flöte",
+        "Holzblasinstrument",
+        "Horn",
+        "Oboe",
+        "Pfeife",
+        "Saxophon",
+        "Trompete",
+        "Becken",
+        "Beckenhalter",
+        "Hackbrett",
+        "Pauke",
+        "Rumbakugel",
+        "Trommel",
+        "Sylofon",
+        "Bass",
+        "Bogen",
+        "Bratsche",
+        "Viola",
+        "Cello",
+        "Gambe",
+        "Geige",
+        "Violine",
+        "Gitarre",
+        "Seite",
+        "Ukulele",
+        "Akkordeon",
+        "Klavier",
+        "Piano",
+        "Klaviatur",
+        "Orgel",
+        "Pedal",
+        "Akkord",
+        "Intervall",
+        "Note",
+        "Notenschlüssel",
+        "Notensystem",
+        "Takt",
+        "Tonart",
+        "Tonleiter"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Den Flöten unterscheidet man Quer- und Schnabelflöten.",
+        "Das Ehepaar bläst immer ins gleiche Horn.",
+        "Das Programm enthält Kompositionen für die Kombination von Oboe und Orgel.",
+        "Am Mittwoch wird Musik für Saxophon und Orgel im Dom dargeboten.",
+        "Becken sind seit uralten Zeiten bekannt, ihr Ursprung liegt wahrscheinlich in Asien.",
+        "Schlagbretter sind Seiteninstrumente, die nach der Art der Tonerzeugung auch zu den Schlaginstrumenten gezählt werden.",
+        "Der moderne Triangel hat die Form eines gleichseitigen Dreiecks.",
+        "Scheinbar ist die Viola nur eine größere Violine, einfach eine Quint tiefer gestimmt.",
+        "Die Gamben entstanden wahrscheinlich im 15.",
+        "Jahrhundert in Spanien.",
+        "Die Violinen sind gewöhnlich aus Holz gebaut.",
+        "Ein Akkordeon besteht aus zwei Teilen, Diskant und Bass, die durch einen Balk miteinander verbunden sind.",
+        "Im Gegensatz zum modernen Klavier oder Flügel besitzen Hammerklaviere als typisches Merkmal in der Regel keinen Metallrahmen, sondern Rahmenkonstruktionen aus Holz.",
+        "Wer kann den Bund zweier Herzen lösen oder die Töne eines Akkords auseinanderreißen?"
+      ]
+    }
+  ]
+}

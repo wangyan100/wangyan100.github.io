@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Firma",
+        "Aktiengesellschaft",
+        "AG",
+        "die börsennotierte Firma",
+        "Einzelunternehmen",
+        "Gemeinschaftsunternehmen",
+        "die Gesellschaft mit beschränkter Haftung",
+        "GmbH",
+        "Kommanditgesellschaft",
+        "KG",
+        "Privatunternehmen",
+        "Staatsbetrieb",
+        "Vorstandsvorsitzender",
+        "Generaldirektor",
+        "Generaldirektoren",
+        "Chef",
+        "Chefin",
+        "Manager",
+        "Managerin",
+        "Mitarbeiter",
+        "Mitarbeiterin",
+        "Assistent",
+        "Assistentin",
+        "Sekretär",
+        "Sekretärin",
+        "Praktikant",
+        "Praktikantin",
+        "Buchhaltung",
+        "Finanzabteilung",
+        "Marketingabteilung",
+        "Personalabteilung",
+        "Produktionsabteilung",
+        "Rechtsabteilung",
+        "Sicherheitsabteilung",
+        "Technikabteilung",
+        "Besprechen",
+        "Feierabend",
+        "Ordnen",
+        "Protokoll",
+        "Rückfrage",
+        "Sich bemühen",
+        "Stressig",
+        "Überstunden machen"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Die Aktiengesellschaft AG ist die übliche Gesellschaftsform für börsennotierte Firmen.",
+        "Der Professor kommt mit seinem Assistenten in das Zimmer, der sein Buch und Laptop trägt.",
+        "Meine Mutter arbeitet in der Buchhaltung.",
+        "Die Personalabteilung lässt mich als Sekretär anmelden.",
+        "Wir müssen uns mal treffen und das näher besprechen.",
+        "Man kann am Wochenende oder nach Feierabend in den Park gehen.",
+        "Alles hat sich sinnvoll geordnet.",
+        "Anbei schicke ich Ihnen das Protokoll.",
+        "Für weitere Rückfragen stehe ich Ihnen zur Verfügung.",
+        "Der Mann bemüht sich täglich um einen Arbeitsplatz.",
+        "Seine Arbeit ist zu stressig.",
+        "Um mehr Geld zu verdienen, macht er jeden Abend Überstunden."
+      ]
+    }
+  ]
+}

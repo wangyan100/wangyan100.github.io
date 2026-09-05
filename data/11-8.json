@@ -1,0 +1,68 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Geometrie die analytische Geometrie",
+        "die lineare Geometrie",
+        "Planimetrie",
+        "Stereometrie",
+        "Satz",
+        "Prinzip",
+        "Punkt",
+        "Linie",
+        "Fläche",
+        "das gleichseitige Dreieck",
+        "das gleichschenklige Dreieck",
+        "das rechtwinklige Dreieck",
+        "das unregelmäßige Dreieck",
+        "Seite",
+        "Basis",
+        "Grundlinie",
+        "Hypotenuse",
+        "Kathete",
+        "Winkel",
+        "Durchmesser",
+        "Diameter",
+        "Halbmesser",
+        "Radius",
+        "Mittelpunkt",
+        "Peripherie",
+        "Pi",
+        "Inkreis",
+        "Umkreis",
+        "Kreisbogen",
+        "Sehne",
+        "Quadrat",
+        "Rechteck",
+        "Parallelogramm",
+        "Rombus",
+        "Raute",
+        "Trapez",
+        "Kegel",
+        "Kugel",
+        "Quader",
+        "Würfel"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Die analytische Geometrie stellt algebraische Hilfsmittel zur Lösung geometrischer Probleme bereit.",
+        "Das vorliegende Lehrbuch der Planimetrie ist für Bedürfnisse der Schüler höherer Klassen bestimmt.",
+        "Die Stereometrie stellt im antiken Griechenland einen der Wissenschaftsbereiche dar, die von herausragender Bedeutung waren.",
+        "Die Summe aller Winkel im Dreieck beträgt 180°.",
+        "Das unregelmäßige Dreieck ist das Dreieck, in der alle drei Seiten unterschiedlich lang sind.",
+        "Ein gleichseitiges Dreieck kann in vierteilige kleine gegliedert werden.",
+        "Als Hypotenuse bezeichnet man die längste Seite eines rechtwinkligen Dreiecks und sie liegt dem rechten Winkel gegenüber.",
+        "Winkel können ihrer Größe nach in verschiedene Winkelarten eingeteilt werden, wie der rechte Winkel, der spitze Winkel, der stumpfe Winkel.",
+        "Man bezeichnet Peripherie als einen mathematischen Begriff für den Umfang des Kreises.",
+        "Eine Raute oder ein Rombus ist ein ebenes Viereck mit vier gleich langen Seiten.",
+        "Gegenüberliegende Seiten sind parallel und gegenüberliegende Winkel gleich groß.",
+        "Ein Würfel besteht aus sechs quadratischen Flächen."
+      ]
+    }
+  ]
+}

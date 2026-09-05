@@ -1,0 +1,52 @@
+{
+  "sections": [
+    {
+      "type": "vocabulary",
+      "title": "Wortschatz",
+      "items": [
+        "Familienangehörige elternlos",
+        "weise Elternteil",
+        "Mutter Mutti",
+        "Mama Vater",
+        "Vati Papa",
+        "Stiefmutter Stiefvater",
+        "Enkel Enkelin",
+        "Enkelkind Großmutter",
+        "Großvater Urgroßeltern",
+        "Urgroßmutter Urgroßvater",
+        "Bruder Brüderchen",
+        "Geschwister Schwester",
+        "Stiefsohn Stieftochter",
+        "Sohn Tochter",
+        "Blutverwandte",
+        "Blutverwandter Cousine",
+        "Neffe Nichte",
+        "Onkel Tante",
+        "Vetter Cousin",
+        "adoptieren Adoptivkind",
+        "Pflegemutter Pflegevater",
+        "Pflegeeltern Schwiegervater"
+      ]
+    },
+    {
+      "type": "sentences",
+      "title": "Satzübung",
+      "items": [
+        "Seine Eltern und eine Tante starben in Konzentrationslagern.",
+        "Die Kinder hängen der Mutter immer am Rockzipfel.",
+        "Tag der Väter wird als Pendant zum Muttertag gesehen und hat sich erst später etabliert.",
+        "Das Motiv der Stiefmutter wird in Märchen häufig verwendet.",
+        "Die Großmütter verbringen fast ihre gesamte Zeit mit den Enkeln.",
+        "Sie hatte den Großvater sehr gerne und war stolz auf ihn.",
+        "Wie hat sich die sportliche Mode seit der Zeit unserer Urgroßeltern bis in die Gegenwart entwickelt?",
+        "Zuvor spielte er gern Fußball wie sein älterer Bruder.",
+        "Sehr herzlich grüße ich alle Brüder und Schwestern aus dem deutschen Sprachraum.",
+        "Die Polizei fahndet nach einem Mann, der seinen achtjährigen Stiefsohn schwer misshandelt haben soll.",
+        "Busches Tochter heiratet Anfang Mai.",
+        "Die Neffen sind Söhne von eigenen Geschwisterteilen.",
+        "Nach den eigenen Zwillingen möchte die Schauspielerin weder einen Sohn oder ein Töchterchen adoptieren.",
+        "Ich bin bei Pflegeeltern aufgewachsen."
+      ]
+    }
+  ]
+}
