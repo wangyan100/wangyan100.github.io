@@ -1,31 +1,32 @@
-Gesundheitszustand Lebenserwartung
-physiologisch physisch, körperlich, psychisch, seelisch
-wohl, wohl Wohlbefinden
-anstecken Ansteckungsquelle
-immun Immundefekt
-immunisieren Prävention
-vorbeugen Verhüten
-Bakterie Druck, Stress
-Erreger Gift, Infektion
-Karzinogen Lebensweise
-Strahlung Virus
-akut, chronisch, bösartig, gutartig
-allergisch, atypisch
-epidemisch infektiös
-altern Alterung
-ergraut Falte
-Runzel Osteoporose
-Schwächen Sprechen Sie bitte die folgenden Sätze
-Menschen sind gesünder und haben eine längere Lebenserwartung.
-Bei der häuslichen Gewalt wird man sowohl körperlich als auch psychisch verletzt.
-Du siehst wohl aus. Lass dich von seiner Grippe nicht anstecken.
-Der Engländer Edward Jenner entdeckte im Jahr 1797, dass man den Pocken mit Kuhpocken impfen und immunisieren kann.
-Die Impfung wird durch regelmäßigen Sport vorgebeugt.
-Infektionskrankheiten können durch Bakterien oder Viren hervorgerufen werden.
-Wann steht ihr zu sehr unter Druck und wie geht ihr damit um?
-Darauf kannst du Gift nehmen.
-Max hat eine gesunde Lebensweise und läuft jeden Morgen.
-Die radioaktive Strahlung ist für Menschen sehr gefährlich.
-Die Krankheit trat akut auf.
-Das infektiöse Material wird in besonderen Containern gesammelt und verbrannt.
-Die Krankheit Osteoporose betrifft zunächst ältere Menschen, vor allem Frauen nach der Menopause.
+[00:00:05.150 --> 00:00:07.950] Gesundheitszustand Lebenserwartung
+[00:00:09.300 --> 00:00:18.970] physiologisch physisch, körperlich, psychisch, seelisch
+[00:00:20.250 --> 00:00:27.340] wohl, wohl Wohlbefinden
+[00:00:30.500 --> 00:00:33.300] anstecken Ansteckungsquelle
+[00:00:34.300 --> 00:00:39.300] immun, Immundefekt
+[00:00:40.720 --> 00:00:51.730] immunisieren, Prävention, Vorbeugen, Verhüten
+[00:00:53.690 --> 00:00:59.860] Bakterie Druck, Stress
+[00:00:59.860 --> 00:01:08.570] Erreger Gift, Infektion
+[00:01:08.570 --> 00:01:13.950] Karzinogen Lebensweise
+[00:01:15.320 --> 00:01:20.040] Strahlung Virus
+[00:01:20.940 --> 00:01:32.530] akut, chronisch, bösartig, gutartig
+[00:01:32.530 --> 00:01:37.870] allergisch, atypisch
+[00:01:41.750 --> 00:01:43.870] epidemisch, infektiös
+[00:01:44.550 --> 00:01:49.250] altern, Alterung
+[00:01:50.150 --> 00:01:55.120] ergraut, Falte
+[00:01:55.120 --> 00:01:57.900] Runzel
+[00:01:58.500 --> 00:02:03.020] Osteoporose, Schwächen
+[00:02:07.440 --> 00:02:10.740] Sprechen Sie bitte die folgenden Sätze
+[00:02:12.940 --> 00:02:18.160] Glückliche Menschen sind gesünder und haben eine längere Lebenserwartung.
+[00:02:21.020 --> 00:02:26.330] Bei der häuslichen Gewalt wird man sowohl körperlich als auch psychisch verletzt.
+[00:02:29.640 --> 00:02:36.930] Du siehst wohl aus. Lass dich von seiner Grippe nicht anstecken.
+[00:02:39.890 --> 00:02:49.230] Der Engländer Edward Jenner entdeckte im Jahr 1797, dass man den Pocken mit Kuhpocken impfen und immunisieren kann.
+[00:02:51.440 --> 00:02:57.440] Der Herzerkrankung wird durch regelmäßigen Sport vorgebeugt.
+[00:03:01.130 --> 00:03:05.630] Infektionskrankheiten können durch Bakterien oder Viren hervorgerufen werden.
+[00:03:08.670 --> 00:03:12.710] Wann steht ihr zu sehr unter Druck und wie geht ihr damit um?
+[00:03:15.780 --> 00:03:17.640] Darauf kannst du Gift nehmen.
+[00:03:20.730 --> 00:03:24.550] Max hat eine gesunde Lebensweise und läuft jeden Morgen.
+[00:03:26.820 --> 00:03:33.000] Ein Virus kann die gesamten Daten auf dem Computer verändern oder sogar löschen.
+[00:03:35.650 --> 00:03:39.710] Die radioaktive Strahlung ist für Menschen sehr gefährlich.
+[00:03:42.620 --> 00:03:44.940] Die Krankheit trat akut auf.
+[00:03:47.960 --> 00:03:53.460] Das infektiöse Material wird in besonderen Containern gesammelt und verbrannt.
+[00:03:56.500 --> 00:04:02.960] Die Krankheit Osteoporose betrifft zunächst ältere Menschen, vor allem Frauen nach der Menopause.

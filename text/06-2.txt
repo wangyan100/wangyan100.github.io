@@ -1,24 +1,23 @@
-Tennis Balljunge, Ballmädchen, Head Schiedsrichter
-Linienrichter, Schiedsrichter Schiedsrichterassistent
-Tennisspieler, Tennisspielerin Wildcardinhaber, Wildcardinhaberin
-Aufschlagfeld, Aufschlaglinie, Court Grundlinie, Netz
-Seitenlinie, Hartplatz, die rote Asche Sandplatz, Teppichbodenplatz, Einstand
-Matchball, Satz, Spiel, Spielstand Tiebreak, Vorsprung, Vorteil
-Ellbogenbandage, Handgelenkhalter, Seite Schweißband, Tenniskleid, Schläger
-Racket, Ass Aufschlag, Doppelfehler
-Rückschlag, Grand Slam Turnier Runde, Tour, Weltrangliste
-Sprechen Sie bitte die folgenden Sätze Federer ist ein sehr berühmter Tennisspieler
-und hat in seiner Karriere über 1200 Matches gewonnen.
-Die 30-jährige Tennisspielerin aus Deutschland beendete das Match mit einem Ass.
-Dieser Wildcardinhaber gab sich erst nach dem fünften Matchball geschlagen.
-Er nahm 40% aller Bälle noch vor der Grundlinie an.
-Novak Djokovic hat ohne Satzverlust das ATP Masters in Madrid gewonnen.
-Bei einem Spielstand von 40-40 spricht man vom Einstand.
-Er währte im Tiebreak des dritten Satzes zwei Matchbälle ab.
-Das Recht auf den Aufschlag wechselt im folgenden Spiel.
-Dem Kontrahenten unterlief ein Doppelfehler.
-Sekunden später hat er mit einer weiteren Vorhand diesen zweiten Satz gewonnen.
-Sie hat drei der vergangenen 16 Turniere auf Hartplatz verletzt aufgeben müssen.
-Der erste Teilnehmer an einem Grand Slam Turnier folgt seinem Landsmann in die zweite Runde.
-Sie hat wieder ein Halbfinale auf der WTA Tour erreicht.
-Heute Abend trifft der deutsche Spieler auf den serbischen Weltranglisten ersten Novak Djokovic.
+[00:00:01.810 --> 00:00:13.000] Tennis Balljunge, Ballmädchen, Head Schiedsrichter
+[00:00:13.600 --> 00:00:22.390] Linienrichter, Schiedsrichter Schiedsrichterassistent
+[00:00:23.150 --> 00:00:34.930] Tennisspieler, Tennisspielerin Wildcardinhaber, Wildcardinhaberin
+[00:00:38.850 --> 00:00:49.260] Aufschlagfeld, Aufschlaglinie, Court, Grundlinie, Netz
+[00:00:51.460 --> 00:01:08.320] Seitenlinie, Hartplatz, die rote Asche, Sandplatz, Teppichbodenplatz, Einstand
+[00:01:09.280 --> 00:01:31.590] Matchball, Satz, Spiel, Spielstand, Tiebreak, Vorsprung, Vorteil, Ellbogenbandage
+[00:01:32.900 --> 00:01:51.450] Handgelenkhalter, Seite, Schweißband, Tenniskleid, Schläger, Racket, Ass
+[00:01:52.790 --> 00:02:04.230] Aufschlag, Doppelfehler, Rückschlag, Grand Slam Turnier
+[00:02:04.230 --> 00:02:11.910] Runde, Tour, Weltrangliste
+[00:02:21.850 --> 00:02:30.210] Federer ist ein sehr berühmter Tennisspieler und hat in seiner Karriere über 1200 Matches gewonnen.
+[00:02:32.890 --> 00:02:38.590] Die 30-jährige Tennisspielerin aus Deutschland beendete das Match mit einem Ass.
+[00:02:41.520 --> 00:02:46.920] Dieser Wildcardinhaber gab sich erst nach dem fünften Matchball geschlagen.
+[00:02:46.920 --> 00:02:54.180] Er nahm 40% aller Bälle noch vor der Grundlinie an.
+[00:02:57.380 --> 00:03:03.560] Novak Djokovic hat ohne Satzverlust das ATP Masters in Madrid gewonnen.
+[00:03:06.480 --> 00:03:11.400] Bei einem Spielstand von 40-40 spricht man vom Einstand.
+[00:03:14.440 --> 00:03:18.740] Er währte im Tiebreak des dritten Satzes zwei Matchbälle ab.
+[00:03:21.750 --> 00:03:25.650] Das Recht auf den Aufschlag wechselt im folgenden Spiel.
+[00:03:28.430 --> 00:03:32.230] Dem Kontrahenten unterlief ein Doppelfehler.
+[00:03:34.980 --> 00:03:40.340] Sekunden später hat er mit einer weiteren Vorhand diesen zweiten Satz gewonnen.
+[00:03:43.370 --> 00:03:48.990] Sie hat drei der vergangenen 16 Turniere auf Hartplatz verletzt aufgeben müssen.
+[00:03:52.070 --> 00:03:58.510] Der erste Teilnehmer an einem Grand Slam Turnier folgt seinem Landsmann in die zweite Runde.
+[00:04:01.500 --> 00:04:05.380] Sie hat wieder ein Halbfinale auf der WTA Tour erreicht.
+[00:04:07.680 --> 00:04:15.180] Heute Abend trifft der deutsche Spieler auf den serbischen Weltrangliste ersten Novak Djokovic.

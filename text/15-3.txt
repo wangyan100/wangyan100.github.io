@@ -1,51 +1,51 @@
-Säugetiere 1
-Alpaka
-Antilope
-Gämse
-Gazelle
-Kamel
-Lama
-Mufflon
-Bison
-Büffel
-Gnu
-Nilpferd
-Wildschwein
-Jack
-Darmhirsch
-Davidhirsch
-Elch
-Giraffe
-Hirschferkel
-Moschustier
-Reh
-Bergtapir
-Flachlandtapir
-Esel
-Halbesel
-Nashorn
-Schabrackentapir
-Zebra
-Biberratte
-Bilch
-Eichhörnchen
-Murmeltier
-Stachelschwein
-Wühlmaus
-Igel
-Maulwurf
-Reisfeldmaus
-Sprechen Sie bitte die folgenden Sätze
-Alpakas werden in Europa wegen ihres ruhigen und friedlichen Charakters auch in der tiergeschützten Therapie eingesetzt.
-Es ist leichter, dass ein Kamel durch ein Nadelöhr gehe, dem das ein Reicher ins Reich Gottes komme.
-Lamas kommen nur in Südamerika vor.
-Yaks variieren ihre Atemfrequenz in Abhängigkeit von der Außentemperatur.
-Die Paarungszeit der Darmhirsche ist Mitte Oktober.
-Ursprünglich im östlichen Asien beheimatet, ist der Davidhirsch in freier Wildbahn seit mehreren hundert Jahren ausgerottet.
-Charakteristisch für den Körperbau des Elches ist der kurze massige Rumpf mit seinen relativ langen Gliedmaßen.
-Die Giraffe, glaubte er, hat deshalb einen langen Hals, weil sie in Generation um Generation nach immer höheren Blättern streckte.
-Das Reh wurde durch die Deutsche Wildtierstiftung als Tier des Jahres 2019 ausgewählt.
-Nashörner leben häufig als Einzelgänger.
-Man schlägt den Sack und meint den Esel.
-Portugiesische Seefahrer sahen Ende des 15. Jahrhunderts erstmals Zebras bei ihren Entdeckungsfahrten in Afrika.
-Der Igel stellt seine Stacheln auf.
+[00:00:01.840 --> 00:00:04.940] Säugetiere 1
+[00:00:06.190 --> 00:00:07.290] Alpaka
+[00:00:10.190 --> 00:00:11.590] Antilope
+[00:00:11.590 --> 00:00:13.410] Gämse
+[00:00:14.660 --> 00:00:16.080] Gazelle
+[00:00:17.390 --> 00:00:19.490] Kamel
+[00:00:20.130 --> 00:00:21.470] Lama
+[00:00:22.750 --> 00:00:24.490] Mufflon
+[00:00:25.740 --> 00:00:27.560] Bison
+[00:00:28.620 --> 00:00:30.160] Büffel
+[00:00:31.440 --> 00:00:33.280] Gnu
+[00:00:35.540 --> 00:00:36.940] Nilpferd
+[00:00:36.940 --> 00:00:38.900] Wildschwein
+[00:00:40.210 --> 00:00:40.870] Jack
+[00:00:44.410 --> 00:00:45.810] Damhirsch
+[00:00:47.370 --> 00:00:48.770] Davidhirsch
+[00:00:48.770 --> 00:00:50.050] Elch
+[00:00:51.300 --> 00:00:52.640] Giraffe
+[00:00:53.980 --> 00:00:56.640] Hirschferkel
+[00:00:58.620 --> 00:01:00.020] Moschustier
+[00:01:02.300 --> 00:01:03.700] Reh
+[00:01:03.700 --> 00:01:05.400] Bergtapir
+[00:01:08.380 --> 00:01:09.780] Flachlandtapir
+[00:01:09.780 --> 00:01:11.480] Esel
+[00:01:14.300 --> 00:01:15.700] Halbesel
+[00:01:15.700 --> 00:01:17.880] Nashorn
+[00:01:19.220 --> 00:01:21.440] Schabrackentapir
+[00:01:22.780 --> 00:01:24.320] Zebra
+[00:01:25.570 --> 00:01:27.610] Biberratte
+[00:01:28.860 --> 00:01:29.920] Bilch
+[00:01:32.680 --> 00:01:34.080] Eichhörnchen
+[00:01:34.080 --> 00:01:36.120] Murmeltier
+[00:01:39.280 --> 00:01:40.680] Stacheschwein
+[00:01:40.680 --> 00:01:42.540] Wühlmaus
+[00:01:43.880 --> 00:01:45.320] Igel
+[00:01:46.570 --> 00:01:48.170] Maulwurf
+[00:01:49.510 --> 00:01:51.850] Reisfeldmaus
+[00:01:56.300 --> 00:01:59.020] Sprechen Sie bitte die folgenden Sätze
+[00:02:01.920 --> 00:02:10.940] Alpakas werden in Europa wegen ihres ruhigen und friedlichen Charakters auch in der tiergeschützten Therapie eingesetzt.
+[00:02:14.010 --> 00:02:21.490] Es ist leichter, dass ein Kamel durch ein Nadelöhr gehe, dem das ein Reicher ins Reich Gottes komme.
+[00:02:24.760 --> 00:02:27.580] Lamas kommen nur in Südamerika vor.
+[00:02:30.630 --> 00:02:36.790] Jaks variieren ihre Atemfrequenz in Abhängigkeit von der Außentemperatur.
+[00:02:39.470 --> 00:02:43.730] Die Paarungszeit der Darmhirsche ist Mitte Oktober.
+[00:02:46.790 --> 00:02:56.350] Ursprünglich im östlichen Asien beheimatet, ist der Davidhirsch in freier Wildbahn seit mehreren hundert Jahren ausgerottet.
+[00:02:59.310 --> 00:03:07.670] Charakteristisch für den Körperbau des Elches ist der kurze massige Rumpf mit seinen relativ langen Gliedmaßen.
+[00:03:10.450 --> 00:03:20.270] Die Giraffe, glaubte er, hat deshalb einen langen Hals, weil sie in Generation um Generation nach immer höheren Blättern streckte.
+[00:03:23.260 --> 00:03:30.240] Das Reh wurde durch die Deutsche Wildtierstiftung als Tier des Jahres 2019 ausgewählt.
+[00:03:33.440 --> 00:03:36.420] Nashörner leben häufig als Einzelgänger.
+[00:03:39.500 --> 00:03:42.420] Man schlägt den Sack und meint den Esel.
+[00:03:45.320 --> 00:03:54.080] Portugiesische Seefahrer sahen Ende des 15. Jahrhunderts erstmals Zebras bei ihren Entdeckungsfahrten in Afrika.
+[00:03:57.080 --> 00:03:59.500] Der Igel stellt seine Stacheln auf.

@@ -1,35 +1,34 @@
-einfaches rechnen addieren
-Addition plus
-Summe subtrahieren
-Subtraktion minus
-Differenzwert dividieren
-Division durch Quotient
-multiplizieren Multiplikation
-mal Produkt operant
-Divisor Dividend
-Multiplikator Multiplikant
-Subtrahend Minuend
-Summand Divisionszeichen
-Gleichheitszeichen größer als, kleiner als
-Minuszeichen Malzeichen
-Pluszeichen Ungleichheitszeichen
-Bruch Dezimalbruch
-ganze Zahlen Gradezahlen
-Ungradezahlen Primzahl
-Sprechen Sie bitte die folgenden Sätze Rechnen ist meine Schwäche.
-Addition, Subtraktion, Multiplikation und Division sind die vier Grundrechnungsarten.
-Bei der Addition kommt eine hohe Summe heraus.
-Die Addition ist die wichtigste Grundrechenart, denn auf alle mathematischen Operationen bauen auf ihr auf.
-Will man zwei Zahlen addieren, schreibt man dazwischen ein Pluszeichen.
-1 plus 1 ist 2.
-Subtrahiert man 58 von 120, erhält man 62.
-Bei der Subtraktion wird eine Zahl von der anderen abgezogen.
-Die Division ist nicht glatt aufgegangen.
-Die beiden Operanden werden in Subtraktion Minuend und Subtrahend genannt.
-Das Ergebnis heißt Differenzwert.
-Wenn die Operanden natürliche oder ganze Zahlen sind,
-so ist das Ergebnis der Multiplikation ebenfalls wieder eine natürliche oder ganze Zahl.
-Wenn sowohl der Dividend, Divisor, als auch der Wert des Quotienten eine ganze Zahl ist,
-nennt man den Divisor einen Teiler des Dividenden.
-Eine Geradezahl heißt Gerade, wenn sie ohne Rest durch 2 teilbar ist.
-Eine Primzahl ist eine natürliche Zahl.
+[00:00:01.870 --> 00:00:07.010] einfaches rechnen addieren
+[00:00:08.260 --> 00:00:13.010] Addition plus
+[00:00:16.870 --> 00:00:19.670] Summe subtrahieren
+[00:00:19.670 --> 00:00:24.840] Subtraktion minus
+[00:00:25.760 --> 00:00:30.530] Differenzwert dividieren
+[00:00:30.530 --> 00:00:38.260] Division durch Quotient
+[00:00:42.140 --> 00:00:44.940] multiplizieren Multiplikation
+[00:00:45.780 --> 00:00:53.320] mal Produkt operant
+[00:00:55.900 --> 00:00:58.700] Divisor Dividend
+[00:01:02.420 --> 00:01:05.220] Multiplikator Multiplikant
+[00:01:06.500 --> 00:01:12.600] Subtrahend Minuend
+[00:01:12.600 --> 00:01:17.860] Summand Divisionszeichen
+[00:01:19.100 --> 00:01:28.230] Gleichheitszeichen größer als, kleiner als
+[00:01:30.110 --> 00:01:34.160] Minuszeichen Malzeichen
+[00:01:35.440 --> 00:01:42.250] Pluszeichen Ungleichheitszeichen
+[00:01:42.250 --> 00:01:47.350] Bruch Dezimalbruch
+[00:01:48.630 --> 00:01:54.650] ganze Zahlen Gradezahlen
+[00:01:54.650 --> 00:01:59.660] Ungradezahlen Primzahl
+[00:02:04.140 --> 00:02:12.690] Sprechen Sie bitte die folgenden Sätze Rechnen ist meine Schwäche
+[00:02:14.960 --> 00:02:23.000] Addition, Subtraktion, Multiplikation und Division sind die vier Grundrechnungsarten
+[00:02:25.770 --> 00:02:35.570] Bei der Addition kommt eine hohe Summe heraus. Die Addition ist die wichtigste Grundrechenart,
+[00:02:35.870 --> 00:02:39.750] denn auf alle mathematischen Operationen bauen auf ihr auf.
+[00:02:42.730 --> 00:02:47.930] Will man zwei Zahlen addieren, schreibt man dazwischen ein Pluszeichen.
+[00:02:50.940 --> 00:03:01.400] 1 plus 1 ist 2. Subtrahiert man 58 von 120, erhält man 62.
+[00:03:04.240 --> 00:03:08.900] Bei der Subtraktion wird eine Zahl von der anderen abgezogen.
+[00:03:12.020 --> 00:03:14.820] Die Division ist nicht glatt aufgegangen.
+[00:03:17.800 --> 00:03:23.700] Die beiden Operanden werden in Subtraktion Minuend und Subtrahend genannt.
+[00:03:24.060 --> 00:03:26.900] Das Ergebnis heißt Differenzwert.
+[00:03:30.020 --> 00:03:36.160] Wenn die Operanden natürliche oder ganze Zahlen sind, so ist das Ergebnis der
+[00:03:36.160 --> 00:03:41.300] Multiplikation ebenfalls wieder eine natürliche oder ganze Zahl.
+[00:03:44.360 --> 00:03:51.300] Wenn sowohl der Dividend, Divisor als auch der Wert des Quotienten eine ganze Zahl ist,
+[00:03:51.720 --> 00:03:55.040] nennt man den Divisor einen Teiler des Dividenden.
+[00:03:58.140 --> 00:04:03.580] Eine gerade Zahl heißt gerade, wenn sie ohne Rest durch 2 teilbar ist.
+[00:04:06.630 --> 00:04:09.530] Eine Primzahl ist eine natürliche Zahl.

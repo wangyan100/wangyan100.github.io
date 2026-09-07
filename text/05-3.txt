@@ -1,48 +1,68 @@
-Post
-Bindfaden
-Briefumschlag
-Karton
-Luftpolsterfolie
-Luftpolster Tasche
-Tesafilm
-Versandtasche
-Brief
-Einschreiben
-Expressbrief
-Luftpost
-Paket
-per Schiff
-Standardbrief
-Wertbrief
-Adresse
-Anschrift
-Briefkasten
-Briefmarke
-Frankieren
-Postfach
-Postleitzahl
-Postkarte
-Porto
-Stempel
-versenden
-Absender
-aufbewahren
-Boote
-Briefträger
-Empfänger
-Sendung verfolgen
-verpacken
-Sprechen Sie bitte die folgenden Sätze.
-Er gibt seiner Freundin Brief und Siegel darauf, morgen rechtzeitig anzukommen.
-Diesen wichtigen Brief sollst du einschreiben lassen.
-Das Paket ist gut verpackt.
-Jetzt kann man die Pakete jederzeit direkt an einer Packstation versenden.
-Er klebt die Briefmarke auf den Brief.
-Um Zeit und Geld zu sparen, frankiert man die Post online.
-Der Postbeamte berechnet das Porto mit dem Rechner.
-Falls verzogen, bitte zurück an den Absender.
-Bei einem offiziellen Brief gibt der Absender ganz oben seine Informationen an
-und schreibt darunter die Informationen des Empfängers.
-Wir bewahren Briefe, Postkarten etc., die während ihrer Abwesenheit eintreffen, sicher für Sie auf.
-An jedem Werktag stellen die deutschen Booten rund 59 Millionen Briefsendungen zu.
-Ich verpacke das Geschenk in einen Karton.
+[00:00:01.840 --> 00:00:04.120] Post
+[00:00:04.120 --> 00:00:06.160] Bindfaden
+[00:00:07.440 --> 00:00:09.420] Briefumschlag
+[00:00:10.730 --> 00:00:12.430] Karton
+[00:00:15.450 --> 00:00:16.850] Luftpolsterfolie
+[00:00:17.430 --> 00:00:19.610] Luftpolster Tasche
+[00:00:20.860 --> 00:00:22.600] Tesafilm
+[00:00:25.570 --> 00:00:26.270] Versandtasche
+[00:00:26.970 --> 00:00:27.930] Brief
+[00:00:29.210 --> 00:00:30.910] Einschreiben
+[00:00:33.810 --> 00:00:34.550] Expressbrief
+[00:00:35.210 --> 00:00:37.310] Luftpost
+[00:00:38.560 --> 00:00:40.320] Paket
+[00:00:41.570 --> 00:00:43.090] per Schiff
+[00:00:45.150 --> 00:00:46.290] Standardbrief
+[00:00:48.430 --> 00:00:50.070] Wertbrief
+[00:00:50.070 --> 00:00:52.790] Adresse
+[00:00:52.790 --> 00:00:54.850] Anschrift
+[00:00:56.100 --> 00:00:57.900] Briefkasten
+[00:00:59.180 --> 00:01:01.000] Briefmarke
+[00:01:02.410 --> 00:01:03.930] Frankieren
+[00:01:05.210 --> 00:01:07.610] Postfach
+[00:01:09.550 --> 00:01:10.250] Postleitzahl
+[00:01:11.630 --> 00:01:13.030] Postkarte
+[00:01:14.930 --> 00:01:16.110] Porto
+[00:01:17.550 --> 00:01:18.950] Stempel
+[00:01:20.860 --> 00:01:21.620] Versenden
+[00:01:24.570 --> 00:01:25.970] Absender
+[00:01:25.970 --> 00:01:28.270] Aufbewahren
+[00:01:29.710 --> 00:01:30.410] Boote
+[00:01:32.170 --> 00:01:33.570] Briefträger
+[00:01:35.420 --> 00:01:37.260] Empfänger
+[00:01:37.260 --> 00:01:39.780] Sendungverfolgen
+[00:01:41.120 --> 00:01:42.700] Verpacken
+[00:01:47.090 --> 00:01:49.830] Sprechen Sie bitte die folgenden Sätze
+[00:01:52.030 --> 00:01:55.950] Er gibt seiner Freundin Brief und Siegel darauf,
+[00:01:56.330 --> 00:01:58.310] morgen rechtzeitig anzukommen.
+[00:02:00.550 --> 00:02:03.630] Diesen wichtigen Brief sollst du
+[00:02:03.630 --> 00:02:04.850] einschreiben lassen.
+[00:02:07.980 --> 00:02:09.020] Das Paket ist
+[00:02:09.020 --> 00:02:10.480] gut verpackt.
+[00:02:13.110 --> 00:02:14.830] Jetzt kann man die Pakete
+[00:02:14.830 --> 00:02:16.790] jederzeit direkt an einer
+[00:02:16.790 --> 00:02:18.370] Packstation versenden.
+[00:02:21.480 --> 00:02:23.260] Er klebt die Briefmarke
+[00:02:23.260 --> 00:02:24.280] auf den Brief.
+[00:02:27.340 --> 00:02:29.540] Um Zeit und Geld zu sparen,
+[00:02:29.940 --> 00:02:31.740] frankiert man die Post online.
+[00:02:34.740 --> 00:02:36.020] Der Postbeamte
+[00:02:36.020 --> 00:02:37.900] berechnet das Porto mit dem
+[00:02:37.900 --> 00:02:41.930] Rechner. Falls
+[00:02:41.930 --> 00:02:43.930] ein Brief verzogen, bitte zurück
+[00:02:43.930 --> 00:02:45.110] an den Absender.
+[00:02:48.220 --> 00:02:50.060] Bei einem offiziellen Brief
+[00:02:50.060 --> 00:02:51.960] gibt der Absender ganz oben
+[00:02:51.960 --> 00:02:53.640] seine Informationen an
+[00:02:53.640 --> 00:02:56.160] und schreibt darunter die Informationen
+[00:02:56.160 --> 00:02:57.360] des Empfängers.
+[00:03:00.220 --> 00:03:01.880] Wir bewahren Briefe,
+[00:03:02.000 --> 00:03:03.960] Postkarten etc.,
+[00:03:03.960 --> 00:03:05.800] die während ihrer Abwesenheit
+[00:03:06.160 --> 00:03:07.700] eintreffen, sicher für Sie auf.
+[00:03:10.740 --> 00:03:12.180] An jedem Werktag
+[00:03:12.180 --> 00:03:13.780] stellen die deutschen Booten
+[00:03:13.780 --> 00:03:15.940] rund 59 Millionen
+[00:03:15.940 --> 00:03:17.220] Briefsendungen zu.
+[00:03:20.230 --> 00:03:21.810] Ich verpacke das Geschenk
+[00:03:21.810 --> 00:03:22.930] in einen Karton.

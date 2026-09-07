@@ -4,67 +4,292 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Blumen",
-        "Chrysantheme",
-        "Duftblüte",
-        "Geisblatt",
-        "Nachtkerze",
-        "Ringelblume",
-        "Sonnenblume",
-        "Winterblume",
-        "Zaubernuss",
-        "Ballonblume",
-        "Flieder",
-        "Hyazinthe",
-        "Kornblume",
-        "Lavendel",
-        "Schwertlilie",
-        "Stiefmütterchen",
-        "Falken",
-        "Azale",
-        "Gladiole",
-        "Kirschblüte",
-        "Lotus",
-        "Mimose",
-        "Orchidee",
-        "Pfirsichblüte",
-        "Weihnachtskakteen",
-        "Edelrose",
-        "Feuersalbei",
-        "Hibiscus",
-        "Kamelie",
-        "Mondblume",
-        "Pelagonie",
-        "Stundenblume",
-        "Tulpe",
-        "Gänseblümchen",
-        "Gardeinie",
-        "Jasmin",
-        "Kalla",
-        "Lilie",
-        "Magnolie",
-        "Narzisse",
-        "Rubini"
+        {
+          "text": "Blumen",
+          "start": 1.71,
+          "end": 3.41
+        },
+        {
+          "text": "Chrysantheme",
+          "start": 4.72,
+          "end": 6.72
+        },
+        {
+          "text": "Duftblüte",
+          "start": 8.0,
+          "end": 9.8
+        },
+        {
+          "text": "Geisblatt",
+          "start": 11.05,
+          "end": 13.61
+        },
+        {
+          "text": "Nachtkerze",
+          "start": 15.57,
+          "end": 16.97
+        },
+        {
+          "text": "Ringelblume",
+          "start": 17.55,
+          "end": 19.67
+        },
+        {
+          "text": "Sonnenblume",
+          "start": 21.67,
+          "end": 23.07
+        },
+        {
+          "text": "Winterblume",
+          "start": 23.07,
+          "end": 25.53
+        },
+        {
+          "text": "Zaubernuss",
+          "start": 26.91,
+          "end": 28.81
+        },
+        {
+          "text": "Ballonblume",
+          "start": 30.29,
+          "end": 30.99
+        },
+        {
+          "text": "Flieder",
+          "start": 33.1,
+          "end": 34.54
+        },
+        {
+          "text": "Hyazinthe",
+          "start": 35.82,
+          "end": 37.68
+        },
+        {
+          "text": "Kornblume",
+          "start": 38.99,
+          "end": 40.69
+        },
+        {
+          "text": "Lavendel",
+          "start": 41.97,
+          "end": 43.69
+        },
+        {
+          "text": "Schwertlilie",
+          "start": 45.61,
+          "end": 46.79
+        },
+        {
+          "text": "Stiefmütterchen",
+          "start": 49.02,
+          "end": 50.08
+        },
+        {
+          "text": "Falken",
+          "start": 52.41,
+          "end": 53.11
+        },
+        {
+          "text": "Azale",
+          "start": 54.36,
+          "end": 55.5
+        },
+        {
+          "text": "Gladiole",
+          "start": 56.74,
+          "end": 58.9
+        },
+        {
+          "text": "Kirschblüte",
+          "start": 61.69,
+          "end": 62.39
+        },
+        {
+          "text": "Lotus",
+          "start": 64.17,
+          "end": 64.87
+        },
+        {
+          "text": "Mimose",
+          "start": 67.31,
+          "end": 68.71
+        },
+        {
+          "text": "Orchidee",
+          "start": 68.71,
+          "end": 70.27
+        },
+        {
+          "text": "Pfirsichblüte",
+          "start": 73.52,
+          "end": 74.22
+        },
+        {
+          "text": "Weihnachtskakteen",
+          "start": 76.34,
+          "end": 77.74
+        },
+        {
+          "text": "Edelrose",
+          "start": 78.98,
+          "end": 80.84
+        },
+        {
+          "text": "Feuersalbei",
+          "start": 82.25,
+          "end": 84.33
+        },
+        {
+          "text": "Hibiscus",
+          "start": 85.64,
+          "end": 87.3
+        },
+        {
+          "text": "Kamelie",
+          "start": 88.58,
+          "end": 91.38
+        },
+        {
+          "text": "Mondblume",
+          "start": 91.38,
+          "end": 93.34
+        },
+        {
+          "text": "Pelagonie",
+          "start": 94.62,
+          "end": 96.46
+        },
+        {
+          "text": "Stundenblume",
+          "start": 97.94,
+          "end": 99.8
+        },
+        {
+          "text": "Tulpe",
+          "start": 101.11,
+          "end": 102.59
+        },
+        {
+          "text": "Gänseblümchen",
+          "start": 103.87,
+          "end": 105.93
+        },
+        {
+          "text": "Gardenie",
+          "start": 107.21,
+          "end": 108.81
+        },
+        {
+          "text": "Jasmin",
+          "start": 110.84,
+          "end": 111.54
+        },
+        {
+          "text": "Kalla",
+          "start": 114.26,
+          "end": 115.58
+        },
+        {
+          "text": "Lilie",
+          "start": 116.26,
+          "end": 117.46
+        },
+        {
+          "text": "Magnolie",
+          "start": 119.51,
+          "end": 120.77
+        },
+        {
+          "text": "Narzisse",
+          "start": 122.69,
+          "end": 123.06
+        },
+        {
+          "text": "Rubini",
+          "start": 125.28,
+          "end": 126.02
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Blütezeit von Geisblatt dauert von Mai bis Juni an.",
-        "Die Nachtkerze gilt heute als eines der besten Heilkräuter bei Hautbeschwerden.",
-        "Wenn es sehr kalt wird, rollen sich die Blütenblätter der Zaubernuss zum Schutz ein.",
-        "In unserem Garten steht dieser lila Farbener Flieder.",
-        "In der griechischen Mythologie heißt es Hyacinthen seien aus den Blutstropfen des getöteten Jünglings Hyakintos.",
-        "Im Blumenbeet neben der Haustüre wachsen Primeln und Stiefmütterchen.",
-        "Die Arzalee ist als Zimmerpflanze im Winter sehr beliebt.",
-        "In Japan symbolisiert die Kirschblüte Schönheit Er ist empfindlich wie eine Mimose.",
-        "In Hawaii wird die Blüte vom Hibiscus als Haarschmuck getragen.",
-        "Kamelien gelten als eher empfindliche und schwer zu pflegende Zierpflanzen.",
-        "Aus der Türkei kam die Tulpe um die Mitte des 16.",
-        "Jahrhunderts nach Mittel- und Westeuropa.",
-        "Gardeinie gehört zu den Halbpflanzen in der traditionellen Chinesischen Medizin.",
-        "Die Lilie ist in Europa eine wichtige Futterpflanze."
+        {
+          "text": "Die Blütezeit von Geisblatt dauert von Mai bis Juni an.",
+          "start": 136.49,
+          "end": 141.27
+        },
+        {
+          "text": "Die Nachtkerze gilt heute als eines der besten Heilkräuter bei Hautbeschwerden.",
+          "start": 144.22,
+          "end": 150.2
+        },
+        {
+          "text": "Wenn es sehr kalt wird, rollen sich die Blütenblätter der Zaubernuss zum Schutz ein.",
+          "start": 153.04,
+          "end": 158.86
+        },
+        {
+          "text": "In unserem Garten steht ein großer lilafarbener Flieder.",
+          "start": 161.13,
+          "end": 165.93
+        },
+        {
+          "text": "In der griechischen Mythologie heißt es, Hyacinthen seien aus den Blutstropfen des getöteten Jünglings Hyakintos.",
+          "start": 168.97,
+          "end": 177.37
+        },
+        {
+          "text": "Im Blumenbeet neben der Haustüre wachsen Primeln und Stiefmütterchen.",
+          "start": 180.98,
+          "end": 186.12
+        },
+        {
+          "text": "Die Azalee ist als Zimmerpflanze im Winter sehr beliebt.",
+          "start": 189.04,
+          "end": 193.46
+        },
+        {
+          "text": "In Japan symbolisiert die Kirschblüte Schönheit und Vergänglichkeit.",
+          "start": 195.7,
+          "end": 201.78
+        },
+        {
+          "text": "Er ist empfindlich wie eine Mimose.",
+          "start": 204.9,
+          "end": 207.46
+        },
+        {
+          "text": "In Hawaii wird die Blüte vom Hibiskus als Haarschmuck getragen.",
+          "start": 210.52,
+          "end": 215.66
+        },
+        {
+          "text": "Kamelien gelten als eher empfindliche und schwer zu pflegende Zierpflanzen.",
+          "start": 218.65,
+          "end": 223.61
+        },
+        {
+          "text": "Aus der Türkei kam die Tulpe um die Mitte des 16.",
+          "start": 226.79,
+          "end": 230.51
+        },
+        {
+          "text": "Jahrhunderts nach Mittel- und Westeuropa.",
+          "start": 230.69,
+          "end": 232.27
+        },
+        {
+          "text": "Gardeinie gehört zu den Halbpflanzen in der traditionellen chinesischen Medizin.",
+          "start": 232.27,
+          "end": 241.1
+        },
+        {
+          "text": "Die Lilie ist in Europa eine wichtige Futterpflanze.",
+          "start": 241.1,
+          "end": 247.49
+        }
       ]
     }
   ]

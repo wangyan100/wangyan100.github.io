@@ -4,67 +4,297 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "andere Bestandteile des menschlichen Körpers",
-        "Chromosom",
-        "Gen",
-        "sich vererben",
-        "Stammzelle",
-        "Zellkern",
-        "Zellmembran",
-        "Zytoplasma",
-        "Band",
-        "Beuger",
-        "Brustmuskel",
-        "Lendenmuskel",
-        "Muskelgewebe",
-        "Sehne",
-        "Strecker",
-        "Bandscheibe",
-        "Gelenk",
-        "Halswirbel",
-        "Jochbein",
-        "Knorpel",
-        "Rippe",
-        "Schlüsselbein",
-        "Schädel",
-        "Steißbein",
-        "Blutader",
-        "Vene",
-        "Blutgefäß",
-        "Ader",
-        "Blutplättchen",
-        "Blutserum",
-        "Globin",
-        "Haargefäß",
-        "Plasma",
-        "Schlagader",
-        "Gehirn",
-        "Hirn",
-        "Hirnanhang",
-        "Kleinhirn",
-        "Nervenendigungen",
-        "Nervenknoten",
-        "Nervenzentrum",
-        "Rückenmark"
+        {
+          "text": "andere Bestandteile des menschlichen Körpers",
+          "start": 1.78,
+          "end": 5.68
+        },
+        {
+          "text": "Chromosom",
+          "start": 6.92,
+          "end": 9.36
+        },
+        {
+          "text": "Gen",
+          "start": 9.36,
+          "end": 10.96
+        },
+        {
+          "text": "sich vererben",
+          "start": 10.96,
+          "end": 14.2
+        },
+        {
+          "text": "Stammzelle",
+          "start": 15.58,
+          "end": 17.3
+        },
+        {
+          "text": "Zellkern",
+          "start": 18.58,
+          "end": 20.2
+        },
+        {
+          "text": "Zellmembran",
+          "start": 21.51,
+          "end": 23.35
+        },
+        {
+          "text": "Zytoplasma",
+          "start": 25.27,
+          "end": 26.97
+        },
+        {
+          "text": "Band",
+          "start": 26.97,
+          "end": 28.65
+        },
+        {
+          "text": "Beuger",
+          "start": 29.27,
+          "end": 31.21
+        },
+        {
+          "text": "Brustmuskel",
+          "start": 34.32,
+          "end": 35.02
+        },
+        {
+          "text": "Lendenmuskel",
+          "start": 36.52,
+          "end": 37.92
+        },
+        {
+          "text": "Muskelgewebe",
+          "start": 40.96,
+          "end": 42.36
+        },
+        {
+          "text": "Sehne",
+          "start": 42.36,
+          "end": 43.84
+        },
+        {
+          "text": "Strecker",
+          "start": 45.28,
+          "end": 47.46
+        },
+        {
+          "text": "Bandscheibe",
+          "start": 48.88,
+          "end": 50.28
+        },
+        {
+          "text": "Gelenk",
+          "start": 50.28,
+          "end": 52.32
+        },
+        {
+          "text": "Halswirbel",
+          "start": 53.63,
+          "end": 55.91
+        },
+        {
+          "text": "Jochbein",
+          "start": 56.67,
+          "end": 58.25
+        },
+        {
+          "text": "Knorpel",
+          "start": 59.53,
+          "end": 61.95
+        },
+        {
+          "text": "Rippe",
+          "start": 61.95,
+          "end": 63.79
+        },
+        {
+          "text": "Schlüsselbein",
+          "start": 65.14,
+          "end": 66.66
+        },
+        {
+          "text": "Schädel",
+          "start": 68.62,
+          "end": 69.32
+        },
+        {
+          "text": "Steißbein",
+          "start": 72.08,
+          "end": 73.52
+        },
+        {
+          "text": "Blutader",
+          "start": 73.52,
+          "end": 75.06
+        },
+        {
+          "text": "Vene",
+          "start": 76.37,
+          "end": 79.17
+        },
+        {
+          "text": "Blutgefäß",
+          "start": 80.79,
+          "end": 82.19
+        },
+        {
+          "text": "Ader",
+          "start": 82.19,
+          "end": 84.69
+        },
+        {
+          "text": "Blutplättchen",
+          "start": 84.69,
+          "end": 87.39
+        },
+        {
+          "text": "Blutserum",
+          "start": 88.95,
+          "end": 90.35
+        },
+        {
+          "text": "Globin",
+          "start": 90.35,
+          "end": 92.37
+        },
+        {
+          "text": "Haargefäß",
+          "start": 93.68,
+          "end": 95.72
+        },
+        {
+          "text": "Plasma",
+          "start": 96.97,
+          "end": 98.21
+        },
+        {
+          "text": "Schlagader",
+          "start": 100.74,
+          "end": 102.04
+        },
+        {
+          "text": "Gehirn",
+          "start": 102.74,
+          "end": 104.44
+        },
+        {
+          "text": "Hirn",
+          "start": 105.68,
+          "end": 106.9
+        },
+        {
+          "text": "Hirnanhang",
+          "start": 108.93,
+          "end": 109.75
+        },
+        {
+          "text": "Hirnstamm",
+          "start": 111.96,
+          "end": 112.66
+        },
+        {
+          "text": "Kleinhirn",
+          "start": 115.7,
+          "end": 117.1
+        },
+        {
+          "text": "Nervenendigungen",
+          "start": 117.1,
+          "end": 119.86
+        },
+        {
+          "text": "Nervenknoten",
+          "start": 122.38,
+          "end": 123.78
+        },
+        {
+          "text": "Nervenzentrum",
+          "start": 123.78,
+          "end": 125.64
+        },
+        {
+          "text": "Rückenmark",
+          "start": 126.89,
+          "end": 128.11
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Chromosomen enthalten Erbinformationen.",
-        "Genau wie der Mensch besitzen auch Tiere oder Pflanzen bestimmte Gene.",
-        "Diese Krankheit hat sich vom Vater auf den Sohn vererbt.",
-        "Die Mediziner isolierten aus dem Knochenmark die Stammzellen.",
-        "Meistens sind die Zellkerne kugelförmig oder oval.",
-        "Denn in der Nahrung stecken Fett, Eiweiß und Zucker und die sind wichtige Energiequellen für Muskeln, Organe und vor allem unser Gehirn.",
-        "Zusammen mit den Knochen, Muskeln und Gelenken bilden Sehnen und Bänder den Stütz- und Bewegungsapparat des Menschen.",
-        "Während die Sehnen Knochen mit Muskeln verbinden benötigen wir Bänder um unsere Gelenke zu sichern.",
-        "Das Jochbein im Gesicht ist eine Schwachstelle und bricht sehr häufig nach Unfällen.",
-        "Mithilfe eines MRT's bekommt er ein Bild von seinem Schädel.",
-        "Die Blutplättchen spielen eine wichtige Rolle bei der Blutstillung.",
-        "An den großen Arterien ist der Herzschlag gut tastbar, deshalb werden sie auch als Schlagadern bezeichnet.",
-        "Hinten im Schädel, unterhalb des Großhirns und hinter dem Hirnstamm liegt das Kleinhirn."
+        {
+          "text": "Chromosomen enthalten Erbinformationen.",
+          "start": 138.18,
+          "end": 142.52
+        },
+        {
+          "text": "Genau wie der Mensch besitzen auch Tiere oder Pflanzen bestimmte Gene.",
+          "start": 144.73,
+          "end": 149.19
+        },
+        {
+          "text": "Diese Krankheit hat sich vom Vater auf den Sohn vererbt.",
+          "start": 152.28,
+          "end": 155.68
+        },
+        {
+          "text": "Die Mediziner isolierten aus dem Knochenmark die Stammzellen.",
+          "start": 158.7,
+          "end": 162.68
+        },
+        {
+          "text": "Meistens sind die Zellkerne kugelförmig oder oval.",
+          "start": 165.75,
+          "end": 169.33
+        },
+        {
+          "text": "Denn in der Nahrung stecken Fett, Eiweiß und Zucker.",
+          "start": 172.36,
+          "end": 175.62
+        },
+        {
+          "text": "Und die sind wichtige Energiequellen für Muskeln, Organe und vor allem unser Gehirn.",
+          "start": 176.08,
+          "end": 181.56
+        },
+        {
+          "text": "Zusammen mit den Knochen, Muskeln und Gelenken bilden Sehnen und Bänder den Stütz- und Bewegungsapparat des Menschen.",
+          "start": 183.83,
+          "end": 192.13
+        },
+        {
+          "text": "Während die Sehnen Knochen mit Muskeln verbinden, benötigen wir Bänder um unsere Gelenke zu sichern.",
+          "start": 192.13,
+          "end": 202.42
+        },
+        {
+          "text": "Das Jochbein im Gesicht ist eine Schwachstelle und bricht sehr häufig nach Unfällen.",
+          "start": 202.42,
+          "end": 210.8
+        },
+        {
+          "text": "Mit Hilfe eines MRTs bekommt er ein Bild von seinem Schädel.",
+          "start": 210.8,
+          "end": 218.66
+        },
+        {
+          "text": "Die Blutplättchen spielen eine wichtige Rolle bei der Blutstillung.",
+          "start": 218.66,
+          "end": 225.54
+        },
+        {
+          "text": "An den großen Arterien ist der Herzschlag gut tastbar, deshalb werden sie auch als Schlagadern bezeichnet.",
+          "start": 225.54,
+          "end": 235.82
+        },
+        {
+          "text": "Hinten im Schädel, unterhalb des Großhirns und hinter dem Hirnstamm liegt das Kleinhirn.",
+          "start": 235.82,
+          "end": 245.35
+        }
       ]
     }
   ]

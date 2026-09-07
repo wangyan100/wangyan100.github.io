@@ -1,64 +1,70 @@
-Widerlichkeit
-lästig
-missfallen
-missfallen
-widerlich
-widerwärtig
-Zumutung
-jemandem auf die Nerven fallen
-jemandem auf die Nerven gehen
-Abneigung
-abscheu
-abscheulich
-antipathisch
-ekel
-ekelhaft
-eklig
-ekelig
-widerwille
-jemandem ein Dorn im Auge sein
-beanstanden
-Beanstandung
-ungunst
-unwille
-unwillen
-verbittern
-verbittert
-unzufrieden
-sich über beklagen
-sich über beschweren
-über klagen
-maulen
-meckern
-gegen
-murren
-über murren
-über quengeln
-manko
-plump
-schwach
-schwäche
-schwachkopf
-dummkopf
-schwerfällig
-unbeholfen
-ungeschickt
-Sprechen Sie bitte die folgenden Sätze
-Das Kind war ihr lästig.
-Sein Benehmen missfällt seiner Frau.
-Das widerliche Klima macht mich unangenehm.
-Der ständige Lärm ist eine Zumutung für alle Mitbewohner.
-Der lange beschäftigte Tag ohne Pause geht mir auf die Nerven.
-Das erregt meine Abneigung.
-Ich habe besonders Ekel vor Ratten.
-Das Wetter ist wirklich ekelhaft.
-Dieser Geruch weckt widerwille.
-Der Lehrer sagte immer, dass der böse Junge ihm ein Dorn im Auge war.
-Er hat sich die Ungunst seines Leiters zugezogen.
-Krankheit verbittert die letzten Jahre seines Lebens.
-Die schweren Schicksalsschläge haben ihn verbittert.
-Sie macht ein unzufriedenes Gesicht.
-Heute klagen viele Leute über die hohen Preise.
-Die Schüler meckern mal wieder über die schwere Prüfung.
-Der Lehrer beschimpft den Schüler als dummkopf.
-Er kam mir sehr ungeschickt vor.
+[00:00:01.970 --> 00:00:04.730] Widerlichkeit
+[00:00:06.970 --> 00:00:08.370] lästig
+[00:00:08.370 --> 00:00:10.130] missfallen
+[00:00:11.210 --> 00:00:12.510] missfallen
+[00:00:13.880 --> 00:00:15.880] widerlich
+[00:00:17.160 --> 00:00:19.020] widerwärtig
+[00:00:21.830 --> 00:00:23.230] Zumutung
+[00:00:23.230 --> 00:00:25.530] jemandem auf die Nerven fallen
+[00:00:26.840 --> 00:00:29.800] jemandem auf die Nerven gehen
+[00:00:31.050 --> 00:00:32.930] Abneigung
+[00:00:34.210 --> 00:00:35.870] abscheu
+[00:00:37.150 --> 00:00:38.810] abscheulich
+[00:00:41.890 --> 00:00:43.290] antipathisch
+[00:00:43.290 --> 00:00:44.730] ekel
+[00:00:46.070 --> 00:00:47.710] ekelhaft
+[00:00:49.090 --> 00:00:50.590] eklig
+[00:00:51.960 --> 00:00:53.740] ekelig
+[00:00:55.020 --> 00:00:57.360] widerwille
+[00:00:57.360 --> 00:01:00.540] jemandem ein Dorn im Auge sein
+[00:01:01.920 --> 00:01:03.600] beanstanden
+[00:01:04.980 --> 00:01:07.220] Beanstandung
+[00:01:08.660 --> 00:01:10.160] ungunst
+[00:01:11.500 --> 00:01:13.520] unwille
+[00:01:14.280 --> 00:01:15.800] unwillen
+[00:01:17.210 --> 00:01:18.830] verbittern
+[00:01:20.170 --> 00:01:22.450] verbittert
+[00:01:25.050 --> 00:01:25.930] unzufrieden
+[00:01:26.450 --> 00:01:29.150] sich über beklagen
+[00:01:30.460 --> 00:01:33.720] sich über beschweren
+[00:01:34.970 --> 00:01:37.450] über klagen
+[00:01:38.700 --> 00:01:40.900] maulen
+[00:01:41.740 --> 00:01:43.060] meckern
+[00:01:44.370 --> 00:01:46.270] gegen
+[00:01:47.050 --> 00:01:48.050] murren
+[00:01:49.820 --> 00:01:52.240] über murren
+[00:01:53.490 --> 00:01:56.110] über quengeln
+[00:01:57.420 --> 00:01:58.800] manko
+[00:02:00.110 --> 00:02:01.230] plump
+[00:02:02.800 --> 00:02:03.760] schwach
+[00:02:05.100 --> 00:02:06.820] schwäche
+[00:02:08.260 --> 00:02:09.880] schwachkopf
+[00:02:11.230 --> 00:02:12.450] dummkopf
+[00:02:15.850 --> 00:02:17.010] schwerfällig
+[00:02:17.010 --> 00:02:18.890] unbeholfen
+[00:02:20.170 --> 00:02:21.610] ungeschickt
+[00:02:26.370 --> 00:02:28.990] Sprechen Sie bitte die folgenden Sätze
+[00:02:31.820 --> 00:02:34.400] Das Kind war ihr lästig.
+[00:02:37.120 --> 00:02:39.600] Sein Benehmen missfällt seiner Frau.
+[00:02:42.540 --> 00:02:45.600] Das widerliche Klima macht mich unangenehm.
+[00:02:48.470 --> 00:02:50.990] Der ständige Lärm ist eine Zumutung
+[00:02:50.990 --> 00:02:52.270] für alle Mitbewohner.
+[00:02:54.510 --> 00:02:58.130] Der lange, beschäftigte Tag ohne Pause
+[00:02:58.130 --> 00:02:59.610] geht mir auf die Nerven.
+[00:03:02.560 --> 00:03:04.640] Das erregt meine Abneigung.
+[00:03:07.710 --> 00:03:10.450] Ich habe besonders ekel vor Ratten.
+[00:03:13.370 --> 00:03:15.650] Das Wetter ist wirklich ekelhaft.
+[00:03:18.720 --> 00:03:20.820] Dieser Geruch weckt widerwille.
+[00:03:23.940 --> 00:03:25.460] Der Lehrer sagte immer,
+[00:03:25.620 --> 00:03:28.500] dass der böse Junge ihm ein Dorn im Auge war.
+[00:03:31.570 --> 00:03:33.170] Er hat sich die Ungunst
+[00:03:33.170 --> 00:03:34.930] seines Leiters zugezogen.
+[00:03:38.100 --> 00:03:40.500] Krankheit verbittert die letzten Jahre
+[00:03:40.500 --> 00:03:41.600] seines Lebens.
+[00:03:44.640 --> 00:03:46.660] Die schweren Schicksalsschläge
+[00:03:46.660 --> 00:03:48.400] haben ihn verbittert.
+[00:03:51.140 --> 00:03:53.420] Sie macht ein unzufriedenes Gesicht.
+[00:03:56.620 --> 00:03:59.860] Heute klagen viele Leute über die hohen Preise.
+[00:04:02.850 --> 00:04:06.170] Die Schüler meckern mal wieder über die schwere Prüfung.
+[00:04:09.080 --> 00:04:12.120] Der Lehrer beschimpft den Schüler als dummkopf.
+[00:04:15.120 --> 00:04:17.340] Er kam mir sehr ungeschickt vor.

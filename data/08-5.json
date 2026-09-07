@@ -4,68 +4,292 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Hafen",
-        "beladen",
-        "Boje",
-        "Container",
-        "entladen",
-        "Fähre",
-        "Leuchtturm",
-        "Rede",
-        "Speicher",
-        "Ablader",
-        "Befrachter",
-        "Hafenarbeiter",
-        "Kapitän",
-        "Lotse",
-        "Matrose",
-        "Seemann",
-        "Steuermann",
-        "Anker",
-        "Bug",
-        "Bord",
-        "Propeller",
-        "Schiffsschraube",
-        "Rehling",
-        "Schiffskörper",
-        "Schiffsraum",
-        "Segel",
-        "Casino",
-        "Fernglas",
-        "Glücksspiel",
-        "luxuriös",
-        "Rettungsboot",
-        "Rettungsring",
-        "Seekrank",
-        "Speisesaal",
-        "Ankern",
-        "am Ruder sitzen",
-        "das Ruder führen",
-        "auslaufen",
-        "einlaufen",
-        "Fahrrinne",
-        "Probefahrt",
-        "Seemeile"
+        {
+          "text": "Hafen",
+          "start": 1.9,
+          "end": 3.62
+        },
+        {
+          "text": "beladen",
+          "start": 5.34,
+          "end": 6.48
+        },
+        {
+          "text": "Boje",
+          "start": 8.11,
+          "end": 9.17
+        },
+        {
+          "text": "Container",
+          "start": 10.96,
+          "end": 12.1
+        },
+        {
+          "text": "entladen",
+          "start": 13.88,
+          "end": 15.02
+        },
+        {
+          "text": "Fähre",
+          "start": 16.96,
+          "end": 17.94
+        },
+        {
+          "text": "Leuchtturm",
+          "start": 19.63,
+          "end": 20.85
+        },
+        {
+          "text": "Rede",
+          "start": 22.9,
+          "end": 23.44
+        },
+        {
+          "text": "Speicher",
+          "start": 25.72,
+          "end": 26.66
+        },
+        {
+          "text": "Ablader",
+          "start": 28.54,
+          "end": 30.58
+        },
+        {
+          "text": "Befrachter",
+          "start": 30.58,
+          "end": 33.0
+        },
+        {
+          "text": "Hafenarbeiter",
+          "start": 34.63,
+          "end": 36.11
+        },
+        {
+          "text": "Kapitän",
+          "start": 37.96,
+          "end": 38.9
+        },
+        {
+          "text": "Lotse",
+          "start": 40.72,
+          "end": 42.12
+        },
+        {
+          "text": "Matrose",
+          "start": 43.8,
+          "end": 44.7
+        },
+        {
+          "text": "Seemann",
+          "start": 46.76,
+          "end": 47.82
+        },
+        {
+          "text": "Steuermann",
+          "start": 49.82,
+          "end": 51.04
+        },
+        {
+          "text": "Anker",
+          "start": 52.74,
+          "end": 53.74
+        },
+        {
+          "text": "Bug",
+          "start": 55.61,
+          "end": 55.87
+        },
+        {
+          "text": "Bord",
+          "start": 60.8,
+          "end": 61.44
+        },
+        {
+          "text": "Propeller",
+          "start": 63.38,
+          "end": 64.42
+        },
+        {
+          "text": "Schiffsschraube",
+          "start": 66.32,
+          "end": 67.76
+        },
+        {
+          "text": "Rehling",
+          "start": 69.5,
+          "end": 70.28
+        },
+        {
+          "text": "Schiffskörper",
+          "start": 72.33,
+          "end": 73.43
+        },
+        {
+          "text": "Schiffsraum",
+          "start": 75.59,
+          "end": 76.71
+        },
+        {
+          "text": "Segel",
+          "start": 78.78,
+          "end": 79.48
+        },
+        {
+          "text": "Casino",
+          "start": 81.47,
+          "end": 82.23
+        },
+        {
+          "text": "Fernglas",
+          "start": 84.44,
+          "end": 85.24
+        },
+        {
+          "text": "Glücksspiel",
+          "start": 89.35,
+          "end": 90.75
+        },
+        {
+          "text": "luxuriös",
+          "start": 90.75,
+          "end": 92.15
+        },
+        {
+          "text": "Rettungsboot",
+          "start": 93.77,
+          "end": 95.29
+        },
+        {
+          "text": "Rettungsring",
+          "start": 97.12,
+          "end": 98.54
+        },
+        {
+          "text": "Seekrank",
+          "start": 102.46,
+          "end": 103.62
+        },
+        {
+          "text": "Speisesaal",
+          "start": 103.62,
+          "end": 104.78
+        },
+        {
+          "text": "Ankern",
+          "start": 106.6,
+          "end": 107.44
+        },
+        {
+          "text": "am Ruder sitzen",
+          "start": 109.22,
+          "end": 110.66
+        },
+        {
+          "text": "das Ruder führen",
+          "start": 112.66,
+          "end": 113.94
+        },
+        {
+          "text": "auslaufen",
+          "start": 116.19,
+          "end": 117.51
+        },
+        {
+          "text": "einlaufen",
+          "start": 119.26,
+          "end": 120.46
+        },
+        {
+          "text": "Fahrrinne",
+          "start": 122.51,
+          "end": 123.79
+        },
+        {
+          "text": "Probefahrt",
+          "start": 125.6,
+          "end": 127.08
+        },
+        {
+          "text": "Seemeile",
+          "start": 128.76,
+          "end": 129.84
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "An vielen Hafen wurden spezielle Container-Terminals zum Be- und Entladen gebaut.",
-        "Nach der Ankunft am Kai der Insel musste man zu Fuß weiter zum Leuchtturm laufen.",
-        "Der Container wird vom Absender beladen.",
-        "Das einzige Fahrzeug, das wir noch benutzen können, ist die Fähre.",
-        "Das Schiff liegt auf der Rede.",
-        "Dort ist der Speicher für unsere Ernte.",
-        "Der Kapitän muss die Disziplin seines Schiffes aufrechterhalten.",
-        "Wir lichteten den Anker und segelten mit unserem Boot los.",
-        "Der Mann verfolgt durch das Fernglas das Fußballspiel.",
-        "Wenn Sie schnell seekrank werden, sollten Sie auf gute Ernährung und ausreichend Schlaf achten.",
-        "Das Kreuzfahrtschiff läuft heute Nachmittag aus dem Hafen aus.",
-        "Ich interessiere mich für diesen Wagen.",
-        "Kann ich bitte eine Probefahrt unternehmen?",
-        "Die Fahrrinne ist mit Bojen markiert."
+        {
+          "text": "An vielen Hafen wurden spezielle Container-Terminals zum Be- und Entladen gebaut.",
+          "start": 140.56,
+          "end": 146.46
+        },
+        {
+          "text": "Nach der Ankunft am Kai der Insel musste man zu Fuß weiter zum Leuchtturm laufen.",
+          "start": 146.46,
+          "end": 155.73
+        },
+        {
+          "text": "Der Container wird vom Absender beladen.",
+          "start": 155.73,
+          "end": 161.33
+        },
+        {
+          "text": "Das einzige Fahrzeug, das wir noch benutzen können, ist die Fähre.",
+          "start": 161.33,
+          "end": 169.37
+        },
+        {
+          "text": "Das Schiff liegt auf der Rede.",
+          "start": 169.37,
+          "end": 174.62
+        },
+        {
+          "text": "Dort ist der Speicher für unsere Ernte.",
+          "start": 174.62,
+          "end": 180.13
+        },
+        {
+          "text": "Der Kapitän muss die Disziplin seines Schiffes aufrechterhalten.",
+          "start": 180.13,
+          "end": 187.06
+        },
+        {
+          "text": "Wir lichteten den Anker und segelten mit unserem Boot los.",
+          "start": 187.06,
+          "end": 194.62
+        },
+        {
+          "text": "Der Mann verfolgt durch das Fernglas das Fußballspiel.",
+          "start": 194.62,
+          "end": 200.9
+        },
+        {
+          "text": "Wenn Sie schnell seekrank werden, sollten Sie auf gute Ernährung und ausreichend Schlaf achten.",
+          "start": 200.9,
+          "end": 210.71
+        },
+        {
+          "text": "Das Kreuzfahrtschiff läuft heute Nachmittag aus dem Hafen aus.",
+          "start": 210.71,
+          "end": 217.96
+        },
+        {
+          "text": "Ich interessiere mich für diesen Wagen.",
+          "start": 217.96,
+          "end": 223.02
+        },
+        {
+          "text": "Kann ich bitte eine Probefahrt unternehmen?",
+          "start": 223.02,
+          "end": 225.96
+        },
+        {
+          "text": "Die Fahrrinne ist mit Bojen markiert.",
+          "start": 225.96,
+          "end": 231.58
+        }
       ]
     }
   ]

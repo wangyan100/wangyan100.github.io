@@ -1,17 +1,16 @@
-Fleisch, Eisbein, Schweinehackse, Schweinefilet, Kotelett, Schinken, Schulter, Schweinehackfleisch
-Mett, Schweineschnitzel, Speck, Kalbfleisch, Rinderbrust, Rinderfilet
-Rindersteak, Schabefleisch, Rinderzunge, Hühnerbrust, Hähnchenflügel, Hühnerschenkel, Hühnermagen
-Putenfleisch, Bacon, Blutwurst, Currywurst, Döner, Leberwurst, Salami, Weißwurst
-Wurst, Entenfleisch, Hasenfleisch, Kaninchenfleisch, Lammfleisch, Rehfleisch, Wildbret
-Die original bayerische Schweinehackse kann zur Brotzeit mit Bauernbrot gegessen werden.
-Traditionell wird Schinken aus der Hinterkeule des Schweins hergestellt.
-Ich schneide beim Schinken immer den Speck ab.
-Thüringer Mett ist ein gewürztes Hackfleisch vom Schwein.
-Kalbfleisch stammt von jungen Rindern, die bei der Schlachtung wenige Wochen bis wenige Monate alt sind.
-Putenfleisch enthält reichlich B-Vitamine.
-Blutwurst wird in der Regel kalt zum Wesper gegessen.
-Die Currywurst ist in der Zeit nach dem Zweiten Weltkrieg in Berlin entstanden.
-Die Pfälzer Leberwurst ist eine traditionell in der Kurpfalz hergestellte Kochwurst.
-Kaninchenfleisch versorgt den menschlichen Körper mit reichvollen ungesättigten Fettsäuren.
-Ursprünglich wurde für Döner nur Lammfleisch verwendet.
-Inzwischen sind auch Kalb- oder Rindfleisch und Geflügel üblich.
+[00:00:01.840 --> 00:00:26.690] Fleisch, Eisbein, Schweinehackse, Schweinefilet, Kotelett, Schinken, Schulter, Schweinehackfleisch
+[00:00:26.690 --> 00:00:44.330] Mett, Schweineschnitzel, Speck, Kalbfleisch, Rinderbrust, Rinderfilet
+[00:00:44.330 --> 00:01:05.910] Rindersteak, Schabefleisch, Rinderzunge, Hühnerbrust, Hähnchenflügel, Hühnerschenkel, Hühnermagen
+[00:01:07.220 --> 00:01:31.040] Putenfleisch, Bacon, Blutwurst, Currywurst, Döner, Leberwurst, Salami, Weißwurst
+[00:01:31.040 --> 00:01:51.960] Wurst, Entenfleisch, Hasenfleisch, Kaninchenfleisch, Lammfleisch, Rehfleisch, Wildbret
+[00:01:59.670 --> 00:02:09.640] Die original bayerische Schweinehackse kann zur Brotzeit mit Bauernbrot gegessen werden.
+[00:02:12.930 --> 00:02:17.460] Traditionell wird Schinken aus der Hinterkeule des Schweins hergestellt.
+[00:02:20.980 --> 00:02:24.000] Ich schneide beim Schinken immer den Speck ab.
+[00:02:27.040 --> 00:02:31.030] Thüringer Mett ist ein gewürztes Hackfleisch vom Schwein.
+[00:02:34.590 --> 00:02:41.670] Kalbfleisch stammt von jungen Rindern, die bei der Schlachtung wenige Wochen bis wenige Monate alt sind.
+[00:02:45.160 --> 00:02:55.680] Putenfleisch enthält reichlich B-Vitamine. Blutwurst wird in der Regel kalt zum Wesper gegessen.
+[00:02:58.850 --> 00:03:04.050] Die Currywurst ist in der Zeit nach dem Zweiten Weltkrieg in Berlin entstanden.
+[00:03:07.270 --> 00:03:14.430] Die Pfälzer Leberwurst ist eine traditionell in der Kurpfalz hergestellte Kochwurst.
+[00:03:17.480 --> 00:03:23.940] Kaninchenfleisch versorgt den menschlichen Körper mit reichvollen ungesättigten Fettsäuren.
+[00:03:26.910 --> 00:03:30.350] Ursprünglich wurde für Döner nur Lammfleisch verwendet.
+[00:03:31.090 --> 00:03:35.170] Inzwischen sind auch Kalb- oder Rindfleisch und Geflügel üblich.

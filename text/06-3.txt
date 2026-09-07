@@ -1,20 +1,47 @@
-Basketball, Akteur, Auswechselspieler, Bankspieler, Feldspieler, Center, Forward, Guard, Auslinie
-die begrenzte Zone, Drei-Punkte-Linie, Endlinie, Freivorflinie, Korb, Vorfeld, Rückfeld, Zielbrett, Dunking, Faul, Freivorf, Halbzeit, Korbwurf, Nahwurf, Treffer, Viertel
-Weitwurf, abwehren, abdrängen, blockieren, dribbeln, in den Korb legen, rempeln, springen, auswärts
-Gastmannschaft, Heimmannschaft, Platzmannschaft, Heimspiel, Heimvorteil, startende 5
-Erste 5
-Sprechen Sie bitte die folgenden Sätze.
-Die Startaufstellung der Feldspieler besteht aus einem Center, zwei Forwards und zwei Guards.
-Der Center ist meist der größte und körperlich stärkste Spieler einer Mannschaft.
-Der Guard gibt den Ball zum Power Forward ab.
-Der Ball hat die Auslinie überschritten.
-Immer wenn Nowitzki zum Korbwurf ansetzte, erhoben sich die Fans von ihren Sitzen.
-Der Schiedsrichter stellt wegen Faul den Feldspieler vom Platz.
-Der ballführende Spieler begeht ein Faul durch rempeln.
-In der zweiten Halbzeit hat die Mannschaft noch einmal aufgedreht.
-Der Treffer in den Korb zählt nach Entfernung zwei oder drei Punkte.
-Ein Basketballspiel besteht aus Vierteln und jedes Viertel hat eine Dauer von 10 Minuten.
-Gute Verteidiger können den Angreifer schnell abdrängen.
-Dieser Spieler kann zwei Meter hoch springen.
-Der 40 Jahre alte Profi kündigte nach dem letzten Heimspiel an, seine Karriere zu beenden.
-Einen Heimvorteil haben Mannschaften an die örtlichen Gegebenheiten besser angepasst zu sein als der Gegner.
+[00:00:01.460 --> 00:00:26.400] Basketball, Akteur, Auswechselspieler, Bankspieler, Feldspieler, Center, Forward, Guard, Auslinie
+[00:00:27.020 --> 00:00:29.200] die begrenzte Zone
+[00:00:30.480 --> 00:00:32.840] 3-Punkte-Linie
+[00:00:34.120 --> 00:00:35.820] Endlinie
+[00:00:37.230 --> 00:00:39.190] Freivorflinie
+[00:00:40.470 --> 00:00:41.550] Korb
+[00:00:42.930 --> 00:00:44.930] Vorfeld
+[00:00:44.930 --> 00:00:47.150] Rückfeld
+[00:00:48.460 --> 00:00:50.100] Zielbrett
+[00:00:51.410 --> 00:00:52.870] Dunking
+[00:00:54.250 --> 00:00:55.390] Faul
+[00:00:56.830 --> 00:00:58.550] Freivurf
+[00:00:59.860 --> 00:01:01.380] Halbzeit
+[00:01:01.380 --> 00:01:04.040] Korbwurf
+[00:01:04.780 --> 00:01:06.320] Nahwurf
+[00:01:07.660 --> 00:01:09.060] Treffer
+[00:01:10.340 --> 00:01:12.340] Viertel
+[00:01:14.600 --> 00:01:15.340] Weitwurf
+[00:01:16.000 --> 00:01:17.740] abwehren
+[00:01:18.990 --> 00:01:21.450] abdrängen
+[00:01:21.450 --> 00:01:24.030] blockieren
+[00:01:25.470 --> 00:01:26.870] dribbeln
+[00:01:27.210 --> 00:01:29.930] in den Korb legen
+[00:01:30.590 --> 00:01:36.400] rempeln, springen
+[00:01:38.080 --> 00:01:39.480] auswärts
+[00:01:39.480 --> 00:01:41.160] Gastmannschaft
+[00:01:42.470 --> 00:01:44.570] Heimmannschaft
+[00:01:45.820 --> 00:01:47.720] Platzmannschaft
+[00:01:49.060 --> 00:01:50.620] Heimspiel
+[00:01:51.960 --> 00:01:53.900] Heimvorteil
+[00:01:55.310 --> 00:01:58.130] Startende 5
+[00:01:58.130 --> 00:01:59.970] Erste 5
+[00:02:04.480 --> 00:02:07.240] Sprechen Sie bitte die folgenden Sätze.
+[00:02:10.230 --> 00:02:17.110] Die Startaufstellung der Feldspieler besteht aus einem Center, zwei Forwards und zwei Guards.
+[00:02:19.320 --> 00:02:25.520] Der Center ist meist der größte und körperlich stärkste Spieler einer Mannschaft.
+[00:02:28.920 --> 00:02:32.600] Der Guard gibt den Ball zum Power Forward ab.
+[00:02:35.580 --> 00:02:37.800] Der Ball hat die Auslinie überschritten.
+[00:02:41.160 --> 00:02:47.220] Immer wenn Nowitzki zum Korbwurf ansetzte, erhoben sich die Fans von ihren Sitzen.
+[00:02:50.220 --> 00:02:54.480] Der Schiedsrichter stellt wegen Faul den Feldspieler vom Platz.
+[00:02:54.480 --> 00:03:01.610] Der Ballführende Spieler begeht ein Faul durch rempeln.
+[00:03:04.610 --> 00:03:09.190] In der zweiten Halbzeit hat die Mannschaft noch einmal aufgedreht.
+[00:03:11.620 --> 00:03:16.260] Der Treffer in den Korb zählt nach Entfernung 2 oder 3 Punkte.
+[00:03:19.320 --> 00:03:25.800] Ein Basketballspiel besteht aus Vierteln und jedes Viertel hat eine Dauer von 10 Minuten.
+[00:03:28.860 --> 00:03:32.880] Gute Verteidiger können den Angreifer schnell abdrängen.
+[00:03:35.160 --> 00:03:39.160] Dieser Spieler kann 2 Meter hoch springen.
+[00:03:41.820 --> 00:03:48.820] Der 40 Jahre alte Profi kündigte nach dem letzten Heimspiel an, seine Karriere zu beenden.
+[00:03:52.000 --> 00:03:59.680] Einen Heimvorteil haben Mannschaften an die örtlichen Gegebenheiten besser angepasst zu sein als der Gegner.

@@ -1,38 +1,35 @@
-Weihnachten Ast
-erstrahlen hängen
-Kranz Kugel
-Lametta schmücken
-Tanne bescheren
-Geschenk Gabe
-Gewand Nikolaus
-Rauschebad Rentier
-Route schlitten
-Wunschzettel
-anzünden
-Dekoration Holz
-Kaminfeuer Kerze Schornstein
-warm Advent Christkind
-Engel Geburt
-Heiligabend Krippe
-Krippenspiel Weihnachtslied
-Adventskalender Glühwein
-Lebkuchen Punsch
-Spekulatius
-Stand
-Stolle
-Sprechen Sie bitte die folgenden Sätze
-Weihnachten ist ein wichtiges christliches Fest und Christen feiern die Geburt Jesu Christi.
-In Dortmund erstrahlt auf dem Weihnachtsmarkt der weltgrößte Weihnachtsbaum.
-Während Weihnachten schmücken Lichterketten, Lametta, Adventskranz und Christbaum die Häuser.
-Der Weihnachtsmann fährt Jahr für Jahr mit seinem Schlitten durch die Dörfer und Städte.
-Aufgrund seiner roten Nase wird Rudolf jedoch von den anderen Rentieren verspottet.
-Die Wunschzettel sind gelesen, die Geschenke verpackt.
-Der Weihnachtsmann hat sich auf den Weg gemacht.
-Im Kamin brennt ein herrliches Feuer.
-Der 24. Dezember wird in Deutschland Heiligabend genannt
-und in vielen Familien findet an diesem Abend die Bescherung statt.
-Im Krippenspiel wird die Weihnachtsgeschichte dargestellt, die von der Geburt Jesu handelt.
-Im bekannten Weihnachtslied Morgen kommt der Weihnachtsmann lauten die ersten beiden Zeilen
-Morgen kommt der Weihnachtsmann kommt mit seinen Gaben.
-Auf dem Weihnachtsmarkt gibt es Glühwein, Lebkuchen und andere Süßigkeiten ohne Ende.
-Je nach Region werden unterschiedliche Weine für Glühwein verwendet.
+[00:00:01.680 --> 00:00:05.780] Weihnachten Ast
+[00:00:07.160 --> 00:00:11.420] erstrahlen hängen
+[00:00:12.730 --> 00:00:18.240] Kranz Kugel
+[00:00:18.240 --> 00:00:22.390] Lametta schmücken
+[00:00:23.700 --> 00:00:27.960] Tanne bescheren
+[00:00:30.360 --> 00:00:33.160] Geschenk Gabe
+[00:00:36.060 --> 00:00:38.860] Gewand Nikolaus
+[00:00:39.820 --> 00:00:45.950] Rauschebad Rentier
+[00:00:45.950 --> 00:00:50.700] Route schlitten
+[00:00:53.680 --> 00:00:56.480] Wunschzettel anzünden
+[00:00:57.060 --> 00:01:01.720] Dekoration Holz
+[00:01:03.480 --> 00:01:10.510] Kaminfeuer Kerze Schornstein
+[00:01:11.510 --> 00:01:19.290] Warm Advent Christkind
+[00:01:21.350 --> 00:01:24.150] Engel Geburt
+[00:01:25.430 --> 00:01:32.970] Heiligabend Krippe Krippenspiel
+[00:01:37.450 --> 00:01:40.250] Weihnachtslied Adventskalender
+[00:01:42.210 --> 00:01:45.010] Glühwein Lebkuchen
+[00:01:46.420 --> 00:01:51.100] Punsch Spekulatius
+[00:01:52.500 --> 00:01:56.720] Stand Stolle
+[00:02:01.100 --> 00:02:03.540] Sprechen Sie bitte die folgenden Sätze
+[00:02:06.330 --> 00:02:12.690] Weihnachten ist ein wichtiges christliches Fest und Christen feiern die Geburt Jesu Christi.
+[00:02:15.540 --> 00:02:20.960] In Dortmund erstrahlt auf dem Weihnachtsmarkt der weltgrößte Weihnachtsbaum.
+[00:02:23.920 --> 00:02:29.880] Während Weihnachten schmücken Lichterketten, Lametta, Adventskranz und Christbaum die Häuser.
+[00:02:32.080 --> 00:02:38.400] Der Weihnachtsmann fährt Jahr für Jahr mit seinem Schlitten durch die Dörfer und Städte.
+[00:02:40.750 --> 00:02:46.150] Aufgrund seiner roten Nase wird Rudolf jedoch von den anderen Rentieren verspottet.
+[00:02:49.130 --> 00:02:52.450] Die Wunschzettel sind gelesen, die Geschenke verpackt.
+[00:02:52.790 --> 00:02:55.290] Der Weihnachtsmann hat sich auf den Weg gemacht.
+[00:02:58.350 --> 00:03:00.610] Im Kamin brennt ein herrliches Feuer.
+[00:03:03.660 --> 00:03:07.920] Der 24. Dezember wird in Deutschland Heiligabend genannt
+[00:03:07.920 --> 00:03:12.280] und in vielen Familien findet an diesem Abend die Bescherung statt.
+[00:03:15.280 --> 00:03:20.740] Im Krippenspiel wird die Weihnachtsgeschichte dargestellt, die von der Geburt Jesu handelt.
+[00:03:23.680 --> 00:03:29.980] Im bekannten Weihnachtslied Morgen kommt der Weihnachtsmann lauten die ersten beiden Zeilen
+[00:03:29.980 --> 00:03:34.300] Morgen kommt der Weihnachtsmann, kommt mit seinen Gaben.
+[00:03:36.760 --> 00:03:42.820] Auf dem Weihnachtsmarkt gibt es Glühwein, Lebkuchen und andere Süßigkeiten ohne Ende.
+[00:03:45.030 --> 00:03:50.070] Je nach Region werden unterschiedliche Weine für Glühwein verwendet.

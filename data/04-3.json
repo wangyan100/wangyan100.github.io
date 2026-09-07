@@ -4,66 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Strand",
-        "Badeanzug",
-        "Schwimmanzug",
-        "Badehose",
-        "Bikini",
-        "Sonnenbrille",
-        "Sonnenhut",
-        "Tauchanzug",
-        "Tauchbrille",
-        "Kokospalme",
-        "Meeresschildkröte",
-        "Meeresstille",
-        "Möwe",
-        "Riff",
-        "Sand",
-        "Seesterne",
-        "Welle",
-        "auflaufen",
-        "Dampfer",
-        "Kreuzfahrtschiff",
-        "Motorboot",
-        "Passagierschiff",
-        "Segelschiff",
-        "Yacht",
-        "zurücklegen",
-        "Beachsocker",
-        "Beachvolleyball",
-        "Sandbad",
-        "Sandburg errichten",
-        "Schwimmen",
-        "Segeln",
-        "Surfen",
-        "Tauchen",
-        "Meerenge",
-        "Meeresarm",
-        "Meeresboden",
-        "Meeresgrund",
-        "Meeresspiegel",
-        "Meeresoberfläche",
-        "Meeresströmung",
-        "Meeresufer"
+        {
+          "text": "Strand",
+          "start": 1.9,
+          "end": 2.92
+        },
+        {
+          "text": "Badeanzug",
+          "start": 4.27,
+          "end": 6.49
+        },
+        {
+          "text": "Schwimmanzug",
+          "start": 9.56,
+          "end": 10.26
+        },
+        {
+          "text": "Badehose",
+          "start": 12.26,
+          "end": 13.66
+        },
+        {
+          "text": "Bikini",
+          "start": 14.18,
+          "end": 16.2
+        },
+        {
+          "text": "Sonnenbrille",
+          "start": 17.02,
+          "end": 18.74
+        },
+        {
+          "text": "Sonnenhut",
+          "start": 20.06,
+          "end": 21.68
+        },
+        {
+          "text": "Tauchanzug",
+          "start": 23.02,
+          "end": 25.0
+        },
+        {
+          "text": "Tauchbrille",
+          "start": 26.38,
+          "end": 28.06
+        },
+        {
+          "text": "Kokospalme",
+          "start": 29.37,
+          "end": 31.47
+        },
+        {
+          "text": "Meeresschildkröte",
+          "start": 34.23,
+          "end": 34.93
+        },
+        {
+          "text": "Meeresstille",
+          "start": 37.09,
+          "end": 38.49
+        },
+        {
+          "text": "Möwe",
+          "start": 39.41,
+          "end": 40.43
+        },
+        {
+          "text": "Riff",
+          "start": 41.95,
+          "end": 43.35
+        },
+        {
+          "text": "Sand",
+          "start": 44.63,
+          "end": 45.91
+        },
+        {
+          "text": "Seesterne",
+          "start": 49.16,
+          "end": 49.86
+        },
+        {
+          "text": "Welle",
+          "start": 50.56,
+          "end": 51.46
+        },
+        {
+          "text": "Auflaufen",
+          "start": 53.41,
+          "end": 55.21
+        },
+        {
+          "text": "Dampfer",
+          "start": 55.21,
+          "end": 57.57
+        },
+        {
+          "text": "Kreuzfahrtschiff",
+          "start": 58.88,
+          "end": 61.02
+        },
+        {
+          "text": "Motorboot",
+          "start": 62.9,
+          "end": 64.3
+        },
+        {
+          "text": "Passagierschiff",
+          "start": 65.58,
+          "end": 67.56
+        },
+        {
+          "text": "Segelschiff",
+          "start": 68.81,
+          "end": 70.55
+        },
+        {
+          "text": "Jacht",
+          "start": 71.45,
+          "end": 73.15
+        },
+        {
+          "text": "Zurücklegen",
+          "start": 74.65,
+          "end": 76.53
+        },
+        {
+          "text": "Beachsocker",
+          "start": 77.05,
+          "end": 79.05
+        },
+        {
+          "text": "Beachvolleyball",
+          "start": 82.37,
+          "end": 83.77
+        },
+        {
+          "text": "Sandbad",
+          "start": 83.77,
+          "end": 85.05
+        },
+        {
+          "text": "Sandburg errichten",
+          "start": 86.82,
+          "end": 88.68
+        },
+        {
+          "text": "Schwimmen",
+          "start": 91.26,
+          "end": 91.96
+        },
+        {
+          "text": "Segeln",
+          "start": 93.34,
+          "end": 94.74
+        },
+        {
+          "text": "Surfen",
+          "start": 96.08,
+          "end": 97.58
+        },
+        {
+          "text": "Tauchen",
+          "start": 98.89,
+          "end": 100.99
+        },
+        {
+          "text": "Meerenge",
+          "start": 100.99,
+          "end": 103.61
+        },
+        {
+          "text": "Meeresarm",
+          "start": 105.37,
+          "end": 106.77
+        },
+        {
+          "text": "Meeresboden",
+          "start": 109.11,
+          "end": 109.81
+        },
+        {
+          "text": "Meeresgrund",
+          "start": 111.23,
+          "end": 112.63
+        },
+        {
+          "text": "Meeresspiegel",
+          "start": 116.47,
+          "end": 117.69
+        },
+        {
+          "text": "Meeresoberfläche",
+          "start": 120.01,
+          "end": 121.23
+        },
+        {
+          "text": "Meeresströmung",
+          "start": 123.33,
+          "end": 124.55
+        },
+        {
+          "text": "Meeresufer",
+          "start": 124.55,
+          "end": 126.07
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Möwen kreisen ein Segelschiff um und kreischen.",
-        "Das Schiff ist auf ein Riff aufgelaufen.",
-        "Der Skandal verläuft im Sande.",
-        "Die Heirat der zwei berühmten schlagen hohe Wellen.",
-        "Die Titanic ist ein bekanntes Kreuzfahrtschiff, das auf ihrer Jungfernfahrt im Jahr 1912 untergegangen ist.",
-        "Insgesamt hat das Passagierschiff 3240 Seemeilen zurückgelegt.",
-        "Abends machten die Jachten am Kai fest.",
-        "Am Strand liegen die Eltern in der Sonne, während die Kinder Sandburgen errichten.",
-        "Ihre Augen schwimmen.",
-        "Heute können vollständige Blinde mit Hilfe einer Spezialsoftware im Internet surfen.",
-        "Das Zimmer taucht in die Sonne.",
-        "Alle Flüsse laufen ins Meer.",
-        "Nach der Temperatur kann Meeresströmung in kalte und warme Strömung eingeteilt werden."
+        {
+          "text": "Die Möwen kreisen ein Segelschiff um und kreischen.",
+          "start": 136.96,
+          "end": 140.82
+        },
+        {
+          "text": "Das Schiff ist auf ein Riff aufgelaufen.",
+          "start": 143.71,
+          "end": 146.83
+        },
+        {
+          "text": "Der Skandal verläuft im Sande.",
+          "start": 149.8,
+          "end": 152.56
+        },
+        {
+          "text": "Die Heirat der zwei Berühmten schlagen hohe Wellen.",
+          "start": 154.8,
+          "end": 159.3
+        },
+        {
+          "text": "Die Titanic ist ein bekanntes Kreuzfahrtschiff, das auf ihrer Jungfernfahrt im Jahr 1912 untergegangen ist.",
+          "start": 162.33,
+          "end": 171.01
+        },
+        {
+          "text": "Insgesamt hat das Passagierschiff 3.240 Seemeilen zurückgelegt.",
+          "start": 174.19,
+          "end": 180.91
+        },
+        {
+          "text": "Abends machten die Jachten am Kai fest.",
+          "start": 184.23,
+          "end": 186.99
+        },
+        {
+          "text": "Am Strand liegen die Eltern in der Sonne, während die Kinder Sandburgen errichten.",
+          "start": 190.07,
+          "end": 195.45
+        },
+        {
+          "text": "Ihre Augen schwimmen.",
+          "start": 198.77,
+          "end": 200.15
+        },
+        {
+          "text": "Heute können vollständige Blinde mithilfe einer Spezialsoftware im Internet surfen.",
+          "start": 203.3,
+          "end": 210.02
+        },
+        {
+          "text": "Das Zimmer taucht in die Sonne.",
+          "start": 213.19,
+          "end": 215.87
+        },
+        {
+          "text": "Alle Flüsse laufen ins Meer.",
+          "start": 218.56,
+          "end": 220.68
+        },
+        {
+          "text": "Nach der Temperatur kann Meeresströmung in kalte und warme Strömung eingeteilt werden.",
+          "start": 223.85,
+          "end": 230.01
+        }
       ]
     }
   ]

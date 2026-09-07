@@ -4,109 +4,492 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Fröhlichkeit",
-        "Freude",
-        "Spaß",
-        "freudig",
-        "froh",
-        "glückselig",
-        "gut gelaunt sein",
-        "hoch erfreut",
-        "sich über",
-        "freuen",
-        "faszinieren",
-        "gefallen",
-        "interessant",
-        "Leidenschaft",
-        "leidenschaftlich",
-        "neugier",
-        "neugierig",
-        "sich für",
-        "interessieren",
-        "Flachwitz",
-        "Gelächter",
-        "grinsen",
-        "Grübchen",
-        "lächeln",
-        "Scherz",
-        "Witz",
-        "schmunzeln",
-        "sich kaputtlachen",
-        "berühren",
-        "bewegen",
-        "dankbar",
-        "danken",
-        "sich bedanken",
-        "den Segen über",
-        "sprechen",
-        "segnen",
-        "ergriffen",
-        "Erkenntlichkeit",
-        "erwartungsvoll",
-        "hoffen",
-        "Hoffnung",
-        "Hoffnungsschimmer",
-        "hoffnungsvoll",
-        "sich auf",
-        "freuen",
-        "sich von",
-        "erwarten",
-        "wünschen"
+        {
+          "text": "Fröhlichkeit",
+          "start": 1.94,
+          "end": 3.66
+        },
+        {
+          "text": "Freude",
+          "start": 5.59,
+          "end": 6.33
+        },
+        {
+          "text": "Spaß",
+          "start": 6.61,
+          "end": 7.57
+        },
+        {
+          "text": "freudig",
+          "start": 8.94,
+          "end": 10.56
+        },
+        {
+          "text": "froh",
+          "start": 12.4,
+          "end": 13.56
+        },
+        {
+          "text": "glückselig",
+          "start": 14.9,
+          "end": 16.14
+        },
+        {
+          "text": "gut gelaunt sein",
+          "start": 17.45,
+          "end": 19.55
+        },
+        {
+          "text": "hoch erfreut",
+          "start": 21.39,
+          "end": 22.79
+        },
+        {
+          "text": "sich über",
+          "start": 24.13,
+          "end": 25.59
+        },
+        {
+          "text": "freuen",
+          "start": 27.96,
+          "end": 27.96
+        },
+        {
+          "text": "faszinieren",
+          "start": 30.23,
+          "end": 32.37
+        },
+        {
+          "text": "gefallen",
+          "start": 32.89,
+          "end": 33.97
+        },
+        {
+          "text": "interessant",
+          "start": 37.33,
+          "end": 37.61
+        },
+        {
+          "text": "Leidenschaft",
+          "start": 38.65,
+          "end": 40.11
+        },
+        {
+          "text": "leidenschaftlich",
+          "start": 42.14,
+          "end": 43.5
+        },
+        {
+          "text": "neugier",
+          "start": 45.72,
+          "end": 47.12
+        },
+        {
+          "text": "neugierig",
+          "start": 48.36,
+          "end": 49.76
+        },
+        {
+          "text": "sich für",
+          "start": 51.01,
+          "end": 52.59
+        },
+        {
+          "text": "interessieren",
+          "start": 54.23,
+          "end": 55.23
+        },
+        {
+          "text": "Flachwitz",
+          "start": 56.64,
+          "end": 59.26
+        },
+        {
+          "text": "gelächter",
+          "start": 59.88,
+          "end": 61.56
+        },
+        {
+          "text": "grinsen",
+          "start": 63.19,
+          "end": 64.33
+        },
+        {
+          "text": "grübchen",
+          "start": 65.68,
+          "end": 67.12
+        },
+        {
+          "text": "lächeln",
+          "start": 68.7,
+          "end": 69.82
+        },
+        {
+          "text": "Scherz",
+          "start": 71.2,
+          "end": 72.56
+        },
+        {
+          "text": "Witz",
+          "start": 74.61,
+          "end": 75.11
+        },
+        {
+          "text": "schmunzeln",
+          "start": 77.11,
+          "end": 78.33
+        },
+        {
+          "text": "sich kaputtlachen",
+          "start": 79.64,
+          "end": 81.7
+        },
+        {
+          "text": "berühren",
+          "start": 83.61,
+          "end": 84.29
+        },
+        {
+          "text": "bewegen",
+          "start": 84.65,
+          "end": 85.57
+        },
+        {
+          "text": "dankbar",
+          "start": 86.82,
+          "end": 88.68
+        },
+        {
+          "text": "danken",
+          "start": 90.49,
+          "end": 90.93
+        },
+        {
+          "text": "sich bedanken",
+          "start": 91.27,
+          "end": 92.19
+        },
+        {
+          "text": "den Segen über",
+          "start": 93.92,
+          "end": 95.82
+        },
+        {
+          "text": "sprechen",
+          "start": 96.54,
+          "end": 97.0
+        },
+        {
+          "text": "segnen",
+          "start": 99.46,
+          "end": 101.04
+        },
+        {
+          "text": "ergriffen",
+          "start": 101.04,
+          "end": 103.38
+        },
+        {
+          "text": "Erkenntlichkeit",
+          "start": 105.14,
+          "end": 106.82
+        },
+        {
+          "text": "erwartungsvoll",
+          "start": 108.52,
+          "end": 109.92
+        },
+        {
+          "text": "hoffen",
+          "start": 111.54,
+          "end": 112.5
+        },
+        {
+          "text": "Hoffnung",
+          "start": 113.81,
+          "end": 115.25
+        },
+        {
+          "text": "Hoffnungsschimmer",
+          "start": 117.16,
+          "end": 118.52
+        },
+        {
+          "text": "hoffnungsvoll",
+          "start": 119.8,
+          "end": 121.36
+        },
+        {
+          "text": "sich auf",
+          "start": 123.62,
+          "end": 124.6
+        },
+        {
+          "text": "freuen",
+          "start": 27.96,
+          "end": 27.96
+        },
+        {
+          "text": "sich von",
+          "start": 128.2,
+          "end": 129.94
+        },
+        {
+          "text": "erwarten",
+          "start": 130.44,
+          "end": 131.2
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Auf der Party tanzen alle fröhlich zur Musik.",
-        "Freude spiegelt sich immer auf dem Gesicht ab.",
-        "Es ist mir eine große Freude, an der heutigen Veranstaltung teilzunehmen.",
-        "Die Arbeit macht mir Spaß.",
-        "Dies ist für uns alle eine freudige Botschaft.",
-        "Ich wünsche Ihnen ein frohes, gesegnetes Weihnachtsfest.",
-        "Ich freue mich, Sie kennenzulernen.",
-        "Martin war nach seiner Goldmedaille glückselig.",
-        "Lena ist ein immer gut gelauntes Mädchen.",
-        "Nachdem die Herzogin Kate das dritte Baby zur Welt gebracht hatte, zeigte sich Prinz William hoch erfreut.",
-        "Sie hat großes Interesse an dieser Stelle.",
-        "Roter Mond ist ein extrem seltenes Himmelsschauspiel und fasziniert unzählige Menschen.",
-        "Wie gefällt es dir hier?",
-        "Unser Fitnesscenter bietet Ihnen viele interessante Kurse an.",
-        "Er kämpft mit Leidenschaft für die Gerechtigkeit und Freiheit.",
-        "Er sammelt leidenschaftlich gerne Postkarten.",
-        "Ich hoffe, vernünftig zu bleiben und lasse mich nicht von meinen Leidenschaften leiten.",
-        "Mit Neugier suchte er dieses fremde Land auf.",
-        "Sei nicht so neugierig.",
-        "Ich bin neugierig, wie das ausgehen wird.",
-        "Ich interessiere mich sehr stark für moderne Malerei.",
-        "Flachwitze haben auch oft meist sinnlose und langweilige Wortspiele in sich versteckt.",
-        "Die Zuschauer im Kino brachen in schallendes Gelächter aus.",
-        "Sie hat nette Krüppchen auf der Wange.",
-        "Damit treibt man keinen Scherz.",
-        "Der Lehrer hat einen Witz erzählt.",
-        "Sie warf mit strahlendem Lächeln immer wieder Kusshändchen ins Publikum.",
-        "Die Zuhörer schmunzeln über die Aussagen des Präsidenten.",
-        "Ich lache mich wirklich über diesen Text kaputt.",
-        "Die Heldentaten der Geschwister Scholl haben die Deutschen tief berührt.",
-        "Der Film bewegte viele Zuschauer zu Tränen.",
-        "Ich bin sehr dankbar, dass mir meine Kollegin diese Arbeit abgenommen hat.",
-        "Ich danke Ihnen ganz herzlich für Ihre Hilfe.",
-        "Wir bedanken uns herzlich bei Ihnen für die Einladung.",
-        "Dieser Fußballstar bedankt sich bei seinen Fans für Ihre langjährigen Unterstützungen.",
-        "Der Pfarrer spricht den Segen für das Brautpaar.",
-        "Der Papst segnete die Gläubigen.",
-        "Ich war von dem Drama tief ergriffen.",
-        "Der König verlieh ihm das Zeichen der Erkenntlichkeit, das Eisene Kreuz zweiter Klasse.",
-        "Er hat die auf ihn gesetzten Erwartungen seiner Eltern nicht enttäuscht.",
-        "Erwartungsvoll und voller Vertrauen wartet das schwer brandverletzte Kind auf den Arzt.",
-        "Ich hoffe, dass alles klappt.",
-        "Theresa Mays letzte Hoffnung verpufft.",
-        "Der letzte Hoffnungsschimmer ist erloschen.",
-        "Einen kleinen Hoffnungsschimmer gibt es noch.",
-        "Begleitet von seiner Mutter begab er sich hoffnungsvoll in ärztliche Behandlung.",
-        "Der Lehrer erwartet sich von seinen Schülern fleiß.",
-        "Ich wünsche Ihnen alles Gute.",
-        "Was wünschst du dir zum Geburtstag als Geschenk?"
+        {
+          "text": "Auf der Party tanzen alle fröhlich zur Musik.",
+          "start": 144.17,
+          "end": 148.27
+        },
+        {
+          "text": "Freude spiegelt sich immer auf dem Gesicht ab.",
+          "start": 151.25,
+          "end": 154.15
+        },
+        {
+          "text": "Es ist mir eine große Freude an der heutigen Veranstaltung teilzunehmen.",
+          "start": 157.08,
+          "end": 162.26
+        },
+        {
+          "text": "Die Arbeit macht mir Spaß.",
+          "start": 164.99,
+          "end": 166.85
+        },
+        {
+          "text": "Dies ist für uns alle eine freudige Botschaft.",
+          "start": 169.8,
+          "end": 172.7
+        },
+        {
+          "text": "Ich wünsche Ihnen ein frohes, gesegnetes Weihnachtsfest.",
+          "start": 174.91,
+          "end": 179.35
+        },
+        {
+          "text": "Ich freue mich, Sie kennenzulernen.",
+          "start": 182.41,
+          "end": 184.81
+        },
+        {
+          "text": "Martin war nach seiner Goldmedaille glückselig.",
+          "start": 187.84,
+          "end": 191.32
+        },
+        {
+          "text": "Lena ist ein immer gut gelauntes Mädchen.",
+          "start": 194.3,
+          "end": 197.16
+        },
+        {
+          "text": "Nachdem die Herzogin Kate das dritte Baby zur Welt gebracht hatte, zeigte sich Prinz William hoch erfreut.",
+          "start": 200.3,
+          "end": 207.58
+        },
+        {
+          "text": "Sie hat großes Interesse an dieser Stelle.",
+          "start": 210.65,
+          "end": 213.13
+        },
+        {
+          "text": "Roter Mond ist ein extrem seltenes Himmelsschauspiel und fasziniert unzählige Menschen.",
+          "start": 215.4,
+          "end": 223.02
+        },
+        {
+          "text": "Wie gefällt es dir hier?",
+          "start": 226.1,
+          "end": 227.6
+        },
+        {
+          "text": "Unser Fitnesscenter bietet Ihnen viele interessante Kurse an.",
+          "start": 230.62,
+          "end": 234.74
+        },
+        {
+          "text": "Er kämpft mit Leidenschaft für die Gerechtigkeit und Freiheit.",
+          "start": 237.68,
+          "end": 241.62
+        },
+        {
+          "text": "Er sammelt leidenschaftlich gerne Postkarten.",
+          "start": 244.72,
+          "end": 247.78
+        },
+        {
+          "text": "Ich hoffe, vernünftig zu bleiben und lasse mich nicht von meinen Leidenschaften leiten.",
+          "start": 250.05,
+          "end": 256.25
+        },
+        {
+          "text": "Mit Neugier suchte er dieses fremde Land auf.",
+          "start": 259.31,
+          "end": 262.65
+        },
+        {
+          "text": "Sei nicht so neugierig.",
+          "start": 265.79,
+          "end": 267.51
+        },
+        {
+          "text": "Ich bin neugierig, wie das ausgehen wird.",
+          "start": 270.34,
+          "end": 273.06
+        },
+        {
+          "text": "Ich interessiere mich sehr stark für moderne Malerei.",
+          "start": 276.14,
+          "end": 279.44
+        },
+        {
+          "text": "Flachwitze haben auch oft meist sinnlose und langweilige Wortspiele in sich versteckt.",
+          "start": 282.73,
+          "end": 288.65
+        },
+        {
+          "text": "Die Zuschauer im Kino brachen in schallendes Gelächter aus.",
+          "start": 290.89,
+          "end": 295.69
+        },
+        {
+          "text": "Sie hat nette Grübchen auf der Wange.",
+          "start": 298.78,
+          "end": 301.6
+        },
+        {
+          "text": "Damit treibt man keinen Scherz.",
+          "start": 304.29,
+          "end": 306.75
+        },
+        {
+          "text": "Der Lehrer hat einen Witz erzählt.",
+          "start": 309.5,
+          "end": 311.6
+        },
+        {
+          "text": "Sie warf mit strahlendem Lächeln immer wieder Kusshändchen ins Publikum.",
+          "start": 314.73,
+          "end": 319.61
+        },
+        {
+          "text": "Die Zuhörer schmunzeln über die Aussagen des Präsidenten.",
+          "start": 322.53,
+          "end": 326.55
+        },
+        {
+          "text": "Ich lache mich wirklich über diesen Text kaputt.",
+          "start": 329.4,
+          "end": 332.62
+        },
+        {
+          "text": "Die Heldentaten der Geschwister Scholl haben die Deutschen tief berührt.",
+          "start": 334.86,
+          "end": 340.3
+        },
+        {
+          "text": "Der Film bewegte viele Zuschauer zu Tränen.",
+          "start": 343.33,
+          "end": 346.65
+        },
+        {
+          "text": "Ich bin sehr dankbar, dass mir meine Kollegin diese Arbeit abgenommen hat.",
+          "start": 349.61,
+          "end": 354.41
+        },
+        {
+          "text": "Ich danke Ihnen ganz herzlich für Ihre Hilfe.",
+          "start": 357.49,
+          "end": 360.43
+        },
+        {
+          "text": "Wir bedanken uns herzlich bei Ihnen für die Einladung.",
+          "start": 363.63,
+          "end": 366.93
+        },
+        {
+          "text": "Dieser Fußballstar bedankt sich bei seinen Fans für Ihre langjährigen Unterstützungen.",
+          "start": 369.98,
+          "end": 375.76
+        },
+        {
+          "text": "Der Pfarrer spricht den Segen für das Brautpaar.",
+          "start": 378.74,
+          "end": 382.0
+        },
+        {
+          "text": "Der Papst segnete die Gläubigen.",
+          "start": 384.95,
+          "end": 387.31
+        },
+        {
+          "text": "Ich war von dem Drama tief ergriffen.",
+          "start": 390.28,
+          "end": 392.72
+        },
+        {
+          "text": "Der König verlieh ihm das Zeichen der Erkenntlichkeit, das Eisene Kreuz zweiter Klasse.",
+          "start": 395.98,
+          "end": 401.96
+        },
+        {
+          "text": "Er hat die auf ihn gesetzten Erwartungen seiner Eltern nicht enttäuscht.",
+          "start": 405.02,
+          "end": 409.76
+        },
+        {
+          "text": "Erwartungsvoll und voller Vertrauen wartet das schwer brandverletzte Kind auf den Arzt.",
+          "start": 412.94,
+          "end": 419.22
+        },
+        {
+          "text": "Ich hoffe, dass alles klappt.",
+          "start": 421.8,
+          "end": 423.66
+        },
+        {
+          "text": "Theresa Mays letzte Hoffnung verpufft.",
+          "start": 426.77,
+          "end": 429.65
+        },
+        {
+          "text": "Der letzte Hoffnungsschimmer ist erloschen.",
+          "start": 432.56,
+          "end": 435.28
+        },
+        {
+          "text": "Einen kleinen Hoffnungsschimmer gibt es noch.",
+          "start": 438.35,
+          "end": 441.27
+        },
+        {
+          "text": "Begleitet von seiner Mutter begab er sich hoffnungsvoll in ärztliche Behandlung.",
+          "start": 444.19,
+          "end": 449.23
+        },
+        {
+          "text": "Der Lehrer erwartet sich von seinen Schülern fleiß.",
+          "start": 452.22,
+          "end": 455.34
+        },
+        {
+          "text": "Ich wünsche ihnen alles Gute.",
+          "start": 457.62,
+          "end": 460.48
+        },
+        {
+          "text": "Was wünschst du dir zum Geburtstag als Geschenk?",
+          "start": 463.37,
+          "end": 466.29
+        }
       ]
     }
   ]

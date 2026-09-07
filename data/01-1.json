@@ -4,70 +4,302 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Obst",
-        "Apfel",
-        "Bergfirsich",
-        "Plattfirsich",
-        "Drachenfrucht",
-        "Erdbeere",
-        "Granatapfel",
-        "Himbeere",
-        "Nektarine",
-        "Firsich",
-        "Ananas",
-        "Aprikose",
-        "Banane",
-        "Stinkfrucht",
-        "Mango",
-        "Pomelo",
-        "Zitrone",
-        "Birne",
-        "Kaki",
-        "Mandarine",
-        "Orange",
-        "Apfelsine",
-        "Pampelmuse",
-        "Papaya",
-        "Wollmispel",
-        "Avocado",
-        "Cantaloupe",
-        "Melone",
-        "Guave",
-        "Limette",
-        "Wassermelone",
-        "Zimtapfel",
-        "Feige",
-        "Heidelbeere",
-        "Blaubeere",
-        "Schwarzbeere",
-        "Kirsche",
-        "Pflaume",
-        "Traube",
-        "Kiwi",
-        "Kokosnuss",
-        "Longanfrucht",
-        "Passionsfrucht"
+        {
+          "text": "Obst",
+          "start": 1.62,
+          "end": 3.02
+        },
+        {
+          "text": "Apfel",
+          "start": 4.99,
+          "end": 5.93
+        },
+        {
+          "text": "Bergfirsich",
+          "start": 7.77,
+          "end": 9.29
+        },
+        {
+          "text": "Plattfirsich",
+          "start": 10.98,
+          "end": 12.74
+        },
+        {
+          "text": "Drachenfrucht",
+          "start": 14.36,
+          "end": 15.9
+        },
+        {
+          "text": "Erdbeere",
+          "start": 17.75,
+          "end": 19.11
+        },
+        {
+          "text": "Granatapfel",
+          "start": 20.88,
+          "end": 22.4
+        },
+        {
+          "text": "Himbeere",
+          "start": 24.29,
+          "end": 25.77
+        },
+        {
+          "text": "Nektarine",
+          "start": 27.42,
+          "end": 28.64
+        },
+        {
+          "text": "Firsich",
+          "start": 30.67,
+          "end": 31.75
+        },
+        {
+          "text": "Ananas",
+          "start": 33.69,
+          "end": 35.79
+        },
+        {
+          "text": "Aprikose",
+          "start": 35.79,
+          "end": 38.01
+        },
+        {
+          "text": "Banane",
+          "start": 39.78,
+          "end": 40.78
+        },
+        {
+          "text": "Stinkfrucht",
+          "start": 42.72,
+          "end": 44.26
+        },
+        {
+          "text": "Mango",
+          "start": 45.88,
+          "end": 46.52
+        },
+        {
+          "text": "Pomelo",
+          "start": 48.72,
+          "end": 49.76
+        },
+        {
+          "text": "Zitrone",
+          "start": 51.83,
+          "end": 52.71
+        },
+        {
+          "text": "Birne",
+          "start": 54.73,
+          "end": 55.59
+        },
+        {
+          "text": "Kaki",
+          "start": 57.52,
+          "end": 58.64
+        },
+        {
+          "text": "Mandarine",
+          "start": 60.38,
+          "end": 61.66
+        },
+        {
+          "text": "Orange",
+          "start": 63.56,
+          "end": 64.1
+        },
+        {
+          "text": "Apfelsine",
+          "start": 66.52,
+          "end": 67.6
+        },
+        {
+          "text": "Pampelmuse",
+          "start": 69.85,
+          "end": 70.89
+        },
+        {
+          "text": "Papaya",
+          "start": 73.22,
+          "end": 74.12
+        },
+        {
+          "text": "Wollmispel",
+          "start": 76.35,
+          "end": 77.67
+        },
+        {
+          "text": "Avocado",
+          "start": 79.45,
+          "end": 80.37
+        },
+        {
+          "text": "Cantaloupe",
+          "start": 82.72,
+          "end": 83.58
+        },
+        {
+          "text": "Melone",
+          "start": 83.86,
+          "end": 84.52
+        },
+        {
+          "text": "Guave",
+          "start": 85.86,
+          "end": 87.8
+        },
+        {
+          "text": "Limette",
+          "start": 89.67,
+          "end": 90.97
+        },
+        {
+          "text": "Wassermelone",
+          "start": 92.78,
+          "end": 94.34
+        },
+        {
+          "text": "Zimtapfel",
+          "start": 96.06,
+          "end": 97.38
+        },
+        {
+          "text": "Feige",
+          "start": 99.48,
+          "end": 100.56
+        },
+        {
+          "text": "Heidelbeere",
+          "start": 102.4,
+          "end": 103.76
+        },
+        {
+          "text": "Blaubeere",
+          "start": 105.77,
+          "end": 107.05
+        },
+        {
+          "text": "Schwarzbeere",
+          "start": 109.13,
+          "end": 110.67
+        },
+        {
+          "text": "Kirsche",
+          "start": 112.56,
+          "end": 113.42
+        },
+        {
+          "text": "Pflaume",
+          "start": 115.64,
+          "end": 116.36
+        },
+        {
+          "text": "Traube",
+          "start": 118.6,
+          "end": 119.42
+        },
+        {
+          "text": "Kiwi",
+          "start": 121.59,
+          "end": 122.49
+        },
+        {
+          "text": "Kokosnuss",
+          "start": 124.48,
+          "end": 126.02
+        },
+        {
+          "text": "Longanfrucht",
+          "start": 130.66,
+          "end": 131.7
+        },
+        {
+          "text": "Passionsfrucht",
+          "start": 131.7,
+          "end": 132.74
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Apfel fällt nicht weit vom Stamm.",
-        "Mit 200 Gramm Erdbeeren ist der Tagesbedarf eines Erwachsenen an Vitamin C abgedeckt.",
-        "Die ursprüngliche Heimat des Pfirsichs ist China.",
-        "Die Ananas ist das ganze Jahr über erhältlich, aber von Mai bis August ist das Angebot geringer.",
-        "Angeblich brachte Alexander der Große die Aprikose in den Mittelmeerraum.",
-        "Der Durchschnittsbürger verzehrt in Deutschland pro Jahr ca. 12 kg Bananen.",
-        "Die Stinkfrucht ist sowohl in China als auch in Deutschland ziemlich teuer.",
-        "Die Schale der Zitrone ist gelb, kann grünlich oder orangen-gelb sein.",
-        "Die Orange ist eine der beliebtesten Obstsorten der Deutschen.",
-        "Avocados sind Hauptbestandteil des mexikanischen Guacamole-Dips.",
-        "Wassermelonen eignen sich als Durstlöscher.",
-        "Heute kann die Kirsche in allen gemäßigten Klimazonen der Welt angebaut werden.",
-        "Trauben haben relativ viel Fruchtzucker und Fruchtsäuren.",
-        "Die Kiwi hat viele Inhaltsstoffe, die dem menschlichen Körper helfen können.",
-        "Die Passionsfrüchte sind im reifen Zustand gelb und glatt schalig."
+        {
+          "text": "Der Apfel fällt nicht weit vom Stamm.",
+          "start": 142.76,
+          "end": 147.52
+        },
+        {
+          "text": "Mit 200 Gramm Erdbeeren ist der Tagesbedarf eines Erwachsenen an Vitamin C abgedeckt.",
+          "start": 149.98,
+          "end": 158.32
+        },
+        {
+          "text": "Die ursprüngliche Heimat des Pfirsichs ist China.",
+          "start": 160.65,
+          "end": 165.33
+        },
+        {
+          "text": "Die Ananas ist das ganze Jahr über erhältlich, aber von Mai bis August ist das Angebot geringer.",
+          "start": 168.47,
+          "end": 177.05
+        },
+        {
+          "text": "Angeblich brachte Alexander der Große die Aprikose in den Mittelmeerraum.",
+          "start": 180.02,
+          "end": 186.04
+        },
+        {
+          "text": "Der Durchschnittsbürger verzehrt in Deutschland pro Jahr ca. 12 kg Bananen.",
+          "start": 189.14,
+          "end": 196.62
+        },
+        {
+          "text": "Die Stinkfrucht ist sowohl in China als auch in Deutschland ziemlich teuer.",
+          "start": 198.96,
+          "end": 206.38
+        },
+        {
+          "text": "Die Schale der Zitrone ist gelb, kann grünlich oder orangen-gelb sein.",
+          "start": 209.18,
+          "end": 215.12
+        },
+        {
+          "text": "Die Orange ist eine der beliebtesten Obstsorten der Deutschen.",
+          "start": 218.3,
+          "end": 222.8
+        },
+        {
+          "text": "Avocados sind Hauptbestandteil des mexikanischen Guacamole-Dips.",
+          "start": 225.11,
+          "end": 232.25
+        },
+        {
+          "text": "Wassermelonen eignen sich als Durstlöscher.",
+          "start": 235.17,
+          "end": 239.05
+        },
+        {
+          "text": "Heute kann die Kirsche in allen gemäßigten Klimazonen der Welt angebaut werden.",
+          "start": 241.77,
+          "end": 247.79
+        },
+        {
+          "text": "Trauben haben relativ viel Fruchtzucker und Fruchtsäuren.",
+          "start": 250.94,
+          "end": 255.64
+        },
+        {
+          "text": "Die Kiwi hat viele Inhaltsstoffe, die dem menschlichen Körper helfen können.",
+          "start": 257.88,
+          "end": 263.96
+        },
+        {
+          "text": "Die Passionsfrüchte sind im reifen Zustand gelb und glatt schalig.",
+          "start": 267.12,
+          "end": 272.58
+        }
       ]
     }
   ]

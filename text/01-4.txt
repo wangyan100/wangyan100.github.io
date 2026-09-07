@@ -1,19 +1,16 @@
-Meeresfrüchte, Aal, Barsch, Forelle, Graskarpfen, Karpfen, Stint, Stör, Wels, Kabeljau, Lachs, Makrele, Meerbrassen
-Sardine, Scholle, Schwertfisch, Thunfisch, Fangschreckenkrebs, Flusskrebs
-Garnel, Hummer, Krebs, Krill, Languste, Krake, Qualle, Tintenfisch, Seegurke, Seewalze, Auster
-Jakobsmuschel, Pilgermuschel, Miesmuschel, Muschel, Scheidenmuschel, Kaviar, Seegel
-Sprechen Sie bitte die folgenden Sätze.
-Er ist glatt wie ein Aal.
-In Australien ist das Züchten und Aussetzen von Karpfen gesetzlich verboten.
-In den letzten Jahrzehnten war der Stint kommerziell kaum von Bedeutung.
-Der Lachs kommt zum Leichen zurück in die Süßgewässer.
-Sardinen erstrecken sich vom nordöstlichen Atlantik und der Nordsee bis zum Senegal.
-Thunfische gehören wegen ihres roten, fetten Fleisches zu den wichtigsten Speisefischen.
-Garnelen sind durch eine Schale geschützt.
-Ein Tintenfisch hat drei Herzen.
-Zwei versorgen seine Arme, das dritte versorgt seinen Körper.
-In Meerestiefen von acht bis neun Kilometern bilden Seegurken rund 90 Prozent der Biomasse.
-Die Auster filtert große Wassermengen, um sich von dem darin enthaltenen Plankton zu ernähren.
-Die Muscheln sind eine Klasse der Weichtiere.
-Kaviar sollte mit Kunststoff oder Perlmutlöffeln gegessen werden, um den Geschmack nicht zu beeinflussen.
-Der Seegel ist getrenntgeschlechtig.
+[00:00:01.710 --> 00:00:38.460] Meeresfrüchte, Aal, Barsch, Forelle, Graskarpfen, Karpfen, Stint, Stör, Wels, Kabeljau, Lachs, Makrele, Meerbrassen
+[00:00:40.000 --> 00:00:57.860] Sardine, Scholle, Schwertfisch, Thunfisch, Fangschreckenkrebs, Flusskrebs
+[00:00:57.860 --> 00:01:48.670] Garnel, Hummer, Krebs, Krill, Languste, Krake, Qualle, Tintenfisch, Seegurke, Seewalze, Auster, Jakobsmuschel, Pilgermuschel, Miesmuschel, Muschel, Scheidenmuschel, Kaviar
+[00:01:58.600 --> 00:02:04.930] Er ist glatt wie ein Aal.
+[00:02:07.860 --> 00:02:13.360] In Australien ist das Züchten und Aussetzen von Karpfen gesetzlich verboten.
+[00:02:16.330 --> 00:02:21.810] In den letzten Jahrzehnten war der Stint kommerziell kaum von Bedeutung.
+[00:02:24.050 --> 00:02:29.150] Der Lachs kommt zum Leichen zurück in die Süßgewässer.
+[00:02:31.750 --> 00:02:38.490] Sardinen erstrecken sich vom nordöstlichen Atlantik und der Nordsee bis zum Senegal.
+[00:02:41.230 --> 00:02:47.750] Thunfische gehören wegen ihres roten, fetten Fleisches zu den wichtigsten Speisefischen.
+[00:02:50.880 --> 00:02:53.740] Garnelen sind durch eine Schale geschützt.
+[00:02:56.040 --> 00:03:04.140] Ein Tintenfisch hat drei Herzen. Zwei versorgen seine Arme, das dritte versorgt seinen Körper.
+[00:03:07.300 --> 00:03:15.860] In Meerestiefen von acht bis neun Kilometern bilden Seegurken rund 90 Prozent der Biomasse.
+[00:03:18.620 --> 00:03:25.640] Die Auster filtert große Wassermengen, um sich von dem darin enthaltenen Plankton zu ernähren.
+[00:03:28.450 --> 00:03:31.510] Die Muscheln sind eine Klasse der Weichtiere.
+[00:03:34.040 --> 00:03:42.180] Kaviar sollte mit Kunststoff oder Perlmuttlöffeln gegessen werden, um den Geschmack nicht zu beeinflussen.
+[00:03:45.790 --> 00:03:48.630] Der Seegel ist getrenntgeschlechtig.

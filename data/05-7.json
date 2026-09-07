@@ -4,62 +4,262 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Feuerwehrstation und Polizei",
-        "Brandmeister",
-        "Feuerwehr",
-        "Feuerwehrmann",
-        "Bulle",
-        "Detektiv",
-        "Kommissar",
-        "Polizist",
-        "Polizistin",
-        "Streifenpolizist",
-        "Verbrecher",
-        "Feuerwehrleiter",
-        "Feuerwehrhelm",
-        "Gasmaske",
-        "Schutzmaske",
-        "Handschelle",
-        "Knüppel",
-        "die Kugelsichere Weste",
-        "Polizeieuniform",
-        "Sauerstoffmaske",
-        "Feuerwehrfahrzeug",
-        "Gefangenkraftwagen",
-        "Polizeiwagen",
-        "Polizeimotorrad",
-        "Kugel",
-        "Pistole",
-        "Sturmgewehr",
-        "Tränengasgranate",
-        "ausbrechen",
-        "Brand",
-        "Brandschutz",
-        "brennen",
-        "Fluchtweg",
-        "niederbrennen",
-        "Rauch",
-        "Sauerstoff"
+        {
+          "text": "Feuerwehrstation und Polizei",
+          "start": 1.9,
+          "end": 5.04
+        },
+        {
+          "text": "Brandmeister",
+          "start": 6.29,
+          "end": 8.53
+        },
+        {
+          "text": "Feuerwehr",
+          "start": 9.88,
+          "end": 11.5
+        },
+        {
+          "text": "Feuerwehrmann",
+          "start": 12.87,
+          "end": 14.49
+        },
+        {
+          "text": "Bulle",
+          "start": 15.8,
+          "end": 18.52
+        },
+        {
+          "text": "Detektiv",
+          "start": 18.52,
+          "end": 20.16
+        },
+        {
+          "text": "Kommissar",
+          "start": 21.41,
+          "end": 23.05
+        },
+        {
+          "text": "Polizist",
+          "start": 24.3,
+          "end": 25.78
+        },
+        {
+          "text": "Polizistin",
+          "start": 27.03,
+          "end": 28.77
+        },
+        {
+          "text": "Streifenpolizist",
+          "start": 30.24,
+          "end": 32.3
+        },
+        {
+          "text": "Verbrecher",
+          "start": 33.61,
+          "end": 35.09
+        },
+        {
+          "text": "Feuerwehrleiter",
+          "start": 36.47,
+          "end": 38.51
+        },
+        {
+          "text": "Feuerwehrhelm",
+          "start": 39.85,
+          "end": 41.69
+        },
+        {
+          "text": "Gasmaske",
+          "start": 43.47,
+          "end": 44.87
+        },
+        {
+          "text": "Schutzmaske",
+          "start": 46.18,
+          "end": 48.04
+        },
+        {
+          "text": "Handschelle",
+          "start": 49.32,
+          "end": 50.82
+        },
+        {
+          "text": "Knüppel",
+          "start": 52.14,
+          "end": 54.76
+        },
+        {
+          "text": "die Kugelsichere Weste",
+          "start": 54.76,
+          "end": 57.56
+        },
+        {
+          "text": "Polizeieinform",
+          "start": 58.8,
+          "end": 61.04
+        },
+        {
+          "text": "Sauerstoffmaske",
+          "start": 62.9,
+          "end": 64.3
+        },
+        {
+          "text": "Feuerwehrfahrzeug",
+          "start": 65.65,
+          "end": 68.05
+        },
+        {
+          "text": "Gefangenkraftwagen",
+          "start": 69.3,
+          "end": 71.54
+        },
+        {
+          "text": "Polizeiwagen",
+          "start": 72.82,
+          "end": 74.92
+        },
+        {
+          "text": "Polizeimotorrad",
+          "start": 76.2,
+          "end": 78.52
+        },
+        {
+          "text": "Kugel",
+          "start": 79.83,
+          "end": 81.51
+        },
+        {
+          "text": "Pistole",
+          "start": 82.76,
+          "end": 84.02
+        },
+        {
+          "text": "Sturmgewehr",
+          "start": 85.49,
+          "end": 87.19
+        },
+        {
+          "text": "Tränengasgranate",
+          "start": 90.52,
+          "end": 91.9
+        },
+        {
+          "text": "ausbrechen",
+          "start": 93.72,
+          "end": 95.1
+        },
+        {
+          "text": "Brand",
+          "start": 95.1,
+          "end": 96.12
+        },
+        {
+          "text": "Brandschutz",
+          "start": 97.4,
+          "end": 99.9
+        },
+        {
+          "text": "brennen",
+          "start": 100.74,
+          "end": 102.08
+        },
+        {
+          "text": "Fluchtweg",
+          "start": 103.46,
+          "end": 105.22
+        },
+        {
+          "text": "niederbrennen",
+          "start": 107.64,
+          "end": 109.02
+        },
+        {
+          "text": "Rauch",
+          "start": 109.02,
+          "end": 111.66
+        },
+        {
+          "text": "Sauerstoff",
+          "start": 111.66,
+          "end": 113.66
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Wenn diese Wohnung brannte, kam die Feuerwehr.",
-        "Seit dem Großbrand melden sich immer mehr freiwillige Feuerwehren.",
-        "Der Detektiv hängt sich an den Verbrecher.",
-        "Der Polizist führt den Verbrecher mit Handschellen ab.",
-        "Da liegt der Knüppel beim Hund.",
-        "Er schlägt seinen Kollegen nur seine eigenen Waffen.",
-        "Eine Kugel hat ihn getroffen.",
-        "Der Räuber bedrohte die Kassiererin mit einer Pistole.",
-        "Nach der Explosion einer Tränengasgranate in einem Nachtclub in Venezuela sind mindestens 17 Menschen ums Leben gekommen.",
-        "Wenn das Feuer ausgebrochen ist, muss man möglichst schnell Fluchtwege finden.",
-        "Das Haus war völlig niedergebrannt.",
-        "Kein Rauch ohne Flamme.",
-        "Wasser ist eine Verbindung aus Wasserstoff und Sauerstoff.",
-        "Ohne Sauerstoff kann kein Feuer brennen."
+        {
+          "text": "Wenn diese Wohnung brannte, kam die Feuerwehr.",
+          "start": 123.45,
+          "end": 126.96
+        },
+        {
+          "text": "Seit dem Großbrand melden sich immer mehr freiwillige Feuerwehren.",
+          "start": 129.26,
+          "end": 134.38
+        },
+        {
+          "text": "Der Detektiv hängt sich an den Verbrecher.",
+          "start": 136.98,
+          "end": 139.8
+        },
+        {
+          "text": "Der Polizist führt den Verbrecher mit Handschellen ab.",
+          "start": 142.86,
+          "end": 146.34
+        },
+        {
+          "text": "Da liegt der Knüppel beim Hund.",
+          "start": 149.3,
+          "end": 151.42
+        },
+        {
+          "text": "Er schlägt seinen Kollegen nur seine eigenen Waffen.",
+          "start": 154.5,
+          "end": 157.94
+        },
+        {
+          "text": "Eine Kugel hat ihn getroffen.",
+          "start": 161.01,
+          "end": 162.97
+        },
+        {
+          "text": "Der Räuber bedrohte die Kassiererin mit einer Pistole.",
+          "start": 166.05,
+          "end": 170.29
+        },
+        {
+          "text": "Nach der Explosion einer Tränengasgranate in einem Nachtclub in Venezuela sind mindestens 17 Menschen ums Leben gekommen.",
+          "start": 172.46,
+          "end": 182.38
+        },
+        {
+          "text": "Wenn das Feuer ausgebrochen ist, muss man möglichst schnell Fluchtwege finden.",
+          "start": 185.54,
+          "end": 190.74
+        },
+        {
+          "text": "Das Haus war völlig niedergebrannt.",
+          "start": 193.87,
+          "end": 196.57
+        },
+        {
+          "text": "Kein Rauch ohne Flamme.",
+          "start": 199.19,
+          "end": 201.41
+        },
+        {
+          "text": "Wasser ist eine Verbindung aus Wasserstoff und Sauerstoff.",
+          "start": 204.3,
+          "end": 208.56
+        },
+        {
+          "text": "Ohne Sauerstoff kann kein Feuer brennen.",
+          "start": 210.96,
+          "end": 214.12
+        }
       ]
     }
   ]

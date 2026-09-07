@@ -1,55 +1,53 @@
-feiern einladen
-Geburtstagsfeier
-Geburtstagsgeschenk
-Geburtstagskind
-Geburtstagsparty
-Geburtstagstisch
-Geburtstagstorte
-teilnehmen
-anstoßen
-Jahrestag
-Liebling
-Rosenhochzeit
-die silberne Hochzeit
-Perlenhochzeit
-die goldene Hochzeit
-beschenkt von jemandem werden
-Candlelight-Dinner
-Grußkarte
-Liebhaber
-Liebhaberin
-Rosenstrauß
-verwöhnen
-viel lieb
-Atmosphäre
-Bilderrahmen
-Ewigkeit
-herzförmig
-Kristall
-Kunstblume
-Luftballon
-Spirale
-Eros
-Gedenktag
-Jupiter
-Lostag
-Venus
-zurückführen
-Sprechen Sie bitte die folgenden Sätze
-Herzlichen Glückwunsch zum Geburtstag!
-Meine beste Freundin verschickt mir die Einladung zu Ihrer Geburtstagsfeier.
-Das Geburtstagskind lebe hoch!
-Man kann daran teilnehmen, aber das ist nicht obligatorisch.
-Schätzchen, lass uns auf die Liebe anstoßen!
-Am 3. Oktober haben alle Deutschen den Jahrestag der Wiedervereinigung Deutschlands gefeiert.
-Nach zehn gemeinsamen Ehejahren darf gefeiert werden.
-Die Rosenhochzeit
-Die Franzosen sind die aufmerksameren Liebhaber,
-finden es sehr wichtig, den Partner zu verwöhnen.
-Es ist schon eine Ewigkeit her.
-Das neue Ehepaar lässt Luftballons fliegen.
-Eros ist in der griechischen Mythologie der ursprüngliche Gott der Liebe.
-Jupiter gilt als Beschützer des Staates sowie der Familie und des Hauses.
-Der 14. Februar galt im Volksglauben auch als einer der sogenannten Lostage.
-Venus war eine der drei Göttinnen im Schönheitswettbewerb der griechischen Antike.
-Er führte den Unfall auf einen Defekt an den Bremsen zurück.
+[00:00:01.940 --> 00:00:06.660] feiern einladen
+[00:00:07.910 --> 00:00:10.030] Geburtstagsfeier
+[00:00:13.480 --> 00:00:14.880] Geburtstagsgeschenk
+[00:00:14.880 --> 00:00:17.660] Geburtstagskind
+[00:00:20.260 --> 00:00:21.660] Geburtstagsparty
+[00:00:23.160 --> 00:00:24.560] Geburtstagstisch
+[00:00:25.120 --> 00:00:27.140] Geburtstagstorte
+[00:00:28.450 --> 00:00:30.270] teilnehmen
+[00:00:33.450 --> 00:00:34.850] anstoßen
+[00:00:34.850 --> 00:00:36.510] Jahrestag
+[00:00:37.430 --> 00:00:39.270] Liebling
+[00:00:42.200 --> 00:00:43.600] Rosenhochzeit
+[00:00:43.600 --> 00:00:46.840] die silberne Hochzeit
+[00:00:49.560 --> 00:00:50.960] Perlenhochzeit
+[00:00:50.960 --> 00:00:54.120] die goldene Hochzeit
+[00:00:55.400 --> 00:00:58.000] beschenkt von jemandem werden
+[00:00:59.540 --> 00:01:02.100] Candlelight-Dinner
+[00:01:03.380 --> 00:01:05.220] Grußkarte
+[00:01:06.470 --> 00:01:08.330] Liebhaber
+[00:01:09.580 --> 00:01:11.140] Liebhaberin
+[00:01:12.380 --> 00:01:14.760] Rosenstrauß
+[00:01:16.110 --> 00:01:17.510] verwöhnen
+[00:01:18.920 --> 00:01:20.680] viellieb
+[00:01:22.340 --> 00:01:25.060] Atmosphäre
+[00:01:25.060 --> 00:01:26.580] Bilderrahmen
+[00:01:28.480 --> 00:01:30.120] Ewigkeit
+[00:01:31.460 --> 00:01:33.520] herzförmig
+[00:01:34.830 --> 00:01:36.370] Kristall
+[00:01:37.680 --> 00:01:39.720] Kunstblume
+[00:01:40.970 --> 00:01:42.590] Luftballon
+[00:01:44.610 --> 00:01:45.670] Spirale
+[00:01:47.550 --> 00:01:48.250] Eros
+[00:01:50.770 --> 00:01:51.470] Gedenktag
+[00:01:53.840 --> 00:01:54.540] Jupiter
+[00:01:56.680 --> 00:01:58.080] Lostag
+[00:01:58.080 --> 00:02:00.240] Venus
+[00:02:02.880 --> 00:02:03.680] Zurückführen
+[00:02:08.130 --> 00:02:11.290] Sprechen Sie bitte die folgenden Sätze
+[00:02:13.630 --> 00:02:16.750] Herzlichen Glückwunsch zum Geburtstag!
+[00:02:19.670 --> 00:02:24.570] Meine beste Freundin verschickt mir die Einladung zu Ihrer Geburtstagsfeier.
+[00:02:27.340 --> 00:02:29.820] Das Geburtstagskind lebe hoch!
+[00:02:32.980 --> 00:02:37.460] Man kann daran teilnehmen, aber das ist nicht obligatorisch.
+[00:02:40.390 --> 00:02:43.650] Schätzchen, lass uns auf die Liebe anstoßen!
+[00:02:45.950 --> 00:02:52.950] Am 3. Oktober haben alle Deutschen den Jahrestag der Wiedervereinigung Deutschlands gefeiert.
+[00:02:56.050 --> 00:03:01.530] Nach 10 gemeinsamen Ehejahren darf gefeiert werden, die Rosenhochzeit.
+[00:03:04.580 --> 00:03:11.260] Die Franzosen sind die aufmerksameren Liebhaber, finden es sehr wichtig, den Partner zu verwöhnen.
+[00:03:14.300 --> 00:03:16.480] Es ist schon eine Ewigkeit her.
+[00:03:19.460 --> 00:03:22.420] Das neue Ehepaar lässt Luftballons fliegen.
+[00:03:24.790 --> 00:03:30.570] Eros ist in der griechischen Mythologie der ursprüngliche Gott der Liebe.
+[00:03:33.740 --> 00:03:39.120] Jupiter gilt als Beschützer des Staates, sowie der Familie und des Hauses.
+[00:03:42.300 --> 00:03:48.440] Der 14. Februar galt im Volksglauben auch als einer der sogenannten Lostage.
+[00:03:51.730 --> 00:03:57.190] Venus war eine der drei Göttinnen im Schönheitswettbewerb der griechischen Antike.
+[00:03:59.650 --> 00:04:04.270] Er führte den Unfall auf einen Defekt an den Bremsen zurück.

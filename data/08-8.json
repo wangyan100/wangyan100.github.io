@@ -4,63 +4,272 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Verkehrsunfall",
-        "abschürfen",
-        "sich aufschürfen",
-        "anfahren",
-        "Blut",
-        "bluten",
-        "Stoßverletzung",
-        "überfahren",
-        "umfahren",
-        "verletzen",
-        "begutachten",
-        "beschädigen",
-        "Bußgeld",
-        "Reparaturkosten",
-        "Sachverständige",
-        "Sachverständiger",
-        "Schadenssumme",
-        "Schadenbetrag",
-        "Schmerzensgeld",
-        "Verkehrsunfallverursacher",
-        "zerstören",
-        "zustehen",
-        "anprallen",
-        "kollidieren",
-        "zusammenstoßen",
-        "einbiegen",
-        "sich kreuzen",
-        "überholen",
-        "überschreiten",
-        "vorfahren",
-        "Fahrerflucht",
-        "Karambolage",
-        "Kollision",
-        "Zusammenstoß",
-        "Gaffer",
-        "Rettungsgasse",
-        "Spur",
-        "Verunglücken"
+        {
+          "text": "Verkehrsunfall",
+          "start": 1.81,
+          "end": 4.01
+        },
+        {
+          "text": "abschürfen",
+          "start": 5.42,
+          "end": 8.02
+        },
+        {
+          "text": "sich aufschürfen",
+          "start": 8.02,
+          "end": 10.52
+        },
+        {
+          "text": "anfahren",
+          "start": 11.8,
+          "end": 14.52
+        },
+        {
+          "text": "Blut",
+          "start": 14.52,
+          "end": 15.5
+        },
+        {
+          "text": "bluten",
+          "start": 17.57,
+          "end": 18.81
+        },
+        {
+          "text": "Stoßverletzung",
+          "start": 21.96,
+          "end": 23.36
+        },
+        {
+          "text": "überfahren",
+          "start": 23.36,
+          "end": 25.08
+        },
+        {
+          "text": "umfahren",
+          "start": 26.39,
+          "end": 28.41
+        },
+        {
+          "text": "verletzen",
+          "start": 29.82,
+          "end": 31.38
+        },
+        {
+          "text": "begutachten",
+          "start": 32.66,
+          "end": 34.58
+        },
+        {
+          "text": "beschädigen",
+          "start": 35.83,
+          "end": 37.59
+        },
+        {
+          "text": "Bußgeld",
+          "start": 38.84,
+          "end": 41.0
+        },
+        {
+          "text": "Reparaturkosten",
+          "start": 43.82,
+          "end": 45.22
+        },
+        {
+          "text": "Sachverständige",
+          "start": 47.5,
+          "end": 48.9
+        },
+        {
+          "text": "Sachverständiger",
+          "start": 48.9,
+          "end": 50.64
+        },
+        {
+          "text": "Schadenssumme",
+          "start": 52.08,
+          "end": 54.4
+        },
+        {
+          "text": "Schadenbetrag",
+          "start": 55.8,
+          "end": 57.66
+        },
+        {
+          "text": "Schmerzensgeld",
+          "start": 59.07,
+          "end": 60.81
+        },
+        {
+          "text": "Verkehrsunfallverursacher",
+          "start": 63.98,
+          "end": 65.38
+        },
+        {
+          "text": "zerstören",
+          "start": 66.72,
+          "end": 68.86
+        },
+        {
+          "text": "zustehen",
+          "start": 68.86,
+          "end": 71.42
+        },
+        {
+          "text": "anprallen",
+          "start": 72.67,
+          "end": 74.15
+        },
+        {
+          "text": "kollidieren",
+          "start": 75.43,
+          "end": 77.11
+        },
+        {
+          "text": "zusammenstoßen",
+          "start": 78.45,
+          "end": 80.61
+        },
+        {
+          "text": "abbiegen",
+          "start": 81.89,
+          "end": 83.53
+        },
+        {
+          "text": "einbiegen",
+          "start": 84.88,
+          "end": 87.5
+        },
+        {
+          "text": "sich kreuzen",
+          "start": 87.5,
+          "end": 90.5
+        },
+        {
+          "text": "überholen",
+          "start": 92.24,
+          "end": 93.64
+        },
+        {
+          "text": "überschreiten",
+          "start": 93.64,
+          "end": 95.62
+        },
+        {
+          "text": "vorfahren",
+          "start": 97.02,
+          "end": 98.6
+        },
+        {
+          "text": "Fahrerflucht",
+          "start": 100.01,
+          "end": 102.01
+        },
+        {
+          "text": "Karambolage",
+          "start": 103.32,
+          "end": 105.2
+        },
+        {
+          "text": "Kollision",
+          "start": 106.55,
+          "end": 107.95
+        },
+        {
+          "text": "Zusammenstoß",
+          "start": 108.71,
+          "end": 109.99
+        },
+        {
+          "text": "Gaffer",
+          "start": 111.88,
+          "end": 112.58
+        },
+        {
+          "text": "Rettungsgasse",
+          "start": 115.0,
+          "end": 115.7
+        },
+        {
+          "text": "Spur",
+          "start": 117.24,
+          "end": 118.7
+        },
+        {
+          "text": "Verunglücken",
+          "start": 120.98,
+          "end": 121.82
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Ich habe auf einer dunklen Straße versehentlich ein Kaninchen überfahren.",
-        "Bei dem Unfall kam ein Mensch ums Leben.",
-        "Sieben weitere wurden schwer verletzt.",
-        "Beim Zusammenstoß wurde sein Auto schwer beschädigt.",
-        "Anfang Mai teilte die Staatsanwaltschaft Stuttgart mit, dass die VW-Tochter Porsche mehr als 500 Millionen Euro Bußgeld akzeptierte.",
-        "Die Kosten für die Einschaltung eines Sachverständigen hat die Versicherung des Verkehrsunfallverursachers zu erstatten.",
-        "Es stehen den geschädigten Ansprüche auf Ersatz der Heilbehandlungskosten, ein angemessenes Schmerzensgeld und Ersatz des Verdienstausfalls zu.",
-        "Während des Zweiten Weltkriegs wurde Berlin durch die Bomben zerstört.",
-        "Es steht mir nicht zu, mich darüber zu entscheiden.",
-        "Die beiden Spieler stießen zusammen, als sie beide zum Ball liefen.",
-        "An der nächsten Kreuzung musst du links abbiegen.",
-        "Der Verbrecher hat keine Spuren hinterlassen.",
-        "Im Jahr 2006 verunglückten rund 16.000 Personen im Alter von 15 bis 24 Jahren im Straßenverkehr."
+        {
+          "text": "Ich habe auf einer dunklen Straße versehentlich ein Kaninchen überfahren.",
+          "start": 132.12,
+          "end": 137.4
+        },
+        {
+          "text": "Bei dem Unfall kam ein Mensch ums Leben.",
+          "start": 140.42,
+          "end": 142.92
+        },
+        {
+          "text": "Sieben weitere wurden schwer verletzt.",
+          "start": 143.44,
+          "end": 146.26
+        },
+        {
+          "text": "Beim Zusammenstoß wurde sein Auto schwer beschädigt.",
+          "start": 148.82,
+          "end": 152.62
+        },
+        {
+          "text": "Anfang Mai teilte die Staatsanwaltschaft Stuttgart mit, dass die VW-Tochter Porsche mehr als 500 Millionen Euro Bußgeld akzeptierte.",
+          "start": 155.31,
+          "end": 165.31
+        },
+        {
+          "text": "Die Kosten für die Einschaltung eines Sachverständigen hat die Versicherung des Verkehrsunfallverursachers zu erstatten.",
+          "start": 168.42,
+          "end": 175.62
+        },
+        {
+          "text": "Es stehen den geschädigten Ansprüche auf Ersatz der Heilbehandlungskosten, ein angemessenes Schmerzensgeld und Ersatz des Verdienstausfalls zu.",
+          "start": 178.68,
+          "end": 188.78
+        },
+        {
+          "text": "Während des Zweiten Weltkriegs wurde Berlin durch die Bomben zerstört.",
+          "start": 191.06,
+          "end": 195.82
+        },
+        {
+          "text": "Es steht mir nicht zu, mich darüber zu entscheiden.",
+          "start": 198.76,
+          "end": 201.56
+        },
+        {
+          "text": "Die beiden Spieler stießen zusammen, als sie beide zum Ball liefen.",
+          "start": 204.7,
+          "end": 208.84
+        },
+        {
+          "text": "An der nächsten Kreuzung musst du links abbiegen.",
+          "start": 211.96,
+          "end": 214.94
+        },
+        {
+          "text": "Der Verbrecher hat keine Spuren hinterlassen.",
+          "start": 217.95,
+          "end": 220.61
+        },
+        {
+          "text": "Im Jahr 2006 verunglückten rund 16.000 Personen im Alter von 15 bis 24 Jahren im Straßenverkehr.",
+          "start": 220.61,
+          "end": 232.14
+        }
       ]
     }
   ]

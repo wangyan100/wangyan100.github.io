@@ -1,11 +1,19 @@
-Badezimmer, Badlüfter, Föhn, Haartrockner, Personenwaage, Warmwasserbereiter, Badewanne,
-Brause, Duschkopf, Dusche, Handtuchhalter, Klosett, Waschbecken, Wasserhahn, Badesalz,
-Bodylotion, Duschgel, Duschhaube, Haarspülung, Seife, Shampoo, Zahnbürste, die elektrische Zahnbürste,
-Zahncreme, Zahnpaste, Rasierapparat, Rasiercreme, Badematte, Badeschwamm, Duschschwamm, Badetuch,
-Duschvorhang, Handtuch, Waschhandschuh, Abtrocknen, Abwaschen, Abwischen, Duschen, Putzen, Rasieren, Waschen
-Sprechen Sie bitte die folgenden Sätze. Zu heißes Föhnen von Haartrockner kann die Haare schädigen.
-Die Badewanne läuft über. Er möchte unter die Brause gehen. Der Misserfolg bei der Prüfung ist für mich wie eine kalte Dusche.
-Handtuchhalter dienen zum Hängen der Handtücher. Sie erhebt sich vom Klosett. Sie bestreicht die Bodylotion auf ihrem Körper.
-Die Seife reinigt. Nachdem das Shampoo ausgewaschen wurde, kann die Haarspülung auf die Haare aufgetragen werden.
-Er nimmt ein Badetuch, um seinen Körper abzutrocknen. Reinigungsöl lässt sich nicht leicht abwaschen.
-Bevor man seine Zähne putzt, presst man die Zahncreme auf die Zahnbürste. Ich möchte mich nicht mehr rasieren, sondern meinen Bart wachsen lassen.
+[00:00:01.900 --> 00:00:23.800] Badezimmer, Badlüfter, Föhn, Haartrockner, Personenwaage, Warmwasserbereiter, Badewanne,
+[00:00:25.450 --> 00:00:47.980] Brause, Duschkopf, Dusche, Handtuchhalter, Klosett, Waschbecken, Wasserhahn, Badesalz,
+[00:00:49.230 --> 00:01:14.110] Bodylotion, Duschgel, Duschhaube, Haarspülung, Seife, Shampoo, Zahnbürste, die elektrische Zahnbürste,
+[00:01:15.660 --> 00:01:36.000] Zahncreme, Zahnpaste, Rasierapparat, Rasiercreme, Badematte, Badeschwamm, Duschschwamm,
+[00:01:37.410 --> 00:02:08.940] Badetuch, Duschvorhang, Handtuch, Waschhandschuh, Abtrocknen, Abwaschen, Abwischen, Duschen, Putzen, Rasieren, Waschen.
+[00:02:13.520 --> 00:02:16.580] Sprechen Sie bitte die folgenden Sätze.
+[00:02:19.660 --> 00:02:24.420] Zu heißes Föhnen von Haartrockner kann die Haare schädigen.
+[00:02:27.400 --> 00:02:29.280] Die Badewanne läuft über.
+[00:02:32.530 --> 00:02:34.830] Er möchte unter die Brause gehen.
+[00:02:38.020 --> 00:02:43.240] Der Misserfolg bei der Prüfung ist für mich wie eine kalte Dusche.
+[00:02:46.500 --> 00:02:49.760] Handtuchhalter dienen zum Hängen der Handtücher.
+[00:02:52.880 --> 00:02:55.080] Sie erhebt sich vom Klosett.
+[00:02:58.020 --> 00:03:01.440] Sie bestreicht die Bodylotion auf ihrem Körper.
+[00:03:04.540 --> 00:03:06.880] Die Seife reinigt.
+[00:03:09.340 --> 00:03:15.940] Nachdem das Shampoo ausgewaschen wurde, kann die Haarspülung auf die Haare aufgetragen werden.
+[00:03:19.060 --> 00:03:23.480] Er nimmt ein Badetuch, um seinen Körper abzutrocknen.
+[00:03:26.740 --> 00:03:30.200] Reinigungsöl lässt sich nicht leicht abwaschen.
+[00:03:33.120 --> 00:03:38.460] Bevor man seine Zähne putzt, presst man die Zahncreme auf die Zahnbürste.
+[00:03:40.890 --> 00:03:46.170] Ich möchte mich nicht mehr rasieren, sondern meinen Bart wachsen lassen.

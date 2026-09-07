@@ -19,6 +19,7 @@ const paneResizer = document.querySelector(".pane-resizer");
 const openLibraryButton = document.querySelector("#openLibrary");
 const closeLibraryButton = document.querySelector("#closeLibrary");
 const libraryBackdrop = document.querySelector("#libraryBackdrop");
+let transcriptItems = [];
 
 function setLibraryOpen(isOpen) {
   document.body.classList.toggle("is-library-open", isOpen);
@@ -126,6 +127,7 @@ function renderTrackList() {
 
 function renderTranscript(content) {
   transcript.innerHTML = "";
+  transcriptItems = [];
   let totalItems = 0;
 
   content.sections.forEach((section) => {
@@ -140,7 +142,23 @@ function renderTranscript(content) {
     list.className = "transcript-items";
     section.items.forEach((item) => {
       const listItem = document.createElement("li");
-      listItem.textContent = item;
+      const itemText = typeof item === "string" ? item : item.text;
+      listItem.textContent = itemText;
+      listItem.tabIndex = 0;
+      listItem.classList.add("transcript-item");
+      listItem.title = "播放这一项";
+      listItem.addEventListener("click", () => playTranscriptItem(listItem));
+      listItem.addEventListener("keydown", (event) => {
+        if (event.key === "Enter" || event.key === " ") {
+          event.preventDefault();
+          playTranscriptItem(listItem);
+        }
+      });
+      if (typeof item !== "string" && Number.isFinite(item.start) && Number.isFinite(item.end)) {
+        listItem.dataset.start = item.start;
+        listItem.dataset.end = item.end;
+      }
+      transcriptItems.push(listItem);
       list.append(listItem);
     });
     totalItems += section.items.length;
@@ -149,6 +167,40 @@ function renderTranscript(content) {
   });
 
   transcriptCount.textContent = `${totalItems} items`;
+}
+
+function prepareFallbackTimings() {
+  if (!Number.isFinite(audioPlayer.duration) || transcriptItems.some((item) => item.dataset.start)) {
+    return;
+  }
+  const totalWeight = transcriptItems.reduce((sum, item) => sum + item.textContent.length, 0);
+  let cursor = 0;
+  transcriptItems.forEach((item) => {
+    item.dataset.start = String(cursor);
+    cursor += (item.textContent.length / totalWeight) * audioPlayer.duration;
+    item.dataset.end = String(cursor);
+  });
+}
+
+function playTranscriptItem(item) {
+  prepareFallbackTimings();
+  const start = Number(item.dataset.start);
+  if (!Number.isFinite(start)) {
+    return;
+  }
+  audioPlayer.currentTime = start;
+  audioPlayer.play();
+}
+
+function updateTranscriptHighlight() {
+  const currentTime = audioPlayer.currentTime;
+  transcriptItems.forEach((item) => {
+    const isActive = Number(item.dataset.start) <= currentTime && currentTime < Number(item.dataset.end);
+    item.classList.toggle("is-playing", isActive);
+    if (isActive && !item.matches(":hover")) {
+      item.scrollIntoView({ block: "nearest" });
+    }
+  });
 }
 
 async function loadTranscript(track) {
@@ -203,6 +255,12 @@ function applySearch() {
   });
   selectTrack(0);
 }
+
+audioPlayer.addEventListener("loadedmetadata", prepareFallbackTimings);
+audioPlayer.addEventListener("timeupdate", updateTranscriptHighlight);
+audioPlayer.addEventListener("ended", () => {
+  transcriptItems.forEach((item) => item.classList.remove("is-playing"));
+});
 
 async function initialize() {
   try {

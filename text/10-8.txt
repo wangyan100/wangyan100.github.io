@@ -1,82 +1,87 @@
-andere Feiertage
-anzapfen
-Bierzelt
-Brezel, Dirndl
-Gedränge
-Tracht, Volksmusik
-Wiesen, Band
-Karikatur
-Kostüm
-Maskenball
-Motivwagen
-nach
-Rosenmontag
-sich verkleiden
-Umzug
-beginnen
-anfangen
-Bohle
-Fondue
-Glückssträne
-Heimkehr
-Jahresanfang
-Neujahrsansprache
-Rutsch
-Wahrsagen
-Begehen
-Befreien
-Einigung
-Ferien
-Die Goldene Woche
-Parade
-Tourist
-Unabhängigkeit
-Urlaub machen
-Beifußblatt
-Der Beutelsack mit Parfüm
-Dichter
-Drachenboot
-einwickeln
-ertrinken
-Gedenken
-Regatta
-Sprechen Sie bitte die folgenden Sätze
-Das Oktoberfest
-zieht in den letzten Jahrzehnten
-alljährlich Millionen Besucher an.
-Münchens Oberbürgermeister
-hat das erste Fass Bier
-und das 185. Oktoberfest eröffnet.
-Das Oktoberfest heißt auch Wiesn,
-weil es auf der Theresienwiese
-gefeiert wird.
-Der Karneval in Venedig
-ist weltberühmt für seine Maskenbälle,
-Gondelparaden
-und Feuerwerke.
-Der Rosenmontag
-ist der größte Tag für Karnevalfans.
-Die Bohle ist ein erfrischendes Sommergetränk
-mit Wein und Sekt,
-mit Früchten oder Kräutern.
-Bundeskanzlerin Angela Merkel
-hat in ihrer Neujahrsansprache
-für ihre Asylpolitik geworben.
-Guten Rutsch ins neue Jahr!
-Am 1. Oktober,
-dem Nationalfeiertag Chinas,
-beginnt im Reich der Mitte
-die Goldene Woche.
-Während des Drachenbootfests
-säubert man das Haus
-und hängt Beifußblätter an die Türen.
-Das Drachenbootfest
-findet zu Ehren des Dichters
-Tzüjön statt,
-der 278 v. Chr.
-im Milorfluss
-ertrunken sein soll.
-Die Zungze
-sind Klöße aus Klebreis
-eingewickelt in Bambusblätter
-mit verschiedenen Füllungen.
+[00:00:01.870 --> 00:00:04.150] andere Feiertage
+[00:00:05.500 --> 00:00:07.360] anzapfen
+[00:00:08.640 --> 00:00:10.200] Bierzelt
+[00:00:11.480 --> 00:00:15.280] Brezel, Dirndl
+[00:00:16.980 --> 00:00:18.220] Gedränge
+[00:00:20.230 --> 00:00:23.940] Tracht, Volksmusik
+[00:00:25.760 --> 00:00:29.300] Wiesen, Band
+[00:00:30.580 --> 00:00:32.560] Karikatur
+[00:00:33.840 --> 00:00:35.460] Kostüm
+[00:00:36.710 --> 00:00:38.910] Maskenball
+[00:00:40.510 --> 00:00:41.210] Motivwagen
+[00:00:42.850 --> 00:00:43.550] nach
+[00:00:47.710 --> 00:00:49.110] Rosenmontag
+[00:00:49.110 --> 00:00:50.530] sich verkleiden
+[00:00:52.610 --> 00:00:54.010] Umzug
+[00:00:55.320 --> 00:00:57.020] beginnen
+[00:00:59.420 --> 00:01:00.120] anfangen
+[00:01:00.820 --> 00:01:01.800] Bohle
+[00:01:03.760 --> 00:01:05.260] Fondue
+[00:01:06.510 --> 00:01:08.410] Glückssträhne
+[00:01:09.720 --> 00:01:11.440] Heimkehr
+[00:01:12.690 --> 00:01:15.490] Jahresanfang
+[00:01:16.890 --> 00:01:17.590] Neujahrsansprache
+[00:01:18.900 --> 00:01:21.300] Rutsch
+[00:01:22.550 --> 00:01:24.150] Wahrsagen
+[00:01:26.030 --> 00:01:26.730] Begehen
+[00:01:28.450 --> 00:01:29.850] Befreien
+[00:01:31.100 --> 00:01:31.800] Einigung
+[00:01:34.240 --> 00:01:34.940] Ferien
+[00:01:36.880 --> 00:01:38.560] Die Goldene Woche
+[00:01:39.960 --> 00:01:41.740] Parade
+[00:01:43.020 --> 00:01:44.580] Tourist
+[00:01:45.860 --> 00:01:47.740] Unabhängigkeit
+[00:01:49.020 --> 00:01:51.200] Urlaub machen
+[00:01:53.460 --> 00:01:54.860] Beifußblatt
+[00:01:54.860 --> 00:01:57.760] Der Beutelsack mit Parfüm
+[00:02:01.200 --> 00:02:02.440] Dichter
+[00:02:02.440 --> 00:02:03.060] Drachenboot
+[00:02:06.380 --> 00:02:07.620] Einwickeln
+[00:02:09.200 --> 00:02:10.440] Ertrinken
+[00:02:10.440 --> 00:02:12.320] Gedenken
+[00:02:14.120 --> 00:02:15.400] Regatta
+[00:02:19.950 --> 00:02:22.750] Sprechen Sie bitte die folgenden Sätze
+[00:02:25.040 --> 00:02:26.640] Das Oktoberfest
+[00:02:27.160 --> 00:02:29.000] zieht in den letzten Jahrzehnten
+[00:02:29.440 --> 00:02:30.960] alljährlich Millionen
+[00:02:30.960 --> 00:02:32.260] Besucher an.
+[00:02:35.060 --> 00:02:37.000] Münchens Oberbürgermeister
+[00:02:37.000 --> 00:02:38.760] hat das erste Fass Bier
+[00:02:38.760 --> 00:02:40.840] angezapft und damit das
+[00:02:40.840 --> 00:02:42.930] 185. Oktoberfest
+[00:02:43.340 --> 00:02:44.180] eröffnet.
+[00:02:47.200 --> 00:02:49.160] Das Oktoberfest heißt auch
+[00:02:49.160 --> 00:02:50.940] Wiesen, weil es auf der
+[00:02:50.940 --> 00:02:52.920] Theresienwiese gefeiert wird.
+[00:02:55.930 --> 00:02:57.150] Der Karneval in
+[00:02:57.150 --> 00:02:59.370] Venedig ist weltberühmt für seine
+[00:02:59.370 --> 00:03:01.710] Maskenbälle, Gondelparaden
+[00:03:01.710 --> 00:03:03.070] und Feuerwerke.
+[00:03:06.070 --> 00:03:07.370] Der Rosenmontag
+[00:03:07.370 --> 00:03:09.510] ist der größte Tag für Karnevalfans.
+[00:03:13.180 --> 00:03:13.860] Die Bohle
+[00:03:13.860 --> 00:03:16.000] ist ein erfrischendes Sommergetränk
+[00:03:16.000 --> 00:03:17.480] aus Wein und Sekt
+[00:03:17.610 --> 00:03:20.180] mit Früchten oder Kräutern.
+[00:03:22.900 --> 00:03:24.860] Bundeskanzlerin Angela Merkel
+[00:03:24.860 --> 00:03:25.740] hat in ihrer
+[00:03:26.240 --> 00:03:27.800] Neujahrsansprache für ihre
+[00:03:27.800 --> 00:03:30.240] Asylpolitik geworben.
+[00:03:32.800 --> 00:03:34.580] Guten Rutsch ins neue Jahr!
+[00:03:37.570 --> 00:03:39.090] Am 1. Oktober
+[00:03:39.090 --> 00:03:41.020] dem Nationalfeiertag Chinas
+[00:03:41.430 --> 00:03:43.010] beginnt im Reich der Mitte
+[00:03:43.010 --> 00:03:44.330] die Goldene Woche.
+[00:03:47.490 --> 00:03:49.570] Während des Drachenboot-Fests
+[00:03:49.570 --> 00:03:51.010] säubert man das Haus
+[00:03:51.010 --> 00:03:53.650] und hängt Beifußblätter an die Türen.
+[00:03:55.920 --> 00:03:58.340] Das Drachenboot-Fest
+[00:03:58.340 --> 00:04:00.340] findet zu Ehren des Dichters
+[00:04:00.340 --> 00:04:01.540] Tüjön statt,
+[00:04:02.100 --> 00:04:04.820] der 278 v. Chr.
+[00:04:05.320 --> 00:04:06.080] im Milorfluss
+[00:04:06.560 --> 00:04:07.940] ertrunken sein soll.
+[00:04:11.000 --> 00:04:12.040] Die Zungse
+[00:04:12.040 --> 00:04:14.200] sind Klöße aus Klebreis
+[00:04:14.200 --> 00:04:16.060] eingewickelt in Bambusblätter
+[00:04:16.060 --> 00:04:17.800] mit verschiedenen Füllungen.

@@ -4,58 +4,247 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Wohnzimmer",
-        "Klimaanlage",
-        "Luftbefeuchter",
-        "Luftreiniger",
-        "Pendellampe",
-        "Hengelampe",
-        "Staubsauger",
-        "Stereoanlage",
-        "Ventilator",
-        "Couchtisch",
-        "Esstisch",
-        "Kamin",
-        "Klappstuhl",
-        "Liegestuhl",
-        "Sessel",
-        "Sofa",
-        "Fenstervorhang",
-        "Gardine",
-        "Mathe",
-        "Sofakissen",
-        "Stuhlkissen",
-        "Teppich",
-        "Fernbedienung",
-        "Fernsehempfänger",
-        "Fernseher",
-        "Fernsehprogramm",
-        "Fernsehsendung",
-        "Fernsehschirm",
-        "Quatschen",
-        "Sehen",
-        "Sich ausruhen",
-        "Sich lehnen",
-        "Sich unterhalten",
-        "Sitzen",
-        "Spielen"
+        {
+          "text": "Wohnzimmer",
+          "start": 1.68,
+          "end": 3.5
+        },
+        {
+          "text": "Klimaanlage",
+          "start": 6.58,
+          "end": 7.28
+        },
+        {
+          "text": "Luftbefeuchter",
+          "start": 9.04,
+          "end": 10.44
+        },
+        {
+          "text": "Luftreiniger",
+          "start": 11.69,
+          "end": 13.63
+        },
+        {
+          "text": "Pendellampe",
+          "start": 14.98,
+          "end": 16.92
+        },
+        {
+          "text": "Hengelampe",
+          "start": 18.26,
+          "end": 20.0
+        },
+        {
+          "text": "Staubsauger",
+          "start": 21.44,
+          "end": 23.32
+        },
+        {
+          "text": "Stereoanlage",
+          "start": 24.79,
+          "end": 26.65
+        },
+        {
+          "text": "Ventilator",
+          "start": 28.0,
+          "end": 30.02
+        },
+        {
+          "text": "Couchtisch",
+          "start": 31.33,
+          "end": 33.19
+        },
+        {
+          "text": "Esstisch",
+          "start": 34.47,
+          "end": 35.89
+        },
+        {
+          "text": "Kamin",
+          "start": 38.0,
+          "end": 38.7
+        },
+        {
+          "text": "Klappstuhl",
+          "start": 41.68,
+          "end": 43.08
+        },
+        {
+          "text": "Liegestuhl",
+          "start": 43.08,
+          "end": 45.1
+        },
+        {
+          "text": "Schaukelstuhl",
+          "start": 46.51,
+          "end": 48.47
+        },
+        {
+          "text": "Sessel",
+          "start": 49.75,
+          "end": 51.09
+        },
+        {
+          "text": "Sofa",
+          "start": 53.07,
+          "end": 53.85
+        },
+        {
+          "text": "Fenstervorhang",
+          "start": 56.58,
+          "end": 57.46
+        },
+        {
+          "text": "Gardine",
+          "start": 59.52,
+          "end": 60.22
+        },
+        {
+          "text": "Mathe",
+          "start": 63.87,
+          "end": 64.57
+        },
+        {
+          "text": "Sofakissen",
+          "start": 64.57,
+          "end": 66.21
+        },
+        {
+          "text": "Stuhlkissen",
+          "start": 67.71,
+          "end": 69.53
+        },
+        {
+          "text": "Teppich",
+          "start": 70.84,
+          "end": 72.46
+        },
+        {
+          "text": "Fernbedienung",
+          "start": 73.81,
+          "end": 75.53
+        },
+        {
+          "text": "Fernsehempfänger",
+          "start": 76.97,
+          "end": 79.01
+        },
+        {
+          "text": "Fernseher",
+          "start": 80.48,
+          "end": 82.02
+        },
+        {
+          "text": "Fernsehprogramm",
+          "start": 83.49,
+          "end": 85.81
+        },
+        {
+          "text": "Fernsehsendung",
+          "start": 87.25,
+          "end": 89.05
+        },
+        {
+          "text": "Fernsehschirm",
+          "start": 92.07,
+          "end": 92.77
+        },
+        {
+          "text": "liegen",
+          "start": 93.47,
+          "end": 94.77
+        },
+        {
+          "text": "quatschen",
+          "start": 96.15,
+          "end": 97.93
+        },
+        {
+          "text": "sehen",
+          "start": 99.27,
+          "end": 100.19
+        },
+        {
+          "text": "sich ausruhen",
+          "start": 101.86,
+          "end": 104.06
+        },
+        {
+          "text": "sich lehnen",
+          "start": 105.41,
+          "end": 107.03
+        },
+        {
+          "text": "sich unterhalten",
+          "start": 108.31,
+          "end": 110.31
+        },
+        {
+          "text": "sitzen",
+          "start": 111.98,
+          "end": 112.68
+        },
+        {
+          "text": "spielen",
+          "start": 114.15,
+          "end": 115.71
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Klimaanlagen und Ventilatoren laufen bei den hochsommerlichen Temperaturen in vielen Büros und Wohnungen auf Hochtouren.",
-        "Staubsauger Staub Der Kamin im Wohnzimmer qualmte heftig, da der Schornstein keinen rechten Zug hat.",
-        "Vor Müdigkeit sinkt der Mann nach dem Essen in einen Sessel.",
-        "Diese schöne Frau liegt ruhig auf dem Sofa.",
-        "Ich schütte Wasser auf meinen neuen Teppich.",
-        "Das zweite deutsche Fernsehen, ZDF, ist eine der größten öffentlich-rechtlichen Sendeanstalten in Deutschland.",
-        "Die Studenten sollen im Unterricht nicht quatschen.",
-        "Einmal sehen ist besser als hundertmal hören.",
-        "Der Athlet ruht sich nach der Entlassung immer auf seinen Lorbeeren aus.",
-        "Anna und ihre Freunde möchten sich heute Abend offen und aufrichtig unterhalten.",
-        "Die Kinder spielen gerne mit Zeig."
+        {
+          "text": "Klimaanlagen und Ventilatoren laufen bei den hochsommerlichen Temperaturen in vielen Büros und Wohnungen auf Hochtouren Staubsauger saugt Staub Der Kamin im Wohnzimmer qualmte heftig, da der Schornstein keinen rechten Zug hat.",
+          "start": 127.0,
+          "end": 152.11
+        },
+        {
+          "text": "Vor Müdigkeit sinkt der Mann nach dem Essen in einen Sessel.",
+          "start": 155.26,
+          "end": 159.52
+        },
+        {
+          "text": "Diese schöne Frau liegt ruhig auf dem Sofa.",
+          "start": 162.68,
+          "end": 166.14
+        },
+        {
+          "text": "Ich schütte Wasser auf meinen neuen Teppich.",
+          "start": 169.09,
+          "end": 172.65
+        },
+        {
+          "text": "Das zweite deutsche Fernsehen ZDF ist eine der größten öffentlich-rechtlichen Sendeanstalten in Deutschland.",
+          "start": 175.3,
+          "end": 184.58
+        },
+        {
+          "text": "Die Studenten sollen im Unterricht nicht quatschen.",
+          "start": 187.86,
+          "end": 191.84
+        },
+        {
+          "text": "Einmal sehen ist besser als hundertmal hören.",
+          "start": 194.78,
+          "end": 198.3
+        },
+        {
+          "text": "Der Athlet ruht sich nach der Entlassung immer auf seinen Lorbeeren aus.",
+          "start": 201.39,
+          "end": 206.55
+        },
+        {
+          "text": "Anna und ihre Freunde möchten sich heute Abend offen und aufrichtig unterhalten.",
+          "start": 209.66,
+          "end": 215.44
+        },
+        {
+          "text": "Die Kinder spielen gerne mit Spielzeug.",
+          "start": 218.3,
+          "end": 221.18
+        }
       ]
     }
   ]

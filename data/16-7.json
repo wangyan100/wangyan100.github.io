@@ -4,70 +4,302 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Bäume und Gräser",
-        "Ast",
-        "Baumkrone",
-        "Baumstamm",
-        "Borke",
-        "Rinde",
-        "Saat",
-        "Spross",
-        "Wipfel",
-        "Wurzel",
-        "Zweig",
-        "Ahorn",
-        "Birke",
-        "Buche",
-        "Eiche",
-        "Linde",
-        "Pappel",
-        "Platane",
-        "Ulme",
-        "Eibe",
-        "Fichte",
-        "Kiefer",
-        "Lärche",
-        "Pinie",
-        "Wacholder",
-        "Zeder",
-        "Zypresse",
-        "Ackersenf",
-        "Distel",
-        "Espato",
-        "Hexenkraut",
-        "Hirtentäschel",
-        "Nessel",
-        "Quecke",
-        "Busch",
-        "Forsythie",
-        "Holunder",
-        "Oleander",
-        "Schlee",
-        "Spierstrauch",
-        "Stechpalme",
-        "Weigelie"
+        {
+          "text": "Bäume und Gräser",
+          "start": 1.87,
+          "end": 4.41
+        },
+        {
+          "text": "Ast",
+          "start": 5.76,
+          "end": 6.5
+        },
+        {
+          "text": "Baumkrone",
+          "start": 9.56,
+          "end": 10.96
+        },
+        {
+          "text": "Baumstamm",
+          "start": 10.96,
+          "end": 12.8
+        },
+        {
+          "text": "Borke",
+          "start": 14.08,
+          "end": 16.22
+        },
+        {
+          "text": "Rinde",
+          "start": 16.76,
+          "end": 18.2
+        },
+        {
+          "text": "Saat",
+          "start": 19.55,
+          "end": 20.97
+        },
+        {
+          "text": "Spross",
+          "start": 22.47,
+          "end": 23.81
+        },
+        {
+          "text": "Wipfel",
+          "start": 25.06,
+          "end": 27.48
+        },
+        {
+          "text": "Wurzel",
+          "start": 27.48,
+          "end": 29.4
+        },
+        {
+          "text": "Zweig",
+          "start": 30.78,
+          "end": 32.2
+        },
+        {
+          "text": "Ahorn",
+          "start": 33.44,
+          "end": 34.88
+        },
+        {
+          "text": "Birke",
+          "start": 36.13,
+          "end": 37.63
+        },
+        {
+          "text": "Buche",
+          "start": 39.1,
+          "end": 40.26
+        },
+        {
+          "text": "Eiche",
+          "start": 41.54,
+          "end": 43.56
+        },
+        {
+          "text": "Linde",
+          "start": 44.62,
+          "end": 45.68
+        },
+        {
+          "text": "Pappel",
+          "start": 46.93,
+          "end": 48.91
+        },
+        {
+          "text": "Platane",
+          "start": 50.19,
+          "end": 51.43
+        },
+        {
+          "text": "Ulme",
+          "start": 54.26,
+          "end": 55.66
+        },
+        {
+          "text": "Eibe",
+          "start": 55.66,
+          "end": 57.08
+        },
+        {
+          "text": "Fichte",
+          "start": 58.49,
+          "end": 59.81
+        },
+        {
+          "text": "Kiefer",
+          "start": 62.64,
+          "end": 64.04
+        },
+        {
+          "text": "Lärche",
+          "start": 64.04,
+          "end": 65.48
+        },
+        {
+          "text": "Pinie",
+          "start": 66.82,
+          "end": 69.42
+        },
+        {
+          "text": "Wacholder",
+          "start": 69.42,
+          "end": 71.4
+        },
+        {
+          "text": "Zeder",
+          "start": 72.78,
+          "end": 74.1
+        },
+        {
+          "text": "Zypresse",
+          "start": 75.44,
+          "end": 77.16
+        },
+        {
+          "text": "Ackersenf",
+          "start": 78.44,
+          "end": 79.68
+        },
+        {
+          "text": "Distel",
+          "start": 80.93,
+          "end": 83.61
+        },
+        {
+          "text": "Espato",
+          "start": 83.61,
+          "end": 85.71
+        },
+        {
+          "text": "Hexenkraut",
+          "start": 87.02,
+          "end": 88.84
+        },
+        {
+          "text": "Hirtentäschel",
+          "start": 92.23,
+          "end": 93.63
+        },
+        {
+          "text": "Nessel",
+          "start": 93.63,
+          "end": 94.61
+        },
+        {
+          "text": "Quecke",
+          "start": 95.92,
+          "end": 97.6
+        },
+        {
+          "text": "Busch",
+          "start": 98.92,
+          "end": 100.18
+        },
+        {
+          "text": "Forsythie",
+          "start": 101.62,
+          "end": 103.28
+        },
+        {
+          "text": "Holunder",
+          "start": 104.62,
+          "end": 106.52
+        },
+        {
+          "text": "Oleander",
+          "start": 107.5,
+          "end": 109.12
+        },
+        {
+          "text": "Schlee",
+          "start": 110.56,
+          "end": 111.92
+        },
+        {
+          "text": "Spierstrauch",
+          "start": 113.39,
+          "end": 115.21
+        },
+        {
+          "text": "Stechpalme",
+          "start": 118.31,
+          "end": 119.71
+        },
+        {
+          "text": "Weigelie",
+          "start": 119.71,
+          "end": 121.33
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Auf einen Hieb fällt kein Baum.",
-        "Der Specht behackt die Rinde des Baumes.",
-        "In den Wipfeln der Bäume rauscht der Wind.",
-        "Dieser Gedanke fasst Wurzel in seinem Hirn.",
-        "Als Holzlieferanten werden in Mitteleuropa vor allem die Birken genutzt.",
-        "Im Sommer toben Kinder unter alten Eichen, Turnen auf Holzgerüsten und Spielen verstecken.",
-        "Bei den Germanen und den Slawen galt die Linde als heiliger Baum.",
-        "Diese Ulme ist vielleicht fünf Meter hoch.",
-        "Diese Möbel aus Holz der Fichte sind solide gearbeitet.",
-        "Lärchen werfen im Spätherbst ihre Blätter ab.",
-        "Das natürliche Verbreitungsgebiet der Pinie befindet sich im nördlichen Mittelmeerraum und erstreckt sich von der iberischen Halbinsel bis nach Anatolien.",
-        "Die Disteln ritzen seine nackten Füße.",
-        "Hirtentäschel ist ein häufig anzutreffendes Unkraut in Gärten oder auf Äckern.",
-        "Der Bahndamm ist voller Nesseln.",
-        "Der Weg war von Quecken bewuchert.",
-        "Der Spierstrauch ist recht pflegeleicht und anspruchslos und wird daher gerne in Grün- und Parkanlagen gepflanzt."
+        {
+          "text": "Auf einen Hieb fällt kein Baum.",
+          "start": 131.05,
+          "end": 134.05
+        },
+        {
+          "text": "Der Specht behackt die Rinde des Baumes.",
+          "start": 136.97,
+          "end": 140.13
+        },
+        {
+          "text": "In den Wipfeln der Bäume rauscht der Wind.",
+          "start": 143.08,
+          "end": 146.12
+        },
+        {
+          "text": "Dieser Gedanke fasst Wurzel in seinem Hirn.",
+          "start": 149.39,
+          "end": 152.73
+        },
+        {
+          "text": "Als Holzlieferanten werden in Mitteleuropa vor allem die Birken genutzt.",
+          "start": 155.31,
+          "end": 161.35
+        },
+        {
+          "text": "Im Sommer toben Kinder unter alten Eichen, Turnen auf Holzgerüsten und Spielen verstecken.",
+          "start": 163.93,
+          "end": 170.43
+        },
+        {
+          "text": "Bei den Germanen und den Slaven galt die Linde als heiliger Baum.",
+          "start": 173.24,
+          "end": 178.16
+        },
+        {
+          "text": "Diese Ulme ist vielleicht fünf Meter hoch.",
+          "start": 181.27,
+          "end": 184.09
+        },
+        {
+          "text": "Diese Möbel aus Holz der Fichte sind solide gearbeitet.",
+          "start": 187.14,
+          "end": 191.04
+        },
+        {
+          "text": "Lärchen werfen im Spätherbst ihre Blätter ab.",
+          "start": 194.25,
+          "end": 197.49
+        },
+        {
+          "text": "Das natürliche Verbreitungsgebiet der Pinie befindet sich im nördlichen Mittelmeerraum und erstreckt sich von der iberischen Halbinsel bis nach Anatolien.",
+          "start": 200.59,
+          "end": 211.33
+        },
+        {
+          "text": "Die Disteln ritzen seine nackten Füße.",
+          "start": 214.34,
+          "end": 217.18
+        },
+        {
+          "text": "Hirtentäschel ist ein häufig anzutreffendes Unkraut in Gärten oder auf Äckern.",
+          "start": 220.51,
+          "end": 225.85
+        },
+        {
+          "text": "Der Bahndamm ist voller Nesseln.",
+          "start": 228.79,
+          "end": 231.13
+        },
+        {
+          "text": "Der Weg war von Quecken bewuchert.",
+          "start": 234.24,
+          "end": 236.66
+        },
+        {
+          "text": "Der Spierstrauch ist recht pflegeleicht und anspruchslos und wird daher gerne in Grün- und Parkanlagen gepflanzt.",
+          "start": 239.72,
+          "end": 247.2
+        }
       ]
     }
   ]

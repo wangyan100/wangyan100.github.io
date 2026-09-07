@@ -4,63 +4,292 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Meeresfauna",
-        "Dornhai",
-        "Hai",
-        "Katzenhai",
-        "rochen",
-        "Seekatze",
-        "Tigerhai",
-        "Wahlhai",
-        "Klaunfisch",
-        "Hecht",
-        "Hering",
-        "Köhler",
-        "Kugelfisch",
-        "Seepferdchen",
-        "Zackenbarsche",
-        "Delfin",
-        "Meerotter",
-        "Seeotter",
-        "Seebär",
-        "Seehund",
-        "Seekuh",
-        "Seelewe",
-        "Wal",
-        "Walross",
-        "Polyp",
-        "Qualle",
-        "Schwamm",
-        "Seeanimone",
-        "Seestern",
-        "Bartel",
-        "Flosse",
-        "Gräte",
-        "Hauer",
-        "Kieme",
-        "Knorpel",
-        "Schuppe",
-        "Schwimmblase",
-        "Ovipar",
-        "Eierlegen",
-        "Vivipar",
-        "Ovovivipar"
+        {
+          "text": "Meeresfauna",
+          "start": 1.84,
+          "end": 3.94
+        },
+        {
+          "text": "Dornhai",
+          "start": 5.38,
+          "end": 7.06
+        },
+        {
+          "text": "Hai",
+          "start": 8.44,
+          "end": 9.34
+        },
+        {
+          "text": "Katzenhai",
+          "start": 10.65,
+          "end": 13.27
+        },
+        {
+          "text": "rochen",
+          "start": 14.97,
+          "end": 15.77
+        },
+        {
+          "text": "Seekatze",
+          "start": 17.23,
+          "end": 18.63
+        },
+        {
+          "text": "Tigerhai",
+          "start": 19.94,
+          "end": 22.12
+        },
+        {
+          "text": "Wahlhai",
+          "start": 22.68,
+          "end": 24.56
+        },
+        {
+          "text": "Klaunfisch",
+          "start": 25.9,
+          "end": 27.66
+        },
+        {
+          "text": "Hecht",
+          "start": 28.94,
+          "end": 30.14
+        },
+        {
+          "text": "Hering",
+          "start": 31.65,
+          "end": 32.65
+        },
+        {
+          "text": "Köhler",
+          "start": 33.96,
+          "end": 35.62
+        },
+        {
+          "text": "Kugelfisch",
+          "start": 37.0,
+          "end": 39.1
+        },
+        {
+          "text": "Seepferdchen",
+          "start": 40.7,
+          "end": 42.1
+        },
+        {
+          "text": "Zackenbarsche",
+          "start": 43.44,
+          "end": 44.94
+        },
+        {
+          "text": "Delfin",
+          "start": 46.69,
+          "end": 48.21
+        },
+        {
+          "text": "Meerotter",
+          "start": 49.46,
+          "end": 51.36
+        },
+        {
+          "text": "Seeotter",
+          "start": 53.22,
+          "end": 54.52
+        },
+        {
+          "text": "Seebär",
+          "start": 56.5,
+          "end": 57.46
+        },
+        {
+          "text": "Seehund",
+          "start": 60.22,
+          "end": 61.62
+        },
+        {
+          "text": "Seekuh",
+          "start": 61.62,
+          "end": 63.6
+        },
+        {
+          "text": "Seelewe",
+          "start": 64.84,
+          "end": 66.62
+        },
+        {
+          "text": "Wal",
+          "start": 68.0,
+          "end": 69.66
+        },
+        {
+          "text": "Walross",
+          "start": 70.4,
+          "end": 72.02
+        },
+        {
+          "text": "Polyp",
+          "start": 73.3,
+          "end": 74.78
+        },
+        {
+          "text": "Qualle",
+          "start": 76.75,
+          "end": 77.45
+        },
+        {
+          "text": "Schwamm",
+          "start": 80.52,
+          "end": 81.22
+        },
+        {
+          "text": "Seeanimone",
+          "start": 82.66,
+          "end": 83.82
+        },
+        {
+          "text": "Seestern",
+          "start": 86.03,
+          "end": 86.89
+        },
+        {
+          "text": "Wunderlampe",
+          "start": 88.14,
+          "end": 90.2
+        },
+        {
+          "text": "Bartel",
+          "start": 91.51,
+          "end": 92.89
+        },
+        {
+          "text": "Flosse",
+          "start": 94.83,
+          "end": 95.73
+        },
+        {
+          "text": "Grete",
+          "start": 97.83,
+          "end": 98.53
+        },
+        {
+          "text": "Hauer",
+          "start": 99.9,
+          "end": 101.12
+        },
+        {
+          "text": "Kieme",
+          "start": 102.44,
+          "end": 104.1
+        },
+        {
+          "text": "Knorpel",
+          "start": 105.41,
+          "end": 106.91
+        },
+        {
+          "text": "Schuppe",
+          "start": 108.25,
+          "end": 109.75
+        },
+        {
+          "text": "Schwimmblase",
+          "start": 111.13,
+          "end": 113.01
+        },
+        {
+          "text": "Ovipar",
+          "start": 114.26,
+          "end": 115.88
+        },
+        {
+          "text": "Eierlegen",
+          "start": 117.19,
+          "end": 118.81
+        },
+        {
+          "text": "Vivipar",
+          "start": 120.09,
+          "end": 122.09
+        },
+        {
+          "text": "Ovovivipar",
+          "start": 123.34,
+          "end": 125.3
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie Katzenhaie haben.",
-        "Delfine haben einen sehr guten Gehör und Gesichtssinn.",
-        "Seehunde sind sehr gute Schwimmer, die bis zu 200 Meter tief und 30 Minuten lang tauchen können.",
-        "Die meisten Wale sind vom Aussterben bedroht.",
-        "In China werden einige nicht giftige Quallen als Speise gegessen.",
-        "Die meisten Fische verfügen über sieben Flossen.",
-        "Die Gräte blieb ihm im Hals stecken.",
-        "Die Hauer sind das auffälligste Merkmal des Walrosses.",
-        "Die Schwimmblase ist ein Organ der Knochenfische.",
-        "Viele Haiarten sind Ovovivipar."
+        {
+          "text": "Beim Baden im Roten Meer ist eine deutsche Touristin von einem Hai angegriffen und getötet worden.",
+          "start": 134.83,
+          "end": 142.57
+        },
+        {
+          "text": "Katzenhaie ernähren sich von größeren Wirbellosen und kleinen Fischen.",
+          "start": 145.96,
+          "end": 150.88
+        },
+        {
+          "text": "Der Hecht wird von der Weltnaturschutzunion in der Roten Liste gefährdeter Arten geführt.",
+          "start": 154.11,
+          "end": 160.83
+        },
+        {
+          "text": "Die Eingeweide vieler Kugelfische sind giftig.",
+          "start": 163.88,
+          "end": 168.2
+        },
+        {
+          "text": "Vor allem in China und Südostasien kommt der Glaube, dass zerstoßene Seepferdchen heilende Wirkung haben.",
+          "start": 170.53,
+          "end": 178.23
+        },
+        {
+          "text": "Delfine haben einen sehr guten Gehör- und Gesichtssinn.",
+          "start": 181.3,
+          "end": 184.54
+        },
+        {
+          "text": "Seehunde sind sehr gute Schwimmer, die bis zu 200 Meter tief und 30 Minuten lang tauchen können.",
+          "start": 184.54,
+          "end": 196.06
+        },
+        {
+          "text": "Die meisten Wale sind vom Aussterben bedroht.",
+          "start": 196.06,
+          "end": 202.29
+        },
+        {
+          "text": "In China werden einige nicht giftige Quallen als Speise gegessen.",
+          "start": 202.29,
+          "end": 210.15
+        },
+        {
+          "text": "Die meisten Fische verfügen über sieben Flossen.",
+          "start": 210.15,
+          "end": 216.49
+        },
+        {
+          "text": "Die Gräte blieb ihm im Hals stecken.",
+          "start": 216.49,
+          "end": 222.01
+        },
+        {
+          "text": "Die Hauer sind das auffälligste Merkmal des Walrosses.",
+          "start": 222.01,
+          "end": 228.95
+        },
+        {
+          "text": "Die Schwimmblase ist ein Organ der Knochenfische.",
+          "start": 228.95,
+          "end": 235.4
+        },
+        {
+          "text": "Viele Haiarten sind Ovovivipar.",
+          "start": 235.4,
+          "end": 241.15
+        }
       ]
     }
   ]

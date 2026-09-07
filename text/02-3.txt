@@ -1,15 +1,16 @@
-Biere, Biermischgetränk
-das dunkle Bier, einfach Bier, Fassbier, Flaschenbier, Sauerbier, Schankbier, Starkbier, Vollbier, Aale, Altbier, Berliner Weiße, Emmerbier, Gose, Haferbier, Kölsch,
-Porter, Staut, Weißbier, Weizenbier, Exportbier, Lagerbier, Merzenbier, Pilzner, Rotbier, Schwarzbier, das alkoholfreie Bier, Bockbier, Leichtbier, Malzbier, Radler, Rauchbier
-Sprechen Sie bitte die folgenden Sätze.
-Unterhalb einer Stammwürze von 7% spricht man vom Einfachbier.
-Fassbier enthält etwas mehr Kohlensäure als Flaschenbier.
-Die Berliner Weiße ist ein Weißbier, das aus der deutschen Hauptstadt stammt.
-Leicht salzig und säuerlich im Geschmack gehört die Gose zur Familie der Sauerbiere.
-Der Ursprung des Kölsches geht zurück auf die Zeit des Hochmittelalters bis in die Renaissance.
-Der Hopfen spielt bei den meisten Stauts eine nur sehr untergeordnete Rolle, um die Malzsüße mit einer leichten Hopfenbittere etwas auszubalancieren.
-Das Weizenbier hat eine Stammwürze von 11% und einen Alkoholgehalt von 5,4%.
-Lagerbiere schmecken malzig, weich und ein wenig süß.
-Die Rotfärbung des Rotbiers wird durch Lagerung oder die Zugabe von Farbmalzen erreicht.
-Durch die Verwendung von dunklen Röstmalzen erhält Schwarzbier seine Farbe.
-Der Geschmack des Bockbieres lässt sich als vollmundig beschreiben.
+[00:00:01.650 --> 00:00:07.870] Biere, Biermischgetränk
+[00:00:07.870 --> 00:00:51.750] das dunkle Bier, einfach Bier, Fassbier, Flaschenbier, Sauerbier, Schankbier, Starkbier, Vollbier, Aale, Altbier, Berliner Weiße, Emmerbier, Gose, Haferbier, Kölsch,
+[00:00:53.060 --> 00:01:33.540] Porter, Staut, Weißbier, Weizenbier, Exportbier, Lagerbier, Merzenbier, Pilzner, Rotbier, Schwarzbier, das alkoholfreie Bier, Bockbier, Leichtbier,
+[00:01:35.300 --> 00:01:42.100] Malzbier, Radler, Rauchbier
+[00:01:46.580 --> 00:01:49.780] Sprechen Sie bitte die folgenden Sätze
+[00:01:52.220 --> 00:01:58.640] Unterhalb einer Stammwürze von 7% spricht man vom Einfachbier.
+[00:02:01.430 --> 00:02:06.150] Fassbier enthält etwas mehr Kohlensäure als Flaschenbier.
+[00:02:08.890 --> 00:02:14.550] Die Berliner Weiße ist ein Weißbier, das aus der deutschen Hauptstadt stammt.
+[00:02:16.790 --> 00:02:22.990] Leicht salzig und säuerlich im Geschmack gehört die Gose zur Familie der Sauerbiere.
+[00:02:26.070 --> 00:02:32.790] Der Ursprung des Kölsches geht zurück auf die Zeit des Hochmittelalters bis in die Renaissance.
+[00:02:35.930 --> 00:02:47.770] Der Hopfen spielt bei den meisten Stauts eine nur sehr untergeordnete Rolle, um die Malzsüße mit einer leichten Hopfenbittere etwas auszubalancieren.
+[00:02:50.110 --> 00:02:59.390] Das Walzenbier hat eine Stammwürze von 11% und einen Alkoholgehalt von 5,4%.
+[00:03:01.560 --> 00:03:06.400] Lagerbiere schmecken malzig, weich und ein wenig süß.
+[00:03:09.410 --> 00:03:16.590] Die Rotfärbung des Rotbiers wird durch Lagerung oder die Zugabe von Farbmalzen erreicht.
+[00:03:19.680 --> 00:03:25.240] Durch die Verwendung von dunklen Röstmalzen erhält Schwarzbier seine Farbe.
+[00:03:27.510 --> 00:03:32.630] Der Geschmack des Bockbeeres lässt sich als vollmundig beschreiben.

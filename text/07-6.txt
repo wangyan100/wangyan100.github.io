@@ -1,9 +1,10 @@
-trauer, abgeschiedenheit, einsam, eintönig, vereinsamen, verlassen, Verlassenheit, Vereinsamung
-betrüben, betrüblich, enttäuschen, Enttäuschung, hoffnungslos, Kummer, traurig
-Verzweiflung, bedrücken, Depression, depressiv, deprimieren, deprimiert, melancholisch, trübselig, unausgefüllt, abstumpfen
-Apathie, apathisch, frostig, gleichgültig, jemandem die kalte Schulter zeigen, teilnahmslos, aufrichten, beruhigen, ermuntern, trösten, tröstlich, Trostwort
-Der alte Mann lebte in der Abgeschiedenheit. Nach dem Tod seiner Frau fühlte er sich sehr einsam. Er ist in seinem Alter in der großen Stadt völlig vereinsamt.
-Das Kind stand verlassen am Straßenrand. Was betrübt dich denn? Ist Lukas das verleugnete Kind, das aus Enttäuschung und Wut den eigenen Vater ermordet hat?
-Spinner am Morgen bringt Kummer und Sorgen, Spinner am Abend erquickend und labend. Er war so traurig, dass er weinte. Eine tiefe Verzweiflung packte ihn.
-Dieses nasskalte Wetter deprimiert mich. Sein schweres Schicksal hatte ihn abgestumpft. Seine Apathie führt dazu, dass seine Frau mit Kindern das Haus verlässt. Es ist mir völlig gleichgültig, ob du kommst oder nicht.
-Wegen Geschäft zeigt er stets seiner Frau die kalte Schulter. Wie kann ich dich wieder aufrichten? Ihre Worte trösteten mich.
+[00:00:01.900 --> 00:00:26.380] trauer, abgeschiedenheit, einsam, eintönig, vereinsamen, verlassen, Verlassenheit, Vereinsamung
+[00:00:26.380 --> 00:00:45.330] betrüben, betrüblich, enttäuschen, Enttäuschung, hoffnungslos, Kummer, traurig
+[00:00:48.500 --> 00:01:03.680] Verzweiflung, bedrücken, Depression, depressiv, deprimieren, deprimiert
+[00:01:05.760 --> 00:01:24.720] melancholisch, trübselig, unausgefüllt, abstumpfen, Apathie, apathisch, frostig
+[00:01:25.960 --> 00:01:50.120] gleichgültig, jemandem die kalte Schulter zeigen, teilnahmslos, aufrichten, beruhigen, ermuntern, trösten, tröstlich
+[00:01:52.250 --> 00:01:53.010] Trostwort
+[00:01:57.460 --> 00:02:00.520] Sprechen Sie bitte die folgenden Sätze
+[00:02:02.820 --> 00:02:26.310] Der alte Mann lebte in der Abgeschiedenheit. Nach dem Tod seiner Frau fühlte er sich sehr einsam. Er ist in seinem Alter in der großen Stadt völlig vereinsamt. Das Kind stand verlassen am Straßenrand.
+[00:02:28.580 --> 00:03:00.690] Was betrübt dich denn? Ist Lukas das verleugnete Kind, das aus Enttäuschung und Wut den eigenen Vater ermordet hat? Spinner am Morgen bringt Kummer und Sorgen, Spinner am Abend erquickend und labend. Er war so traurig, dass er weinte. Eine tiefe Verzweiflung packte ihn.
+[00:03:02.990 --> 00:03:45.110] Dieses nasskalte Wetter deprimiert mich. Sein schweres Schicksal hatte ihn abgestumpft. Seine Apathie führt dazu, dass seine Frau mit Kindern das Haus verlässt. Es ist mir völlig gleichgültig, ob du kommst oder nicht. Wegen Geschäft zeigt er stets seiner Frau die kalte Schulter. Wie kann ich dich wieder aufrichten? Ihre Worte trösteten mich.

@@ -1,87 +1,82 @@
-Fröhlichkeit, Freude, Spaß
-freudig, froh, glückselig
-gut gelaunt sein, hoch erfreut
-sich über, freuen, faszinieren
-gefallen, interessant
-Leidenschaft, leidenschaftlich
-neugier, neugierig
-sich für, interessieren
-Flachwitz, Gelächter
-grinsen, Grübchen
-lächeln, Scherz
-Witz, schmunzeln
-sich kaputtlachen, berühren, bewegen
-dankbar, danken
-sich bedanken
-den Segen über, sprechen
-segnen
-ergriffen, Erkenntlichkeit
-erwartungsvoll
-hoffen, Hoffnung
-Hoffnungsschimmer
-hoffnungsvoll
-sich auf, freuen
-sich von, erwarten
-wünschen
-Sprechen Sie bitte die folgenden Sätze.
-Auf der Party tanzen alle fröhlich zur Musik.
-Freude spiegelt sich immer auf dem Gesicht ab.
-Es ist mir eine große Freude, an der heutigen Veranstaltung teilzunehmen.
-Die Arbeit macht mir Spaß.
-Dies ist für uns alle eine freudige Botschaft.
-Ich wünsche Ihnen ein frohes, gesegnetes Weihnachtsfest.
-Ich freue mich, Sie kennenzulernen.
-Martin war nach seiner Goldmedaille glückselig.
-Lena ist ein immer gut gelauntes Mädchen.
-Nachdem die Herzogin Kate das dritte Baby zur Welt gebracht hatte,
-zeigte sich Prinz William hoch erfreut.
-Sie hat großes Interesse an dieser Stelle.
-Roter Mond ist ein extrem seltenes Himmelsschauspiel
-und fasziniert unzählige Menschen.
-Wie gefällt es dir hier?
-Unser Fitnesscenter bietet Ihnen viele interessante Kurse an.
-Er kämpft mit Leidenschaft für die Gerechtigkeit und Freiheit.
-Er sammelt leidenschaftlich gerne Postkarten.
-Ich hoffe, vernünftig zu bleiben
-und lasse mich nicht von meinen Leidenschaften leiten.
-Mit Neugier suchte er dieses fremde Land auf.
-Sei nicht so neugierig.
-Ich bin neugierig, wie das ausgehen wird.
-Ich interessiere mich sehr stark für moderne Malerei.
-Flachwitze haben auch oft meist sinnlose
-und langweilige Wortspiele in sich versteckt.
-Die Zuschauer im Kino brachen in schallendes Gelächter aus.
-Sie hat nette Krüppchen auf der Wange.
-Damit treibt man keinen Scherz.
-Der Lehrer hat einen Witz erzählt.
-Sie warf mit strahlendem Lächeln
-immer wieder Kusshändchen ins Publikum.
-Die Zuhörer schmunzeln über die Aussagen des Präsidenten.
-Ich lache mich wirklich über diesen Text kaputt.
-Die Heldentaten der Geschwister Scholl
-haben die Deutschen tief berührt.
-Der Film bewegte viele Zuschauer zu Tränen.
-Ich bin sehr dankbar,
-dass mir meine Kollegin diese Arbeit abgenommen hat.
-Ich danke Ihnen ganz herzlich für Ihre Hilfe.
-Wir bedanken uns herzlich bei Ihnen für die Einladung.
-Dieser Fußballstar bedankt sich bei seinen Fans
-für Ihre langjährigen Unterstützungen.
-Der Pfarrer spricht den Segen für das Brautpaar.
-Der Papst segnete die Gläubigen.
-Ich war von dem Drama tief ergriffen.
-Der König verlieh ihm das Zeichen der Erkenntlichkeit,
-das Eisene Kreuz zweiter Klasse.
-Er hat die auf ihn gesetzten Erwartungen seiner Eltern
-nicht enttäuscht.
-Erwartungsvoll und voller Vertrauen
-wartet das schwer brandverletzte Kind auf den Arzt.
-Ich hoffe, dass alles klappt.
-Theresa Mays letzte Hoffnung verpufft.
-Der letzte Hoffnungsschimmer ist erloschen.
-Einen kleinen Hoffnungsschimmer gibt es noch.
-Begleitet von seiner Mutter begab er sich hoffnungsvoll
-in ärztliche Behandlung.
-Der Lehrer erwartet sich von seinen Schülern fleiß.
-Ich wünsche Ihnen alles Gute.
-Was wünschst du dir zum Geburtstag als Geschenk?
+[00:00:01.940 --> 00:00:07.570] Fröhlichkeit, Freude, Spaß
+[00:00:08.940 --> 00:00:16.140] freudig, froh, glückselig
+[00:00:17.450 --> 00:00:22.790] gut gelaunt sein, hoch erfreut
+[00:00:24.130 --> 00:00:32.370] sich über, freuen, faszinieren
+[00:00:32.890 --> 00:00:37.610] gefallen, interessant
+[00:00:38.650 --> 00:00:43.500] Leidenschaft, leidenschaftlich
+[00:00:45.720 --> 00:00:49.760] neugier, neugierig
+[00:00:51.010 --> 00:00:55.230] sich für, interessieren
+[00:00:56.640 --> 00:00:59.260] Flachwitz
+[00:00:59.880 --> 00:01:04.330] gelächter, grinsen
+[00:01:05.680 --> 00:01:09.820] grübchen, lächeln
+[00:01:11.200 --> 00:01:18.330] Scherz, Witz, schmunzeln
+[00:01:19.640 --> 00:01:25.570] sich kaputtlachen, berühren, bewegen
+[00:01:26.820 --> 00:01:32.190] dankbar, danken, sich bedanken
+[00:01:33.920 --> 00:01:41.040] den Segen über, sprechen, segnen
+[00:01:41.040 --> 00:01:46.820] ergriffen, Erkenntlichkeit
+[00:01:48.520 --> 00:01:52.500] erwartungsvoll, hoffen
+[00:01:53.810 --> 00:01:58.520] Hoffnung, Hoffnungsschimmer
+[00:01:59.800 --> 00:02:06.950] hoffnungsvoll, sich auf, freuen
+[00:02:08.200 --> 00:02:11.200] sich von, erwarten
+[00:02:13.680 --> 00:02:21.930] wünschen, sprechen Sie bitte die folgenden Sätze
+[00:02:24.170 --> 00:02:28.270] Auf der Party tanzen alle fröhlich zur Musik.
+[00:02:31.250 --> 00:02:34.150] Freude spiegelt sich immer auf dem Gesicht ab.
+[00:02:37.080 --> 00:02:42.260] Es ist mir eine große Freude an der heutigen Veranstaltung teilzunehmen.
+[00:02:44.990 --> 00:02:46.850] Die Arbeit macht mir Spaß.
+[00:02:49.800 --> 00:02:52.700] Dies ist für uns alle eine freudige Botschaft.
+[00:02:54.910 --> 00:02:59.350] Ich wünsche Ihnen ein frohes, gesegnetes Weihnachtsfest.
+[00:03:02.410 --> 00:03:04.810] Ich freue mich, Sie kennenzulernen.
+[00:03:07.840 --> 00:03:11.320] Martin war nach seiner Goldmedaille glückselig.
+[00:03:14.300 --> 00:03:17.160] Lena ist ein immer gut gelauntes Mädchen.
+[00:03:20.300 --> 00:03:24.660] Nachdem die Herzogin Kate das dritte Baby zur Welt gebracht hatte,
+[00:03:25.200 --> 00:03:27.580] zeigte sich Prinz William hoch erfreut.
+[00:03:30.650 --> 00:03:33.130] Sie hat großes Interesse an dieser Stelle.
+[00:03:35.400 --> 00:03:40.300] Roter Mond ist ein extrem seltenes Himmelsschauspiel
+[00:03:40.300 --> 00:03:43.020] und fasziniert unzählige Menschen.
+[00:03:46.100 --> 00:03:47.600] Wie gefällt es dir hier?
+[00:03:50.620 --> 00:03:54.740] Unser Fitnesscenter bietet Ihnen viele interessante Kurse an.
+[00:03:57.680 --> 00:04:01.620] Er kämpft mit Leidenschaft für die Gerechtigkeit und Freiheit.
+[00:04:04.720 --> 00:04:07.780] Er sammelt leidenschaftlich gerne Postkarten.
+[00:04:10.050 --> 00:04:12.970] Ich hoffe, vernünftig zu bleiben
+[00:04:12.970 --> 00:04:16.250] und lasse mich nicht von meinen Leidenschaften leiten.
+[00:04:19.310 --> 00:04:22.650] Mit Neugier suchte er dieses fremde Land auf.
+[00:04:25.790 --> 00:04:27.510] Sei nicht so neugierig.
+[00:04:30.340 --> 00:04:33.060] Ich bin neugierig, wie das ausgehen wird.
+[00:04:36.140 --> 00:04:39.440] Ich interessiere mich sehr stark für moderne Malerei.
+[00:04:42.730 --> 00:04:45.710] Flachwitze haben auch oft meist sinnlose
+[00:04:45.710 --> 00:04:48.650] und langweilige Wortspiele in sich versteckt.
+[00:04:50.890 --> 00:04:55.690] Die Zuschauer im Kino brachen in schallendes Gelächter aus.
+[00:04:58.780 --> 00:05:01.600] Sie hat nette Grübchen auf der Wange.
+[00:05:04.290 --> 00:05:06.750] Damit treibt man keinen Scherz.
+[00:05:09.500 --> 00:05:11.600] Der Lehrer hat einen Witz erzählt.
+[00:05:14.730 --> 00:05:17.010] Sie warf mit strahlendem Lächeln
+[00:05:17.010 --> 00:05:19.610] immer wieder Kusshändchen ins Publikum.
+[00:05:22.530 --> 00:05:26.550] Die Zuhörer schmunzeln über die Aussagen des Präsidenten.
+[00:05:29.400 --> 00:05:32.620] Ich lache mich wirklich über diesen Text kaputt.
+[00:05:34.860 --> 00:05:38.040] Die Heldentaten der Geschwister Scholl
+[00:05:38.040 --> 00:05:40.300] haben die Deutschen tief berührt.
+[00:05:43.330 --> 00:05:46.650] Der Film bewegte viele Zuschauer zu Tränen.
+[00:05:49.610 --> 00:05:52.630] Ich bin sehr dankbar, dass mir meine Kollegin
+[00:05:52.630 --> 00:05:54.410] diese Arbeit abgenommen hat.
+[00:05:57.490 --> 00:06:00.430] Ich danke Ihnen ganz herzlich für Ihre Hilfe.
+[00:06:03.630 --> 00:06:06.930] Wir bedanken uns herzlich bei Ihnen für die Einladung.
+[00:06:09.980 --> 00:06:13.520] Dieser Fußballstar bedankt sich bei seinen Fans
+[00:06:13.520 --> 00:06:15.760] für Ihre langjährigen Unterstützungen.
+[00:06:18.740 --> 00:06:22.000] Der Pfarrer spricht den Segen für das Brautpaar.
+[00:06:24.950 --> 00:06:27.310] Der Papst segnete die Gläubigen.
+[00:06:30.280 --> 00:06:32.720] Ich war von dem Drama tief ergriffen.
+[00:06:35.980 --> 00:06:38.840] Der König verlieh ihm das Zeichen der Erkenntlichkeit,
+[00:06:39.660 --> 00:06:41.960] das Eisene Kreuz zweiter Klasse.
+[00:06:45.020 --> 00:06:47.400] Er hat die auf ihn gesetzten Erwartungen
+[00:06:47.700 --> 00:06:49.760] seiner Eltern nicht enttäuscht.
+[00:06:52.940 --> 00:06:55.220] Erwartungsvoll und voller Vertrauen
+[00:06:55.220 --> 00:06:59.220] wartet das schwer brandverletzte Kind auf den Arzt.
+[00:07:01.800 --> 00:07:03.660] Ich hoffe, dass alles klappt.
+[00:07:06.770 --> 00:07:09.650] Theresa Mays letzte Hoffnung verpufft.
+[00:07:12.560 --> 00:07:15.280] Der letzte Hoffnungsschimmer ist erloschen.
+[00:07:18.350 --> 00:07:21.270] Einen kleinen Hoffnungsschimmer gibt es noch.
+[00:07:24.190 --> 00:07:26.790] Begleitet von seiner Mutter begab er sich
+[00:07:26.790 --> 00:07:29.230] hoffnungsvoll in ärztliche Behandlung.
+[00:07:32.220 --> 00:07:35.340] Der Lehrer erwartet sich von seinen Schülern fleiß.
+[00:07:37.620 --> 00:07:40.480] Ich wünsche ihnen alles Gute.
+[00:07:43.370 --> 00:07:46.290] Was wünschst du dir zum Geburtstag als Geschenk?

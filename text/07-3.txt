@@ -1,152 +1,100 @@
-Angst
-Angst erfüllt
-ängstigen
-erschrecken
-erschreckend
-erschrecklich
-furcht
-schreckensvoll
-schreck erfüllt
-Schreckschuss
-Angstschweiß
-Fliehen
-Gänsehaut
-Schreckensblass
-Start
-Zittern
-Zurückschrecken
-Beherzt
-Courage
-Couragiert
-Mutig
-Furchtlos
-Heldenhaft
-Kühn
-Tapfer
-Waagehalsig
-Angsthase
-Ängstlich
-Schüchtern
-Waschlappen
-Wie auf glühenden Kohlen sitzen
-auf glühenden Kohlen sitzen
-Angstgefühl
-besorgt
-Besorgnis
-fürchten
-sich um
-sorgen
-sich Sorge um
-machen
-Unruhig
-Sprechen Sie bitte die folgenden Sätze.
-Sie hatte noch nie
-ihren Vater so böse gesehen.
-Es machte ihr schreckliche Angst.
-Der Mann war vor Schreck
-wie gelähmt.
-Millionen Kinder in Syrien
-waren erschöpft und Angst erfüllt.
-Ich ängstige mich
-in der Nacht allein durch den Wald
-zu gehen. Sie erschrak
-vor ihrem Vater.
-Der Luftangriff erschreckte
-sie alle sehr.
-In Afrika greift die Epidemie
-weiter erschreckend rasch um sich.
-Mit sieben erlebt
-Hans den erschrecklichen
-Krieg. Das kleine
-Kind habe große Furcht vor
-Hunden. Während
-der schreckensvollen Tage
-im Konzentrationslager
-hekte dieser Jude immer die Hoffnung.
-Alle Tiere des
-Waldes flüchteten schreckerfüllt,
-sobald sie des Tigers
-ansichtig wurden.
-Die Nachricht war ein Schreckschuss
-für mich. Der Angstschweiß
-bricht ihm am ganzen
-Körper aus.
-Mir brach der Angstschweiß plötzlich
-aus. Der Blutdruck
-schnellte spürbar hoch.
-Viele Flüchtlinge sind ins Ausland
-geflohen.
-Ihr lief eine Gänsehaut über den
-Rücken. Die gruselige
-Szene im Film lässt mich am
-ganzen Körper Gänsehaut entstehen.
-Als die Frau die Leiche am
-Tatort sah, war sie
-schreckensblass.
-Schreckensbleich richtete sich die
-Prinzessin im Bett auf.
-Das Foto zeigt sie im Bett
-mit aufgerissenem Mund und
-schreckerstartend Zügen.
-Vor Schreck zitterten ihm die
-Beine. Er schreckte
-zurück, als er die Spinne sah.
-Habe den Mut, dich
-deines Verstandes zu bedienen,
-sagt Kant.
-Als der Hubschrauber absturz,
-rettete er sich mit einem
-beherzten Sprung und blieb fast
-unverletzt.
-In dem Drama Mutter Courage
-und ihre Kinder, von Brecht,
-geht es um eine Chronik aus dem
-30-jährigen Krieg.
-Sein korrigiertes Handeln
-hat Vorbildfunktion, denn
-er verhindert Verbrechen und
-schützt Opfer.
-Der neue Trainer mit seiner Art
-und mit seiner Idee vom mutigen,
-schützenden Fußball passt
-hervorragend zum VfB Stuttgart.
-Furchtlos trieb sie
-sich in abgelegenen Gegenden
-herum. Damit wollte
-er sich vor Kollegen als
-heldenhaften Retter beweisen.
-Die Farbgebung des Bildes
-ist ziemlich kühn.
-Dieser Soldat ist ein tapferer
-Held. Sie fährt
-sehr vagehalsig.
-Wir verachten ihn wegen
-seiner Feigheit.
-Bist du jetzt nicht in die Höhle, bist du
-ein Angsthase.
-Kleiner Feigling ist eine besonders
-populäre Spirituose in
-Deutschland. Alle lachten
-und meinten, dass er Feigling
-ohne Mut war.
-Keine Sorge, deinem Mann geht es
-gut. Ich sitze wie auf
-glühenden Kohlen.
-Er schildert seine traumatischen
-Erlebnisse an der Front
-und berichtet von seinen Angstgefühlen.
-Deutschland und
-andere europäische Staaten
-sind höchst besorgt über die Lage
-in Syrien.
-Ich fürchte, dass er die Prüfung nicht
-bestehen kann.
-Mache dir keine Sorgen um das Essen.
-In Deutschland gibt es viele
-chinesische Restaurants und
-Asialäden.
-Ich sorge mich darum, ob mein
-Freund rechtzeitig mein Paket schickt.
-Sie wartete
-unruhig auf die Rückkehr
-ihres Mannes.
+[00:00:01.740 --> 00:00:03.040] Angst
+[00:00:04.540 --> 00:00:06.240] Angst erfüllt
+[00:00:09.050 --> 00:00:10.450] ängstigen
+[00:00:10.450 --> 00:00:12.070] erschrecken
+[00:00:13.900 --> 00:00:15.960] erschreckend
+[00:00:15.960 --> 00:00:17.800] erschrecklich
+[00:00:19.180 --> 00:00:20.900] furcht
+[00:00:22.370 --> 00:00:23.790] schreckensvoll
+[00:00:25.260 --> 00:00:27.000] schreck erfüllt
+[00:00:29.080 --> 00:00:29.780] Schreckschuss
+[00:00:32.480 --> 00:00:33.180] Angstschweiß
+[00:00:34.620 --> 00:00:36.080] Fliehen
+[00:00:37.460 --> 00:00:38.940] Gänsehaut
+[00:00:40.410 --> 00:00:42.330] Schreckensblass
+[00:00:43.740 --> 00:00:45.760] Schreckensbleich
+[00:00:47.140 --> 00:00:49.220] Schreckerstarrt
+[00:00:50.590 --> 00:00:51.750] Zittern
+[00:00:53.800 --> 00:00:54.900] Zurückschrecken
+[00:00:57.210 --> 00:00:57.910] Beherzt
+[00:01:00.090 --> 00:01:00.790] Courage
+[00:01:05.220 --> 00:01:06.620] Mutig
+[00:01:08.590 --> 00:01:09.650] Furchtlos
+[00:01:11.900 --> 00:01:12.680] Heldenhaft
+[00:01:14.760 --> 00:01:15.460] Kühn
+[00:01:16.770 --> 00:01:18.230] Tapfer
+[00:01:19.480 --> 00:01:21.420] Waagehalsig
+[00:01:22.670 --> 00:01:24.310] Angsthase
+[00:01:25.620 --> 00:01:27.300] Ängstlich
+[00:01:28.580 --> 00:01:30.140] Duckmäuser
+[00:01:31.520 --> 00:01:32.980] Feig
+[00:01:34.890 --> 00:01:35.590] Feigling
+[00:01:37.000 --> 00:01:38.400] Scheu
+[00:01:39.780 --> 00:01:41.320] Schüchtern
+[00:01:42.560 --> 00:01:45.220] Waschlappen
+[00:01:45.220 --> 00:01:49.320] Wie auf glühenden Kohlen sitzen
+[00:01:49.320 --> 00:01:52.440] Auf glühenden Kohlen sitzen
+[00:01:55.240 --> 00:01:56.640] Angstgefühl
+[00:01:56.640 --> 00:01:58.540] Besorgt
+[00:02:00.120 --> 00:02:00.820] Besorgnis
+[00:02:02.930 --> 00:02:04.330] Fürchten
+[00:02:05.800 --> 00:02:07.460] Sich um
+[00:02:09.640 --> 00:02:10.360] Sorgen
+[00:02:11.640 --> 00:02:13.580] Sich Sorge um
+[00:02:16.520 --> 00:02:17.240] Machen
+[00:02:18.140 --> 00:02:18.860] Unruhig
+[00:02:23.380 --> 00:02:26.100] Sprechen Sie bitte die folgenden Sätze
+[00:02:28.400 --> 00:02:32.040] Sie hatte noch nie Ihren Vater so böse gesehen.
+[00:02:32.440 --> 00:02:34.400] Es machte ihr schreckliche Angst.
+[00:02:37.460 --> 00:02:40.320] Der Mann war vor Schreck wie gelähmt.
+[00:02:43.020 --> 00:02:47.000] Millionen Kinder in Syrien waren erschöpft und Angst erfüllt.
+[00:02:49.980 --> 00:02:53.580] Ich ängstige mich, in der Nacht allein durch den Wald zu gehen.
+[00:02:53.580 --> 00:02:58.620] Sie erschrak vor Ihrem Vater.
+[00:03:01.740 --> 00:03:04.480] Der Luftangriff erschreckte sie alle sehr.
+[00:03:07.510 --> 00:03:11.870] In Afrika greift die Epidemie weiter erschreckend rasch um sich.
+[00:03:14.860 --> 00:03:18.560] Mit sieben erlebt Hans den erschrecklichen Krieg.
+[00:03:21.430 --> 00:03:24.730] Das kleine Kind habe große Furcht vor Hunden.
+[00:03:28.300 --> 00:03:31.440] Während der schreckensvollen Tage im Konzentrationslager
+[00:03:32.400 --> 00:03:34.880] hekte dieser Jude immer die Hoffnung.
+[00:03:37.180 --> 00:03:41.380] Alle Tiere des Waldes flüchteten schreckerfüllt,
+[00:03:41.860 --> 00:03:44.360] sobald sie des Tigers ansichtig wurden.
+[00:03:47.420 --> 00:03:49.840] Die Nachricht war ein Schreckschuss für mich.
+[00:03:52.780 --> 00:03:56.340] Der Angstschweiß bricht ihm am ganzen Körper aus.
+[00:03:59.390 --> 00:04:02.050] Mir brach der Angstschweiß plötzlich aus.
+[00:04:02.390 --> 00:04:04.730] Der Blutdruck schnellte spürbar hoch.
+[00:04:08.010 --> 00:04:11.610] Viele Flüchtlinge sind ins Ausland geflohen.
+[00:04:13.880 --> 00:04:16.740] Ihr lief eine Gänsehaut über den Rücken.
+[00:04:19.730 --> 00:04:25.270] Die gruselige Szene im Film lässt mich am ganzen Körper Gänsehaut entstehen.
+[00:04:27.870 --> 00:04:32.310] Als die Frau die Leiche am Tatort sah, war sie schreckensblass.
+[00:04:35.690 --> 00:04:38.810] Schreckensbleich richtete sich die Prinzessin im Bett auf.
+[00:04:41.850 --> 00:04:47.250] Das Foto zeigte sie im Bett mit aufgerissenem Mund und schreckerstarrten Zügen.
+[00:04:50.350 --> 00:04:53.150] Vor Schreck zitterten ihm die Beine.
+[00:04:55.420 --> 00:04:58.080] Er schreckte zurück, als er die Spinne sah.
+[00:05:01.210 --> 00:05:05.590] Habe den Mut, dich deines Verstandes zu bedienen, sagt Kant.
+[00:05:08.720 --> 00:05:15.500] Beim Hubschrauberabsturz rettete er sich mit einem beherzten Sprung und blieb fast unverletzt.
+[00:05:18.610 --> 00:05:22.890] In dem Drama Mutter Courage und ihre Kinder vonbrecht,
+[00:05:23.130 --> 00:05:26.870] geht es um eine Chronik aus dem Dreißigjährigen Krieg.
+[00:05:29.650 --> 00:05:32.670] Sein korrigiertes Handeln hat Vorbildfunktion,
+[00:05:32.670 --> 00:05:36.170] denn er verhindert Verbrechen und schützt Opfer.
+[00:05:39.120 --> 00:05:44.580] Der neue Trainer mit seiner Art und mit seiner Idee vom mutigen offensiven Fußball
+[00:05:44.580 --> 00:05:47.900] passt hervorragend zum VfB Stuttgart.
+[00:05:51.110 --> 00:05:54.730] Furchtlos trieb sie sich in abgelegenen Gegenden herum.
+[00:05:57.880 --> 00:06:01.880] Damit wollte er sich vor Kollegen als heldenhaften Retter beweisen.
+[00:06:05.000 --> 00:06:08.580] Die Farbgebung des Bildes ist ziemlich kühn.
+[00:06:10.790 --> 00:06:14.130] Dieser Soldat ist ein tapferer Held.
+[00:06:16.590 --> 00:06:18.730] Sie fährt sehr vagehalsig.
+[00:06:21.800 --> 00:06:24.580] Wir verachten ihn wegen seiner Feigheit.
+[00:06:27.580 --> 00:06:30.700] Kommst du jetzt nicht in die Höhle, bist du ein Angsthase.
+[00:06:33.940 --> 00:06:38.600] Kleiner Feigling ist eine besonders populäre Spirituose in Deutschland.
+[00:06:41.690 --> 00:06:45.350] Alle lachten und meinten, dass er Feigling ohne Mut war.
+[00:06:48.400 --> 00:06:51.120] Keine Sorge, deinem Mann geht es gut.
+[00:06:51.120 --> 00:06:56.670] Ich sitze wie auf glühenden Kohlen.
+[00:06:59.840 --> 00:07:03.080] Er schildert seine traumatischen Erlebnisse an der Front
+[00:07:03.080 --> 00:07:05.980] und berichtet von seinen Angstgefühlen.
+[00:07:08.980 --> 00:07:11.460] Deutschland und andere europäische Staaten
+[00:07:11.800 --> 00:07:14.920] sind höchst besorgt über die Lage in Syrien.
+[00:07:17.970 --> 00:07:21.250] Ich fürchte, dass er die Prüfung nicht bestehen kann.
+[00:07:24.300 --> 00:07:26.460] Mache dir keine Sorgen um das Essen.
+[00:07:26.920 --> 00:07:31.500] In Deutschland gibt es viele chinesische Restaurants und Asialäden.
+[00:07:33.740 --> 00:07:39.000] Ich sorge mich darum, ob mein Freund rechtzeitig mein Paket schickt.
+[00:07:42.120 --> 00:07:45.340] Sie wartete unruhig auf die Rückkehr ihres Mannes.

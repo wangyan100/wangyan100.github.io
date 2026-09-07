@@ -4,59 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Schuhwerk",
-        "Absatz",
-        "Einlage",
-        "Kappe",
-        "Schuband",
-        "Schuhlöffel",
-        "Schuhspanner",
-        "Schuhwichse",
-        "Sohle",
-        "Clock",
-        "Halbschuh",
-        "Hüttenchuh",
-        "Schleppchen",
-        "Schnürschuh",
-        "Latsch",
-        "Schlappen",
-        "Pantoffel",
-        "Pantolette",
-        "Sandalette",
-        "Slipper",
-        "Zehensandale",
-        "Blockabsatz",
-        "Keilabsatz",
-        "Pumps",
-        "Slingpumps",
-        "Stöckelabsatz",
-        "Stoffpumps",
-        "Arbeitsschuh",
-        "Gummistiefel",
-        "Innenreißverschluss",
-        "Plüschfutter",
-        "Regenstiefel",
-        "Stiefelette",
-        "Westenstiefel"
+        {
+          "text": "Schuhwerk",
+          "start": 2.16,
+          "end": 3.9
+        },
+        {
+          "text": "Absatz",
+          "start": 5.21,
+          "end": 7.81
+        },
+        {
+          "text": "Einlage",
+          "start": 7.81,
+          "end": 9.87
+        },
+        {
+          "text": "Kappe",
+          "start": 11.15,
+          "end": 12.17
+        },
+        {
+          "text": "Schuband",
+          "start": 14.19,
+          "end": 15.33
+        },
+        {
+          "text": "Schuhlöffel",
+          "start": 17.63,
+          "end": 18.75
+        },
+        {
+          "text": "Schuhspanner",
+          "start": 20.68,
+          "end": 21.38
+        },
+        {
+          "text": "Schuhwichse",
+          "start": 24.28,
+          "end": 24.98
+        },
+        {
+          "text": "Sohle",
+          "start": 26.23,
+          "end": 27.63
+        },
+        {
+          "text": "Clock",
+          "start": 29.0,
+          "end": 29.92
+        },
+        {
+          "text": "Halbschuh",
+          "start": 31.27,
+          "end": 33.35
+        },
+        {
+          "text": "Hüttenchuh",
+          "start": 34.72,
+          "end": 36.36
+        },
+        {
+          "text": "Schleppchen",
+          "start": 37.8,
+          "end": 39.38
+        },
+        {
+          "text": "Schnürschuh",
+          "start": 40.79,
+          "end": 42.47
+        },
+        {
+          "text": "Sneaker",
+          "start": 43.91,
+          "end": 45.57
+        },
+        {
+          "text": "Wanderschuh",
+          "start": 46.88,
+          "end": 48.58
+        },
+        {
+          "text": "Hausschuh",
+          "start": 50.5,
+          "end": 52.64
+        },
+        {
+          "text": "Latsch",
+          "start": 52.64,
+          "end": 54.04
+        },
+        {
+          "text": "Schlappen",
+          "start": 55.48,
+          "end": 56.88
+        },
+        {
+          "text": "Pantoffel",
+          "start": 59.1,
+          "end": 59.8
+        },
+        {
+          "text": "Pantolette",
+          "start": 61.18,
+          "end": 62.5
+        },
+        {
+          "text": "Sandalette",
+          "start": 63.81,
+          "end": 65.85
+        },
+        {
+          "text": "Slipper",
+          "start": 67.23,
+          "end": 68.69
+        },
+        {
+          "text": "Zehnsandale",
+          "start": 70.06,
+          "end": 72.08
+        },
+        {
+          "text": "Blockabsatz",
+          "start": 73.43,
+          "end": 75.21
+        },
+        {
+          "text": "Keilabsatz",
+          "start": 76.55,
+          "end": 78.59
+        },
+        {
+          "text": "Pumps",
+          "start": 79.87,
+          "end": 80.81
+        },
+        {
+          "text": "Slingpumps",
+          "start": 82.22,
+          "end": 84.3
+        },
+        {
+          "text": "Stöckelabsatz",
+          "start": 85.77,
+          "end": 87.75
+        },
+        {
+          "text": "Stoffpumps",
+          "start": 90.89,
+          "end": 91.59
+        },
+        {
+          "text": "Arbeitsschuh",
+          "start": 92.77,
+          "end": 93.47
+        },
+        {
+          "text": "Fellstiefel",
+          "start": 96.1,
+          "end": 96.8
+        },
+        {
+          "text": "Gummistiefel",
+          "start": 99.36,
+          "end": 100.06
+        },
+        {
+          "text": "Innenreißverschluss",
+          "start": 102.72,
+          "end": 103.42
+        },
+        {
+          "text": "Plüschfutter",
+          "start": 105.43,
+          "end": 106.59
+        },
+        {
+          "text": "Regenstiefel",
+          "start": 109.39,
+          "end": 110.09
+        },
+        {
+          "text": "Stiefelette",
+          "start": 112.2,
+          "end": 113.72
+        },
+        {
+          "text": "Westenstiefel",
+          "start": 114.97,
+          "end": 116.59
+        },
+        {
+          "text": "Sprechen Sie bitte die",
+          "start": 121.86,
+          "end": 123.2
+        },
+        {
+          "text": "folgenden Sätze",
+          "start": 123.2,
+          "end": 124.68
+        },
+        {
+          "text": "Meine Mutter trägt gerne",
+          "start": 127.02,
+          "end": 129.32
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Meine Mutter trägt gerne hohe Absätze.",
-        "Die Einlage schmiegt sich weich in den Schuh.",
-        "Wann die ersten Schubänder aufkamen, ist nicht genau bekannt.",
-        "Schuhwichse erhält Leder geschmeidig und wasserdicht.",
-        "Clocks stammen ursprünglich aus England und haben über Schweden allgemeine Verbreitung gefunden.",
-        "Schleppchen umschließen den Fuß wie eine zweite Haut.",
-        "Adidas hat eine limitierte Serie Sneakers entworfen.",
-        "Seine Füße stecken in Pantoffeln.",
-        "Ich trage im Sommer Sandalen und keine Socken, weil es angenehm und gesund ist.",
-        "Ich kann leider in Pumps nicht richtig gehen.",
-        "Pumps aus Velourleder mit Schleife werden hier zurzeit gerne gekauft.",
-        "Die Wunschzettel wurden bereits am Nikolaustag geschrieben und in die Stiefel gesteckt.",
-        "Von Hochgebirgen sind in Mittel- und Nordeuropa Gummistiefel aus Naturkautschuk häufiges Schuhwerk für Jäger."
+        {
+          "text": "hohe Absätze.",
+          "start": 129.32,
+          "end": 130.54
+        },
+        {
+          "text": "Die Einlage schmiegt sich weich in den Schuh.",
+          "start": 132.75,
+          "end": 136.89
+        },
+        {
+          "text": "Wann die ersten Schuhbänder aufkamen, ist nicht genau bekannt.",
+          "start": 139.84,
+          "end": 143.94
+        },
+        {
+          "text": "Schuhwichse erhält Leder geschmeidig und wasserdicht.",
+          "start": 147.18,
+          "end": 151.04
+        },
+        {
+          "text": "Clocks stammen ursprünglich aus England und haben über Schweden allgemeine Verbreitung gefunden.",
+          "start": 154.05,
+          "end": 161.03
+        },
+        {
+          "text": "Schleppchen umschließen den Fuß wie eine zweite Haut.",
+          "start": 164.33,
+          "end": 168.03
+        },
+        {
+          "text": "Adidas hat eine limitierte Serie Sneakers entworfen.",
+          "start": 171.27,
+          "end": 175.93
+        },
+        {
+          "text": "Seine Füße stecken in Pantoffeln.",
+          "start": 178.61,
+          "end": 181.03
+        },
+        {
+          "text": "Ich trage im Sommer Sandalen und keine Socken, weil es angenehm und gesund ist.",
+          "start": 184.17,
+          "end": 189.79
+        },
+        {
+          "text": "Ich kann leider in Pumps nicht richtig gehen.",
+          "start": 192.82,
+          "end": 195.52
+        },
+        {
+          "text": "Pumps aus Velourleder mit Schleife werden hier zur Zeit gerne gekauft.",
+          "start": 198.72,
+          "end": 203.58
+        },
+        {
+          "text": "Die Wunschzettel wurden bereits am Nikolaustag geschrieben und in die Stiefel gesteckt.",
+          "start": 206.68,
+          "end": 212.72
+        },
+        {
+          "text": "Von Hochgebirgen sind in Mittel- und Nordeuropa Gummistiefel aus Naturkautschuk häufiges Schuhwerk für Jäger.",
+          "start": 215.6,
+          "end": 223.0
+        }
       ]
     }
   ]

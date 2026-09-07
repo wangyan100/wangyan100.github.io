@@ -1,14 +1,14 @@
-Obst, Apfel, Bergfirsich, Plattfirsich, Drachenfrucht, Erdbeere, Granatapfel, Himbeere, Nektarine, Firsich, Ananas
-Aprikose, Banane, Stinkfrucht, Mango, Pomelo, Zitrone, Birne, Kaki, Mandarine, Orange, Apfelsine, Pampelmuse, Papaya, Wollmispel, Avocado, Cantaloupe, Melone, Guave
-Limette, Wassermelone, Zimtapfel, Feige, Heidelbeere, Blaubeere, Schwarzbeere, Kirsche, Pflaume, Traube, Kiwi, Kokosnuss
-Longanfrucht, Passionsfrucht
-Sprechen Sie bitte die folgenden Sätze
-Der Apfel fällt nicht weit vom Stamm. Mit 200 Gramm Erdbeeren ist der Tagesbedarf eines Erwachsenen an Vitamin C abgedeckt.
-Die ursprüngliche Heimat des Pfirsichs ist China. Die Ananas ist das ganze Jahr über erhältlich, aber von Mai bis August ist das Angebot geringer.
-Angeblich brachte Alexander der Große die Aprikose in den Mittelmeerraum.
-Der Durchschnittsbürger verzehrt in Deutschland pro Jahr ca. 12 kg Bananen.
-Die Stinkfrucht ist sowohl in China als auch in Deutschland ziemlich teuer. Die Schale der Zitrone ist gelb, kann grünlich oder orangen-gelb sein.
-Die Orange ist eine der beliebtesten Obstsorten der Deutschen. Avocados sind Hauptbestandteil des mexikanischen Guacamole-Dips.
-Wassermelonen eignen sich als Durstlöscher. Heute kann die Kirsche in allen gemäßigten Klimazonen der Welt angebaut werden.
-Trauben haben relativ viel Fruchtzucker und Fruchtsäuren. Die Kiwi hat viele Inhaltsstoffe, die dem menschlichen Körper helfen können.
-Die Passionsfrüchte sind im reifen Zustand gelb und glatt schalig.
+[00:00:01.620 --> 00:00:35.790] Obst, Apfel, Bergfirsich, Plattfirsich, Drachenfrucht, Erdbeere, Granatapfel, Himbeere, Nektarine, Firsich, Ananas
+[00:00:35.790 --> 00:01:24.520] Aprikose, Banane, Stinkfrucht, Mango, Pomelo, Zitrone, Birne, Kaki, Mandarine, Orange, Apfelsine, Pampelmuse, Papaya, Wollmispel, Avocado, Cantaloupe, Melone
+[00:01:25.860 --> 00:02:06.020] Guave, Limette, Wassermelone, Zimtapfel, Feige, Heidelbeere, Blaubeere, Schwarzbeere, Kirsche, Pflaume, Traube, Kiwi, Kokosnuss
+[00:02:10.660 --> 00:02:12.740] Longanfrucht, Passionsfrucht
+[00:02:17.280 --> 00:02:20.460] Sprechen Sie bitte die folgenden Sätze
+[00:02:22.760 --> 00:02:38.320] Der Apfel fällt nicht weit vom Stamm. Mit 200 Gramm Erdbeeren ist der Tagesbedarf eines Erwachsenen an Vitamin C abgedeckt.
+[00:02:40.650 --> 00:02:57.050] Die ursprüngliche Heimat des Pfirsichs ist China. Die Ananas ist das ganze Jahr über erhältlich, aber von Mai bis August ist das Angebot geringer.
+[00:03:00.020 --> 00:03:06.040] Angeblich brachte Alexander der Große die Aprikose in den Mittelmeerraum.
+[00:03:09.140 --> 00:03:16.620] Der Durchschnittsbürger verzehrt in Deutschland pro Jahr ca. 12 kg Bananen.
+[00:03:18.960 --> 00:03:26.380] Die Stinkfrucht ist sowohl in China als auch in Deutschland ziemlich teuer.
+[00:03:29.180 --> 00:03:42.800] Die Schale der Zitrone ist gelb, kann grünlich oder orangen-gelb sein. Die Orange ist eine der beliebtesten Obstsorten der Deutschen.
+[00:03:45.110 --> 00:03:59.050] Avocados sind Hauptbestandteil des mexikanischen Guacamole-Dips. Wassermelonen eignen sich als Durstlöscher.
+[00:04:01.770 --> 00:04:15.640] Heute kann die Kirsche in allen gemäßigten Klimazonen der Welt angebaut werden. Trauben haben relativ viel Fruchtzucker und Fruchtsäuren.
+[00:04:17.880 --> 00:04:32.580] Die Kiwi hat viele Inhaltsstoffe, die dem menschlichen Körper helfen können. Die Passionsfrüchte sind im reifen Zustand gelb und glatt schalig.

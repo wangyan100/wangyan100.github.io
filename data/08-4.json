@@ -4,67 +4,287 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Flughafen",
-        "ausreisen",
-        "Bordeingang",
-        "Bordkarte",
-        "einchecken",
-        "einreisen",
-        "Fluggastraum",
-        "Förderband",
-        "Zollkontrolle",
-        "Bodendienst",
-        "Bustransfer",
-        "Fluggastbrücke",
-        "landen",
-        "Navigation",
-        "Piste",
-        "Radar",
-        "Starten",
-        "Abheben",
-        "Defekt",
-        "Direktflug",
-        "Fliegen",
-        "Flugstrecke",
-        "Jungfernflug",
-        "Notlanden",
-        "Route",
-        "Flugkapitän",
-        "Co-Pilot",
-        "Passagier",
-        "Pilot",
-        "Steward",
-        "Stewardess",
-        "Abholen",
-        "Handgepäck",
-        "Koffer",
-        "Übergepäck",
-        "Anschnallen",
-        "Kabine",
-        "Pass",
-        "Visum",
-        "Visa",
-        "Zollerklärung",
-        "Zollfreie Waren"
+        {
+          "text": "Flughafen",
+          "start": 1.9,
+          "end": 3.98
+        },
+        {
+          "text": "ausreisen",
+          "start": 5.46,
+          "end": 6.86
+        },
+        {
+          "text": "Bordeingang",
+          "start": 8.5,
+          "end": 9.88
+        },
+        {
+          "text": "Bordkarte",
+          "start": 11.62,
+          "end": 13.0
+        },
+        {
+          "text": "einchecken",
+          "start": 14.74,
+          "end": 16.96
+        },
+        {
+          "text": "einreisen",
+          "start": 16.96,
+          "end": 18.88
+        },
+        {
+          "text": "Fluggastraum",
+          "start": 20.84,
+          "end": 22.14
+        },
+        {
+          "text": "Förderband",
+          "start": 24.21,
+          "end": 25.39
+        },
+        {
+          "text": "Zollkontrolle",
+          "start": 27.2,
+          "end": 28.68
+        },
+        {
+          "text": "Bodendienst",
+          "start": 30.42,
+          "end": 31.68
+        },
+        {
+          "text": "Bustransfer",
+          "start": 33.52,
+          "end": 34.82
+        },
+        {
+          "text": "Fluggastbrücke",
+          "start": 36.82,
+          "end": 38.52
+        },
+        {
+          "text": "landen",
+          "start": 40.4,
+          "end": 42.46
+        },
+        {
+          "text": "Navigation",
+          "start": 42.46,
+          "end": 45.2
+        },
+        {
+          "text": "Piste",
+          "start": 45.2,
+          "end": 47.14
+        },
+        {
+          "text": "Radar",
+          "start": 49.05,
+          "end": 50.15
+        },
+        {
+          "text": "Starten",
+          "start": 51.82,
+          "end": 52.98
+        },
+        {
+          "text": "Abheben",
+          "start": 54.48,
+          "end": 55.66
+        },
+        {
+          "text": "Defekt",
+          "start": 57.38,
+          "end": 58.44
+        },
+        {
+          "text": "Direktflug",
+          "start": 60.26,
+          "end": 61.44
+        },
+        {
+          "text": "Fliegen",
+          "start": 63.41,
+          "end": 64.39
+        },
+        {
+          "text": "Flugstrecke",
+          "start": 66.29,
+          "end": 67.75
+        },
+        {
+          "text": "Jungfernflug",
+          "start": 69.4,
+          "end": 71.04
+        },
+        {
+          "text": "Notlanden",
+          "start": 72.29,
+          "end": 74.41
+        },
+        {
+          "text": "Route",
+          "start": 75.76,
+          "end": 76.38
+        },
+        {
+          "text": "Flugkapitän",
+          "start": 78.74,
+          "end": 80.4
+        },
+        {
+          "text": "Co-Pilot",
+          "start": 82.1,
+          "end": 83.3
+        },
+        {
+          "text": "Passagier",
+          "start": 85.14,
+          "end": 86.3
+        },
+        {
+          "text": "Pilot",
+          "start": 82.3,
+          "end": 83.3
+        },
+        {
+          "text": "Steward",
+          "start": 91.13,
+          "end": 91.79
+        },
+        {
+          "text": "Stewardess",
+          "start": 94.0,
+          "end": 96.14
+        },
+        {
+          "text": "Abholen",
+          "start": 96.14,
+          "end": 98.26
+        },
+        {
+          "text": "Handgepäck",
+          "start": 99.93,
+          "end": 101.21
+        },
+        {
+          "text": "Koffer",
+          "start": 102.74,
+          "end": 103.86
+        },
+        {
+          "text": "Übergepäck",
+          "start": 105.53,
+          "end": 106.95
+        },
+        {
+          "text": "Anschnallen",
+          "start": 108.5,
+          "end": 109.54
+        },
+        {
+          "text": "Kabine",
+          "start": 111.55,
+          "end": 112.59
+        },
+        {
+          "text": "Pass",
+          "start": 114.37,
+          "end": 115.15
+        },
+        {
+          "text": "Visum",
+          "start": 116.69,
+          "end": 118.09
+        },
+        {
+          "text": "Visa",
+          "start": 119.88,
+          "end": 120.5
+        },
+        {
+          "text": "Zollerklärung",
+          "start": 122.59,
+          "end": 124.09
+        },
+        {
+          "text": "Zollfreie Waren",
+          "start": 125.94,
+          "end": 127.5
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Planen Sie entsprechende Zeit ein. 15 Minuten vor Abflug werden die Bordeingänge geschlossen.",
-        "Sie können Ihre Bordkarte am Flughafen an einem Check-in-Automaten ausdrucken.",
-        "Wenn Sie online einchecken, können Sie Ihr Übergepäck im Voraus bezahlen.",
-        "Die Russin war 2016 mit einem Studentenvisum in die USA eingereist.",
-        "Trotz eines schwerwiegenden technischen Defekts an ihrer Maschine ist die Kanzlerin unbeschadet in Köln gelandet.",
-        "Ein Flugzeug musste heute auf dem Flug von Amsterdam nach Zürich wegen eines Triebwerkausfalls in Frankfurt-Notlanden.",
-        "Der Flugkapitän sprach von einem technischen Problem, das den Ausfall einiger elektrischer Systeme bewirkt hat.",
-        "Der Co-Pilot ist auch für den Funkverkehr auf dem Flugzeug zuständig, wenn er das Flugzeug nicht führt.",
-        "An Bord der Maschine befinden sich 200 Passagiere.",
-        "Passagiere dürfen nur ein Handgepäck mitnehmen.",
-        "Nach dem Flugzeugabsturz war der Verbleib der zwei Piloten unklar.",
-        "Während des Fluges kümmerten sich die Stördessen sehr gut um uns.",
-        "Die Zollerklärung ist die wichtigste statistische Informationsquelle über den Warenaustausch."
+        {
+          "text": "Planen Sie entsprechende Zeit ein. 15 Minuten vor Abflug werden die Bordeingänge geschlossen.",
+          "start": 137.66,
+          "end": 144.56
+        },
+        {
+          "text": "Sie können Ihre Bordkarte am Flughafen an einem Check-in-Automaten ausdrucken.",
+          "start": 147.62,
+          "end": 152.6
+        },
+        {
+          "text": "Wenn Sie online einchecken, können Sie Ihr Übergepäck im Voraus bezahlen.",
+          "start": 156.04,
+          "end": 161.1
+        },
+        {
+          "text": "Die Russin war 2016 mit einem Studentenvisum in die USA eingereist.",
+          "start": 164.06,
+          "end": 169.14
+        },
+        {
+          "text": "Trotz eines schwerwiegenden technischen Defekts an ihrer Maschine ist die Kanzlerin unbeschadet in Köln gelandet.",
+          "start": 169.14,
+          "end": 180.81
+        },
+        {
+          "text": "Ein Flugzeug musste heute auf dem Flug von Amsterdam nach Zürich wegen eines Triebwerkausfalls in Frankfurt-Notlanden.",
+          "start": 183.76,
+          "end": 191.94
+        },
+        {
+          "text": "Der Flugkapitän sprach von einem technischen Problem, das den Ausfall einiger elektrischer Systeme bewirkt hat.",
+          "start": 194.8,
+          "end": 202.82
+        },
+        {
+          "text": "Der Co-Pilot ist auch für den Funkverkehr auf dem Flugzeug zuständig, wenn er das Flugzeug nicht führt.",
+          "start": 205.06,
+          "end": 212.76
+        },
+        {
+          "text": "An Bord der Maschine befinden sich 200 Passagiere.",
+          "start": 215.94,
+          "end": 219.96
+        },
+        {
+          "text": "Passagiere dürfen nur ein Handgepäck mitnehmen.",
+          "start": 223.19,
+          "end": 226.23
+        },
+        {
+          "text": "Nach dem Flugzeugabsturz war der Verbleib der zwei Piloten unklar.",
+          "start": 229.32,
+          "end": 234.76
+        },
+        {
+          "text": "Während des Fluges kümmerten sich die Stördessen sehr gut um uns.",
+          "start": 237.69,
+          "end": 241.85
+        },
+        {
+          "text": "Die Zollerklärung ist die wichtigste statistische Informationsquelle über den Warenaustausch.",
+          "start": 244.19,
+          "end": 251.55
+        }
       ]
     }
   ]

@@ -4,72 +4,312 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Park",
-        "Freizeitpark",
-        "Kunstpark",
-        "Landschaftspark",
-        "Nationalpark",
-        "Naturpark",
-        "Stadtpark",
-        "Themenpark",
-        "Wildpark",
-        "Besuchen",
-        "Freikörperkultur",
-        "FKK",
-        "Joggen",
-        "Picknick",
-        "sich vergnügen",
-        "Sonnenbad",
-        "spazieren",
-        "Spiel",
-        "wippen",
-        "Bank",
-        "Kletterwand",
-        "Reck",
-        "Rutschbahn",
-        "Sandhaufen",
-        "Schaukel",
-        "Spielplatz",
-        "Wippe",
-        "Baum",
-        "Blume",
-        "Fällen",
-        "Gras",
-        "Kiesel",
-        "mähen",
-        "pflanzen",
-        "pflücken",
-        "rasen",
-        "Wiese",
-        "schatten",
-        "züchten",
-        "Brücke",
-        "Boot",
-        "Hinweisschild",
-        "Fahrt",
-        "Rudern",
-        "See",
-        "Springbrunnen",
-        "Fontäne"
+        {
+          "text": "Park",
+          "start": 1.84,
+          "end": 2.82
+        },
+        {
+          "text": "Freizeitpark",
+          "start": 5.05,
+          "end": 6.37
+        },
+        {
+          "text": "Kunstpark",
+          "start": 8.52,
+          "end": 10.88
+        },
+        {
+          "text": "Landschaftspark",
+          "start": 11.78,
+          "end": 14.58
+        },
+        {
+          "text": "Nationalpark",
+          "start": 15.5,
+          "end": 17.22
+        },
+        {
+          "text": "Naturpark",
+          "start": 18.62,
+          "end": 20.02
+        },
+        {
+          "text": "Stadtpark",
+          "start": 22.1,
+          "end": 23.14
+        },
+        {
+          "text": "Themenpark",
+          "start": 25.14,
+          "end": 26.6
+        },
+        {
+          "text": "Wildpark",
+          "start": 28.3,
+          "end": 30.02
+        },
+        {
+          "text": "besuchen",
+          "start": 30.9,
+          "end": 32.44
+        },
+        {
+          "text": "Freikörperkultur",
+          "start": 34.31,
+          "end": 36.13
+        },
+        {
+          "text": "FKK",
+          "start": 36.13,
+          "end": 37.71
+        },
+        {
+          "text": "Joggen",
+          "start": 39.45,
+          "end": 40.35
+        },
+        {
+          "text": "Picknick",
+          "start": 42.04,
+          "end": 42.96
+        },
+        {
+          "text": "sich vergnügen",
+          "start": 44.66,
+          "end": 47.14
+        },
+        {
+          "text": "Sonnenbad",
+          "start": 47.14,
+          "end": 48.88
+        },
+        {
+          "text": "spazieren",
+          "start": 51.17,
+          "end": 52.11
+        },
+        {
+          "text": "Spiel",
+          "start": 54.18,
+          "end": 55.1
+        },
+        {
+          "text": "wippen",
+          "start": 57.2,
+          "end": 58.6
+        },
+        {
+          "text": "Bank",
+          "start": 59.88,
+          "end": 59.88
+        },
+        {
+          "text": "Kletterwand",
+          "start": 61.94,
+          "end": 62.84
+        },
+        {
+          "text": "Reck",
+          "start": 65.09,
+          "end": 65.79
+        },
+        {
+          "text": "Rutschbahn",
+          "start": 67.59,
+          "end": 69.09
+        },
+        {
+          "text": "Sandhaufen",
+          "start": 70.51,
+          "end": 71.91
+        },
+        {
+          "text": "Schaukel",
+          "start": 73.82,
+          "end": 74.64
+        },
+        {
+          "text": "Spielplatz",
+          "start": 76.7,
+          "end": 77.98
+        },
+        {
+          "text": "Wippe",
+          "start": 78.88,
+          "end": 80.76
+        },
+        {
+          "text": "Baum",
+          "start": 82.48,
+          "end": 83.28
+        },
+        {
+          "text": "Blume",
+          "start": 85.02,
+          "end": 86.02
+        },
+        {
+          "text": "Fällen",
+          "start": 87.9,
+          "end": 89.12
+        },
+        {
+          "text": "Gras",
+          "start": 89.12,
+          "end": 91.54
+        },
+        {
+          "text": "Kiesel",
+          "start": 93.3,
+          "end": 95.6
+        },
+        {
+          "text": "mähen",
+          "start": 96.1,
+          "end": 97.12
+        },
+        {
+          "text": "pflanzen",
+          "start": 99.06,
+          "end": 99.8
+        },
+        {
+          "text": "pflücken",
+          "start": 101.97,
+          "end": 103.11
+        },
+        {
+          "text": "Rasen",
+          "start": 105.97,
+          "end": 107.37
+        },
+        {
+          "text": "Wiese",
+          "start": 107.79,
+          "end": 108.27
+        },
+        {
+          "text": "Schatten",
+          "start": 110.33,
+          "end": 111.09
+        },
+        {
+          "text": "Züchten",
+          "start": 113.03,
+          "end": 113.93
+        },
+        {
+          "text": "Brücke",
+          "start": 115.73,
+          "end": 117.31
+        },
+        {
+          "text": "Boot",
+          "start": 118.11,
+          "end": 118.99
+        },
+        {
+          "text": "Hinweisschild",
+          "start": 121.14,
+          "end": 122.4
+        },
+        {
+          "text": "Fahrt",
+          "start": 124.51,
+          "end": 125.49
+        },
+        {
+          "text": "Rudern",
+          "start": 127.17,
+          "end": 128.17
+        },
+        {
+          "text": "See",
+          "start": 129.94,
+          "end": 130.36
+        },
+        {
+          "text": "Springbrunnen",
+          "start": 132.67,
+          "end": 133.95
+        },
+        {
+          "text": "Fontäne",
+          "start": 135.85,
+          "end": 136.87
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Ich plane mit meiner Freundin den Kunstpark zu besuchen.",
-        "Bei der Reise möchten wir diesen besonderen Themenpark mitnehmen.",
-        "Im Winter vergnügen sich die Kinder im Park mit Schneeballwerfen.",
-        "Die Deutschen nehmen gerne Sonnenbäder im Garten, auf Balkon oder Terrasse.",
-        "Seine Tochter wippt auf einer Wippe.",
-        "Auf der Bank saßen wir bequem beieinander.",
-        "Das Kind schwingt sich auf der Schaukel hin und her.",
-        "Die hohen Bäume spenden genug Schatten.",
-        "Man darf keine Blumen im Park pflücken.",
-        "Bitte betreten Sie den Rasen nicht.",
-        "Er möchte alle Brücken hinter sich abbrechen und von vorn anfangen.",
-        "Die Schüler sind mit einem Boot über den See gefahren.",
-        "Auf dem Hinweisschild steht Schwimmen verboten."
+        {
+          "text": "Ich plane mit meiner Freundin den Kunstpark zu besuchen.",
+          "start": 146.44,
+          "end": 151.44
+        },
+        {
+          "text": "Bei der Reise möchten wir diesen besonderen Themenpark mitnehmen.",
+          "start": 154.3,
+          "end": 158.46
+        },
+        {
+          "text": "Im Winter vergnügen sich die Kinder im Park mit Schneeballwerfen.",
+          "start": 161.5,
+          "end": 165.86
+        },
+        {
+          "text": "Die Deutschen nehmen gerne Sonnenbäder im Garten, auf Balkon oder Terrasse.",
+          "start": 168.8,
+          "end": 174.34
+        },
+        {
+          "text": "Seine Tochter wippt auf einer Wippe.",
+          "start": 177.68,
+          "end": 181.14
+        },
+        {
+          "text": "Auf der Bank saßen wir bequem beieinander.",
+          "start": 183.38,
+          "end": 186.74
+        },
+        {
+          "text": "Das Kind schwingt sich auf der Schaukel hin und her.",
+          "start": 189.86,
+          "end": 193.62
+        },
+        {
+          "text": "Die hohen Bäume spenden genug Schatten.",
+          "start": 196.58,
+          "end": 199.48
+        },
+        {
+          "text": "Man darf keine Blumen im Park pflücken.",
+          "start": 202.5,
+          "end": 205.14
+        },
+        {
+          "text": "Bitte betreten Sie den Rasen nicht.",
+          "start": 208.22,
+          "end": 210.5
+        },
+        {
+          "text": "Er möchte alle Brücken hinter sich abbrechen und von vorn anfangen.",
+          "start": 213.58,
+          "end": 218.22
+        },
+        {
+          "text": "Die Schüler sind mit einem Boot über den See gefahren.",
+          "start": 221.2,
+          "end": 224.78
+        },
+        {
+          "text": "Auf dem Hinweisschild steht Schwimmen verboten.",
+          "start": 226.99,
+          "end": 231.49
+        }
       ]
     }
   ]

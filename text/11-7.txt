@@ -1,84 +1,84 @@
-Algebra 2
-Approximation
-Die bekannte Zahl
-Die unbekannte Zahl
-Funktion
-Identität
-Koeffizient
-Kubus
-Quadrat
-Radikant
-Radizieren
-Wurzel
-Kubikwurzel
-Quadratwurzel
-Wurzelexponent
-Wurzelwert
-Wurzelzeichen
-Koordinatenachse
-Abszissenachse
-Ordinatenachse
-Koordinatensystem
-Hyperbil
-Nullpunkt
-Parabel
-Quadrant
-Vektor
-Annähernd gleich
-Identisch
-Unendlich
-Ungleich
-Die lineare Algebra
-Topologie
-Wahrscheinlichkeitstheorie
-Sprechen Sie bitte die folgenden Sätze
-Mit der Approximation
-irrationaler Zahlen
-durch rationale
-beschäftigt sich die Theorie
-der diophantischen Approximation.
-Lineare Funktion
-ist nicht schwer für ihn.
-Der Koeffizient
-ist die Zahl in einem Term.
-Sie steht immer vor der Unbekannten.
-Wie 2
-von 2x.
-Es ist unmöglich, einen Kubus
-in zwei Kuben zu zerlegen.
-4 zum Quadrat
-ist 16.
-2 ist die
-Kubikwurzel von 8.
-Koordinatenachsen
-sind herausgehobene Linien,
-die für Positionsangaben
-in Fläche oder Raum
-den Bezug liefern.
-Die beiden Richtungsachsen
-von Koordinatenachsen
-stehen orthogonal aufeinander,
-schneiden sich also
-im 90°-Winkel.
-Man bezeichnet die horizontale Achse
-als Abszissenachse.
-Die vertikale Achse
-heißt Ordinatenachse.
-In einem
-karthesischen Koordinatensystem
-werden die 4 Quadranten
-entgegen dem Uhrzeigersinn
-mit 1, 2, 3, 4
-bzw.
-1, 2, 3, 4
-bezeichnet.
-Die Topologie
-ist ein fundamentales Teilgebiet
-der Mathematik.
-Die Wahrscheinlichkeitstheorie
-bildet gemeinsam
-mit der mathematischen Statistik
-das weite Feld der Stochastik,
-die von der Beschreibung
-zufälliger Ereignisse
-und ihrer Modellierung handelt.
+[00:00:01.740 --> 00:00:03.740] Algebra 2
+[00:00:06.940 --> 00:00:07.740] Approximation
+[00:00:08.340 --> 00:00:11.800] Die bekannte Zahl
+[00:00:11.800 --> 00:00:14.620] Die unbekannte Zahl
+[00:00:17.090 --> 00:00:18.630] Funktion
+[00:00:18.630 --> 00:00:20.890] Identität
+[00:00:22.170 --> 00:00:24.210] Koeffizient
+[00:00:25.490 --> 00:00:26.970] Kubus
+[00:00:28.930 --> 00:00:30.690] Quadrat
+[00:00:30.690 --> 00:00:32.930] Radikant
+[00:00:34.210 --> 00:00:36.490] Radizieren
+[00:00:36.490 --> 00:00:38.710] Wurzel
+[00:00:39.990 --> 00:00:41.970] Kubikwurzel
+[00:00:45.360 --> 00:00:46.760] Quadratwurzel
+[00:00:46.760 --> 00:00:47.460] Wurzelexponent
+[00:00:50.360 --> 00:00:51.080] Wurzelwert
+[00:00:54.020 --> 00:00:54.720] Wurzelzeichen
+[00:00:57.820 --> 00:00:59.220] Koordinatenachse
+[00:01:02.440 --> 00:01:03.840] Abszissenachse
+[00:01:03.840 --> 00:01:04.920] Ordinatenachse
+[00:01:08.410 --> 00:01:09.810] Koordinatensystem
+[00:01:11.090 --> 00:01:11.790] Hyperbil
+[00:01:14.180 --> 00:01:14.880] Nullpunkt
+[00:01:14.880 --> 00:01:16.880] Parabel
+[00:01:20.160 --> 00:01:21.400] Quadrant
+[00:01:23.170 --> 00:01:24.810] Vektor
+[00:01:26.160 --> 00:01:27.840] Annähernd gleich
+[00:01:29.080 --> 00:01:31.560] Identisch
+[00:01:33.120 --> 00:01:33.820] Unendlich
+[00:01:35.380 --> 00:01:36.780] Ungleich
+[00:01:38.030 --> 00:01:40.550] Die lineare Algebra
+[00:01:41.900 --> 00:01:43.860] Topologie
+[00:01:45.980 --> 00:01:47.380] Wahrscheinlichkeitstheorie
+[00:01:51.820 --> 00:01:54.720] Sprechen Sie bitte die folgenden Sätze
+[00:01:57.120 --> 00:01:58.360] Mit der
+[00:01:58.360 --> 00:02:01.040] Approximation irrationaler Zahlen
+[00:02:01.040 --> 00:02:02.340] durch Rationale
+[00:02:02.340 --> 00:02:04.000] beschäftigt sich die Theorie
+[00:02:04.000 --> 00:02:06.360] der diophantischen Approximation
+[00:02:09.500 --> 00:02:10.820] Lineare Funktion
+[00:02:11.120 --> 00:02:12.860] ist nicht schwer für ihn
+[00:02:15.170 --> 00:02:17.090] Der Koeffizient
+[00:02:17.090 --> 00:02:18.870] ist die Zahl in einem Term
+[00:02:18.870 --> 00:02:21.050] Sie steht immer vor der Unbekannten
+[00:02:21.830 --> 00:02:22.830] wie 2
+[00:02:22.830 --> 00:02:24.290] von 2x
+[00:02:26.840 --> 00:02:29.260] Es ist unmöglich einen Kubus
+[00:02:29.260 --> 00:02:31.180] in zwei Kuben zu zerlegen
+[00:02:34.270 --> 00:02:36.010] 4 zum Quadrat
+[00:02:36.010 --> 00:02:36.990] ist 16
+[00:02:40.050 --> 00:02:42.190] 2 ist die Kubikwurzel
+[00:02:42.190 --> 00:02:43.450] von 8
+[00:02:46.650 --> 00:02:47.430] Koordinatenachsen
+[00:02:47.430 --> 00:02:49.970] sind herausgehobene Linien
+[00:02:49.970 --> 00:02:52.010] die für Positionsangaben
+[00:02:52.010 --> 00:02:53.430] in Fläche oder Raum
+[00:02:53.430 --> 00:02:54.770] den Bezug liefern
+[00:02:57.010 --> 00:02:59.690] Die beiden Richtungsachsen
+[00:02:59.690 --> 00:03:01.550] von Koordinatenachsen
+[00:03:01.550 --> 00:03:03.810] stehen orthogonal aufeinander
+[00:03:03.810 --> 00:03:05.130] schneiden sich also
+[00:03:05.130 --> 00:03:07.330] um 90° Winkel
+[00:03:09.640 --> 00:03:13.200] Man bezeichnet die
+[00:03:13.200 --> 00:03:15.140] als Abszissenachse
+[00:03:15.140 --> 00:03:17.320] Die vertikale Achse heißt
+[00:03:17.320 --> 00:03:18.860] Ordinatenachse
+[00:03:21.130 --> 00:03:22.430] In einem
+[00:03:22.430 --> 00:03:24.870] karthesischen Koordinatensystem
+[00:03:25.030 --> 00:03:27.110] werden die 4 Quadranten
+[00:03:27.110 --> 00:03:29.050] entgegen dem Uhrzeigersinn
+[00:03:29.050 --> 00:03:31.910] mit 1, 2, 3, 4
+[00:03:32.170 --> 00:03:33.030] bzw.
+[00:03:33.550 --> 00:03:35.430] 1, 2, 3, 4
+[00:03:35.430 --> 00:03:36.530] bezeichnet
+[00:03:38.770 --> 00:03:41.330] Die Topologie ist ein
+[00:03:41.330 --> 00:03:43.270] fundamentales Teilgebiet
+[00:03:43.270 --> 00:03:44.950] der Mathematik
+[00:03:47.250 --> 00:03:49.590] Die Wahrscheinlichkeitstheorie
+[00:03:49.590 --> 00:03:50.930] bildet gemeinsam
+[00:03:50.930 --> 00:03:53.270] mit der mathematischen Statistik
+[00:03:53.270 --> 00:03:55.650] das weite Feld der Stochastik
+[00:03:55.650 --> 00:03:57.090] die von der Beschreibung
+[00:03:57.090 --> 00:03:58.870] zufälliger Ereignisse
+[00:03:58.870 --> 00:04:00.890] und ihrer Modellierung handelt

@@ -4,47 +4,187 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Karaoke bestellen",
-        "Buffet die ganze Nacht hindurch",
-        "Kellner reservieren",
-        "Rezeption rufen",
-        "Trinkgeld Beamer",
-        "Display Monitor",
-        "Kabel Lautsprecher",
-        "Mikrofon abspielen Aufnehmen",
-        "Menü Wiedergabe",
-        "Begleitmusik Melodie",
-        "Note Rhythmus",
-        "Takt Text Ton",
-        "Tonhöhe Blues",
-        "Heavy Metal Hip-Hop",
-        "Jazz Pop",
-        "Punk Rap",
-        "Rock Album Hitliste",
-        "Komponist Liedermacher",
-        "Sänger Sängerin"
+        {
+          "text": "Karaoke bestellen",
+          "start": 1.78,
+          "end": 7.41
+        },
+        {
+          "text": "Buffet die ganze Nacht hindurch",
+          "start": 7.41,
+          "end": 12.93
+        },
+        {
+          "text": "Kellner reservieren",
+          "start": 14.18,
+          "end": 19.2
+        },
+        {
+          "text": "Rezeption rufen",
+          "start": 21.52,
+          "end": 24.32
+        },
+        {
+          "text": "Trinkgeld Beamer",
+          "start": 25.6,
+          "end": 30.46
+        },
+        {
+          "text": "Display Monitor",
+          "start": 31.18,
+          "end": 35.3
+        },
+        {
+          "text": "Kabel Lautsprecher",
+          "start": 36.61,
+          "end": 41.87
+        },
+        {
+          "text": "Mikrofon abspielen Aufnehmen",
+          "start": 42.69,
+          "end": 50.46
+        },
+        {
+          "text": "Menü Wiedergabe",
+          "start": 53.72,
+          "end": 56.52
+        },
+        {
+          "text": "Begleitmusik Melodie",
+          "start": 60.3,
+          "end": 63.1
+        },
+        {
+          "text": "Note Rhythmus",
+          "start": 63.1,
+          "end": 68.42
+        },
+        {
+          "text": "Takt Text Ton",
+          "start": 68.42,
+          "end": 74.97
+        },
+        {
+          "text": "Tonhöhe Blues",
+          "start": 76.8,
+          "end": 80.66
+        },
+        {
+          "text": "Heavy Metal Hip-Hop",
+          "start": 81.91,
+          "end": 86.47
+        },
+        {
+          "text": "Jazz Pop",
+          "start": 87.94,
+          "end": 91.25
+        },
+        {
+          "text": "Punk Rap",
+          "start": 92.85,
+          "end": 96.47
+        },
+        {
+          "text": "Rock Album",
+          "start": 98.04,
+          "end": 103.13
+        },
+        {
+          "text": "Hitliste Komponist",
+          "start": 106.59,
+          "end": 108.83
+        },
+        {
+          "text": "Liedermacher Sänger",
+          "start": 111.65,
+          "end": 113.89
+        },
+        {
+          "text": "Sängerin Schlager",
+          "start": 115.75,
+          "end": 119.36
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Er bestellt ein starkes Getränk.",
-        "An der Rezeption wartet der Kellner auf uns ab.",
-        "Du kommst mir wie gerufen.",
-        "Sie stellt den Beamer an.",
-        "Die Entwicklung des Lautsprechers ist direkt mit der Erfindung des Telefons verknüpft.",
-        "Du sollst ins Mikrofon singen, sonst hören wir dich nicht.",
-        "Davon kann ich ein Lied singen.",
-        "Könntest du die Note lesen?",
-        "Es gerät aus dem Rhythmus.",
-        "Der Butler behandelt diese Angelegenheit mit Takt.",
-        "Der Text stimmt mit der Melodie des Liedes überein.",
-        "Reden Sie doch einen Ton.",
-        "Hip-Hop ist sehr beliebt bei den Jugendlichen.",
-        "Cui Jian ist der Vater des chinesischen Rocks.",
-        "Der 57-jährige Sänger sagt, dass sein Wunsch schon in Erfüllung gegangen ist.",
-        "Sein Lied ist der Schlager des Jahres und steht hoch auf der Hitliste."
+        {
+          "text": "An der Rezeption wartet der Kellner auf uns ab.",
+          "start": 134.94,
+          "end": 138.2
+        },
+        {
+          "text": "Du kommst mir wie gerufen.",
+          "start": 140.98,
+          "end": 142.97
+        },
+        {
+          "text": "Sie stellt den Beamer an.",
+          "start": 146.09,
+          "end": 147.97
+        },
+        {
+          "text": "Die Entwicklung des Lautsprechers ist direkt mit der Erfindung des Telefons verknüpft.",
+          "start": 150.82,
+          "end": 156.3
+        },
+        {
+          "text": "Du sollst ins Mikrofon singen, sonst hören wir dich nicht.",
+          "start": 159.29,
+          "end": 163.13
+        },
+        {
+          "text": "Davon kann ich ein Lied singen.",
+          "start": 166.2,
+          "end": 168.26
+        },
+        {
+          "text": "Könntest du die Note lesen?",
+          "start": 171.05,
+          "end": 172.87
+        },
+        {
+          "text": "Es gerät aus dem Rhythmus.",
+          "start": 175.63,
+          "end": 178.01
+        },
+        {
+          "text": "Der Butler behandelt diese Angelegenheit mit Takt.",
+          "start": 180.76,
+          "end": 184.48
+        },
+        {
+          "text": "Der Text stimmt mit der Melodie des Liedes überein.",
+          "start": 186.72,
+          "end": 191.84
+        },
+        {
+          "text": "Reden Sie doch einen Ton.",
+          "start": 194.58,
+          "end": 196.2
+        },
+        {
+          "text": "Hip-Hop ist sehr beliebt bei den Jugendlichen.",
+          "start": 199.39,
+          "end": 202.55
+        },
+        {
+          "text": "Cui Jian ist der Vater des chinesischen Rocks.",
+          "start": 205.55,
+          "end": 209.15
+        },
+        {
+          "text": "Der 57-jährige Sänger sagt, dass sein Wunsch schon in Erfüllung gegangen ist.",
+          "start": 211.73,
+          "end": 217.25
+        },
+        {
+          "text": "Sein Lied ist der Schlager des Jahres und steht hoch auf der Hitliste.",
+          "start": 220.38,
+          "end": 224.64
+        }
       ]
     }
   ]

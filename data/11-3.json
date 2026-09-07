@@ -4,67 +4,307 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Zeit",
-        "Morgengrauen",
-        "Vormittag",
-        "Mittag",
-        "Nachmittag",
-        "Dämmerung",
-        "Abend",
-        "Nacht",
-        "Mitternacht",
-        "Während",
-        "Zwischen",
-        "Jetzt",
-        "Gerade",
-        "Vorhin",
-        "Vergangenheit",
-        "Gegenwart",
-        "Zukunft",
-        "Sekunde",
-        "Minute",
-        "Viertel",
-        "Stunde",
-        "Uhr",
-        "Sagen den Uhrzeigersinn",
-        "Sanduhr",
-        "Augenblick",
-        "Moment",
-        "eher",
-        "früher",
-        "sofort",
-        "gleich",
-        "umgehend",
-        "vorzeitig",
-        "verzögern",
-        "einschlafen",
-        "Halbschlaf",
-        "zu Bett gehen",
-        "sich ausschlafen",
-        "Tiefschlaf",
-        "aufwachen"
+        {
+          "text": "Zeit",
+          "start": 1.84,
+          "end": 4.1
+        },
+        {
+          "text": "Morgengrauen",
+          "start": 4.84,
+          "end": 6.64
+        },
+        {
+          "text": "Vormittag",
+          "start": 11.19,
+          "end": 12.59
+        },
+        {
+          "text": "Mittag",
+          "start": 14.71,
+          "end": 16.55
+        },
+        {
+          "text": "Nachmittag",
+          "start": 17.71,
+          "end": 19.27
+        },
+        {
+          "text": "Dämmerung",
+          "start": 20.71,
+          "end": 21.67
+        },
+        {
+          "text": "Abend",
+          "start": 23.09,
+          "end": 23.79
+        },
+        {
+          "text": "Nacht",
+          "start": 23.79,
+          "end": 26.29
+        },
+        {
+          "text": "Mitternacht",
+          "start": 26.29,
+          "end": 29.05
+        },
+        {
+          "text": "Nach",
+          "start": 30.46,
+          "end": 31.34
+        },
+        {
+          "text": "vor",
+          "start": 33.87,
+          "end": 35.35
+        },
+        {
+          "text": "während",
+          "start": 35.87,
+          "end": 36.87
+        },
+        {
+          "text": "zwischen",
+          "start": 39.24,
+          "end": 39.94
+        },
+        {
+          "text": "jetzt",
+          "start": 41.24,
+          "end": 42.36
+        },
+        {
+          "text": "gerade",
+          "start": 44.31,
+          "end": 45.01
+        },
+        {
+          "text": "vorhin",
+          "start": 47.58,
+          "end": 48.28
+        },
+        {
+          "text": "Vergangenheit",
+          "start": 51.37,
+          "end": 52.21
+        },
+        {
+          "text": "Gegenwart",
+          "start": 53.37,
+          "end": 54.33
+        },
+        {
+          "text": "Zukunft",
+          "start": 56.7,
+          "end": 57.4
+        },
+        {
+          "text": "Sekunde",
+          "start": 59.36,
+          "end": 60.76
+        },
+        {
+          "text": "Minute",
+          "start": 61.72,
+          "end": 62.72
+        },
+        {
+          "text": "Viertel",
+          "start": 65.09,
+          "end": 65.91
+        },
+        {
+          "text": "Stunde",
+          "start": 67.51,
+          "end": 68.25
+        },
+        {
+          "text": "Uhr",
+          "start": 69.66,
+          "end": 70.96
+        },
+        {
+          "text": "Uhrzeigersinn",
+          "start": 72.91,
+          "end": 74.53
+        },
+        {
+          "text": "gegen den Uhrzeigersinn",
+          "start": 75.78,
+          "end": 79.38
+        },
+        {
+          "text": "Sanduhr",
+          "start": 81.28,
+          "end": 82.16
+        },
+        {
+          "text": "Augenblick",
+          "start": 82.68,
+          "end": 84.14
+        },
+        {
+          "text": "Moment",
+          "start": 85.42,
+          "end": 86.78
+        },
+        {
+          "text": "eher",
+          "start": 88.44,
+          "end": 89.4
+        },
+        {
+          "text": "früher",
+          "start": 90.87,
+          "end": 91.87
+        },
+        {
+          "text": "sofort",
+          "start": 94.25,
+          "end": 95.23
+        },
+        {
+          "text": "gleich",
+          "start": 96.25,
+          "end": 97.59
+        },
+        {
+          "text": "umgehend",
+          "start": 99.5,
+          "end": 100.98
+        },
+        {
+          "text": "vorzeitig",
+          "start": 102.88,
+          "end": 103.82
+        },
+        {
+          "text": "verzögern",
+          "start": 106.19,
+          "end": 107.15
+        },
+        {
+          "text": "einschlafen",
+          "start": 108.46,
+          "end": 110.32
+        },
+        {
+          "text": "Halbschlaf",
+          "start": 111.66,
+          "end": 113.32
+        },
+        {
+          "text": "ins Bett gehen",
+          "start": 114.57,
+          "end": 116.25
+        },
+        {
+          "text": "zu Bett gehen",
+          "start": 117.56,
+          "end": 119.66
+        },
+        {
+          "text": "sich ausschlafen",
+          "start": 120.94,
+          "end": 123.08
+        },
+        {
+          "text": "Tiefschlaf",
+          "start": 125.78,
+          "end": 126.9
+        },
+        {
+          "text": "aufwachen",
+          "start": 126.9,
+          "end": 128.8
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Fahrt beschleunigte sich und bei Morgengrauen lief der Zug in den Hauptbahnhof von Berlin ein.",
-        "Die Bundespolizei hatte gestern Abend die ICE-Strecke zwischen Hamburg und Berlin vorübergehend gesperrt.",
-        "Nach dem Regen schien wieder die Sonne.",
-        "Es geschah vor Jahrzehnten.",
-        "Die deutsche Grammatik kennt drei Zeitformen der Vergangenheit für ein Verb.",
-        "Es ist Viertel nach zwölf Uhr.",
-        "Bitte wecke mich um acht Uhr.",
-        "Weil die Zeiger der Uhren rechtsdrehend sind, wird bei Rechtsdrehungen meist einfach nur vom Uhrzeigersinn, UZS, gesprochen.",
-        "Katholische und orthodoxe Geistliche umrunden den Altar während des Gottesdienstes gegen den Uhrzeigersinn.",
-        "In der Krankenpflege wurden früher kleine Sanduhren mit einer Laufzeit von 15 Sekunden zum Messen des Pulses verwendet.",
-        "Kommen Sie vorzeitig zu einer Party, müssen Sie damit rechnen, dass Sie Ihre Gastgeber noch in der Küche antreffen.",
-        "Napoleon soll gesagt haben, China ist ein schlafender Löwe.",
-        "Lasst ihn schlafen.",
-        "Wenn er aufwacht, erschüttert er die Welt.",
-        "Als Halbschlaf bezeichnen wir den Dämmerzustand zwischen Schlaf und Wachsein.",
-        "Im Gegensatz dazu steht der Tiefschlaf."
+        {
+          "text": "Die Fahrt beschleunigte sich und bei Morgengrauen lief der Zug in den Hauptbahnhof von Berlin ein.",
+          "start": 139.09,
+          "end": 145.45
+        },
+        {
+          "text": "Die Bundespolizei hatte gestern Abend die ICE-Strecke zwischen Hamburg und Berlin vorübergehend gesperrt.",
+          "start": 147.69,
+          "end": 156.81
+        },
+        {
+          "text": "Nach dem Regen schien wieder die Sonne.",
+          "start": 159.3,
+          "end": 162.22
+        },
+        {
+          "text": "Es geschah vor Jahrzehnten.",
+          "start": 164.68,
+          "end": 166.94
+        },
+        {
+          "text": "Die deutsche Grammatik kennt drei Zeitformen der Vergangenheit für ein Verb.",
+          "start": 169.75,
+          "end": 174.91
+        },
+        {
+          "text": "Es ist Viertel nach 12 Uhr.",
+          "start": 178.04,
+          "end": 180.18
+        },
+        {
+          "text": "Bitte wecke mich um 8 Uhr.",
+          "start": 183.16,
+          "end": 185.18
+        },
+        {
+          "text": "Weil die Zeiger der Uhren rechtsdrehend sind, wird bei Rechtsdrehungen meist einfach nur vom Uhrzeigersinn, UZS, gesprochen.",
+          "start": 187.54,
+          "end": 197.98
+        },
+        {
+          "text": "Katholische und orthodoxe Geistliche umrunden den Altar während des Gottesdienstes gegen den Uhrzeigersinn.",
+          "start": 201.16,
+          "end": 209.28
+        },
+        {
+          "text": "In der Krankenpflege wurden früher kleine Sanduhren mit einer Laufzeit von 15 Sekunden zum Messen des Pulses verwendet.",
+          "start": 211.52,
+          "end": 221.52
+        },
+        {
+          "text": "Kommen Sie vorzeitig zu einer Party, müssen Sie damit rechnen, dass Sie Ihre Gastgeber noch in der Küche antreffen.",
+          "start": 224.53,
+          "end": 232.03
+        },
+        {
+          "text": "Napoleon soll gesagt haben, China ist ein schlafender Löwe.",
+          "start": 235.05,
+          "end": 239.83
+        },
+        {
+          "text": "Lasst ihn schlafen.",
+          "start": 240.13,
+          "end": 241.55
+        },
+        {
+          "text": "Wenn er aufwacht, erschüttert er die Welt.",
+          "start": 241.85,
+          "end": 244.41
+        },
+        {
+          "text": "Als Halbschlaf bezeichnen wir den Dämmerzustand zwischen Schlaf und Wachsein.",
+          "start": 246.72,
+          "end": 253.03
+        },
+        {
+          "text": "Im Gegensatz dazu steht der Tiefschlaf.",
+          "start": 253.74,
+          "end": 256.52
+        }
       ]
     }
   ]

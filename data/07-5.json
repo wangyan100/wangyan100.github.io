@@ -4,75 +4,327 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Widerlichkeit",
-        "lästig",
-        "missfallen",
-        "missfallen",
-        "widerlich",
-        "widerwärtig",
-        "Zumutung",
-        "jemandem auf die Nerven fallen",
-        "jemandem auf die Nerven gehen",
-        "Abneigung",
-        "abscheu",
-        "abscheulich",
-        "antipathisch",
-        "ekel",
-        "ekelhaft",
-        "eklig",
-        "ekelig",
-        "widerwille",
-        "jemandem ein Dorn im Auge sein",
-        "beanstanden",
-        "Beanstandung",
-        "ungunst",
-        "unwille",
-        "unwillen",
-        "verbittern",
-        "verbittert",
-        "unzufrieden",
-        "sich über beklagen",
-        "sich über beschweren",
-        "über klagen",
-        "maulen",
-        "meckern",
-        "gegen",
-        "murren",
-        "über murren",
-        "über quengeln",
-        "manko",
-        "plump",
-        "schwach",
-        "schwäche",
-        "schwachkopf",
-        "dummkopf",
-        "schwerfällig",
-        "unbeholfen",
-        "ungeschickt"
+        {
+          "text": "Widerlichkeit",
+          "start": 1.97,
+          "end": 4.73
+        },
+        {
+          "text": "lästig",
+          "start": 6.97,
+          "end": 8.37
+        },
+        {
+          "text": "missfallen",
+          "start": 8.37,
+          "end": 10.13
+        },
+        {
+          "text": "missfallen",
+          "start": 8.37,
+          "end": 10.13
+        },
+        {
+          "text": "widerlich",
+          "start": 13.88,
+          "end": 15.88
+        },
+        {
+          "text": "widerwärtig",
+          "start": 17.16,
+          "end": 19.02
+        },
+        {
+          "text": "Zumutung",
+          "start": 21.83,
+          "end": 23.23
+        },
+        {
+          "text": "jemandem auf die Nerven fallen",
+          "start": 23.23,
+          "end": 25.53
+        },
+        {
+          "text": "jemandem auf die Nerven gehen",
+          "start": 26.84,
+          "end": 29.8
+        },
+        {
+          "text": "Abneigung",
+          "start": 31.05,
+          "end": 32.93
+        },
+        {
+          "text": "abscheu",
+          "start": 34.21,
+          "end": 35.87
+        },
+        {
+          "text": "abscheulich",
+          "start": 37.15,
+          "end": 38.81
+        },
+        {
+          "text": "antipathisch",
+          "start": 41.89,
+          "end": 43.29
+        },
+        {
+          "text": "ekel",
+          "start": 43.29,
+          "end": 44.73
+        },
+        {
+          "text": "ekelhaft",
+          "start": 46.07,
+          "end": 47.71
+        },
+        {
+          "text": "eklig",
+          "start": 49.09,
+          "end": 50.59
+        },
+        {
+          "text": "ekelig",
+          "start": 51.96,
+          "end": 53.74
+        },
+        {
+          "text": "widerwille",
+          "start": 55.02,
+          "end": 57.36
+        },
+        {
+          "text": "jemandem ein Dorn im Auge sein",
+          "start": 57.36,
+          "end": 60.54
+        },
+        {
+          "text": "beanstanden",
+          "start": 61.92,
+          "end": 63.6
+        },
+        {
+          "text": "Beanstandung",
+          "start": 64.98,
+          "end": 67.22
+        },
+        {
+          "text": "ungunst",
+          "start": 68.66,
+          "end": 70.16
+        },
+        {
+          "text": "unwille",
+          "start": 71.5,
+          "end": 73.52
+        },
+        {
+          "text": "unwillen",
+          "start": 74.28,
+          "end": 75.8
+        },
+        {
+          "text": "verbittern",
+          "start": 77.21,
+          "end": 78.83
+        },
+        {
+          "text": "verbittert",
+          "start": 80.17,
+          "end": 82.45
+        },
+        {
+          "text": "unzufrieden",
+          "start": 85.05,
+          "end": 85.93
+        },
+        {
+          "text": "sich über beklagen",
+          "start": 86.45,
+          "end": 89.15
+        },
+        {
+          "text": "sich über beschweren",
+          "start": 90.46,
+          "end": 93.72
+        },
+        {
+          "text": "über klagen",
+          "start": 94.97,
+          "end": 97.45
+        },
+        {
+          "text": "maulen",
+          "start": 98.7,
+          "end": 100.9
+        },
+        {
+          "text": "meckern",
+          "start": 101.74,
+          "end": 103.06
+        },
+        {
+          "text": "gegen",
+          "start": 104.37,
+          "end": 106.27
+        },
+        {
+          "text": "murren",
+          "start": 107.05,
+          "end": 108.05
+        },
+        {
+          "text": "über murren",
+          "start": 109.82,
+          "end": 112.24
+        },
+        {
+          "text": "über quengeln",
+          "start": 113.49,
+          "end": 116.11
+        },
+        {
+          "text": "manko",
+          "start": 117.42,
+          "end": 118.8
+        },
+        {
+          "text": "plump",
+          "start": 120.11,
+          "end": 121.23
+        },
+        {
+          "text": "schwach",
+          "start": 122.8,
+          "end": 123.76
+        },
+        {
+          "text": "schwäche",
+          "start": 125.1,
+          "end": 126.82
+        },
+        {
+          "text": "schwachkopf",
+          "start": 128.26,
+          "end": 129.88
+        },
+        {
+          "text": "dummkopf",
+          "start": 131.23,
+          "end": 132.45
+        },
+        {
+          "text": "schwerfällig",
+          "start": 135.85,
+          "end": 137.01
+        },
+        {
+          "text": "unbeholfen",
+          "start": 137.01,
+          "end": 138.89
+        },
+        {
+          "text": "ungeschickt",
+          "start": 140.17,
+          "end": 141.61
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Das Kind war ihr lästig.",
-        "Sein Benehmen missfällt seiner Frau.",
-        "Das widerliche Klima macht mich unangenehm.",
-        "Der ständige Lärm ist eine Zumutung für alle Mitbewohner.",
-        "Der lange beschäftigte Tag ohne Pause geht mir auf die Nerven.",
-        "Das erregt meine Abneigung.",
-        "Ich habe besonders Ekel vor Ratten.",
-        "Das Wetter ist wirklich ekelhaft.",
-        "Dieser Geruch weckt widerwille.",
-        "Der Lehrer sagte immer, dass der böse Junge ihm ein Dorn im Auge war.",
-        "Er hat sich die Ungunst seines Leiters zugezogen.",
-        "Krankheit verbittert die letzten Jahre seines Lebens.",
-        "Die schweren Schicksalsschläge haben ihn verbittert.",
-        "Sie macht ein unzufriedenes Gesicht.",
-        "Heute klagen viele Leute über die hohen Preise.",
-        "Die Schüler meckern mal wieder über die schwere Prüfung.",
-        "Der Lehrer beschimpft den Schüler als dummkopf.",
-        "Er kam mir sehr ungeschickt vor."
+        {
+          "text": "Das Kind war ihr lästig.",
+          "start": 151.82,
+          "end": 154.4
+        },
+        {
+          "text": "Sein Benehmen missfällt seiner Frau.",
+          "start": 157.12,
+          "end": 159.6
+        },
+        {
+          "text": "Das widerliche Klima macht mich unangenehm.",
+          "start": 162.54,
+          "end": 165.6
+        },
+        {
+          "text": "Der ständige Lärm ist eine Zumutung für alle Mitbewohner.",
+          "start": 168.47,
+          "end": 172.27
+        },
+        {
+          "text": "Der lange, beschäftigte Tag ohne Pause geht mir auf die Nerven.",
+          "start": 174.51,
+          "end": 179.61
+        },
+        {
+          "text": "Das erregt meine Abneigung.",
+          "start": 182.56,
+          "end": 184.64
+        },
+        {
+          "text": "Ich habe besonders ekel vor Ratten.",
+          "start": 187.71,
+          "end": 190.45
+        },
+        {
+          "text": "Das Wetter ist wirklich ekelhaft.",
+          "start": 193.37,
+          "end": 195.65
+        },
+        {
+          "text": "Dieser Geruch weckt widerwille.",
+          "start": 198.72,
+          "end": 200.82
+        },
+        {
+          "text": "Der Lehrer sagte immer, dass der böse Junge ihm ein Dorn im Auge war.",
+          "start": 203.94,
+          "end": 208.5
+        },
+        {
+          "text": "Er hat sich die Ungunst seines Leiters zugezogen.",
+          "start": 211.57,
+          "end": 214.93
+        },
+        {
+          "text": "Krankheit verbittert die letzten Jahre seines Lebens.",
+          "start": 218.1,
+          "end": 221.6
+        },
+        {
+          "text": "Die schweren Schicksalsschläge haben ihn verbittert.",
+          "start": 224.64,
+          "end": 228.4
+        },
+        {
+          "text": "Sie macht ein unzufriedenes Gesicht.",
+          "start": 231.14,
+          "end": 233.42
+        },
+        {
+          "text": "Heute klagen viele Leute über die hohen Preise.",
+          "start": 236.62,
+          "end": 239.86
+        },
+        {
+          "text": "Die Schüler meckern mal wieder über die schwere Prüfung.",
+          "start": 242.85,
+          "end": 246.17
+        },
+        {
+          "text": "Der Lehrer beschimpft den Schüler als dummkopf.",
+          "start": 249.08,
+          "end": 252.12
+        },
+        {
+          "text": "Er kam mir sehr ungeschickt vor.",
+          "start": 255.12,
+          "end": 257.34
+        }
       ]
     }
   ]

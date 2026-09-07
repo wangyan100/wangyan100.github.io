@@ -4,64 +4,272 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Geometrie die analytische Geometrie",
-        "die lineare Geometrie",
-        "Planimetrie",
-        "Stereometrie",
-        "Satz",
-        "Prinzip",
-        "Punkt",
-        "Linie",
-        "Fläche",
-        "das gleichseitige Dreieck",
-        "das gleichschenklige Dreieck",
-        "das rechtwinklige Dreieck",
-        "das unregelmäßige Dreieck",
-        "Seite",
-        "Basis",
-        "Grundlinie",
-        "Hypotenuse",
-        "Kathete",
-        "Winkel",
-        "Durchmesser",
-        "Diameter",
-        "Halbmesser",
-        "Radius",
-        "Mittelpunkt",
-        "Peripherie",
-        "Pi",
-        "Inkreis",
-        "Umkreis",
-        "Kreisbogen",
-        "Sehne",
-        "Quadrat",
-        "Rechteck",
-        "Parallelogramm",
-        "Rombus",
-        "Raute",
-        "Trapez",
-        "Kegel",
-        "Kugel",
-        "Quader",
-        "Würfel"
+        {
+          "text": "Geometrie die analytische Geometrie",
+          "start": 1.65,
+          "end": 9.09
+        },
+        {
+          "text": "die lineare Geometrie",
+          "start": 9.09,
+          "end": 11.73
+        },
+        {
+          "text": "Planimetrie",
+          "start": 13.04,
+          "end": 15.0
+        },
+        {
+          "text": "Stereometrie",
+          "start": 16.47,
+          "end": 18.61
+        },
+        {
+          "text": "Satz",
+          "start": 19.89,
+          "end": 21.57
+        },
+        {
+          "text": "Prinzip",
+          "start": 22.85,
+          "end": 23.63
+        },
+        {
+          "text": "Punkt",
+          "start": 24.94,
+          "end": 26.42
+        },
+        {
+          "text": "Linie",
+          "start": 27.83,
+          "end": 29.67
+        },
+        {
+          "text": "Fläche",
+          "start": 31.05,
+          "end": 32.41
+        },
+        {
+          "text": "das gleichseitige Dreieck",
+          "start": 33.66,
+          "end": 36.32
+        },
+        {
+          "text": "das gleichschenklige Dreieck",
+          "start": 37.6,
+          "end": 40.52
+        },
+        {
+          "text": "das rechtwinklige Dreieck",
+          "start": 41.8,
+          "end": 44.56
+        },
+        {
+          "text": "das unregelmäßige Dreieck",
+          "start": 45.8,
+          "end": 50.0
+        },
+        {
+          "text": "Seite",
+          "start": 50.0,
+          "end": 51.0
+        },
+        {
+          "text": "Basis",
+          "start": 52.98,
+          "end": 54.52
+        },
+        {
+          "text": "Grundlinie",
+          "start": 55.8,
+          "end": 57.58
+        },
+        {
+          "text": "Hypotenuse",
+          "start": 58.83,
+          "end": 60.33
+        },
+        {
+          "text": "Kathete",
+          "start": 61.58,
+          "end": 64.14
+        },
+        {
+          "text": "Winkel",
+          "start": 64.76,
+          "end": 66.1
+        },
+        {
+          "text": "Durchmesser",
+          "start": 67.44,
+          "end": 68.9
+        },
+        {
+          "text": "Diameter",
+          "start": 70.22,
+          "end": 72.08
+        },
+        {
+          "text": "Halbmesser",
+          "start": 73.39,
+          "end": 75.29
+        },
+        {
+          "text": "Radius",
+          "start": 77.27,
+          "end": 78.67
+        },
+        {
+          "text": "Mittelpunkt",
+          "start": 79.43,
+          "end": 81.47
+        },
+        {
+          "text": "Peripherie",
+          "start": 82.53,
+          "end": 84.13
+        },
+        {
+          "text": "Pi",
+          "start": 85.41,
+          "end": 86.29
+        },
+        {
+          "text": "Inkreis",
+          "start": 89.48,
+          "end": 90.88
+        },
+        {
+          "text": "Umkreis",
+          "start": 90.88,
+          "end": 92.56
+        },
+        {
+          "text": "Kreisbogen",
+          "start": 93.9,
+          "end": 95.78
+        },
+        {
+          "text": "Sehne",
+          "start": 97.03,
+          "end": 98.61
+        },
+        {
+          "text": "Quadrat",
+          "start": 99.89,
+          "end": 101.59
+        },
+        {
+          "text": "Rechteck",
+          "start": 102.84,
+          "end": 104.46
+        },
+        {
+          "text": "Parallelogramm",
+          "start": 105.8,
+          "end": 108.1
+        },
+        {
+          "text": "Rombus",
+          "start": 109.35,
+          "end": 110.33
+        },
+        {
+          "text": "Raute",
+          "start": 110.33,
+          "end": 111.71
+        },
+        {
+          "text": "Trapez",
+          "start": 113.09,
+          "end": 114.39
+        },
+        {
+          "text": "Kegel",
+          "start": 115.7,
+          "end": 117.48
+        },
+        {
+          "text": "Kugel",
+          "start": 118.89,
+          "end": 120.31
+        },
+        {
+          "text": "Quader",
+          "start": 121.59,
+          "end": 123.11
+        },
+        {
+          "text": "Würfel",
+          "start": 124.36,
+          "end": 125.62
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die analytische Geometrie stellt algebraische Hilfsmittel zur Lösung geometrischer Probleme bereit.",
-        "Das vorliegende Lehrbuch der Planimetrie ist für Bedürfnisse der Schüler höherer Klassen bestimmt.",
-        "Die Stereometrie stellt im antiken Griechenland einen der Wissenschaftsbereiche dar, die von herausragender Bedeutung waren.",
-        "Die Summe aller Winkel im Dreieck beträgt 180°.",
-        "Das unregelmäßige Dreieck ist das Dreieck, in der alle drei Seiten unterschiedlich lang sind.",
-        "Ein gleichseitiges Dreieck kann in vierteilige kleine gegliedert werden.",
-        "Als Hypotenuse bezeichnet man die längste Seite eines rechtwinkligen Dreiecks und sie liegt dem rechten Winkel gegenüber.",
-        "Winkel können ihrer Größe nach in verschiedene Winkelarten eingeteilt werden, wie der rechte Winkel, der spitze Winkel, der stumpfe Winkel.",
-        "Man bezeichnet Peripherie als einen mathematischen Begriff für den Umfang des Kreises.",
-        "Eine Raute oder ein Rombus ist ein ebenes Viereck mit vier gleich langen Seiten.",
-        "Gegenüberliegende Seiten sind parallel und gegenüberliegende Winkel gleich groß.",
-        "Ein Würfel besteht aus sechs quadratischen Flächen."
+        {
+          "text": "Die analytische Geometrie stellt algebraische Hilfsmittel zur Lösung geometrischer Probleme bereit.",
+          "start": 135.73,
+          "end": 143.43
+        },
+        {
+          "text": "Das vorliegende Lehrbuch der Planimetrie ist für Bedürfnisse der Schüler höherer Klassen bestimmt.",
+          "start": 146.55,
+          "end": 153.19
+        },
+        {
+          "text": "Die Stereometrie stellt im antiken Griechenland einen der Wissenschaftsbereiche dar, die von herausragender Bedeutung waren.",
+          "start": 156.31,
+          "end": 165.03
+        },
+        {
+          "text": "Die Summe aller Winkel im Dreieck beträgt 180 Grad.",
+          "start": 168.08,
+          "end": 172.52
+        },
+        {
+          "text": "Das unregelmäßige Dreieck ist das Dreieck, in der alle drei Seiten unterschiedlich lang sind.",
+          "start": 175.55,
+          "end": 182.23
+        },
+        {
+          "text": "Ein gleichseitiges Dreieck kann in vierteilige, kleine gegliedert werden.",
+          "start": 185.16,
+          "end": 190.56
+        },
+        {
+          "text": "Als Hypotenuse bezeichnet man die längste Seite eines rechtwinkligen Dreiecks und sie liegt dem rechten Winkel gegenüber.",
+          "start": 193.66,
+          "end": 202.28
+        },
+        {
+          "text": "Winkel können ihrer Größe nach in verschiedene Winkelarten eingeteilt werden, wie der rechte Winkel, der spitze Winkel, der stumpfe Winkel.",
+          "start": 205.61,
+          "end": 215.27
+        },
+        {
+          "text": "Man bezeichnet Peripherie als einen mathematischen Begriff für den Umfang des Kreises.",
+          "start": 218.22,
+          "end": 224.78
+        },
+        {
+          "text": "Eine Raute oder ein Rombus ist ein ebenes Viereck mit vier gleich langen Seiten.",
+          "start": 227.75,
+          "end": 234.21
+        },
+        {
+          "text": "Gegenüberliegende Seiten sind parallel und gegenüberliegende Winkel gleich groß.",
+          "start": 235.01,
+          "end": 240.77
+        },
+        {
+          "text": "Ein Würfel besteht aus sechs quadratischen Flächen.",
+          "start": 243.71,
+          "end": 247.41
+        }
       ]
     }
   ]

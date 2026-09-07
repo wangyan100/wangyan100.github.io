@@ -4,43 +4,172 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Staaten 1 die Türkei",
-        "der Irak der Iran",
-        "Israel Palästina",
-        "Saudi-Arabien Syrien",
-        "China die Volksrepublik China",
-        "die Mongolei",
-        "Japan Nordkorea",
-        "Südkorea die Philippinen",
-        "Indonesien Kambodger",
-        "Malaysia Singapur",
-        "Thailand Vietnam",
-        "die USA Guatemala",
-        "Honduras Kanada",
-        "Mexiko Panama",
-        "Jamaika Kuba",
-        "Argentinien Brasilien",
-        "Chile Ecuador",
-        "Kolumbien Peru Uruguay"
+        {
+          "text": "Staaten 1 die Türkei",
+          "start": 1.65,
+          "end": 9.79
+        },
+        {
+          "text": "der Irak der Iran",
+          "start": 9.79,
+          "end": 15.0
+        },
+        {
+          "text": "Israel Palästina",
+          "start": 15.86,
+          "end": 21.68
+        },
+        {
+          "text": "Saudi-Arabien Syrien",
+          "start": 21.68,
+          "end": 26.38
+        },
+        {
+          "text": "China die Volksrepublik China",
+          "start": 27.79,
+          "end": 33.06
+        },
+        {
+          "text": "die Mongolei",
+          "start": 34.38,
+          "end": 37.48
+        },
+        {
+          "text": "Japan Nordkorea",
+          "start": 37.48,
+          "end": 42.64
+        },
+        {
+          "text": "Südkorea die Philippinen",
+          "start": 43.92,
+          "end": 48.76
+        },
+        {
+          "text": "Indonesien Kambodger",
+          "start": 50.04,
+          "end": 54.82
+        },
+        {
+          "text": "Malaysia Singapur",
+          "start": 56.1,
+          "end": 60.84
+        },
+        {
+          "text": "Thailand Vietnam",
+          "start": 62.18,
+          "end": 66.5
+        },
+        {
+          "text": "die USA Guatemala",
+          "start": 67.8,
+          "end": 72.23
+        },
+        {
+          "text": "Honduras Kanada",
+          "start": 74.27,
+          "end": 78.65
+        },
+        {
+          "text": "Mexiko Panama",
+          "start": 79.9,
+          "end": 84.45
+        },
+        {
+          "text": "Jamaika Kuba",
+          "start": 85.7,
+          "end": 90.15
+        },
+        {
+          "text": "Argentinien Brasilien",
+          "start": 91.46,
+          "end": 96.2
+        },
+        {
+          "text": "Chile Ecuador",
+          "start": 97.64,
+          "end": 101.4
+        },
+        {
+          "text": "Kolumbien Peru Uruguay",
+          "start": 102.71,
+          "end": 111.96
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "In der Türkei leben nicht nur Türken, sondern auch viele Kurden und andere Minderheiten.",
-        "Saudi-Arabien ist ein reiches Land wegen des Erdöls.",
-        "Wenn man Syrien googelt, findet man viele Kriegsnachrichten.",
-        "Mit rund 1,4 Milliarden Einwohnern stellt China das bevölkerungsreichste Land der Erde dar.",
-        "Die Mongolei ist ein Binnenstaat in Ostasien.",
-        "Das Südkorea der 60er Jahre war noch kein großer Exporteur von Elektronikartikeln.",
-        "Das Staatsoberhaupt von Malaysia ist der König. 90% der Menschen in Thailand sind Buddhisten.",
-        "Die Amtssprache von Honduras ist Spanisch.",
-        "Dank der Einnahmen des Panama-Kanals zählt Panama heute zu den reichsten Ländern in Lateinamerika.",
-        "Der wichtigste Fluss in Brasilien ist der Amazonas.",
-        "Ich lese zurzeit ein interessantes Buch über das Chile der Kolonialzeit.",
-        "Die dritte Landschaft von Peru ist der tropische Regenwald.",
-        "Ein Film aus dem Land Venezuela hat den wichtigsten Preis vom Filmfestival in Venedig gewonnen, den Goldenen Löwen."
+        {
+          "text": "In der Türkei leben nicht nur Türken, sondern auch viele Kurden und andere Minderheiten.",
+          "start": 123.77,
+          "end": 130.61
+        },
+        {
+          "text": "Saudi-Arabien ist ein reiches Land wegen des Erdöls.",
+          "start": 133.86,
+          "end": 138.06
+        },
+        {
+          "text": "Wenn man Syrien googelt, findet man viele Kriegsnachrichten.",
+          "start": 141.1,
+          "end": 145.24
+        },
+        {
+          "text": "Mit rund 1,4 Milliarden Einwohnern stellt China das bevölkerungsreichste Land der Erde dar.",
+          "start": 148.33,
+          "end": 155.63
+        },
+        {
+          "text": "Die Mongolei ist ein Binnenstaat in Ostasien.",
+          "start": 158.36,
+          "end": 162.44
+        },
+        {
+          "text": "Das Südkorea der 60er Jahre war noch kein großer Exporteur von Elektronikartikeln.",
+          "start": 165.33,
+          "end": 172.23
+        },
+        {
+          "text": "Das Staatsoberhaupt von Malaysia ist der König. 90% der Menschen in Thailand sind Buddhisten.",
+          "start": 175.0,
+          "end": 184.64
+        },
+        {
+          "text": "Die Amtssprache von Honduras ist spanisch.",
+          "start": 184.64,
+          "end": 191.25
+        },
+        {
+          "text": "Dank der Einnahmen des Panama-Kanals zählt Panama heute zu den reichsten Ländern in Lateinamerika.",
+          "start": 191.25,
+          "end": 201.22
+        },
+        {
+          "text": "Der wichtigste Fluss in Brasilien ist der Amazonas.",
+          "start": 201.22,
+          "end": 208.21
+        },
+        {
+          "text": "Ich lese zurzeit ein interessantes Buch über das Chile der Kolonialzeit.",
+          "start": 208.21,
+          "end": 216.32
+        },
+        {
+          "text": "Die dritte Landschaft von Peru ist der tropische Regenwald.",
+          "start": 216.32,
+          "end": 223.83
+        },
+        {
+          "text": "Ein Film aus dem Land Venezuela hat den wichtigsten Preis vom Filmfestival in Venedig gewonnen.",
+          "start": 223.83,
+          "end": 233.48
+        },
+        {
+          "text": "Den Goldenen Löwen.",
+          "start": 233.48,
+          "end": 235.42
+        }
       ]
     }
   ]

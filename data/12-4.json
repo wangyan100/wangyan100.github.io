@@ -4,66 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "feiern einladen",
-        "Geburtstagsfeier",
-        "Geburtstagsgeschenk",
-        "Geburtstagskind",
-        "Geburtstagsparty",
-        "Geburtstagstisch",
-        "Geburtstagstorte",
-        "teilnehmen",
-        "anstoßen",
-        "Jahrestag",
-        "Liebling",
-        "Rosenhochzeit",
-        "die silberne Hochzeit",
-        "Perlenhochzeit",
-        "die goldene Hochzeit",
-        "beschenkt von jemandem werden",
-        "Candlelight-Dinner",
-        "Grußkarte",
-        "Liebhaber",
-        "Liebhaberin",
-        "Rosenstrauß",
-        "verwöhnen",
-        "viel lieb",
-        "Atmosphäre",
-        "Bilderrahmen",
-        "Ewigkeit",
-        "herzförmig",
-        "Kristall",
-        "Kunstblume",
-        "Luftballon",
-        "Spirale",
-        "Eros",
-        "Gedenktag",
-        "Jupiter",
-        "Lostag",
-        "Venus",
-        "zurückführen"
+        {
+          "text": "feiern einladen",
+          "start": 1.94,
+          "end": 6.66
+        },
+        {
+          "text": "Geburtstagsfeier",
+          "start": 7.91,
+          "end": 10.03
+        },
+        {
+          "text": "Geburtstagsgeschenk",
+          "start": 13.48,
+          "end": 14.88
+        },
+        {
+          "text": "Geburtstagskind",
+          "start": 14.88,
+          "end": 17.66
+        },
+        {
+          "text": "Geburtstagsparty",
+          "start": 20.26,
+          "end": 21.66
+        },
+        {
+          "text": "Geburtstagstisch",
+          "start": 23.16,
+          "end": 24.56
+        },
+        {
+          "text": "Geburtstagstorte",
+          "start": 25.12,
+          "end": 27.14
+        },
+        {
+          "text": "teilnehmen",
+          "start": 28.45,
+          "end": 30.27
+        },
+        {
+          "text": "anstoßen",
+          "start": 33.45,
+          "end": 34.85
+        },
+        {
+          "text": "Jahrestag",
+          "start": 34.85,
+          "end": 36.51
+        },
+        {
+          "text": "Liebling",
+          "start": 37.43,
+          "end": 39.27
+        },
+        {
+          "text": "Rosenhochzeit",
+          "start": 42.2,
+          "end": 43.6
+        },
+        {
+          "text": "die silberne Hochzeit",
+          "start": 43.6,
+          "end": 46.84
+        },
+        {
+          "text": "Perlenhochzeit",
+          "start": 49.56,
+          "end": 50.96
+        },
+        {
+          "text": "die goldene Hochzeit",
+          "start": 50.96,
+          "end": 54.12
+        },
+        {
+          "text": "beschenkt von jemandem werden",
+          "start": 55.4,
+          "end": 58.0
+        },
+        {
+          "text": "Candlelight-Dinner",
+          "start": 59.54,
+          "end": 62.1
+        },
+        {
+          "text": "Grußkarte",
+          "start": 63.38,
+          "end": 65.22
+        },
+        {
+          "text": "Liebhaber",
+          "start": 66.47,
+          "end": 68.33
+        },
+        {
+          "text": "Liebhaberin",
+          "start": 69.58,
+          "end": 71.14
+        },
+        {
+          "text": "Rosenstrauß",
+          "start": 72.38,
+          "end": 74.76
+        },
+        {
+          "text": "verwöhnen",
+          "start": 76.11,
+          "end": 77.51
+        },
+        {
+          "text": "viellieb",
+          "start": 78.92,
+          "end": 80.68
+        },
+        {
+          "text": "Atmosphäre",
+          "start": 82.34,
+          "end": 85.06
+        },
+        {
+          "text": "Bilderrahmen",
+          "start": 85.06,
+          "end": 86.58
+        },
+        {
+          "text": "Ewigkeit",
+          "start": 88.48,
+          "end": 90.12
+        },
+        {
+          "text": "herzförmig",
+          "start": 91.46,
+          "end": 93.52
+        },
+        {
+          "text": "Kristall",
+          "start": 94.83,
+          "end": 96.37
+        },
+        {
+          "text": "Kunstblume",
+          "start": 97.68,
+          "end": 99.72
+        },
+        {
+          "text": "Luftballon",
+          "start": 100.97,
+          "end": 102.59
+        },
+        {
+          "text": "Spirale",
+          "start": 104.61,
+          "end": 105.67
+        },
+        {
+          "text": "Eros",
+          "start": 107.55,
+          "end": 108.25
+        },
+        {
+          "text": "Gedenktag",
+          "start": 110.77,
+          "end": 111.47
+        },
+        {
+          "text": "Jupiter",
+          "start": 113.84,
+          "end": 114.54
+        },
+        {
+          "text": "Lostag",
+          "start": 116.68,
+          "end": 118.08
+        },
+        {
+          "text": "Venus",
+          "start": 118.08,
+          "end": 120.24
+        },
+        {
+          "text": "Zurückführen",
+          "start": 122.88,
+          "end": 123.68
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Herzlichen Glückwunsch zum Geburtstag!",
-        "Meine beste Freundin verschickt mir die Einladung zu Ihrer Geburtstagsfeier.",
-        "Das Geburtstagskind lebe hoch!",
-        "Man kann daran teilnehmen, aber das ist nicht obligatorisch.",
-        "Schätzchen, lass uns auf die Liebe anstoßen!",
-        "Am 3.",
-        "Oktober haben alle Deutschen den Jahrestag der Wiedervereinigung Deutschlands gefeiert.",
-        "Nach zehn gemeinsamen Ehejahren darf gefeiert werden.",
-        "Die Rosenhochzeit Die Franzosen sind die aufmerksameren Liebhaber, finden es sehr wichtig, den Partner zu verwöhnen.",
-        "Es ist schon eine Ewigkeit her.",
-        "Das neue Ehepaar lässt Luftballons fliegen.",
-        "Eros ist in der griechischen Mythologie der ursprüngliche Gott der Liebe.",
-        "Jupiter gilt als Beschützer des Staates sowie der Familie und des Hauses.",
-        "Der 14.",
-        "Februar galt im Volksglauben auch als einer der sogenannten Lostage.",
-        "Venus war eine der drei Göttinnen im Schönheitswettbewerb der griechischen Antike.",
-        "Er führte den Unfall auf einen Defekt an den Bremsen zurück."
+        {
+          "text": "Herzlichen Glückwunsch zum Geburtstag!",
+          "start": 133.63,
+          "end": 136.75
+        },
+        {
+          "text": "Meine beste Freundin verschickt mir die Einladung zu Ihrer Geburtstagsfeier.",
+          "start": 139.67,
+          "end": 144.57
+        },
+        {
+          "text": "Das Geburtstagskind lebe hoch!",
+          "start": 147.34,
+          "end": 149.82
+        },
+        {
+          "text": "Man kann daran teilnehmen, aber das ist nicht obligatorisch.",
+          "start": 152.98,
+          "end": 157.46
+        },
+        {
+          "text": "Schätzchen, lass uns auf die Liebe anstoßen!",
+          "start": 160.39,
+          "end": 163.65
+        },
+        {
+          "text": "Am 3.",
+          "start": 165.95,
+          "end": 167.11
+        },
+        {
+          "text": "Oktober haben alle Deutschen den Jahrestag der Wiedervereinigung Deutschlands gefeiert.",
+          "start": 167.25,
+          "end": 172.95
+        },
+        {
+          "text": "Nach 10 gemeinsamen Ehejahren darf gefeiert werden, die Rosenhochzeit.",
+          "start": 176.05,
+          "end": 181.53
+        },
+        {
+          "text": "Die Franzosen sind die aufmerksameren Liebhaber, finden es sehr wichtig, den Partner zu verwöhnen.",
+          "start": 184.58,
+          "end": 191.26
+        },
+        {
+          "text": "Es ist schon eine Ewigkeit her.",
+          "start": 194.3,
+          "end": 196.48
+        },
+        {
+          "text": "Das neue Ehepaar lässt Luftballons fliegen.",
+          "start": 199.46,
+          "end": 202.42
+        },
+        {
+          "text": "Eros ist in der griechischen Mythologie der ursprüngliche Gott der Liebe.",
+          "start": 204.79,
+          "end": 210.57
+        },
+        {
+          "text": "Jupiter gilt als Beschützer des Staates, sowie der Familie und des Hauses.",
+          "start": 213.74,
+          "end": 219.12
+        },
+        {
+          "text": "Der 14.",
+          "start": 222.3,
+          "end": 223.04
+        },
+        {
+          "text": "Februar galt im Volksglauben auch als einer der sogenannten Lostage.",
+          "start": 223.28,
+          "end": 228.44
+        },
+        {
+          "text": "Venus war eine der drei Göttinnen im Schönheitswettbewerb der griechischen Antike.",
+          "start": 231.73,
+          "end": 237.19
+        },
+        {
+          "text": "Er führte den Unfall auf einen Defekt an den Bremsen zurück.",
+          "start": 239.65,
+          "end": 244.27
+        }
       ]
     }
   ]

@@ -4,66 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Schwangerschaft",
-        "Befruchten",
-        "Fetus",
-        "Fötus",
-        "Implantation",
-        "Mutterkuchen",
-        "Nabelschnur",
-        "Ovulation",
-        "Zygote",
-        "Blut abnehmen",
-        "der errechnete Geburtstermin",
-        "Herzklopfen",
-        "Ultraschalluntersuchung",
-        "Urinprobe",
-        "Anämie",
-        "Blutarm",
-        "Erbrechen",
-        "Hormon",
-        "Kindsbewegungen",
-        "Müdigkeit",
-        "Schwangere",
-        "Übelkeit",
-        "Unwohlsein",
-        "die schwere Geburt",
-        "entbinden",
-        "gebären",
-        "früchen",
-        "Frühgeburt",
-        "Fruchtwasser",
-        "Hebamme",
-        "Schnittentbindung",
-        "Wehen",
-        "Abtreibung",
-        "Missbildung",
-        "Totgeburt",
-        "entwöhnen",
-        "Muttermilch",
-        "Wochenbett",
-        "Kindbett",
-        "stillen"
+        {
+          "text": "Schwangerschaft",
+          "start": 1.78,
+          "end": 3.72
+        },
+        {
+          "text": "Befruchten",
+          "start": 5.0,
+          "end": 6.78
+        },
+        {
+          "text": "Fetus",
+          "start": 8.09,
+          "end": 9.53
+        },
+        {
+          "text": "Fötus",
+          "start": 10.9,
+          "end": 13.38
+        },
+        {
+          "text": "Implantation",
+          "start": 13.38,
+          "end": 15.58
+        },
+        {
+          "text": "Mutterkuchen",
+          "start": 16.86,
+          "end": 19.02
+        },
+        {
+          "text": "Nabelschnur",
+          "start": 20.27,
+          "end": 22.23
+        },
+        {
+          "text": "Ovulation",
+          "start": 23.48,
+          "end": 25.06
+        },
+        {
+          "text": "Zygote",
+          "start": 26.34,
+          "end": 28.18
+        },
+        {
+          "text": "Blut abnehmen",
+          "start": 29.52,
+          "end": 32.12
+        },
+        {
+          "text": "der errechnete Geburtstermin",
+          "start": 32.44,
+          "end": 35.62
+        },
+        {
+          "text": "Herzklopfen",
+          "start": 36.94,
+          "end": 38.74
+        },
+        {
+          "text": "Ultraschalluntersuchung",
+          "start": 41.68,
+          "end": 43.08
+        },
+        {
+          "text": "Urinprobe",
+          "start": 43.78,
+          "end": 45.8
+        },
+        {
+          "text": "Anämie",
+          "start": 47.08,
+          "end": 49.76
+        },
+        {
+          "text": "Blutarm",
+          "start": 49.76,
+          "end": 51.44
+        },
+        {
+          "text": "Erbrechen",
+          "start": 52.69,
+          "end": 54.21
+        },
+        {
+          "text": "Hormon",
+          "start": 55.52,
+          "end": 57.1
+        },
+        {
+          "text": "Kindsbewegungen",
+          "start": 58.41,
+          "end": 60.19
+        },
+        {
+          "text": "Müdigkeit",
+          "start": 61.47,
+          "end": 63.35
+        },
+        {
+          "text": "Schwangere",
+          "start": 64.73,
+          "end": 66.43
+        },
+        {
+          "text": "Übelkeit",
+          "start": 67.71,
+          "end": 70.25
+        },
+        {
+          "text": "Unwohlsein",
+          "start": 70.77,
+          "end": 72.65
+        },
+        {
+          "text": "die schwere Geburt",
+          "start": 73.71,
+          "end": 76.07
+        },
+        {
+          "text": "entbinden",
+          "start": 77.32,
+          "end": 78.78
+        },
+        {
+          "text": "gebären",
+          "start": 80.02,
+          "end": 81.66
+        },
+        {
+          "text": "früchen",
+          "start": 83.04,
+          "end": 84.62
+        },
+        {
+          "text": "Frühgeburt",
+          "start": 86.0,
+          "end": 87.72
+        },
+        {
+          "text": "Fruchtwasser",
+          "start": 89.06,
+          "end": 90.84
+        },
+        {
+          "text": "Hebamme",
+          "start": 92.15,
+          "end": 93.79
+        },
+        {
+          "text": "Schnittentbindung",
+          "start": 95.23,
+          "end": 97.15
+        },
+        {
+          "text": "Wehen",
+          "start": 98.43,
+          "end": 99.77
+        },
+        {
+          "text": "Abtreibung",
+          "start": 101.02,
+          "end": 102.98
+        },
+        {
+          "text": "Missbildung",
+          "start": 104.23,
+          "end": 105.83
+        },
+        {
+          "text": "Totgeburt",
+          "start": 108.68,
+          "end": 110.08
+        },
+        {
+          "text": "entwöhnen",
+          "start": 110.08,
+          "end": 112.04
+        },
+        {
+          "text": "Muttermilch",
+          "start": 114.95,
+          "end": 116.35
+        },
+        {
+          "text": "Wochenbett",
+          "start": 116.35,
+          "end": 118.03
+        },
+        {
+          "text": "Kindbett",
+          "start": 119.38,
+          "end": 120.88
+        },
+        {
+          "text": "stillen",
+          "start": 122.35,
+          "end": 123.71
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Mutterkuchen besteht aus Gewebe in der Gebärmutter.",
-        "In der dritten Woche nach der Befruchtung beginnt der Herzschlag des Fötuses.",
-        "Die Kinder werden nach der Geburt ausführlich untersucht und der Papa darf die Nabelschnur durchschneiden.",
-        "Der Arzt möchte den Blutdruck messen oder Blut abnehmen und es im Labor untersuchen.",
-        "Bei der Ultraschalluntersuchung können der Arzt und die schwangere Frau das ungeborene Kind beobachten.",
-        "Eine Anämie ist entweder erworben oder angeboren.",
-        "Etwa in der 22.",
-        "Schwangerschaftswoche haben die meisten Schwangeren schon die Kindsbewegungen gespürt.",
-        "Schwangerschaftserbrechen tritt oft am Morgen auf und kann von Unwohlsein und Übelkeit begleitet sein.",
-        "Von einer Frühgeburt wird gesprochen, wenn das Baby vor Vollendung der 37.",
-        "Schwangerschaftswoche geboren wird oder weniger als 2500 Gramm wiegt.",
-        "Hebamme berät und hilft ihnen während der Schwangerschaft und auch nach der Geburt von ihrem Kind.",
-        "Eine angeborene Missbildung der linken Hand machte ihm das Leben schwer.",
-        "Während des Wochenbets seiner Frau hatte eine Krankenpflegerin beschäftigt."
+        {
+          "text": "Der Mutterkuchen besteht aus Gewebe in der Gebärmutter.",
+          "start": 133.65,
+          "end": 137.67
+        },
+        {
+          "text": "In der dritten Woche nach der Befruchtung beginnt der Herzschlag des Fötuses.",
+          "start": 140.81,
+          "end": 145.83
+        },
+        {
+          "text": "Die Kinder werden nach der Geburt ausführlich untersucht und der Papa darf die Nabelschnur durchschneiden.",
+          "start": 148.98,
+          "end": 155.42
+        },
+        {
+          "text": "Der Arzt möchte den Blutdruck messen oder Blut abnehmen und es im Labor untersuchen.",
+          "start": 158.39,
+          "end": 164.29
+        },
+        {
+          "text": "Bei der Ultraschalluntersuchung können der Arzt und die schwangere Frau das ungeborene Kind beobachten.",
+          "start": 167.35,
+          "end": 174.37
+        },
+        {
+          "text": "Eine Anämie ist entweder erworben oder angeboren.",
+          "start": 177.52,
+          "end": 181.18
+        },
+        {
+          "text": "Etwa in der 22.",
+          "start": 184.27,
+          "end": 185.73
+        },
+        {
+          "text": "Schwangerschaftswoche haben die meisten Schwangeren schon die Kindsbewegungen gespürt.",
+          "start": 186.81,
+          "end": 192.15
+        },
+        {
+          "text": "Schwangerschaftserbrechen tritt oft am Morgen auf und kann von Unwohlsein und Übelkeit begleitet sein.",
+          "start": 194.8,
+          "end": 200.68
+        },
+        {
+          "text": "Von einer Frühgeburt wird gesprochen, wenn das Baby vor Vollendung der 37.",
+          "start": 204.44,
+          "end": 209.98
+        },
+        {
+          "text": "Schwangerschaftswoche geboren wird oder weniger als 2500 Gramm wiegt.",
+          "start": 210.8,
+          "end": 216.88
+        },
+        {
+          "text": "Hebamme berät und hilft ihnen während der Schwangerschaft und auch nach der Geburt von ihrem Kind.",
+          "start": 219.86,
+          "end": 225.7
+        },
+        {
+          "text": "Eine angeborene Missbildung der linken Hand machte ihm das Leben schwer.",
+          "start": 228.86,
+          "end": 233.64
+        },
+        {
+          "text": "Während des Wochenbets seiner Frau hat er eine Krankenpflegerin beschäftigt.",
+          "start": 236.85,
+          "end": 241.27
+        }
       ]
     }
   ]

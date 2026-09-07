@@ -1,52 +1,52 @@
-Hauptspeisen
-Dinkel
-Gerste
-Hafer
-Hirse
-Mais
-Reis
-Roggen
-Weizen
-Das glutenfreie Weizenmehl
-Dinkelmehl
-Kartoffelmehl
-Roggenmehl
-Stärke
-Vollkornmehl
-Weizenmehl
-Basmati-Reis
-Klebreis
-Langkornreis
-Milchreis
-Rundkornreis
-Vollkornreis
-Auflauf
-Krepp
-Glasnudel
-Kaiserschmarrn
-Macaroni
-Nudel
-Spaghetti
-Spätzle
-Frühlingsrolle
-Gewürzgurke
-Gulasch
-Knödel
-Kloß
-Maultasche
-Omelette
-Sauerkraut
-Sprechen Sie bitte die folgenden Sätze.
-Gerste wird überwiegend als Tierfutter verwendet.
-Die Haferpflanzen sind einjährige Gräser.
-Der Herbst ist die beste Jahreszeit für Menschen, Mais zu essen.
-Mit Stärke speichern Pflanzen ihre überschüssige Energie als Reserve.
-In China isst man gern Zunzi aus Klebreis,
-eingewickelt in Bambus oder Schilfblätter mit verschiedenen Füllungen.
-Glasnudeln sind eine Nudelartige Beilage in den ostasiatischen Gerichten.
-Kaiserschmarrn zählt zu den bekanntesten Süßspeisen der österreichischen Küche.
-Der Name leitet sich von Kaiser Franz Josef I. ab.
-Gewürzgurken gelten als besonders während der Schwangerschaft geeignetes Nahrungsmittel.
-Am Abend habe ich den Rest vom Gulasch aufgewärmt.
-Als spanisches Nationalgericht ist Tortilla ein Omelett aus Eiern mit Kartoffeln und Zwiebeln.
-Bereits im 7. Jahrhundert entstand die koreanische Variante des Sauerkrauts, das Kimchi.
+[00:00:01.900 --> 00:00:03.800] Hauptspeisen
+[00:00:05.120 --> 00:00:06.600] Dinkel
+[00:00:07.840 --> 00:00:09.420] Gerste
+[00:00:10.830 --> 00:00:12.230] Hafer
+[00:00:13.580 --> 00:00:15.040] Hirse
+[00:00:16.380 --> 00:00:18.420] Mais
+[00:00:19.060 --> 00:00:20.940] Reis
+[00:00:22.220 --> 00:00:23.680] Roggen
+[00:00:24.960 --> 00:00:26.400] Weizen
+[00:00:27.650 --> 00:00:30.750] Das glutenfreie Weizenmehl
+[00:00:32.090 --> 00:00:33.950] Dinkelmehl
+[00:00:36.860 --> 00:00:38.260] Kartoffelmehl
+[00:00:38.260 --> 00:00:40.080] Roggenmehl
+[00:00:41.550 --> 00:00:42.810] Stärke
+[00:00:44.150 --> 00:00:46.610] Vollkornmehl
+[00:00:48.010 --> 00:00:49.410] Weizenmehl
+[00:00:50.720 --> 00:00:52.800] Basmati-Reis
+[00:00:55.680 --> 00:00:57.080] Klebreis
+[00:00:58.920 --> 00:01:00.320] Langkornreis
+[00:01:00.320 --> 00:01:02.200] Milchreis
+[00:01:04.020 --> 00:01:06.160] Rundkornreis
+[00:01:07.570 --> 00:01:09.810] Vollkornreis
+[00:01:11.190 --> 00:01:12.570] Auflauf
+[00:01:13.980 --> 00:01:15.200] Krepp
+[00:01:16.730 --> 00:01:18.610] Glasnudel
+[00:01:19.990 --> 00:01:21.590] Kaiserschmarrn
+[00:01:24.660 --> 00:01:26.060] Macaroni
+[00:01:26.060 --> 00:01:27.720] Nudel
+[00:01:29.120 --> 00:01:30.560] Spaghetti
+[00:01:31.970 --> 00:01:33.550] Spätzle
+[00:01:35.020 --> 00:01:36.680] Frühlingsrolle
+[00:01:37.930 --> 00:01:40.250] Gewürzgurke
+[00:01:41.560 --> 00:01:43.060] Gulasch
+[00:01:44.380 --> 00:01:45.720] Knödel
+[00:01:47.120 --> 00:01:49.200] Klos
+[00:01:49.780 --> 00:01:51.880] Maultasche
+[00:01:53.260 --> 00:01:55.900] Omelette
+[00:01:55.900 --> 00:01:57.780] Sauerkraut
+[00:02:02.260 --> 00:02:05.100] Sprechen Sie bitte die folgenden Sätze
+[00:02:07.910 --> 00:02:12.030] Gerste wird überwiegend als Tierfutter verwendet.
+[00:02:14.270 --> 00:02:18.950] Die Haferpflanzen sind einjährige Gräser.
+[00:02:21.650 --> 00:02:26.130] Der Herbst ist die beste Jahreszeit für Menschen, Mais zu essen.
+[00:02:29.130 --> 00:02:34.230] Mit Stärke speichern Pflanzen ihre überschüssige Energie als Reserve.
+[00:02:37.440 --> 00:02:41.500] In China isst man gern Zunzi aus Klebreis,
+[00:02:41.860 --> 00:02:46.680] eingewickelt in Bambus oder Schilfblätter mit verschiedenen Füllungen.
+[00:02:49.020 --> 00:02:55.900] Glasnudeln sind eine Nudelartige Beilage in den ostasiatischen Gerichten.
+[00:02:59.070 --> 00:03:04.830] Kaiserschmarrn zählt zu den bekanntesten Süßspeisen der österreichischen Küche.
+[00:03:05.030 --> 00:03:09.490] Der Name leitet sich von Kaiser Franz Josef I. ab.
+[00:03:12.370 --> 00:03:18.310] Gewürzgurken gelten als besonders während der Schwangerschaft geeignetes Nahrungsmittel.
+[00:03:21.360 --> 00:03:24.840] Am Abend habe ich den Rest vom Gulasch aufgewärmt.
+[00:03:27.120 --> 00:03:35.120] Als spanisches Nationalgericht ist Tortilla ein Omelett aus Eiern mit Kartoffeln und Zwiebeln.
+[00:03:38.290 --> 00:03:44.710] Bereits im siebten Jahrhundert entstand die koreanische Variante des Sauerkrauts, das Kimchi.

@@ -1,84 +1,57 @@
-Blumen
-Chrysantheme
-Duftblüte
-Geisblatt
-Nachtkerze
-Ringelblume
-Sonnenblume
-Winterblume
-Zaubernuss
-Ballonblume
-Flieder
-Hyazinthe
-Kornblume
-Lavendel
-Schwertlilie
-Stiefmütterchen
-Falken
-Azale
-Gladiole
-Kirschblüte
-Lotus
-Mimose
-Orchidee
-Pfirsichblüte
-Weihnachtskakteen
-Edelrose
-Feuersalbei
-Hibiscus
-Kamelie
-Mondblume
-Pelagonie
-Stundenblume
-Tulpe
-Gänseblümchen
-Gardeinie
-Jasmin
-Kalla
-Lilie
-Magnolie
-Narzisse
-Rubini
-Sprechen Sie bitte die folgenden Sätze.
-Die Blütezeit
-von Geisblatt
-dauert von Mai bis Juni an.
-Die Nachtkerze
-gilt heute als eines der besten
-Heilkräuter bei Hautbeschwerden.
-Wenn es sehr
-kalt wird, rollen sich die
-Blütenblätter der Zaubernuss
-zum Schutz ein.
-In unserem Garten steht
-dieser lila Farbener Flieder.
-In der griechischen
-Mythologie heißt es
-Hyacinthen seien aus den Blutstropfen
-des getöteten Jünglings
-Hyakintos.
-Im Blumenbeet
-neben der Haustüre wachsen
-Primeln und Stiefmütterchen.
-Die Arzalee
-ist als Zimmerpflanze im Winter
-sehr beliebt.
-In Japan symbolisiert
-die Kirschblüte Schönheit
-Er ist empfindlich
-wie eine Mimose.
-In Hawaii
-wird die Blüte vom Hibiscus
-als Haarschmuck getragen.
-Kamelien gelten als eher
-empfindliche und schwer zu
-pflegende Zierpflanzen.
-Aus der Türkei kam die
-Tulpe um die Mitte des
-16. Jahrhunderts nach Mittel-
-und Westeuropa.
-Gardeinie gehört zu den
-Halbpflanzen in der traditionellen
-Chinesischen Medizin.
-Die Lilie ist in Europa
-eine wichtige Futterpflanze.
+[00:00:01.710 --> 00:00:03.410] Blumen
+[00:00:04.720 --> 00:00:06.720] Chrysantheme
+[00:00:08.000 --> 00:00:09.800] Duftblüte
+[00:00:11.050 --> 00:00:13.610] Geisblatt
+[00:00:15.570 --> 00:00:16.970] Nachtkerze
+[00:00:17.550 --> 00:00:19.670] Ringelblume
+[00:00:21.670 --> 00:00:23.070] Sonnenblume
+[00:00:23.070 --> 00:00:25.530] Winterblume
+[00:00:26.910 --> 00:00:28.810] Zaubernuss
+[00:00:30.290 --> 00:00:30.990] Ballonblume
+[00:00:33.100 --> 00:00:34.540] Flieder
+[00:00:35.820 --> 00:00:37.680] Hyazinthe
+[00:00:38.990 --> 00:00:40.690] Kornblume
+[00:00:41.970 --> 00:00:43.690] Lavendel
+[00:00:45.610 --> 00:00:46.790] Schwertlilie
+[00:00:49.020 --> 00:00:50.080] Stiefmütterchen
+[00:00:52.410 --> 00:00:53.110] Falken
+[00:00:54.360 --> 00:00:55.500] Azale
+[00:00:56.740 --> 00:00:58.900] Gladiole
+[00:01:01.690 --> 00:01:02.390] Kirschblüte
+[00:01:04.170 --> 00:01:04.870] Lotus
+[00:01:07.310 --> 00:01:08.710] Mimose
+[00:01:08.710 --> 00:01:10.270] Orchidee
+[00:01:13.520 --> 00:01:14.220] Pfirsichblüte
+[00:01:16.340 --> 00:01:17.740] Weihnachtskakteen
+[00:01:18.980 --> 00:01:20.840] Edelrose
+[00:01:22.250 --> 00:01:24.330] Feuersalbei
+[00:01:25.640 --> 00:01:27.300] Hibiscus
+[00:01:28.580 --> 00:01:31.380] Kamelie
+[00:01:31.380 --> 00:01:33.340] Mondblume
+[00:01:34.620 --> 00:01:36.460] Pelagonie
+[00:01:37.940 --> 00:01:39.800] Stundenblume
+[00:01:41.110 --> 00:01:42.590] Tulpe
+[00:01:43.870 --> 00:01:45.930] Gänseblümchen
+[00:01:47.210 --> 00:01:48.810] Gardenie
+[00:01:50.840 --> 00:01:51.540] Jasmin
+[00:01:54.260 --> 00:01:55.580] Kalla
+[00:01:56.260 --> 00:01:57.460] Lilie
+[00:01:59.510 --> 00:02:00.770] Magnolie
+[00:02:02.690 --> 00:02:03.060] Narzisse
+[00:02:05.280 --> 00:02:06.020] Rubini
+[00:02:10.470 --> 00:02:13.510] Sprechen Sie bitte die folgenden Sätze.
+[00:02:16.490 --> 00:02:21.270] Die Blütezeit von Geisblatt dauert von Mai bis Juni an.
+[00:02:24.220 --> 00:02:30.200] Die Nachtkerze gilt heute als eines der besten Heilkräuter bei Hautbeschwerden.
+[00:02:33.040 --> 00:02:38.860] Wenn es sehr kalt wird, rollen sich die Blütenblätter der Zaubernuss zum Schutz ein.
+[00:02:41.130 --> 00:02:45.930] In unserem Garten steht ein großer lilafarbener Flieder.
+[00:02:48.970 --> 00:02:51.730] In der griechischen Mythologie heißt es,
+[00:02:51.890 --> 00:02:57.370] Hyacinthen seien aus den Blutstropfen des getöteten Jünglings Hyakintos.
+[00:03:00.980 --> 00:03:06.120] Im Blumenbeet neben der Haustüre wachsen Primeln und Stiefmütterchen.
+[00:03:09.040 --> 00:03:13.460] Die Azalee ist als Zimmerpflanze im Winter sehr beliebt.
+[00:03:15.700 --> 00:03:21.780] In Japan symbolisiert die Kirschblüte Schönheit und Vergänglichkeit.
+[00:03:24.900 --> 00:03:27.460] Er ist empfindlich wie eine Mimose.
+[00:03:30.520 --> 00:03:35.660] In Hawaii wird die Blüte vom Hibiskus als Haarschmuck getragen.
+[00:03:38.650 --> 00:03:43.610] Kamelien gelten als eher empfindliche und schwer zu pflegende Zierpflanzen.
+[00:03:46.790 --> 00:03:52.910] Aus der Türkei kam die Tulpe um die Mitte des 16. Jahrhunderts nach Mittel- und Westeuropa.
+[00:03:56.320 --> 00:04:01.540] Gardeinie gehört zu den Halbpflanzen in der traditionellen chinesischen Medizin.
+[00:04:05.010 --> 00:04:08.670] Die Lilie ist in Europa eine wichtige Futterpflanze.

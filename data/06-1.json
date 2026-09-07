@@ -4,58 +4,247 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "schwimmen badelustige",
-        "badelustiger bademeister",
-        "Rettungsschwimmer",
-        "Rettungsschwimmerin",
-        "Schwimmer",
-        "Schwimmerin",
-        "Schwimmtrainer",
-        "Schwimmtrainerin Schwimmlehrer",
-        "Schwimmlehrerin",
-        "Wasserratte",
-        "Beckengrund",
-        "Beckenrand",
-        "Korkleine",
-        "Kurzbahn",
-        "Langbahn",
-        "Schwimmbahn",
-        "Sprungturm",
-        "Tiefe",
-        "Brustschwimmen",
-        "Freistil",
-        "Kraulschwimmen",
-        "Kunstschwimmen",
-        "Rückenschwimmen",
-        "Schmetterling",
-        "Staffelschwimmen",
-        "Ohrstöpsel",
-        "Schwimmbrille",
-        "Schwimmflosse",
-        "Schwimmgürtel",
-        "Schwimmkissen",
-        "Schwimmring",
-        "Schwimmweste",
-        "Rettungsweste"
+        {
+          "text": "schwimmen badelustige",
+          "start": 2.0,
+          "end": 7.66
+        },
+        {
+          "text": "badelustiger bademeister",
+          "start": 7.66,
+          "end": 12.4
+        },
+        {
+          "text": "Rettungsschwimmer",
+          "start": 13.65,
+          "end": 15.21
+        },
+        {
+          "text": "Rettungsschwimmerin",
+          "start": 17.18,
+          "end": 18.84
+        },
+        {
+          "text": "Schwimmer",
+          "start": 20.4,
+          "end": 21.06
+        },
+        {
+          "text": "Schwimmerin",
+          "start": 23.1,
+          "end": 24.28
+        },
+        {
+          "text": "Schwimmtrainer",
+          "start": 25.63,
+          "end": 26.93
+        },
+        {
+          "text": "Schwimmtrainerin Schwimmlehrer",
+          "start": 28.98,
+          "end": 33.59
+        },
+        {
+          "text": "Schwimmlehrerin",
+          "start": 35.35,
+          "end": 36.51
+        },
+        {
+          "text": "Wasserratte",
+          "start": 39.94,
+          "end": 41.34
+        },
+        {
+          "text": "Beckengrund",
+          "start": 41.34,
+          "end": 43.08
+        },
+        {
+          "text": "Beckenrand",
+          "start": 43.96,
+          "end": 45.38
+        },
+        {
+          "text": "Korkleine",
+          "start": 46.66,
+          "end": 48.58
+        },
+        {
+          "text": "Kurzbahn",
+          "start": 49.86,
+          "end": 52.18
+        },
+        {
+          "text": "Langbahn",
+          "start": 52.76,
+          "end": 54.16
+        },
+        {
+          "text": "Schwimmbahn",
+          "start": 55.5,
+          "end": 57.08
+        },
+        {
+          "text": "Sprungturm",
+          "start": 58.62,
+          "end": 60.52
+        },
+        {
+          "text": "Tiefe",
+          "start": 61.83,
+          "end": 63.05
+        },
+        {
+          "text": "Brustschwimmen",
+          "start": 64.33,
+          "end": 65.99
+        },
+        {
+          "text": "Freistiel",
+          "start": 67.46,
+          "end": 69.24
+        },
+        {
+          "text": "Kraulschwimmen",
+          "start": 70.59,
+          "end": 72.37
+        },
+        {
+          "text": "Kunstschwimmen",
+          "start": 75.16,
+          "end": 76.56
+        },
+        {
+          "text": "Rückenschwimmen",
+          "start": 76.56,
+          "end": 78.6
+        },
+        {
+          "text": "Schmetterling",
+          "start": 79.98,
+          "end": 81.48
+        },
+        {
+          "text": "Staffelschwimmen",
+          "start": 82.92,
+          "end": 84.78
+        },
+        {
+          "text": "Ohrstöpsel",
+          "start": 86.06,
+          "end": 87.68
+        },
+        {
+          "text": "Schwimmbrile",
+          "start": 89.12,
+          "end": 90.7
+        },
+        {
+          "text": "Schwimmflosse",
+          "start": 92.1,
+          "end": 93.72
+        },
+        {
+          "text": "Schwimmgürtel",
+          "start": 95.07,
+          "end": 96.91
+        },
+        {
+          "text": "Schwimmkissen",
+          "start": 98.32,
+          "end": 99.88
+        },
+        {
+          "text": "Schwimmring",
+          "start": 101.25,
+          "end": 102.47
+        },
+        {
+          "text": "Schwimmweste",
+          "start": 106.0,
+          "end": 107.2
+        },
+        {
+          "text": "Rettungsweste",
+          "start": 107.2,
+          "end": 108.86
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Viele Faktoren führen heute dazu, dass immer mehr deutsche Kinder nicht schwimmen können.",
-        "Der Beruf des Bademeisters scheint längst nicht attraktiv zu sein.",
-        "Die Rettungsschwimmer sind 10 Meter in die Tiefe getaucht.",
-        "Ein deutscher Schwimmer hat bei der WM in Budapest eine Silbermedaille geholt.",
-        "Er ist keine Wasserratte und scheut vor Wasser.",
-        "Bei den Olympischen Spielen gibt es 10 Schwimmbahnen im Schwimmbecken.",
-        "Im Leben herrscht immer Höhen und Tiefen.",
-        "Die heutigen bekanntesten Schwimmstile im Schwimmsport sind Brustschwimmen, Kraulschwimmen, Rückenkraulen und Schmetterlingsschwimmen.",
-        "Er holt sich seine Goldmedaille über 1500 Meter Freistil ab.",
-        "Sie hat das Finale über 200 Meter Schmetterling als 6. seines Halbfinales verpasst.",
-        "Eine Schwimmbrile kann verhindern, dass Wasser die Augen erreicht.",
-        "Der Schwimmring kann beim Schwimmen helfen.",
-        "Das Tauchen an Riffen ist bedenklich, nur unter Aufsicht und mit Schwimmwesten."
+        {
+          "text": "Viele Faktoren führen heute dazu, dass immer mehr deutsche Kinder nicht schwimmen können.",
+          "start": 118.93,
+          "end": 125.17
+        },
+        {
+          "text": "Der Beruf des Bademeisters scheint längst nicht attraktiv zu sein.",
+          "start": 127.96,
+          "end": 132.92
+        },
+        {
+          "text": "Die Rettungsschwimmer sind 10 Meter in die Tiefe getaucht.",
+          "start": 135.96,
+          "end": 139.7
+        },
+        {
+          "text": "Ein deutscher Schwimmer hat bei der WM in Budapest eine Silbermedaille geholt.",
+          "start": 142.77,
+          "end": 147.85
+        },
+        {
+          "text": "Er ist keine Wasserratte und scheut vor Wasser.",
+          "start": 150.93,
+          "end": 153.91
+        },
+        {
+          "text": "Bei den Olympischen Spielen gibt es 10 Schwimmbahnen im Schwimmbäcken.",
+          "start": 156.89,
+          "end": 161.27
+        },
+        {
+          "text": "Im Leben herrscht immer Höhen und Tiefen.",
+          "start": 164.3,
+          "end": 167.08
+        },
+        {
+          "text": "Die heutigen bekanntesten Schwimmstile im Schwimmsport sind Brustschwimmen, Kraulschwimmen, Rückenkraulen und Schmetterlingsschwimmen.",
+          "start": 169.65,
+          "end": 179.27
+        },
+        {
+          "text": "Er holt sich seine Goldmedaille über 1500 Meter Freistil ab.",
+          "start": 182.22,
+          "end": 187.34
+        },
+        {
+          "text": "Sie hat das Finale über 200 Meter Schmetterling als sechster seines Halbfinales verpasst.",
+          "start": 190.4,
+          "end": 197.2
+        },
+        {
+          "text": "Eine Schwimmbrile kann verhindern, dass Wasser die Augen erreicht.",
+          "start": 199.67,
+          "end": 203.39
+        },
+        {
+          "text": "Der Schwimmring kann beim Schwimmen helfen.",
+          "start": 206.31,
+          "end": 208.83
+        },
+        {
+          "text": "Das Tauchen an Riffen ist bedenklich.",
+          "start": 212.16,
+          "end": 214.58
+        },
+        {
+          "text": "Nur unter Aufsicht und mit Schwimmwesten.",
+          "start": 215.0,
+          "end": 217.7
+        }
       ]
     }
   ]

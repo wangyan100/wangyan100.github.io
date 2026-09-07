@@ -1,75 +1,75 @@
-Verlag
-Beiträger
-Herausgeber
-Kolumnist
-Maler
-Mituhrheber
-Propaganda
-Schriftsteller
-Auflage
-Erscheinen
-Exemplar
-Herausgeben
-Impressum
-Neuerscheinung
-Neuerscheinung
-publizieren
-Chefredakteur
-Designer
-Editor
-Illustrator
-Redakteur
-Verleger
-Beauftragen
-Korrektur
-Korrigieren
-Manuskript
-Revidieren
-Überarbeiten
-Unterschreiben
-Änderungen vorbehalten
-Auflagenhöhe
-Urheberrecht
-Druck
-Honorar
-Redaktionsschluss
-Schließen
-Urheberrechtsschutz
-Sprechen Sie bitte die folgenden Sätze.
-Bei welchem Verlag
-erscheint das Werk?
-Helmut Schmidt ist einer
-der Herausgeber des Handbuchs.
-Er wird als Kolumnist
-für eine Schweizer Tageszeitung arbeiten.
-Die Regierung
-wirft einigen Programmen vor,
-Propaganda zu betreiben.
-Das ist eine Zeitschrift
-mit einer hohen Auflage.
-Dieses Buch ist schon
-rund 50.000 Exemplare
-gedruckt worden.
-Seine Aufsätze wurden in
-Buchform herausgegeben.
-Der Redakteur empfiehlt
-den Lesern einen lesenswerten
-Roman. Der erste Verleger
-lehnte das Buch ab.
-Dem zweiten gefiel dieses
-Buch. Der neue
-Ministerpräsident wurde mit der
-Kabinettsbildung beauftragt.
-Bitte korrigieren Sie mich,
-wenn ich etwas Falsches sage.
-Er schickt das Manuskript
-an einen Redakteur.
-Ich habe den Vertrag in
-der letzten Woche unterschrieben.
-Das geschützte Objekt
-des Urheberrechts ist in allen
-Rechtsordnungen ein Werk der Kunst.
-Wer als Arzt
-mitmacht, kann pro Behandlung
-20 bis 30 Euro
-als Honorar erhalten.
+[00:00:01.940 --> 00:00:03.360] Verlag
+[00:00:05.250 --> 00:00:06.770] Beiträger
+[00:00:08.080 --> 00:00:09.920] Herausgeber
+[00:00:11.870 --> 00:00:13.270] Kolumnist
+[00:00:14.870 --> 00:00:16.270] Maler
+[00:00:16.270 --> 00:00:17.870] Mituhrheber
+[00:00:20.200 --> 00:00:21.220] Propaganda
+[00:00:23.260 --> 00:00:25.060] Schriftsteller
+[00:00:26.380 --> 00:00:28.020] Auflage
+[00:00:29.260 --> 00:00:31.040] Erscheinen
+[00:00:32.290 --> 00:00:34.150] Exemplar
+[00:00:35.500 --> 00:00:37.220] Herausgeben
+[00:00:40.080 --> 00:00:41.480] Impressum
+[00:00:41.480 --> 00:00:42.180] Neuerscheinung
+[00:00:45.290 --> 00:00:45.990] Publizieren
+[00:00:48.860 --> 00:00:49.560] Chefredakteur
+[00:00:51.570 --> 00:00:52.590] Designer
+[00:00:53.870 --> 00:00:55.550] Editor
+[00:00:56.800 --> 00:00:58.820] Illustrator
+[00:01:00.130 --> 00:01:02.150] Redakteur
+[00:01:03.560 --> 00:01:05.180] Verleger
+[00:01:06.560 --> 00:01:08.400] Beauftragen
+[00:01:10.180 --> 00:01:11.500] Korrektur
+[00:01:13.460 --> 00:01:15.440] Korrigieren
+[00:01:15.440 --> 00:01:17.360] Manuskript
+[00:01:18.670 --> 00:01:21.150] Revidieren
+[00:01:22.630 --> 00:01:23.330] Überarbeiten
+[00:01:25.330 --> 00:01:26.690] Unterschreiben
+[00:01:28.000 --> 00:01:30.500] Änderungen vorbehalten
+[00:01:31.780 --> 00:01:32.460] Auflagenhöhe
+[00:01:35.700 --> 00:01:37.060] Urheberrecht
+[00:01:38.370 --> 00:01:39.050] Druck
+[00:01:41.260 --> 00:01:41.940] Honorar
+[00:01:44.700 --> 00:01:45.380] Redaktionsschluss
+[00:01:47.400 --> 00:01:48.580] Schließen
+[00:01:49.830 --> 00:01:51.730] Urheberrechtsschutz
+[00:01:56.860 --> 00:01:59.940] Sprechen Sie bitte die folgenden Sätze
+[00:02:02.180 --> 00:02:03.920] Bei welchem Verlag
+[00:02:03.920 --> 00:02:05.320] erscheint das Werk?
+[00:02:08.440 --> 00:02:09.280] Helmut Schmidt
+[00:02:09.280 --> 00:02:10.920] ist einer der Herausgeber
+[00:02:10.920 --> 00:02:16.540] Er wird als Kolumnist
+[00:02:16.540 --> 00:02:17.560] für eine Schweizer
+[00:02:17.560 --> 00:02:19.100] Tageszeitung arbeiten.
+[00:02:22.250 --> 00:02:23.470] Die Regierung wirft
+[00:02:23.470 --> 00:02:24.910] einigen Programmen vor,
+[00:02:25.190 --> 00:02:26.650] Propaganda zu betreiben.
+[00:02:29.740 --> 00:02:31.220] Das ist eine Zeitschrift
+[00:02:31.220 --> 00:02:32.900] mit einer hohen Auflage.
+[00:02:36.040 --> 00:02:37.260] Dieses Buch ist schon
+[00:02:37.260 --> 00:02:39.400] rund 50.000 Exemplare
+[00:02:39.400 --> 00:02:40.400] gedruckt worden.
+[00:02:43.660 --> 00:02:45.060] Seine Aufsätze wurden
+[00:02:45.060 --> 00:02:47.020] in Buchform herausgegeben.
+[00:02:50.090 --> 00:02:52.350] Der Redakteur empfiehlt den Lesern
+[00:02:52.350 --> 00:02:54.170] von einem lesenswerten Roman.
+[00:02:57.240 --> 00:02:58.620] Der erste Verleger
+[00:02:58.620 --> 00:02:59.900] lehnte das Buch ab.
+[00:03:00.300 --> 00:03:02.220] Dem zweiten gefiel dieses Buch.
+[00:03:05.310 --> 00:03:07.150] Der neue Ministerpräsident
+[00:03:07.150 --> 00:03:08.970] wurde mit der Kabinettsbildung
+[00:03:08.970 --> 00:03:09.930] beauftragt.
+[00:03:12.990 --> 00:03:14.530] Bitte korrigieren Sie mich,
+[00:03:14.590 --> 00:03:16.210] wenn ich etwas Falsches sage.
+[00:03:19.320 --> 00:03:21.040] Er schickt das Manuskript
+[00:03:21.040 --> 00:03:22.440] an einen Redakteur.
+[00:03:25.250 --> 00:03:26.730] Ich habe den Vertrag
+[00:03:26.730 --> 00:03:28.730] in der letzten Woche unterschrieben.
+[00:03:31.710 --> 00:03:33.310] Das geschützte Objekt
+[00:03:33.310 --> 00:03:34.570] des Urheberrechts
+[00:03:34.570 --> 00:03:36.370] ist in allen Rechtsordnungen
+[00:03:36.370 --> 00:03:37.690] ein Werk der Kunst.
+[00:03:40.920 --> 00:03:42.640] Wer als Arzt mitmacht,
+[00:03:42.900 --> 00:03:44.000] kann pro Behandlung
+[00:03:44.000 --> 00:03:47.180] 20 bis 30 Euro als Honorar erhalten.

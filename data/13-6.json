@@ -4,67 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Regionen und Nationen",
-        "Afrika",
-        "Asien",
-        "Europa",
-        "Nordamerika",
-        "Ozeanien",
-        "Südamerika",
-        "Antarktis",
-        "Atlantik",
-        "Atlantisch",
-        "der indische Ozean",
-        "Nordpolarmeer",
-        "Pazifik",
-        "Pazifisch",
-        "Südpolarmeer",
-        "Afrikaner",
-        "Amerikaner",
-        "Asiat",
-        "Eskimo",
-        "Europäer",
-        "Germane",
-        "Indianer",
-        "Urmensch",
-        "Fremdsprache",
-        "Muttersprache",
-        "Chinesisch",
-        "Deutsch",
-        "Englisch",
-        "Französisch",
-        "Japanisch",
-        "Russisch",
-        "Dialekt",
-        "Ahn",
-        "Auslandchinese",
-        "Überseechinese",
-        "Clan",
-        "Mischling",
-        "Nachkomme",
-        "Stamm",
-        "Ureinwohner",
-        "Vorfahr"
+        {
+          "text": "Regionen und Nationen",
+          "start": 1.9,
+          "end": 5.2
+        },
+        {
+          "text": "Afrika",
+          "start": 6.48,
+          "end": 7.5
+        },
+        {
+          "text": "Asien",
+          "start": 8.91,
+          "end": 11.69
+        },
+        {
+          "text": "Europa",
+          "start": 11.69,
+          "end": 13.61
+        },
+        {
+          "text": "Nordamerika",
+          "start": 15.49,
+          "end": 16.89
+        },
+        {
+          "text": "Ozeanien",
+          "start": 19.17,
+          "end": 20.57
+        },
+        {
+          "text": "Südamerika",
+          "start": 20.57,
+          "end": 22.91
+        },
+        {
+          "text": "Antarktis",
+          "start": 24.19,
+          "end": 26.11
+        },
+        {
+          "text": "Atlantik",
+          "start": 27.36,
+          "end": 30.02
+        },
+        {
+          "text": "Atlantisch",
+          "start": 30.02,
+          "end": 32.06
+        },
+        {
+          "text": "der indische Ozean",
+          "start": 33.0,
+          "end": 35.4
+        },
+        {
+          "text": "Nordpolarmeer",
+          "start": 37.84,
+          "end": 39.24
+        },
+        {
+          "text": "Pazifik",
+          "start": 40.65,
+          "end": 42.33
+        },
+        {
+          "text": "Südpolarmeer",
+          "start": 47.38,
+          "end": 48.08
+        },
+        {
+          "text": "Afrikaner",
+          "start": 51.47,
+          "end": 52.33
+        },
+        {
+          "text": "Amerikaner",
+          "start": 52.87,
+          "end": 54.33
+        },
+        {
+          "text": "Asiat",
+          "start": 56.16,
+          "end": 58.04
+        },
+        {
+          "text": "Eskimo",
+          "start": 59.72,
+          "end": 61.12
+        },
+        {
+          "text": "Europäer",
+          "start": 61.12,
+          "end": 63.28
+        },
+        {
+          "text": "Germane",
+          "start": 66.05,
+          "end": 66.89
+        },
+        {
+          "text": "Indianer",
+          "start": 67.45,
+          "end": 69.31
+        },
+        {
+          "text": "Urmensch",
+          "start": 70.65,
+          "end": 72.07
+        },
+        {
+          "text": "Fremdsprache",
+          "start": 73.48,
+          "end": 75.7
+        },
+        {
+          "text": "Muttersprache",
+          "start": 76.95,
+          "end": 78.93
+        },
+        {
+          "text": "Chinesisch",
+          "start": 80.27,
+          "end": 81.77
+        },
+        {
+          "text": "Deutsch",
+          "start": 83.12,
+          "end": 84.08
+        },
+        {
+          "text": "Englisch",
+          "start": 86.5,
+          "end": 87.2
+        },
+        {
+          "text": "Französisch",
+          "start": 90.04,
+          "end": 91.0
+        },
+        {
+          "text": "Japanisch",
+          "start": 92.58,
+          "end": 93.98
+        },
+        {
+          "text": "Russisch",
+          "start": 93.98,
+          "end": 96.16
+        },
+        {
+          "text": "Dialekt",
+          "start": 97.41,
+          "end": 99.29
+        },
+        {
+          "text": "Ahn",
+          "start": 99.87,
+          "end": 101.53
+        },
+        {
+          "text": "Auslandchinese",
+          "start": 102.87,
+          "end": 104.97
+        },
+        {
+          "text": "Überseechinese",
+          "start": 106.22,
+          "end": 107.88
+        },
+        {
+          "text": "Clan",
+          "start": 109.85,
+          "end": 110.89
+        },
+        {
+          "text": "Mischling",
+          "start": 110.89,
+          "end": 113.63
+        },
+        {
+          "text": "Nachkomme",
+          "start": 116.03,
+          "end": 117.01
+        },
+        {
+          "text": "Stamm",
+          "start": 120.09,
+          "end": 121.07
+        },
+        {
+          "text": "Ureinwohner",
+          "start": 121.07,
+          "end": 122.07
+        },
+        {
+          "text": "Vorfahr",
+          "start": 124.61,
+          "end": 125.59
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Sahara in Afrika ist das größte Wüstengebiet der Welt und der höchste Berg Afrikas ist der Kilimanjaro mit 5892 Metern.",
-        "China ist Deutschlands wichtigster Partner in Asien.",
-        "Deutschland gehört zu den am dichtesten besiedelten Ländern Europas.",
-        "Die in Südamerika beheimateten Tiere sind vom Aussterben bedroht.",
-        "Zwischen Südamerika und Afrika liegt der Atlantik.",
-        "Im Nordpolarmeer nimmt langfristig die Fläche und die Dicke des Eises ab.",
-        "Der Pazifik hat zahlreiche Geheimnisse.",
-        "Die Afrikaner sind viel lockerer.",
-        "Der Eskimo lebt in einem Igloo.",
-        "Der Urmensch hat mit seiner Intelligenz die Waffen erfunden, um sein Leben zu sichern.",
-        "Die Beherrschung einer Fremdsprache gilt im Berufsleben als Schlüsselqualifikation.",
-        "Dieser Professor spricht im Berliner Dialekt.",
-        "Obama ist ein Mischling, die Mutter weiß und aus Kansas, der Vater schwarz, ein Kenyana.",
-        "Forscher suchen nach einem gemeinsamen Vorfahren von Affen und Menschen."
+        {
+          "text": "Die Sahara in Afrika ist das größte Wüstengebiet der Welt und der höchste Berg Afrikas ist der Kilimanjaro mit 5892 Metern.",
+          "start": 133.24,
+          "end": 146.48
+        },
+        {
+          "text": "China ist Deutschlands wichtigster Partner in Asien.",
+          "start": 149.19,
+          "end": 152.85
+        },
+        {
+          "text": "Deutschland gehört zu den am dichtesten besiedelten Ländern Europas.",
+          "start": 155.15,
+          "end": 160.43
+        },
+        {
+          "text": "Die in Südamerika beheimateten Tiere sind vom Aussterben bedroht.",
+          "start": 163.43,
+          "end": 168.61
+        },
+        {
+          "text": "Zwischen Südamerika und Afrika liegt der Atlantik.",
+          "start": 171.34,
+          "end": 175.66
+        },
+        {
+          "text": "Im Nordpolarmeer nimmt langfristig die Fläche und die Dicke des Eises ab.",
+          "start": 178.51,
+          "end": 184.17
+        },
+        {
+          "text": "Der Pazifik hat zahlreiche Geheimnisse.",
+          "start": 187.24,
+          "end": 190.04
+        },
+        {
+          "text": "Die Afrikaner sind viel lockerer.",
+          "start": 193.12,
+          "end": 195.52
+        },
+        {
+          "text": "Der Eskimo lebt in einem Iglu.",
+          "start": 197.86,
+          "end": 201.12
+        },
+        {
+          "text": "Der Urmensch hat mit seiner Intelligenz die Waffen erfunden, um sein Leben zu sichern.",
+          "start": 204.16,
+          "end": 210.02
+        },
+        {
+          "text": "Die Beherrschung einer Fremdsprache gilt im Berufsleben als Schlüsselqualifikation.",
+          "start": 212.88,
+          "end": 218.8
+        },
+        {
+          "text": "Dieser Professor spricht im Berliner Dialekt.",
+          "start": 221.98,
+          "end": 224.98
+        },
+        {
+          "text": "Obama ist ein Mischling, die Mutter weiß und aus Kansas, der Vater schwarz, ein Kenianer.",
+          "start": 228.01,
+          "end": 235.01
+        },
+        {
+          "text": "Forscher suchen nach einem gemeinsamen Vorfahren von Affen und Menschen.",
+          "start": 237.47,
+          "end": 242.91
+        }
       ]
     }
   ]

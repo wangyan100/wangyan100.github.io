@@ -1,55 +1,60 @@
-Zeit
-Morgengrauen
-Vormittag
-Mittag
-Nachmittag
-Dämmerung
-Abend
-Nacht
-Mitternacht
-Während
-Zwischen
-Jetzt
-Gerade
-Vorhin
-Vergangenheit
-Gegenwart
-Zukunft
-Sekunde
-Minute
-Viertel
-Stunde
-Uhr
-Sagen den Uhrzeigersinn
-Sanduhr
-Augenblick
-Moment
-eher
-früher
-sofort
-gleich
-umgehend
-vorzeitig
-verzögern
-einschlafen
-Halbschlaf
-zu Bett gehen
-sich ausschlafen
-Tiefschlaf
-aufwachen
-Sprechen Sie bitte die folgenden Sätze
-Die Fahrt beschleunigte sich und bei Morgengrauen lief der Zug in den Hauptbahnhof von Berlin ein.
-Die Bundespolizei hatte gestern Abend die ICE-Strecke zwischen Hamburg und Berlin vorübergehend gesperrt.
-Nach dem Regen schien wieder die Sonne.
-Es geschah vor Jahrzehnten.
-Die deutsche Grammatik kennt drei Zeitformen der Vergangenheit für ein Verb.
-Es ist Viertel nach zwölf Uhr.
-Bitte wecke mich um acht Uhr.
-Weil die Zeiger der Uhren rechtsdrehend sind, wird bei Rechtsdrehungen meist einfach nur vom Uhrzeigersinn, UZS, gesprochen.
-Katholische und orthodoxe Geistliche umrunden den Altar während des Gottesdienstes gegen den Uhrzeigersinn.
-In der Krankenpflege wurden früher kleine Sanduhren mit einer Laufzeit von 15 Sekunden zum Messen des Pulses verwendet.
-Kommen Sie vorzeitig zu einer Party, müssen Sie damit rechnen, dass Sie Ihre Gastgeber noch in der Küche antreffen.
-Napoleon soll gesagt haben, China ist ein schlafender Löwe.
-Lasst ihn schlafen. Wenn er aufwacht, erschüttert er die Welt.
-Als Halbschlaf bezeichnen wir den Dämmerzustand zwischen Schlaf und Wachsein.
-Im Gegensatz dazu steht der Tiefschlaf.
+[00:00:01.840 --> 00:00:04.100] Zeit
+[00:00:04.840 --> 00:00:06.640] Morgengrauen
+[00:00:11.190 --> 00:00:12.590] Vormittag
+[00:00:14.710 --> 00:00:16.550] Mittag
+[00:00:17.710 --> 00:00:19.270] Nachmittag
+[00:00:20.710 --> 00:00:21.670] Dämmerung
+[00:00:23.090 --> 00:00:23.790] Abend
+[00:00:23.790 --> 00:00:26.290] Nacht
+[00:00:26.290 --> 00:00:29.050] Mitternacht
+[00:00:30.460 --> 00:00:31.340] Nach
+[00:00:33.870 --> 00:00:35.350] vor
+[00:00:35.870 --> 00:00:36.870] während
+[00:00:39.240 --> 00:00:39.940] zwischen
+[00:00:41.240 --> 00:00:42.360] jetzt
+[00:00:44.310 --> 00:00:45.010] gerade
+[00:00:47.580 --> 00:00:48.280] vorhin
+[00:00:51.370 --> 00:00:52.210] Vergangenheit
+[00:00:53.370 --> 00:00:54.330] Gegenwart
+[00:00:56.700 --> 00:00:57.400] Zukunft
+[00:00:59.360 --> 00:01:00.760] Sekunde
+[00:01:01.720 --> 00:01:02.720] Minute
+[00:01:05.090 --> 00:01:05.910] Viertel
+[00:01:07.510 --> 00:01:08.250] Stunde
+[00:01:09.660 --> 00:01:10.960] Uhr
+[00:01:12.910 --> 00:01:14.530] Uhrzeigersinn
+[00:01:15.780 --> 00:01:19.380] gegen den Uhrzeigersinn
+[00:01:21.280 --> 00:01:22.160] Sanduhr
+[00:01:22.680 --> 00:01:24.140] Augenblick
+[00:01:25.420 --> 00:01:26.780] Moment
+[00:01:28.440 --> 00:01:29.400] eher
+[00:01:30.870 --> 00:01:31.870] früher
+[00:01:34.250 --> 00:01:35.230] sofort
+[00:01:36.250 --> 00:01:37.590] gleich
+[00:01:39.500 --> 00:01:40.980] umgehend
+[00:01:42.880 --> 00:01:43.820] vorzeitig
+[00:01:46.190 --> 00:01:47.150] verzögern
+[00:01:48.460 --> 00:01:50.320] einschlafen
+[00:01:51.660 --> 00:01:53.320] Halbschlaf
+[00:01:54.570 --> 00:01:56.250] ins Bett gehen
+[00:01:57.560 --> 00:01:59.660] zu Bett gehen
+[00:02:00.940 --> 00:02:03.080] sich ausschlafen
+[00:02:05.780 --> 00:02:06.900] Tiefschlaf
+[00:02:06.900 --> 00:02:08.800] aufwachen
+[00:02:13.310 --> 00:02:16.130] Sprechen Sie bitte die folgenden Sätze.
+[00:02:19.090 --> 00:02:25.450] Die Fahrt beschleunigte sich und bei Morgengrauen lief der Zug in den Hauptbahnhof von Berlin ein.
+[00:02:27.690 --> 00:02:36.810] Die Bundespolizei hatte gestern Abend die ICE-Strecke zwischen Hamburg und Berlin vorübergehend gesperrt.
+[00:02:39.300 --> 00:02:42.220] Nach dem Regen schien wieder die Sonne.
+[00:02:44.680 --> 00:02:46.940] Es geschah vor Jahrzehnten.
+[00:02:49.750 --> 00:02:54.910] Die deutsche Grammatik kennt drei Zeitformen der Vergangenheit für ein Verb.
+[00:02:58.040 --> 00:03:00.180] Es ist Viertel nach 12 Uhr.
+[00:03:03.160 --> 00:03:05.180] Bitte wecke mich um 8 Uhr.
+[00:03:07.540 --> 00:03:17.980] Weil die Zeiger der Uhren rechtsdrehend sind, wird bei Rechtsdrehungen meist einfach nur vom Uhrzeigersinn, UZS, gesprochen.
+[00:03:21.160 --> 00:03:29.280] Katholische und orthodoxe Geistliche umrunden den Altar während des Gottesdienstes gegen den Uhrzeigersinn.
+[00:03:31.520 --> 00:03:41.520] In der Krankenpflege wurden früher kleine Sanduhren mit einer Laufzeit von 15 Sekunden zum Messen des Pulses verwendet.
+[00:03:44.530 --> 00:03:52.030] Kommen Sie vorzeitig zu einer Party, müssen Sie damit rechnen, dass Sie Ihre Gastgeber noch in der Küche antreffen.
+[00:03:55.050 --> 00:03:59.830] Napoleon soll gesagt haben, China ist ein schlafender Löwe.
+[00:04:00.130 --> 00:04:01.550] Lasst ihn schlafen.
+[00:04:01.850 --> 00:04:04.410] Wenn er aufwacht, erschüttert er die Welt.
+[00:04:06.720 --> 00:04:13.030] Als Halbschlaf bezeichnen wir den Dämmerzustand zwischen Schlaf und Wachsein.
+[00:04:13.740 --> 00:04:16.520] Im Gegensatz dazu steht der Tiefschlaf.

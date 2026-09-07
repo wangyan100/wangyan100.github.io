@@ -4,68 +4,292 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Fitness",
-        "Gewicht",
-        "Sitzfahrrad",
-        "Handtel",
-        "Laufband",
-        "Sandsack",
-        "Stepper",
-        "Vibrationsplatte",
-        "Widerstandband",
-        "Energie",
-        "Kalorie",
-        "Kohlenhydrat",
-        "Fett",
-        "Eiweiß",
-        "Protein",
-        "vegetarisch",
-        "Vitamin",
-        "abnehmen",
-        "Ausdauer",
-        "Dehnung",
-        "Gleichgewicht",
-        "Kraft",
-        "Probetraining",
-        "sich aufwärmen",
-        "Ziel",
-        "Aquazumba",
-        "Kardiotraining",
-        "Crossfit",
-        "Hot Hula",
-        "Liegestütz",
-        "Pilates",
-        "Seilspringen",
-        "Yoga",
-        "Anfänger",
-        "Einsteiger",
-        "der private Trainer",
-        "Pumper",
-        "Fitness-Tracker",
-        "Kompressions-Shirt",
-        "Stirnband",
-        "Laufschuh"
+        {
+          "text": "Fitness",
+          "start": 1.97,
+          "end": 3.81
+        },
+        {
+          "text": "Gewicht",
+          "start": 6.13,
+          "end": 7.53
+        },
+        {
+          "text": "Sitzfahrrad",
+          "start": 7.53,
+          "end": 9.47
+        },
+        {
+          "text": "Handtel",
+          "start": 10.78,
+          "end": 13.24
+        },
+        {
+          "text": "Laufband",
+          "start": 13.24,
+          "end": 15.26
+        },
+        {
+          "text": "Sandsack",
+          "start": 16.48,
+          "end": 17.9
+        },
+        {
+          "text": "Stepper",
+          "start": 19.6,
+          "end": 21.66
+        },
+        {
+          "text": "Vibrationsplatte",
+          "start": 23.8,
+          "end": 25.2
+        },
+        {
+          "text": "Widerstandband",
+          "start": 25.78,
+          "end": 27.5
+        },
+        {
+          "text": "Energie",
+          "start": 28.74,
+          "end": 30.22
+        },
+        {
+          "text": "Kalorie",
+          "start": 31.5,
+          "end": 33.38
+        },
+        {
+          "text": "Kohlenhydrat",
+          "start": 34.76,
+          "end": 36.58
+        },
+        {
+          "text": "Fett",
+          "start": 37.92,
+          "end": 39.16
+        },
+        {
+          "text": "Eiweiß",
+          "start": 40.48,
+          "end": 42.06
+        },
+        {
+          "text": "Protein",
+          "start": 43.3,
+          "end": 44.8
+        },
+        {
+          "text": "vegetarisch",
+          "start": 47.69,
+          "end": 49.09
+        },
+        {
+          "text": "Vitamin",
+          "start": 49.09,
+          "end": 50.23
+        },
+        {
+          "text": "abnehmen",
+          "start": 51.48,
+          "end": 53.34
+        },
+        {
+          "text": "Ausdauer",
+          "start": 54.59,
+          "end": 56.57
+        },
+        {
+          "text": "Dehnung",
+          "start": 57.55,
+          "end": 59.05
+        },
+        {
+          "text": "Gleichgewicht",
+          "start": 60.3,
+          "end": 61.94
+        },
+        {
+          "text": "Kraft",
+          "start": 63.28,
+          "end": 64.24
+        },
+        {
+          "text": "Probetraining",
+          "start": 65.71,
+          "end": 67.75
+        },
+        {
+          "text": "sich aufwärmen",
+          "start": 69.03,
+          "end": 71.01
+        },
+        {
+          "text": "Ziel",
+          "start": 72.36,
+          "end": 73.26
+        },
+        {
+          "text": "Aquazumba",
+          "start": 74.57,
+          "end": 76.77
+        },
+        {
+          "text": "Kardiotraining",
+          "start": 78.14,
+          "end": 80.18
+        },
+        {
+          "text": "Crossfit",
+          "start": 81.53,
+          "end": 83.11
+        },
+        {
+          "text": "Hot Hula",
+          "start": 84.39,
+          "end": 87.13
+        },
+        {
+          "text": "Liegestütz",
+          "start": 87.13,
+          "end": 89.25
+        },
+        {
+          "text": "Pilates",
+          "start": 90.56,
+          "end": 92.04
+        },
+        {
+          "text": "Seilspringen",
+          "start": 94.85,
+          "end": 96.25
+        },
+        {
+          "text": "Yoga",
+          "start": 96.25,
+          "end": 97.69
+        },
+        {
+          "text": "Anfänger",
+          "start": 98.97,
+          "end": 100.79
+        },
+        {
+          "text": "Einsteiger",
+          "start": 102.13,
+          "end": 103.89
+        },
+        {
+          "text": "Der private Trainer",
+          "start": 105.14,
+          "end": 107.1
+        },
+        {
+          "text": "Pumper",
+          "start": 108.41,
+          "end": 110.15
+        },
+        {
+          "text": "Fitness-Tracker",
+          "start": 111.56,
+          "end": 113.54
+        },
+        {
+          "text": "Kompressions-Shirt",
+          "start": 114.85,
+          "end": 116.93
+        },
+        {
+          "text": "Stirnband",
+          "start": 118.37,
+          "end": 120.61
+        },
+        {
+          "text": "Laufschuh",
+          "start": 121.37,
+          "end": 123.01
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Wenn du Krafttraining betreibst, dann braucht dein Körper Kohlenhydrate als Energielieferant.",
-        "Muskeln bestehen zu einem großen Teil aus Eiweiß.",
-        "Deshalb ist es wichtig, dass man ausreichend Proteine zu sich nimmt.",
-        "Sie geht jeden Samstag ins Fitnessstudio, um abzunehmen.",
-        "Wärmt man sich vor dem Sport nicht auf, kommt es zu Zerrungen und Gelenkverschleiß.",
-        "Aquazumba heißt der Trend, der eine Mischung aus Aquaerobic und Zumba ist.",
-        "Kardiotraining kann das Herz und die Lunge verstärken.",
-        "Hot Hula ist ein echtes gute Laune-Workout, das den ganzen Körper trainiert.",
-        "Hot Pilates wird sich nach und nach von großen Städten in die kleineren Städte vorarbeiten.",
-        "Liegestütze trainieren nicht nur den Bauch, sondern auch Oberarme, Schultern und Brust.",
-        "Viele Mädchen spielen gerne Seilspringen.",
-        "Fast 90% der Deutschen finden Gartenarbeit entspannender als Yoga.",
-        "Der Trainer hat dem Anfänger einen passenden Trainingskurs empfohlen.",
-        "Mein privater Trainer inspiriert mich oft beim Training.",
-        "Man kann Fitness-Tracker mit seinem Smartphone über Bluetooth verbinden."
+        {
+          "text": "Wenn du Krafttraining betreibst, dann braucht dein Körper Kohlenhydrate als Energielieferant.",
+          "start": 133.26,
+          "end": 139.62
+        },
+        {
+          "text": "Muskeln bestehen zu einem großen Teil aus Eiweiß.",
+          "start": 142.79,
+          "end": 146.51
+        },
+        {
+          "text": "Deshalb ist es wichtig, dass man ausreichend Proteine zu sich nimmt.",
+          "start": 146.71,
+          "end": 150.97
+        },
+        {
+          "text": "Sie geht jeden Samstag ins Fitnessstudio, um abzunehmen.",
+          "start": 154.09,
+          "end": 158.45
+        },
+        {
+          "text": "Wärmt man sich vor dem Sport nicht auf, kommt es zu Zerrungen und Gelenkverschleiß.",
+          "start": 161.04,
+          "end": 167.22
+        },
+        {
+          "text": "Aquazumba heißt der Trend, der eine Mischung aus Aquaerobic und Zumba ist.",
+          "start": 170.04,
+          "end": 175.28
+        },
+        {
+          "text": "Kardiotraining kann das Herz und die Lunge verstärken.",
+          "start": 178.76,
+          "end": 182.46
+        },
+        {
+          "text": "Hot Hula ist ein echtes gute Laune-Workout, das den ganzen Körper trainiert.",
+          "start": 185.06,
+          "end": 190.86
+        },
+        {
+          "text": "Hot Pilates wird sich nach und nach von großen Städten in die kleineren Städte vorarbeiten.",
+          "start": 193.93,
+          "end": 200.31
+        },
+        {
+          "text": "Liegestütze trainieren nicht nur den Bauch, sondern auch Oberarme, Schultern und Brust.",
+          "start": 203.46,
+          "end": 209.56
+        },
+        {
+          "text": "Viele Mädchen spielen gerne Seilspringen.",
+          "start": 212.23,
+          "end": 214.99
+        },
+        {
+          "text": "Fast 90% der Deutschen finden Gartenarbeit entspannender als Yoga.",
+          "start": 218.06,
+          "end": 223.2
+        },
+        {
+          "text": "Der Trainer hat dem Anfänger einen passenden Trainingskurs empfohlen.",
+          "start": 223.2,
+          "end": 230.42
+        },
+        {
+          "text": "Mein privater Trainer inspiriert mich oft beim Training.",
+          "start": 230.42,
+          "end": 237.28
+        },
+        {
+          "text": "Man kann Fitness-Tracker mit seinem Smartphone über Bluetooth verbinden.",
+          "start": 237.28,
+          "end": 245.67
+        }
       ]
     }
   ]

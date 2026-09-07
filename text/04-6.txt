@@ -1,33 +1,36 @@
-Karaoke bestellen
-Buffet die ganze Nacht hindurch
-Kellner reservieren
-Rezeption rufen
-Trinkgeld Beamer
-Display Monitor
-Kabel Lautsprecher
-Mikrofon abspielen Aufnehmen
-Menü Wiedergabe
-Begleitmusik Melodie
-Note Rhythmus
-Takt Text Ton
-Tonhöhe Blues
-Heavy Metal Hip-Hop
-Jazz Pop
-Punk Rap
-Rock Album Hitliste
-Komponist Liedermacher
-Sänger Sängerin
-Schlager Sprechen Sie bitte die folgenden Sätze
-Er bestellt ein starkes Getränk. An der Rezeption wartet der Kellner auf uns ab.
-Du kommst mir wie gerufen. Sie stellt den Beamer an.
-Die Entwicklung des Lautsprechers ist direkt mit der Erfindung des Telefons verknüpft.
-Du sollst ins Mikrofon singen, sonst hören wir dich nicht.
-Davon kann ich ein Lied singen. Könntest du die Note lesen?
-Es gerät aus dem Rhythmus.
-Der Butler behandelt diese Angelegenheit mit Takt.
-Der Text stimmt mit der Melodie des Liedes überein.
-Reden Sie doch einen Ton.
-Hip-Hop ist sehr beliebt bei den Jugendlichen.
-Cui Jian ist der Vater des chinesischen Rocks.
-Der 57-jährige Sänger sagt, dass sein Wunsch schon in Erfüllung gegangen ist.
-Sein Lied ist der Schlager des Jahres und steht hoch auf der Hitliste.
+[00:00:01.780 --> 00:00:07.410] Karaoke bestellen
+[00:00:07.410 --> 00:00:12.930] Buffet die ganze Nacht hindurch
+[00:00:14.180 --> 00:00:19.200] Kellner reservieren
+[00:00:21.520 --> 00:00:24.320] Rezeption rufen
+[00:00:25.600 --> 00:00:30.460] Trinkgeld Beamer
+[00:00:31.180 --> 00:00:35.300] Display Monitor
+[00:00:36.610 --> 00:00:41.870] Kabel Lautsprecher
+[00:00:42.690 --> 00:00:50.460] Mikrofon abspielen Aufnehmen
+[00:00:53.720 --> 00:00:56.520] Menü Wiedergabe
+[00:01:00.300 --> 00:01:03.100] Begleitmusik Melodie
+[00:01:03.100 --> 00:01:08.420] Note Rhythmus
+[00:01:08.420 --> 00:01:14.970] Takt Text Ton
+[00:01:16.800 --> 00:01:20.660] Tonhöhe Blues
+[00:01:21.910 --> 00:01:26.470] Heavy Metal Hip-Hop
+[00:01:27.940 --> 00:01:31.250] Jazz Pop
+[00:01:32.850 --> 00:01:36.470] Punk Rap
+[00:01:38.040 --> 00:01:43.130] Rock Album
+[00:01:46.590 --> 00:01:48.830] Hitliste Komponist
+[00:01:51.650 --> 00:01:53.890] Liedermacher Sänger
+[00:01:55.750 --> 00:01:59.360] Sängerin Schlager
+[00:02:03.780 --> 00:02:12.580] Sprechen Sie bitte die folgenden Sätze Er bestellt ein starkes Getränk.
+[00:02:14.940 --> 00:02:18.200] An der Rezeption wartet der Kellner auf uns ab.
+[00:02:20.980 --> 00:02:22.970] Du kommst mir wie gerufen.
+[00:02:26.090 --> 00:02:27.970] Sie stellt den Beamer an.
+[00:02:30.820 --> 00:02:36.300] Die Entwicklung des Lautsprechers ist direkt mit der Erfindung des Telefons verknüpft.
+[00:02:39.290 --> 00:02:43.130] Du sollst ins Mikrofon singen, sonst hören wir dich nicht.
+[00:02:46.200 --> 00:02:48.260] Davon kann ich ein Lied singen.
+[00:02:51.050 --> 00:02:52.870] Könntest du die Note lesen?
+[00:02:55.630 --> 00:02:58.010] Es gerät aus dem Rhythmus.
+[00:03:00.760 --> 00:03:04.480] Der Butler behandelt diese Angelegenheit mit Takt.
+[00:03:06.720 --> 00:03:11.840] Der Text stimmt mit der Melodie des Liedes überein.
+[00:03:14.580 --> 00:03:16.200] Reden Sie doch einen Ton.
+[00:03:19.390 --> 00:03:22.550] Hip-Hop ist sehr beliebt bei den Jugendlichen.
+[00:03:25.550 --> 00:03:29.150] Cui Jian ist der Vater des chinesischen Rocks.
+[00:03:31.730 --> 00:03:37.250] Der 57-jährige Sänger sagt, dass sein Wunsch schon in Erfüllung gegangen ist.
+[00:03:40.380 --> 00:03:44.640] Sein Lied ist der Schlager des Jahres und steht hoch auf der Hitliste.

@@ -4,63 +4,267 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Lurche und Reptilien",
-        "Frosch",
-        "Kamm-Molch",
-        "Kaulkwappe",
-        "Kröte",
-        "Laubfrosch",
-        "Pfeilgift-Frosch",
-        "Riesensalamander",
-        "Salamander",
-        "Chamäleon",
-        "Echse",
-        "Gekko",
-        "Großkopfschildkröte",
-        "Schildkröte",
-        "Tabasko-Schildkröte",
-        "Wasserdosen-Schildkröte",
-        "Zierschildkröte",
-        "Blumentopfschlange",
-        "Boarschlange",
-        "Giftschlange",
-        "Hutschlange",
-        "Königskobra",
-        "Python",
-        "Schlange",
-        "Alligator",
-        "Krokodil",
-        "Leistenkrokodil",
-        "Spitzkrokodil",
-        "Varan",
-        "Sommerschlaf",
-        "Winterschlaf",
-        "Hibernation",
-        "Abstreifen",
-        "Kriechen",
-        "Nachttier",
-        "Quaken",
-        "Sichschlängeln"
+        {
+          "text": "Lurche und Reptilien",
+          "start": 1.62,
+          "end": 4.6
+        },
+        {
+          "text": "Frosch",
+          "start": 6.07,
+          "end": 7.53
+        },
+        {
+          "text": "Kamm-Molch",
+          "start": 8.84,
+          "end": 10.58
+        },
+        {
+          "text": "Kaulkwappe",
+          "start": 11.89,
+          "end": 13.53
+        },
+        {
+          "text": "Kröte",
+          "start": 14.88,
+          "end": 16.48
+        },
+        {
+          "text": "Laubfrosch",
+          "start": 17.72,
+          "end": 19.62
+        },
+        {
+          "text": "Pfeilgift-Frosch",
+          "start": 21.0,
+          "end": 24.5
+        },
+        {
+          "text": "Riesensalamander",
+          "start": 24.5,
+          "end": 26.92
+        },
+        {
+          "text": "Salamander",
+          "start": 28.17,
+          "end": 29.91
+        },
+        {
+          "text": "Chamäleon",
+          "start": 31.25,
+          "end": 33.87
+        },
+        {
+          "text": "Echse",
+          "start": 33.87,
+          "end": 35.61
+        },
+        {
+          "text": "Gekko",
+          "start": 36.86,
+          "end": 38.36
+        },
+        {
+          "text": "Großkopfschildkröte",
+          "start": 41.96,
+          "end": 43.36
+        },
+        {
+          "text": "Schildkröte",
+          "start": 43.36,
+          "end": 45.48
+        },
+        {
+          "text": "Tabasko-Schildkröte",
+          "start": 46.76,
+          "end": 50.66
+        },
+        {
+          "text": "Wasserdosen-Schildkröte",
+          "start": 50.66,
+          "end": 53.48
+        },
+        {
+          "text": "Zierschildkröte",
+          "start": 56.9,
+          "end": 58.3
+        },
+        {
+          "text": "Blumentopfschlange",
+          "start": 58.3,
+          "end": 60.66
+        },
+        {
+          "text": "Bohrschlange",
+          "start": 61.9,
+          "end": 63.86
+        },
+        {
+          "text": "Giftschlange",
+          "start": 65.14,
+          "end": 66.98
+        },
+        {
+          "text": "Hutschlange",
+          "start": 68.3,
+          "end": 70.22
+        },
+        {
+          "text": "Königskobra",
+          "start": 71.5,
+          "end": 73.08
+        },
+        {
+          "text": "Python",
+          "start": 74.36,
+          "end": 75.84
+        },
+        {
+          "text": "Schlange",
+          "start": 77.24,
+          "end": 78.78
+        },
+        {
+          "text": "Alligator",
+          "start": 80.03,
+          "end": 81.59
+        },
+        {
+          "text": "Krokodil",
+          "start": 82.94,
+          "end": 84.76
+        },
+        {
+          "text": "Leistenkrokodil",
+          "start": 87.0,
+          "end": 88.4
+        },
+        {
+          "text": "Spitzkrokodil",
+          "start": 91.4,
+          "end": 92.8
+        },
+        {
+          "text": "Varan",
+          "start": 92.8,
+          "end": 94.82
+        },
+        {
+          "text": "Sommerschlaf",
+          "start": 96.1,
+          "end": 98.58
+        },
+        {
+          "text": "Winterschlaf",
+          "start": 98.58,
+          "end": 101.1
+        },
+        {
+          "text": "Hibernation",
+          "start": 102.41,
+          "end": 104.45
+        },
+        {
+          "text": "Abstreifen",
+          "start": 105.73,
+          "end": 107.67
+        },
+        {
+          "text": "Kriechen",
+          "start": 109.01,
+          "end": 111.39
+        },
+        {
+          "text": "Nachtier",
+          "start": 111.39,
+          "end": 112.89
+        },
+        {
+          "text": "Quaken",
+          "start": 114.72,
+          "end": 116.3
+        },
+        {
+          "text": "Sich schlängeln",
+          "start": 117.58,
+          "end": 119.54
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Frosch quakt Kröten leben oft in feuchten Gebieten.",
-        "Der Salamander kann dem Mythos nach im Feuer wohnen.",
-        "Wie ein Chamäleon passt er sich dem jeweiligen Umfeld an.",
-        "Die meisten Gekkonen sind ausgesprochen nachtaktiv.",
-        "Schildkröten können Farben besser differenzieren als Menschen.",
-        "Da Fleisch und Eier von Tabasko-Schildkröte hohe Preise erzielen, wird sie überjagt.",
-        "Zierschildkröten bevorzugen langsam fließende, flache Gewässer mit weichem, schlammigem Grund und starker Vegetation.",
-        "Königskobra ist die größte Giftschlange der Welt.",
-        "Der Python hat die Haut abgestreift.",
-        "Die Schlange kriecht über den Boden.",
-        "Alle Krokodile sind vor allem Fleischfresser.",
-        "Ein Spaziergänger hat am Dienstagabend ein junges Krokodil am See gesehen.",
-        "Varane entsprechen in ihrem Äußeren der Grundform einer Echse mit vier Beinen und einem Schwanz.",
-        "Der Winterschläfer verwandelt sich in Hibernation von einem gleich warmen Tier in ein wechselwarmes Tier."
+        {
+          "text": "Der Frosch quakt Kröten leben oft in feuchten Gebieten.",
+          "start": 129.78,
+          "end": 138.23
+        },
+        {
+          "text": "Der Salamander kann dem Mythos nach im Feuer wohnen.",
+          "start": 140.83,
+          "end": 145.27
+        },
+        {
+          "text": "Wie ein Chamäleon passt er sich dem jeweiligen Umfeld an.",
+          "start": 147.79,
+          "end": 151.87
+        },
+        {
+          "text": "Die meisten Gekkonen sind ausgesprochen nachtaktiv.",
+          "start": 154.9,
+          "end": 159.4
+        },
+        {
+          "text": "Schildkröten können Farben besser differenzieren als Menschen.",
+          "start": 162.52,
+          "end": 166.86
+        },
+        {
+          "text": "Da Fleisch und Eier von Tabaskoschildkröte hohe Preise erzielen, wird sie überjagt.",
+          "start": 169.68,
+          "end": 177.11
+        },
+        {
+          "text": "Zierschildkröten bevorzugen langsam fließende, flache Gewässer mit weichem, schlammigem Grund und starker Vegetation.",
+          "start": 180.66,
+          "end": 189.46
+        },
+        {
+          "text": "Königskobra ist die größte Giftschlange der Welt.",
+          "start": 192.54,
+          "end": 196.34
+        },
+        {
+          "text": "Der Python hat die Haut abgestreift.",
+          "start": 199.34,
+          "end": 202.26
+        },
+        {
+          "text": "Die Schlange kriecht über den Boden.",
+          "start": 205.2,
+          "end": 207.62
+        },
+        {
+          "text": "Alle Krokodile sind vor allem Fleischfresser.",
+          "start": 209.96,
+          "end": 213.88
+        },
+        {
+          "text": "Ein Spaziergänger hat am Dienstagabend ein junges Krokodil am See gesehen.",
+          "start": 217.1,
+          "end": 222.16
+        },
+        {
+          "text": "Varane entsprechen in ihrem Äußeren der Grundform einer Echse mit vier Beinen und einem Schwanz.",
+          "start": 225.62,
+          "end": 232.4
+        },
+        {
+          "text": "Der Winterschläfer verwandelt sich in Hibernation von einem gleich warmen Tier in ein wechselwarmes Tier.",
+          "start": 235.44,
+          "end": 243.1
+        }
       ]
     }
   ]

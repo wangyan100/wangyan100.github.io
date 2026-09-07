@@ -1,47 +1,50 @@
-Hals und Rumpf
-Adamsapfel
-Genick
-Gurgel
-Kehle
-Kehlkopf
-Luftröhre
-Nacken
-Schlund
-Speiseröhre
-Brustkorb
-Brusthöhle
-Brustspitze
-Brustwarze
-Bauch
-Bauchhöhle
-Bauchmuskel
-Nabel
-Unterleib
-Schulter
-Schultergelenk
-Schultergürtel
-Wirbel
-Anus
-Becken
-Gesäß
-Hüfte
-Leiste
-Lände
-Sprechen Sie bitte die folgenden Sätze.
-Die Frau wirft den Kopf in den Nacken.
-Mir brennt der Schlund.
-Die Speiseröhre ist ein hohler Schlauch, der vom Rachen bis zum Magen führt.
-Er drückt seine weinende Frau an die Brust.
-Die weibliche Brust besteht zum größten Teil aus Fett- und Drüsengewebe.
-Schläfst du auf dem Bauch oder auf dem Rücken?
-Als Bauchhöhle wird der Raum unterhalb des Zwerchfels bezeichnet.
-In diesem Fall ist es nötig, eine Ultraschalluntersuchung des Abdomens vorzunehmen.
-Nabel ist ein Überbleibsel der Nabelschnur, die mit der Plazenta unserer Mutter verbunden hat,
-um Föten mit lebenswichtigen Nährstoffen zu versorgen.
-Der Schweiß ran dem Sklaven den Rücken hinunter.
-Er zuckte die Schulter und sagte, er habe keine Ahnung.
-Wegen eines Muskelrisses im Schultergelenk ihres linken Arms
-musste die 21 Jahre alte Amerikanerin das Turnier in der kommenden Woche absagen.
-Heute streben Frauen wieder nach weiblicheren Figuren
-mit schönen, aber straffen Kurven, wie eine schmale Talie.
-Die Form des Beckens ist zwischen Frauen und Männern sehr unterschiedlich.
+[00:00:01.740 --> 00:00:03.960] Hals und Rumpf
+[00:00:06.890 --> 00:00:08.290] Adamsapfel
+[00:00:08.290 --> 00:00:09.670] Genick
+[00:00:10.920 --> 00:00:12.480] Gurgel
+[00:00:13.790 --> 00:00:15.090] Kehle
+[00:00:16.370 --> 00:00:17.690] Kehlkopf
+[00:00:19.200 --> 00:00:21.800] Luftröhre
+[00:00:21.800 --> 00:00:23.600] Nacken
+[00:00:24.970 --> 00:00:26.130] Schlund
+[00:00:29.010 --> 00:00:30.410] Speiseröhre
+[00:00:30.410 --> 00:00:32.570] Brustkorb
+[00:00:34.010 --> 00:00:36.590] Brusthöhle
+[00:00:36.590 --> 00:00:38.990] Brustspitze
+[00:00:40.270 --> 00:00:42.650] Brustwarze
+[00:00:44.310 --> 00:00:45.010] Bauch
+[00:00:47.210 --> 00:00:47.910] Bauchhöhle
+[00:00:49.310 --> 00:00:50.710] Bauchmuskel
+[00:00:52.170 --> 00:00:53.570] Nabel
+[00:00:53.570 --> 00:00:55.870] Unterleib
+[00:00:57.410 --> 00:00:58.870] Schulter
+[00:01:00.240 --> 00:01:02.000] Schultergelenk
+[00:01:03.910 --> 00:01:06.090] Schultergürtel
+[00:01:06.090 --> 00:01:08.210] Wirbel
+[00:01:08.910 --> 00:01:10.550] Anus
+[00:01:12.350 --> 00:01:13.750] Becken
+[00:01:16.390 --> 00:01:17.110] Gesäß
+[00:01:19.010 --> 00:01:19.730] Hüfte
+[00:01:21.130 --> 00:01:21.850] Leiste
+[00:01:23.110 --> 00:01:23.830] Lände
+[00:01:28.210 --> 00:01:30.950] Sprechen Sie bitte die folgenden Sätze.
+[00:01:33.840 --> 00:01:36.440] Die Frau wirft den Kopf in den Nacken.
+[00:01:39.570 --> 00:01:41.150] Mir brennt der Schlund.
+[00:01:44.120 --> 00:01:46.880] Die Speiseröhre ist ein hohler Schlauch,
+[00:01:46.900 --> 00:01:49.220] der vom Rachen bis zum Magen führt.
+[00:01:52.270 --> 00:01:55.250] Er drückt seine weinende Frau an die Brust.
+[00:01:57.420 --> 00:02:03.780] Die weibliche Brust besteht zum größten Teil aus Fett- und Drüsengewebe.
+[00:02:06.350 --> 00:02:08.930] Schläfst du auf dem Bauch oder auf dem Rücken?
+[00:02:11.850 --> 00:02:16.450] Als Bauchhöhle wird der Raum unterhalb des Zwerchfels bezeichnet.
+[00:02:19.380 --> 00:02:21.600] In diesem Fall ist es nötig,
+[00:02:21.780 --> 00:02:25.440] eine Ultraschalluntersuchung des Abdomens vorzunehmen.
+[00:02:28.530 --> 00:02:31.610] Nabel ist ein Überbleibsel der Nabelschnur,
+[00:02:31.850 --> 00:02:34.790] die mit der Plazenta unserer Mutter verbunden hat,
+[00:02:34.790 --> 00:02:38.770] um Föten mit lebenswichtigen Nährstoffen zu versorgen.
+[00:02:41.720 --> 00:02:44.840] Der Schweiß ran dem Sklaven den Rücken hinunter.
+[00:02:47.920 --> 00:02:51.260] Er zuckte die Schulter und sagte, er habe keine Ahnung.
+[00:02:54.180 --> 00:02:58.200] Wegen eines Muskelrisses im Schultergelenk ihres linken Arms
+[00:02:58.200 --> 00:03:04.540] musste die 21 Jahre alte Amerikanerin das Turnier in der kommenden Woche absagen.
+[00:03:07.620 --> 00:03:11.060] Heute streben Frauen wieder nach weiblicheren Figuren
+[00:03:11.060 --> 00:03:15.340] mit schönen, aber straffen Kurven, wie eine schmale Talje.
+[00:03:18.140 --> 00:03:22.290] Die Form des Beckens ist zwischen Frauen und Männern sehr unterschiedlich.

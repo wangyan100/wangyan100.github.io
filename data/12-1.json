@@ -4,53 +4,212 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Liebesbeziehung",
-        "Büroliebe",
-        "Liebe am Arbeitsplatz",
-        "Fernbeziehung",
-        "Fernliebende",
-        "Fernliebender",
-        "Internetliebe",
-        "Liebesglück",
-        "Liebesheirat",
-        "heiß",
-        "heimlich",
-        "herzlich",
-        "innig",
-        "körperlich",
-        "leidenschaftlich",
-        "romantisch",
-        "treu",
-        "unglücklich",
-        "an jemandem hängen",
-        "liebeln",
-        "Liebe für jemanden empfinden",
-        "in Liebe zu jemandem entbrannt sein",
-        "mögen",
-        "sich verlieben",
-        "sich verknallen",
-        "verliebt sein",
-        "die einseitige Liebe",
-        "die heimliche Liebe",
-        "die versteckte Liebe",
-        "Jugendliebe",
-        "Liebesabenteuer",
-        "Liebesaffäre",
-        "Liebe auf den ersten Blick",
-        "Verliebtheit",
-        "Liebesbrief",
-        "Liebeserklärung",
-        "Liebesgedicht",
-        "Liebeskrank",
-        "Liebeskummer",
-        "Liebeslied"
+        {
+          "text": "Liebesbeziehung",
+          "start": 1.84,
+          "end": 4.18
+        },
+        {
+          "text": "Büroliebe",
+          "start": 5.84,
+          "end": 7.12
+        },
+        {
+          "text": "Liebe am Arbeitsplatz",
+          "start": 9.04,
+          "end": 11.02
+        },
+        {
+          "text": "Fernbeziehung",
+          "start": 12.92,
+          "end": 14.42
+        },
+        {
+          "text": "Fernliebende",
+          "start": 16.24,
+          "end": 17.6
+        },
+        {
+          "text": "Fernliebender",
+          "start": 19.38,
+          "end": 21.0
+        },
+        {
+          "text": "Internetliebe",
+          "start": 24.74,
+          "end": 26.14
+        },
+        {
+          "text": "Liebesglück",
+          "start": 26.14,
+          "end": 27.54
+        },
+        {
+          "text": "Liebesheirat",
+          "start": 28.88,
+          "end": 30.42
+        },
+        {
+          "text": "heiß",
+          "start": 32.17,
+          "end": 32.57
+        },
+        {
+          "text": "heimlich",
+          "start": 34.8,
+          "end": 35.6
+        },
+        {
+          "text": "herzlich",
+          "start": 37.75,
+          "end": 38.35
+        },
+        {
+          "text": "innig",
+          "start": 40.61,
+          "end": 41.25
+        },
+        {
+          "text": "körperlich",
+          "start": 43.23,
+          "end": 44.15
+        },
+        {
+          "text": "leidenschaftlich",
+          "start": 46.73,
+          "end": 47.97
+        },
+        {
+          "text": "romantisch",
+          "start": 49.9,
+          "end": 50.76
+        },
+        {
+          "text": "treu",
+          "start": 52.62,
+          "end": 53.44
+        },
+        {
+          "text": "unglücklich",
+          "start": 55.29,
+          "end": 56.21
+        },
+        {
+          "text": "an jemandem hängen",
+          "start": 58.28,
+          "end": 59.82
+        },
+        {
+          "text": "liebeln",
+          "start": 61.76,
+          "end": 62.74
+        },
+        {
+          "text": "Liebe für jemanden empfinden",
+          "start": 64.06,
+          "end": 66.26
+        },
+        {
+          "text": "in Liebe zu jemandem entbrannt sein",
+          "start": 68.54,
+          "end": 71.14
+        },
+        {
+          "text": "mögen",
+          "start": 73.27,
+          "end": 74.11
+        },
+        {
+          "text": "sich verlieben",
+          "start": 75.9,
+          "end": 77.28
+        },
+        {
+          "text": "sich verknallen",
+          "start": 78.99,
+          "end": 80.13
+        },
+        {
+          "text": "verliebt sein",
+          "start": 82.3,
+          "end": 83.48
+        },
+        {
+          "text": "die einseitige Liebe",
+          "start": 84.48,
+          "end": 87.28
+        },
+        {
+          "text": "die heimliche Liebe",
+          "start": 88.72,
+          "end": 90.5
+        },
+        {
+          "text": "die versteckte Liebe",
+          "start": 90.5,
+          "end": 94.22
+        },
+        {
+          "text": "Jugendliebe",
+          "start": 96.2,
+          "end": 97.6
+        },
+        {
+          "text": "Liebesabenteuer",
+          "start": 99.32,
+          "end": 101.22
+        },
+        {
+          "text": "Liebesaffäre",
+          "start": 102.85,
+          "end": 104.19
+        },
+        {
+          "text": "Liebe auf den ersten Blick",
+          "start": 106.3,
+          "end": 108.1
+        },
+        {
+          "text": "Verliebtheit",
+          "start": 110.2,
+          "end": 111.16
+        },
+        {
+          "text": "Liebesbrief",
+          "start": 115.44,
+          "end": 116.84
+        },
+        {
+          "text": "Liebeserklärung",
+          "start": 116.84,
+          "end": 118.24
+        },
+        {
+          "text": "Liebesgedicht",
+          "start": 119.78,
+          "end": 121.28
+        },
+        {
+          "text": "Liebeskrank",
+          "start": 122.97,
+          "end": 124.15
+        },
+        {
+          "text": "Liebeskummer",
+          "start": 126.24,
+          "end": 127.06
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Alte Liebe rostet nicht Liebe und Verliebtheit entstehen durch Nähe und Vertrauen Liebe am Arbeitsplatz ist Alltag in Deutschland Langzeitstudien zeigen, nach zwei bis drei Jahren ist meistens Schluss mit der Fernbeziehung Fernliebende müssen ihre Ansprüche herunterschrauben Seine Internetliebe wurde zum Albtraum Fast jeder träumt von der romantischen Liebe und hofft, eines Tages den Partner fürs Leben zu finden Er verliebt sich leidenschaftlich in sie Ich habe mich in meinen Kollegen verknallt Die Jugendliebe ist brüchig Bei der Liebesaffäre spielt die körperliche Liebe eine wichtige Rolle Klassische Liebesbriefe werden heute eher weniger geschrieben Auf kunstvolle Art und Weise wurden Liebesgedichte mit viel Mühe gestaltet und dann lieber an den Empfänger übermittelt In den USA ist Liebeskranksein als Krankheit anerkannt"
+        {
+          "text": "Alte Liebe rostet nicht, Liebe und Verliebtheit entstehen durch Nähe und Vertrauen Liebe am Arbeitsplatz ist Alltag in Deutschland Langzeitstudien zeigen, nach zwei bis drei Jahren ist meistens Schluss mit der Fernbeziehung Fernliebende müssen ihre Ansprüche herunterschrauben Seine Internetliebe wurde zum Albtraum Fast jeder träumt von der romantischen Liebe und hofft, eines Tages den Partner fürs Leben zu finden Er verliebt sich leidenschaftlich in sie Ich habe mich in meinen Kollegen verknallt Die Jugendliebe ist brüchig Bei der Liebesaffäre spielt die körperliche Liebe eine wichtige Rolle Klassische Liebesbriefe werden heute eher weniger geschrieben Auf kunstvolle Art und Weise wurden Liebesgedichte mit viel Mühe gestaltet und dann lieber an den Empfänger übermittelt In den USA ist Liebeskranksein als Krankheit anerkannt",
+          "start": 140.52,
+          "end": 240.82
+        }
       ]
     }
   ]

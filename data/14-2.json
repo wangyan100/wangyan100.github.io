@@ -4,61 +4,257 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Oberbekleidung",
-        "Partybluse",
-        "Polobluse",
-        "Reversebluse",
-        "Sommerbluse",
-        "Tunika",
-        "Businesshemd",
-        "Fraghemd",
-        "Freizeithemd",
-        "Polohemd",
-        "Fliege",
-        "Krawattenknoten",
-        "Krawatte",
-        "Manschette",
-        "Blazer",
-        "Kapuze",
-        "Ledermantel",
-        "Nerzmantel",
-        "Poncho",
-        "Trenchcoat",
-        "Übergangsmantel",
-        "Basic shirt",
-        "Das T-Shirt mit Rundhalsausschnitt",
-        "Das T-Shirt mit V-Ausschnitt",
-        "Das T-Shirt mit Volantärmeln",
-        "Halbarmshirt",
-        "Ringelshirt",
-        "Anorak",
-        "Daunenjacke",
-        "Strickjacke",
-        "Lederjacke",
-        "Rolli",
-        "Ringelpulli",
-        "Tupfenpullover"
+        {
+          "text": "Oberbekleidung",
+          "start": 1.74,
+          "end": 4.16
+        },
+        {
+          "text": "Partybluse",
+          "start": 5.51,
+          "end": 7.25
+        },
+        {
+          "text": "Polobluse",
+          "start": 8.66,
+          "end": 10.62
+        },
+        {
+          "text": "Reversebluse",
+          "start": 11.9,
+          "end": 13.98
+        },
+        {
+          "text": "Sommerbluse",
+          "start": 15.29,
+          "end": 17.19
+        },
+        {
+          "text": "Tunika",
+          "start": 18.47,
+          "end": 19.97
+        },
+        {
+          "text": "Businesshemd",
+          "start": 21.25,
+          "end": 23.13
+        },
+        {
+          "text": "Fraghemd",
+          "start": 24.99,
+          "end": 26.21
+        },
+        {
+          "text": "Freizeithemd",
+          "start": 28.3,
+          "end": 29.56
+        },
+        {
+          "text": "Polohemd",
+          "start": 31.55,
+          "end": 32.57
+        },
+        {
+          "text": "Fliege",
+          "start": 34.57,
+          "end": 35.27
+        },
+        {
+          "text": "Krawattenknoten",
+          "start": 38.2,
+          "end": 38.9
+        },
+        {
+          "text": "Krawatte",
+          "start": 41.62,
+          "end": 42.56
+        },
+        {
+          "text": "Manschette",
+          "start": 43.62,
+          "end": 45.34
+        },
+        {
+          "text": "Blazer",
+          "start": 45.34,
+          "end": 47.16
+        },
+        {
+          "text": "Kapuze",
+          "start": 49.82,
+          "end": 50.58
+        },
+        {
+          "text": "Ledermantel",
+          "start": 53.02,
+          "end": 54.42
+        },
+        {
+          "text": "Nerzmantel",
+          "start": 54.42,
+          "end": 56.48
+        },
+        {
+          "text": "Poncho",
+          "start": 57.76,
+          "end": 59.22
+        },
+        {
+          "text": "Trenchcoat",
+          "start": 61.18,
+          "end": 62.16
+        },
+        {
+          "text": "Übergangsmantel",
+          "start": 65.6,
+          "end": 67.0
+        },
+        {
+          "text": "Basic Shirt",
+          "start": 67.0,
+          "end": 68.52
+        },
+        {
+          "text": "Das T-Shirt mit Rundhalsausschnitt",
+          "start": 69.84,
+          "end": 72.88
+        },
+        {
+          "text": "Das T-Shirt mit V-Ausschnitt",
+          "start": 74.16,
+          "end": 77.54
+        },
+        {
+          "text": "Das T-Shirt mit Volantärmeln",
+          "start": 78.79,
+          "end": 81.27
+        },
+        {
+          "text": "Halbarmshirt",
+          "start": 85.34,
+          "end": 86.74
+        },
+        {
+          "text": "Ringelshirt",
+          "start": 86.74,
+          "end": 88.58
+        },
+        {
+          "text": "Anorak",
+          "start": 89.83,
+          "end": 91.31
+        },
+        {
+          "text": "Daunenjacke",
+          "start": 93.11,
+          "end": 94.45
+        },
+        {
+          "text": "Strickjacke",
+          "start": 96.55,
+          "end": 98.47
+        },
+        {
+          "text": "Lederjacke",
+          "start": 98.47,
+          "end": 100.91
+        },
+        {
+          "text": "Rolli",
+          "start": 102.19,
+          "end": 103.83
+        },
+        {
+          "text": "Ringelpulli",
+          "start": 105.29,
+          "end": 105.99
+        },
+        {
+          "text": "Tupfenpullover",
+          "start": 107.94,
+          "end": 109.52
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die weiße Bluse muss unbedingt schnell gebügelt werden.",
-        "Deine Polo-Bluse ist schick und sehr modern.",
-        "Heute trägt die Lehrerin eine kurzärmlige Reverse-Bluse.",
-        "Die Sommerbluse ist schon ganz ausgewaschen.",
-        "Wer seinen Bauch verbergen will, greift zur Tunika.",
-        "Im schlichten hellblauen Businesshemd steht er in einer Ecke des Konferenzraums.",
-        "Trainer lockerte seinen Krawattenknoten.",
-        "Der Blazer wird sowohl zu Hose als auch Rock passen.",
-        "Bekleidet ist Tatverdächtiger mit einem schwarzen Mantel mit einer Kapuze, wie die Polizei mitteilte.",
-        "Es hat begonnen zu regnen.",
-        "Die ältere Frau zieht ihren blauen Trenchcoat enger.",
-        "Genau wie seine Mama trägt der Junge auch ein Ringelshirt.",
-        "Er zieht seinen Anorak an und bringt mich zum Bahnhof zurück.",
-        "Die Hände versteckt er in den Taschen seiner schwarzen Lederjacke.",
-        "Wer den Polarkreis im Juni besucht, braucht eine spezielle Garderobe, bestehend aus Wollmütze, Daunenjacke und langer Unterwäsche."
+        {
+          "text": "Die weiße Bluse muss unbedingt schnell gebügelt werden.",
+          "start": 119.54,
+          "end": 123.92
+        },
+        {
+          "text": "Deine Polobluse ist schick und sehr modern.",
+          "start": 126.28,
+          "end": 130.16
+        },
+        {
+          "text": "Heute trägt die Lehrerin eine kurzärmlige Reversebluse.",
+          "start": 133.39,
+          "end": 136.84
+        },
+        {
+          "text": "Die Sommerbluse ist schon ganz ausgewaschen.",
+          "start": 140.59,
+          "end": 143.08
+        },
+        {
+          "text": "Wer seinen Bauch verbergen will, greift zur Tunika.",
+          "start": 146.66,
+          "end": 150.28
+        },
+        {
+          "text": "Im schlichten hellblauen Businesshemd steht er in einer Ecke des Konferenzraums.",
+          "start": 153.4,
+          "end": 159.0
+        },
+        {
+          "text": "Trainer lockerte seinen Krawattenknoten.",
+          "start": 162.09,
+          "end": 164.02
+        },
+        {
+          "text": "Der Blazer wird sowohl zu Hose als auch Rock passen.",
+          "start": 167.42,
+          "end": 172.26
+        },
+        {
+          "text": "Bekleidet ist Tatverdächtiger mit einem schwarzen Mantel mit einer Kapuze, wie die Polizei mitteilte.",
+          "start": 174.78,
+          "end": 180.96
+        },
+        {
+          "text": "Es hat begonnen zu regnen.",
+          "start": 184.51,
+          "end": 186.29
+        },
+        {
+          "text": "Die ältere Frau zieht ihren blauen Trenchcoat enger.",
+          "start": 186.67,
+          "end": 190.59
+        },
+        {
+          "text": "Genau wie seine Mama trägt der Junge auch ein Ringelshirt.",
+          "start": 193.11,
+          "end": 196.79
+        },
+        {
+          "text": "Er zieht seinen Anorak an und bringt mich zum Bahnhof zurück.",
+          "start": 199.76,
+          "end": 203.6
+        },
+        {
+          "text": "Die Hände versteckt er in den Taschen seiner schwarzen Lederjacke.",
+          "start": 205.87,
+          "end": 210.09
+        },
+        {
+          "text": "Wer den Polarkreis im Juni besucht, braucht eine spezielle Garderobe, bestehend aus Wollmütze, Daunenjacke und langer Unterwäsche.",
+          "start": 213.67,
+          "end": 222.83
+        }
       ]
     }
   ]

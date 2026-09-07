@@ -1,47 +1,44 @@
-Algebra 1 Bruchstrich, Doppelbruch
-der echte Bruch, der eigentliche Bruch
-der unechte Bruch, der uneigentliche Bruch
-Zähler, Nenner, Hauptnenner
-der endliche Dezimalbruch
-der unendliche Dezimalbruch
-der unendliche periodische Dezimalbruch
-der unendliche unperiodische Dezimalbruch
-Dezimalsystem
-Komma
-die algebraische Formel
-Teiler
-der gemeinsame Teiler
-der größte gemeinsame Teiler
-Primfaktor
-Primfaktorzerlegung
-imaginäre Zahlen
-irrationale Zahlen
-komplexe Zahlen
-natürliche Zahlen
-rationale Zahlen
-proportional
-Rate
-Verhältnis
-Proportion
-Sprechen Sie bitte die folgenden Sätze
-Wenn bei einer Bruchzahl der Betrag des Zählers
-kleiner als der des Nenners ist,
-dann spricht man von einem echten oder eigentlichen Bruch.
-In manchen Fällen wird der Bruchstrich auch schräg geschrieben.
-Wenn der Zähler der Bruchzahl größer als der Nenner ist,
-bezeichnet man solche Bruchzahl als den unechten Bruch.
-Doppelbrüche
-lassen sich durch Erweitern mit einem geeigneten Faktor vereinfachen.
-Zähler und Nenner eines Bruches sind ganze Zahlen.
-Bei einem Bruch darf der Nenner nicht Null sein.
-Unter einem endlichen Dezimalbruch versteht man einen Dezimalbruch,
-der bis auf die letzte Stelle berechenbar ist.
-Pi ist ein typischer unendlicher unperiodischer Dezimalbruch.
-Die gemeinsamen Teiler von 12 und 18
-sind also 1, 2, 3, 6
-und der größte gemeinsame Teiler von diesen ist 6.
-Die reellen Zahlen beinhalten die rationalen Zahlen
-und die irrationalen Zahlen.
-Irrationale Zahl ist auch der unendliche unperiodische Dezimalbruch.
-Die kleinste natürliche Zahl ist die Null.
-20 steht im Verhältnis zu 100 wie 1 zu 5.
+[00:00:01.710 --> 00:00:11.340] Algebra 1 Bruchstrich, Doppelbruch
+[00:00:11.340 --> 00:00:18.230] der echte Bruch, der eigentliche Bruch
+[00:00:18.230 --> 00:00:24.360] der unechte Bruch, der uneigentliche Bruch
+[00:00:25.730 --> 00:00:32.720] Zähler, Nenner, Hauptnenner
+[00:00:33.970 --> 00:00:37.330] der endliche Dezimalbruch
+[00:00:38.130 --> 00:00:41.450] der unendliche Dezimalbruch
+[00:00:42.700 --> 00:00:46.660] der unendliche periodische Dezimalbruch
+[00:00:47.940 --> 00:00:52.020] der unendliche unperiodische Dezimalbruch
+[00:00:53.270 --> 00:00:55.410] Dezimalsystem
+[00:00:56.720 --> 00:00:58.000] Komma
+[00:00:59.280 --> 00:01:01.880] die algebraische Formel
+[00:01:03.190 --> 00:01:04.290] Teiler
+[00:01:05.540 --> 00:01:09.180] der gemeinsame Teiler
+[00:01:09.180 --> 00:01:12.320] der größte gemeinsame Teiler
+[00:01:13.700 --> 00:01:15.500] Primfaktor
+[00:01:16.780 --> 00:01:19.260] Primfaktorszerlegung
+[00:01:20.500 --> 00:01:22.700] imaginäre Zahlen
+[00:01:23.980 --> 00:01:26.340] irrationale Zahlen
+[00:01:29.620 --> 00:01:31.020] komplexe Zahlen
+[00:01:31.020 --> 00:01:33.420] natürliche Zahlen
+[00:01:34.740 --> 00:01:36.880] rationale Zahlen
+[00:01:38.190 --> 00:01:40.010] proportional
+[00:01:41.450 --> 00:01:42.370] Rate
+[00:01:44.310 --> 00:01:46.030] Verhältnis
+[00:01:47.310 --> 00:01:48.690] Proportion
+[00:01:53.240 --> 00:01:56.300] Sprechen Sie bitte die folgenden Sätze
+[00:01:59.130 --> 00:02:05.050] Wenn bei einer Bruchzahl der Betrag des Zählers kleiner als der des Nenners ist,
+[00:02:05.510 --> 00:02:09.230] dann spricht man von einem echten oder eigentlichen Bruch.
+[00:02:12.200 --> 00:02:16.640] In manchen Fällen wird der Bruchstrich auch schräg geschrieben.
+[00:02:19.700 --> 00:02:23.920] Wenn der Zähler der Bruchzahl größer als der Nenner ist,
+[00:02:24.240 --> 00:02:28.060] bezeichnet man solche Bruchzahl als den unechten Bruch.
+[00:02:31.440 --> 00:02:32.220] Doppelbrüche
+[00:02:32.220 --> 00:02:37.260] lassen sich durch Erweitern mit einem geeigneten Faktor vereinfachen.
+[00:02:39.830 --> 00:02:43.270] Zähler und Nenner eines Bruches sind ganze Zahlen.
+[00:02:46.300 --> 00:02:49.520] Bei einem Bruch darf der Nenner nicht Null sein.
+[00:02:52.640 --> 00:02:57.460] Unter einem endlichen Dezimalbruch versteht man einen Dezimalbruch,
+[00:02:57.600 --> 00:03:00.520] der bis auf die letzte Stelle berechenbar ist.
+[00:03:03.560 --> 00:03:08.300] Pi ist ein typischer unendlicher unperiodischer Dezimalbruch.
+[00:03:10.960 --> 00:03:19.240] Die gemeinsamen Teiler von 12 und 18 sind also 1, 2, 3, 6
+[00:03:19.240 --> 00:03:23.580] und der größte gemeinsame Teiler von diesen ist 6.
+[00:03:26.530 --> 00:03:32.550] Die reellen Zahlen beinhalten die rationalen Zahlen und die irrationalen Zahlen.
+[00:03:35.640 --> 00:03:41.500] Irrationale Zahl ist auch der unendliche unperiodische Dezimalbruch.
+[00:03:43.740 --> 00:03:47.600] Die kleinste natürliche Zahl ist die Null.
+[00:03:50.300 --> 00:03:55.000] 20 steht im Verhältnis zu 100 wie 1 zu 5.

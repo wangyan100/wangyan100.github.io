@@ -4,67 +4,287 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Firma",
-        "Aktiengesellschaft",
-        "AG",
-        "die börsennotierte Firma",
-        "Einzelunternehmen",
-        "Gemeinschaftsunternehmen",
-        "die Gesellschaft mit beschränkter Haftung",
-        "GmbH",
-        "Kommanditgesellschaft",
-        "KG",
-        "Privatunternehmen",
-        "Staatsbetrieb",
-        "Vorstandsvorsitzender",
-        "Generaldirektor",
-        "Generaldirektoren",
-        "Chef",
-        "Chefin",
-        "Manager",
-        "Managerin",
-        "Mitarbeiter",
-        "Mitarbeiterin",
-        "Assistent",
-        "Assistentin",
-        "Sekretär",
-        "Sekretärin",
-        "Praktikant",
-        "Praktikantin",
-        "Buchhaltung",
-        "Finanzabteilung",
-        "Marketingabteilung",
-        "Personalabteilung",
-        "Produktionsabteilung",
-        "Rechtsabteilung",
-        "Sicherheitsabteilung",
-        "Technikabteilung",
-        "Besprechen",
-        "Feierabend",
-        "Ordnen",
-        "Protokoll",
-        "Rückfrage",
-        "Sich bemühen",
-        "Stressig",
-        "Überstunden machen"
+        {
+          "text": "Firma",
+          "start": 2.06,
+          "end": 3.12
+        },
+        {
+          "text": "Aktiengesellschaft",
+          "start": 5.38,
+          "end": 6.76
+        },
+        {
+          "text": "AG",
+          "start": 9.36,
+          "end": 9.36
+        },
+        {
+          "text": "die börsennotierte Firma",
+          "start": 9.36,
+          "end": 12.1
+        },
+        {
+          "text": "Einzelunternehmen",
+          "start": 13.38,
+          "end": 16.0
+        },
+        {
+          "text": "Gemeinschaftsunternehmen",
+          "start": 18.1,
+          "end": 19.5
+        },
+        {
+          "text": "die Gesellschaft mit beschränkter Haftung",
+          "start": 20.22,
+          "end": 23.76
+        },
+        {
+          "text": "GmbH",
+          "start": 23.76,
+          "end": 25.34
+        },
+        {
+          "text": "Kommanditgesellschaft",
+          "start": 26.65,
+          "end": 28.61
+        },
+        {
+          "text": "KG",
+          "start": 28.61,
+          "end": 30.07
+        },
+        {
+          "text": "Privatunternehmen",
+          "start": 31.35,
+          "end": 33.31
+        },
+        {
+          "text": "Staatsbetrieb",
+          "start": 34.72,
+          "end": 36.54
+        },
+        {
+          "text": "Vorstandsvorsitzender",
+          "start": 43.64,
+          "end": 45.04
+        },
+        {
+          "text": "Generaldirektor",
+          "start": 46.76,
+          "end": 48.16
+        },
+        {
+          "text": "Generaldirektorin",
+          "start": 49.98,
+          "end": 51.38
+        },
+        {
+          "text": "Chef",
+          "start": 52.76,
+          "end": 53.44
+        },
+        {
+          "text": "Chefin",
+          "start": 54.78,
+          "end": 56.62
+        },
+        {
+          "text": "Manager",
+          "start": 58.06,
+          "end": 59.46
+        },
+        {
+          "text": "Managerin",
+          "start": 61.28,
+          "end": 62.68
+        },
+        {
+          "text": "Mitarbeiter",
+          "start": 63.3,
+          "end": 64.36
+        },
+        {
+          "text": "Mitarbeiterin",
+          "start": 67.6,
+          "end": 69.0
+        },
+        {
+          "text": "Assistent",
+          "start": 69.0,
+          "end": 71.3
+        },
+        {
+          "text": "Assistentin",
+          "start": 72.84,
+          "end": 74.24
+        },
+        {
+          "text": "Sekretär",
+          "start": 75.49,
+          "end": 76.93
+        },
+        {
+          "text": "Sekretärin",
+          "start": 78.21,
+          "end": 80.05
+        },
+        {
+          "text": "Praktikant",
+          "start": 81.33,
+          "end": 82.91
+        },
+        {
+          "text": "Praktikantin",
+          "start": 86.11,
+          "end": 87.51
+        },
+        {
+          "text": "Buchhaltung",
+          "start": 87.51,
+          "end": 89.05
+        },
+        {
+          "text": "Finanzabteilung",
+          "start": 91.88,
+          "end": 93.28
+        },
+        {
+          "text": "Marketingabteilung",
+          "start": 94.74,
+          "end": 96.14
+        },
+        {
+          "text": "Personalabteilung",
+          "start": 97.39,
+          "end": 99.71
+        },
+        {
+          "text": "Produktionsabteilung",
+          "start": 101.02,
+          "end": 103.44
+        },
+        {
+          "text": "Rechtsabteilung",
+          "start": 106.48,
+          "end": 107.88
+        },
+        {
+          "text": "Sicherheitsabteilung",
+          "start": 107.88,
+          "end": 110.4
+        },
+        {
+          "text": "Technikabteilung",
+          "start": 111.72,
+          "end": 114.04
+        },
+        {
+          "text": "Besprechen",
+          "start": 115.28,
+          "end": 116.54
+        },
+        {
+          "text": "Feierabend",
+          "start": 119.55,
+          "end": 120.95
+        },
+        {
+          "text": "Ordnen",
+          "start": 120.95,
+          "end": 122.49
+        },
+        {
+          "text": "Protokoll",
+          "start": 125.29,
+          "end": 126.69
+        },
+        {
+          "text": "Rückfrage",
+          "start": 126.69,
+          "end": 128.23
+        },
+        {
+          "text": "sich bemühen",
+          "start": 129.51,
+          "end": 131.55
+        },
+        {
+          "text": "stressig",
+          "start": 133.02,
+          "end": 135.74
+        },
+        {
+          "text": "Überstunden machen",
+          "start": 135.74,
+          "end": 137.48
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Aktiengesellschaft AG ist die übliche Gesellschaftsform für börsennotierte Firmen.",
-        "Der Professor kommt mit seinem Assistenten in das Zimmer, der sein Buch und Laptop trägt.",
-        "Meine Mutter arbeitet in der Buchhaltung.",
-        "Die Personalabteilung lässt mich als Sekretär anmelden.",
-        "Wir müssen uns mal treffen und das näher besprechen.",
-        "Man kann am Wochenende oder nach Feierabend in den Park gehen.",
-        "Alles hat sich sinnvoll geordnet.",
-        "Anbei schicke ich Ihnen das Protokoll.",
-        "Für weitere Rückfragen stehe ich Ihnen zur Verfügung.",
-        "Der Mann bemüht sich täglich um einen Arbeitsplatz.",
-        "Seine Arbeit ist zu stressig.",
-        "Um mehr Geld zu verdienen, macht er jeden Abend Überstunden."
+        {
+          "text": "Die Aktiengesellschaft AG ist die übliche Gesellschaftsform für börsennotierte Firmen.",
+          "start": 147.46,
+          "end": 155.72
+        },
+        {
+          "text": "Der Professor kommt mit seinem Assistenten in das Zimmer, der sein Buch und Laptop trägt.",
+          "start": 158.1,
+          "end": 164.62
+        },
+        {
+          "text": "Meine Mutter arbeitet in der Buchhaltung.",
+          "start": 167.22,
+          "end": 169.96
+        },
+        {
+          "text": "Die Personalabteilung lässt mich als Sekretär anmelden.",
+          "start": 172.9,
+          "end": 176.98
+        },
+        {
+          "text": "Wir müssen uns mal treffen und das näher besprechen.",
+          "start": 179.97,
+          "end": 183.07
+        },
+        {
+          "text": "Man kann am Wochenende oder nach Feierabend in den Park gehen.",
+          "start": 186.07,
+          "end": 190.67
+        },
+        {
+          "text": "Alles hat sich sinnvoll geordnet.",
+          "start": 193.53,
+          "end": 196.37
+        },
+        {
+          "text": "Anbei schicke ich Ihnen das Protokoll.",
+          "start": 199.18,
+          "end": 201.84
+        },
+        {
+          "text": "Für weitere Rückfragen stehe ich Ihnen zur Verfügung.",
+          "start": 204.64,
+          "end": 208.22
+        },
+        {
+          "text": "Der Mann bemüht sich täglich um einen Arbeitsplatz.",
+          "start": 211.34,
+          "end": 214.56
+        },
+        {
+          "text": "Seine Arbeit ist zu stressig.",
+          "start": 217.8,
+          "end": 220.04
+        },
+        {
+          "text": "Um mehr Geld zu verdienen, macht er jeden Abend Überstunden.",
+          "start": 222.97,
+          "end": 227.33
+        }
       ]
     }
   ]

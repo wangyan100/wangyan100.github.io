@@ -1,52 +1,52 @@
-Weltall
-Jupiter
-Mars
-Merkur
-Neptun
-Pluto
-Saturn
-Uranus
-Venus
-Fixstern
-Komet
-Meteor
-Sternschnuppe
-Meteorit
-Planetuit
-Polarstern
-Widder
-Stier
-Zwilling
-Krebs
-Löwe
-Jungfrau
-Waage
-Skorpion
-Schütze
-Steinbock
-Wassermann
-Fisch
-All
-Universum
-Außerirdische
-Außerirdischer
-Galaxie
-Gestirn
-Konkaffspiegel
-Milchstraße
-Planetarium
-UFO
-UFO
-Sprechen Sie bitte die folgenden Sätze
-Jupiter ist der massereichste Planet im Sonnensystem.
-Der Merkur hat keine natürlichen Satelliten.
-In der chinesischen und japanischen Kultur nach der Fünf-Elemente-Lehre steht der Saturn für die Erde.
-Nach dem Mond ist die Venus das hellste Gestirn am nächtlichen Himmel.
-Mit bloßem Auge können am Himmel etwa 3000 bis 6000 Fixsterne wahrgenommen werden.
-Die meisten Meteoriten sind Bruchstücke von Asteroiden und stammen aus dem Asteroidengürtel zwischen Mars und Jupiter.
-160 Lichtjahre von der Erde entfernt, im Sternbild Wasserschlange, gibt es eine Ansammlung glitzernder Sterne.
-Ich bin Widder und meine Frau ist Schütze.
-Der beste Beobachtungszeitraum für das Sternbild Zwilling ist im Winter.
-Vom 10. August bis zum 16. September wandert die Sonne durch das Sternbild Löwe.
-Das Sternbild Waage ist ein kleines und eher unscheinbares Sternbild.
-In der Astronomie bezeichnet Galaxie eine Ansammlung von einigen hundert Milliarden Sternen.
+[00:00:01.740 --> 00:00:03.680] Weltall
+[00:00:04.960 --> 00:00:06.060] Jupiter
+[00:00:07.310 --> 00:00:09.230] Mars
+[00:00:11.030 --> 00:00:12.430] Merkur
+[00:00:13.270 --> 00:00:14.630] Neptun
+[00:00:15.910 --> 00:00:17.550] Pluto
+[00:00:18.550 --> 00:00:20.290] Saturn
+[00:00:22.610 --> 00:00:24.010] Uranus
+[00:00:24.550 --> 00:00:26.030] Venus
+[00:00:27.930 --> 00:00:29.410] Fixstern
+[00:00:30.690 --> 00:00:32.110] Komet
+[00:00:33.930 --> 00:00:35.330] Meteor
+[00:00:38.440 --> 00:00:39.840] Sternschnuppe
+[00:00:39.840 --> 00:00:41.240] Meteorit
+[00:00:43.080 --> 00:00:44.560] Planituid
+[00:00:46.360 --> 00:00:47.780] Polarstern
+[00:00:49.540 --> 00:00:50.240] Wider
+[00:00:51.710 --> 00:00:53.050] Stier
+[00:00:54.460 --> 00:00:55.760] Zwilling
+[00:00:57.140 --> 00:00:59.540] Krebs
+[00:00:59.540 --> 00:01:01.640] Löwe
+[00:01:02.920 --> 00:01:04.580] Jungfrau
+[00:01:06.420 --> 00:01:07.300] Waage
+[00:01:08.740 --> 00:01:10.240] Skorpion
+[00:01:12.270 --> 00:01:13.130] Schütze
+[00:01:14.570 --> 00:01:16.250] Steinbock
+[00:01:17.500 --> 00:01:19.240] Wassermann
+[00:01:21.140 --> 00:01:21.840] Fisch
+[00:01:23.320 --> 00:01:24.420] All
+[00:01:25.700 --> 00:01:27.780] Universum
+[00:01:30.560 --> 00:01:31.960] Außerirdische
+[00:01:31.960 --> 00:01:33.680] Außerirdischer
+[00:01:34.920 --> 00:01:36.220] Galaxie
+[00:01:38.030 --> 00:01:39.730] Gestirn
+[00:01:42.680 --> 00:01:44.080] Konkarfspiegel
+[00:01:44.080 --> 00:01:46.220] Milchstraße
+[00:01:47.540 --> 00:01:49.380] Planetarium
+[00:01:50.660 --> 00:01:52.100] UFO
+[00:01:53.500 --> 00:01:54.820] UFO
+[00:01:59.270 --> 00:02:02.210] Sprechen Sie bitte die folgenden Sätze
+[00:02:04.610 --> 00:02:09.190] Jupiter ist der massereichste Planet im Sonnensystem.
+[00:02:11.560 --> 00:02:15.660] Der Merkur hat keine natürlichen Satelliten.
+[00:02:18.770 --> 00:02:26.350] In der chinesischen und japanischen Kultur nach der Fünf-Elemente-Lehre steht der Saturn für die Erde.
+[00:02:29.440 --> 00:02:34.300] Nach dem Mond ist die Venus das hellste Gestirn am nächtlichen Himmel.
+[00:02:37.080 --> 00:02:43.960] Mit bloßem Auge können am Himmel etwa 3000 bis 6000 Fixsterne wahrgenommen werden.
+[00:02:46.230 --> 00:02:55.990] Die meisten Meteoriten sind Bruchstücke von Asteroiden und stammen aus dem Asteroidengürtel zwischen Mars und Jupiter.
+[00:02:59.380 --> 00:03:07.620] 160 Lichtjahre von der Erde entfernt, im Sternbild Wasserschlange, gibt es eine Ansammlung glitzernder Sterne.
+[00:03:10.740 --> 00:03:13.820] Ich bin Wider und meine Frau ist Schütze.
+[00:03:16.770 --> 00:03:21.590] Der beste Beobachtungszeitraum für das Sternbild Zwilling ist im Winter.
+[00:03:23.920 --> 00:03:31.240] Vom 10. August bis zum 16. September wandert die Sonne durch das Sternbild Löwe.
+[00:03:34.260 --> 00:03:39.260] Das Sternbild Vage ist ein kleines und eher unscheinbares Sternbild.
+[00:03:42.340 --> 00:03:48.640] In der Astronomie bezeichnet Galaxie eine Ansammlung von einigen hundert Milliarden Sternen.

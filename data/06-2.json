@@ -4,61 +4,287 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Tennis Balljunge",
-        "Ballmädchen",
-        "Head Schiedsrichter",
-        "Linienrichter",
-        "Schiedsrichter Schiedsrichterassistent",
-        "Tennisspieler",
-        "Tennisspielerin Wildcardinhaber",
-        "Wildcardinhaberin",
-        "Aufschlagfeld",
-        "Aufschlaglinie",
-        "Court Grundlinie",
-        "Netz",
-        "Seitenlinie",
-        "Hartplatz",
-        "die rote Asche Sandplatz",
-        "Teppichbodenplatz",
-        "Einstand",
-        "Matchball",
-        "Satz",
-        "Spiel",
-        "Spielstand Tiebreak",
-        "Vorsprung",
-        "Vorteil",
-        "Ellbogenbandage",
-        "Handgelenkhalter",
-        "Seite Schweißband",
-        "Tenniskleid",
-        "Schläger",
-        "Racket",
-        "Ass Aufschlag",
-        "Doppelfehler",
-        "Rückschlag",
-        "Grand Slam Turnier Runde",
-        "Tour",
-        "Weltrangliste"
+        {
+          "text": "Tennis Balljunge",
+          "start": 1.81,
+          "end": 6.07
+        },
+        {
+          "text": "Ballmädchen",
+          "start": 7.68,
+          "end": 8.96
+        },
+        {
+          "text": "Head Schiedsrichter",
+          "start": 10.62,
+          "end": 13.0
+        },
+        {
+          "text": "Linienrichter",
+          "start": 13.6,
+          "end": 15.22
+        },
+        {
+          "text": "Schiedsrichter Schiedsrichterassistent",
+          "start": 16.89,
+          "end": 22.39
+        },
+        {
+          "text": "Tennisspieler",
+          "start": 23.15,
+          "end": 24.95
+        },
+        {
+          "text": "Tennisspielerin Wildcardinhaber",
+          "start": 26.47,
+          "end": 31.95
+        },
+        {
+          "text": "Wildcardinhaberin",
+          "start": 33.17,
+          "end": 34.93
+        },
+        {
+          "text": "Aufschlagfeld",
+          "start": 38.85,
+          "end": 40.25
+        },
+        {
+          "text": "Aufschlaglinie",
+          "start": 40.25,
+          "end": 41.65
+        },
+        {
+          "text": "Court",
+          "start": 43.0,
+          "end": 44.06
+        },
+        {
+          "text": "Grundlinie",
+          "start": 45.72,
+          "end": 47.82
+        },
+        {
+          "text": "Netz",
+          "start": 48.78,
+          "end": 49.26
+        },
+        {
+          "text": "Seitenlinie",
+          "start": 51.46,
+          "end": 52.86
+        },
+        {
+          "text": "Hartplatz",
+          "start": 54.44,
+          "end": 55.26
+        },
+        {
+          "text": "die rote Asche",
+          "start": 57.36,
+          "end": 59.72
+        },
+        {
+          "text": "Sandplatz",
+          "start": 60.76,
+          "end": 61.58
+        },
+        {
+          "text": "Teppichbodenplatz",
+          "start": 63.66,
+          "end": 65.14
+        },
+        {
+          "text": "Einstand",
+          "start": 67.16,
+          "end": 68.32
+        },
+        {
+          "text": "Matchball",
+          "start": 69.28,
+          "end": 71.08
+        },
+        {
+          "text": "Satz",
+          "start": 72.94,
+          "end": 73.62
+        },
+        {
+          "text": "Spiel",
+          "start": 75.66,
+          "end": 76.1
+        },
+        {
+          "text": "Spielstand",
+          "start": 78.26,
+          "end": 79.24
+        },
+        {
+          "text": "Tiebreak",
+          "start": 81.21,
+          "end": 82.11
+        },
+        {
+          "text": "Vorsprung",
+          "start": 84.24,
+          "end": 85.36
+        },
+        {
+          "text": "Vorteil",
+          "start": 87.05,
+          "end": 88.29
+        },
+        {
+          "text": "Ellbogenbandage",
+          "start": 89.91,
+          "end": 91.59
+        },
+        {
+          "text": "Handgelenkhalter",
+          "start": 92.9,
+          "end": 95.2
+        },
+        {
+          "text": "Seite",
+          "start": 96.68,
+          "end": 97.22
+        },
+        {
+          "text": "Schweißband",
+          "start": 99.41,
+          "end": 100.43
+        },
+        {
+          "text": "Tenniskleid",
+          "start": 102.28,
+          "end": 103.62
+        },
+        {
+          "text": "Schläger",
+          "start": 105.31,
+          "end": 107.05
+        },
+        {
+          "text": "Racket",
+          "start": 108.09,
+          "end": 109.13
+        },
+        {
+          "text": "Ass",
+          "start": 110.67,
+          "end": 111.45
+        },
+        {
+          "text": "Aufschlag",
+          "start": 112.79,
+          "end": 114.03
+        },
+        {
+          "text": "Doppelfehler",
+          "start": 115.89,
+          "end": 118.11
+        },
+        {
+          "text": "Rückschlag",
+          "start": 118.71,
+          "end": 120.67
+        },
+        {
+          "text": "Grand Slam Turnier",
+          "start": 121.65,
+          "end": 124.23
+        },
+        {
+          "text": "Runde",
+          "start": 124.23,
+          "end": 125.97
+        },
+        {
+          "text": "Tour",
+          "start": 127.7,
+          "end": 127.98
+        },
+        {
+          "text": "Weltrangliste",
+          "start": 130.27,
+          "end": 131.91
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "und hat in seiner Karriere über 1200 Matches gewonnen.",
-        "Die 30-jährige Tennisspielerin aus Deutschland beendete das Match mit einem Ass.",
-        "Dieser Wildcardinhaber gab sich erst nach dem fünften Matchball geschlagen.",
-        "Er nahm 40% aller Bälle noch vor der Grundlinie an.",
-        "Novak Djokovic hat ohne Satzverlust das ATP Masters in Madrid gewonnen.",
-        "Bei einem Spielstand von 40-40 spricht man vom Einstand.",
-        "Er währte im Tiebreak des dritten Satzes zwei Matchbälle ab.",
-        "Das Recht auf den Aufschlag wechselt im folgenden Spiel.",
-        "Dem Kontrahenten unterlief ein Doppelfehler.",
-        "Sekunden später hat er mit einer weiteren Vorhand diesen zweiten Satz gewonnen.",
-        "Sie hat drei der vergangenen 16 Turniere auf Hartplatz verletzt aufgeben müssen.",
-        "Der erste Teilnehmer an einem Grand Slam Turnier folgt seinem Landsmann in die zweite Runde.",
-        "Sie hat wieder ein Halbfinale auf der WTA Tour erreicht.",
-        "Heute Abend trifft der deutsche Spieler auf den serbischen Weltranglisten ersten Novak Djokovic."
+        {
+          "text": "Federer ist ein sehr berühmter Tennisspieler und hat in seiner Karriere über 1200 Matches gewonnen.",
+          "start": 141.85,
+          "end": 150.21
+        },
+        {
+          "text": "Die 30-jährige Tennisspielerin aus Deutschland beendete das Match mit einem Ass.",
+          "start": 152.89,
+          "end": 158.59
+        },
+        {
+          "text": "Dieser Wildcardinhaber gab sich erst nach dem fünften Matchball geschlagen.",
+          "start": 161.52,
+          "end": 166.92
+        },
+        {
+          "text": "Er nahm 40% aller Bälle noch vor der Grundlinie an.",
+          "start": 166.92,
+          "end": 173.74
+        },
+        {
+          "text": "Novak Djokovic hat ohne Satzverlust das ATP Masters in Madrid gewonnen.",
+          "start": 173.74,
+          "end": 182.88
+        },
+        {
+          "text": "Bei einem Spielstand von 40-40 spricht man vom Einstand.",
+          "start": 182.88,
+          "end": 190.54
+        },
+        {
+          "text": "Er währte im Tiebreak des dritten Satzes zwei Matchbälle ab.",
+          "start": 190.54,
+          "end": 198.28
+        },
+        {
+          "text": "Das Recht auf den Aufschlag wechselt im folgenden Spiel.",
+          "start": 198.28,
+          "end": 205.15
+        },
+        {
+          "text": "Dem Kontrahenten unterlief ein Doppelfehler.",
+          "start": 205.15,
+          "end": 210.83
+        },
+        {
+          "text": "Sekunden später hat er mit einer weiteren Vorhand diesen zweiten Satz gewonnen.",
+          "start": 210.83,
+          "end": 219.74
+        },
+        {
+          "text": "Sie hat drei der vergangenen 16 Turniere auf Hartplatz verletzt aufgeben müssen.",
+          "start": 219.74,
+          "end": 228.57
+        },
+        {
+          "text": "Der erste Teilnehmer an einem Grand Slam Turnier folgt seinem Landsmann in die zweite Runde.",
+          "start": 228.57,
+          "end": 237.87
+        },
+        {
+          "text": "Sie hat wieder ein Halbfinale auf der WTA Tour erreicht.",
+          "start": 237.87,
+          "end": 244.68
+        },
+        {
+          "text": "Heute Abend trifft der deutsche Spieler auf den serbischen Weltrangliste ersten Novak Djokovic.",
+          "start": 244.68,
+          "end": 254.46
+        }
       ]
     }
   ]

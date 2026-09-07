@@ -4,65 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Bank",
-        "Girokonto",
-        "Mobile Banking",
-        "Online Banking",
-        "Sparkonto",
-        "Tagesgeldkonto",
-        "abheben",
-        "eröffnen",
-        "Kontoauszug",
-        "Kontonummer",
-        "löschen",
-        "schließen",
-        "Saldo",
-        "Sparbuch",
-        "überweisen",
-        "auszahlen",
-        "Belege ausdrucken",
-        "bestätigen",
-        "Betrag",
-        "eingeben",
-        "einstecken",
-        "einzahlen",
-        "Code",
-        "Geheimzahl",
-        "Kontostand",
-        "abzahlen",
-        "zurückzahlen",
-        "tilgen",
-        "Antragsformular",
-        "beantragen",
-        "Gebühr",
-        "PIN-Code",
-        "Rate",
-        "TAN-Code",
-        "Autokredit",
-        "Dispokredit",
-        "Privatkredit",
-        "Zins",
-        "Zinssatz"
+        {
+          "text": "Bank",
+          "start": 1.94,
+          "end": 3.76
+        },
+        {
+          "text": "Girokonto",
+          "start": 6.4,
+          "end": 7.8
+        },
+        {
+          "text": "Mobile Banking",
+          "start": 7.8,
+          "end": 10.02
+        },
+        {
+          "text": "Online Banking",
+          "start": 11.3,
+          "end": 13.16
+        },
+        {
+          "text": "Sparkonto",
+          "start": 14.69,
+          "end": 16.23
+        },
+        {
+          "text": "Tagesgeldkonto",
+          "start": 17.51,
+          "end": 19.85
+        },
+        {
+          "text": "abheben",
+          "start": 21.1,
+          "end": 22.34
+        },
+        {
+          "text": "eröffnen",
+          "start": 24.59,
+          "end": 25.41
+        },
+        {
+          "text": "Kontoauszug",
+          "start": 27.75,
+          "end": 28.45
+        },
+        {
+          "text": "Kontonummer",
+          "start": 31.18,
+          "end": 32.06
+        },
+        {
+          "text": "löschen",
+          "start": 33.18,
+          "end": 34.22
+        },
+        {
+          "text": "schließen",
+          "start": 36.53,
+          "end": 37.61
+        },
+        {
+          "text": "Saldo",
+          "start": 38.53,
+          "end": 39.85
+        },
+        {
+          "text": "Scheck",
+          "start": 41.19,
+          "end": 41.99
+        },
+        {
+          "text": "Sparbuch",
+          "start": 44.92,
+          "end": 46.4
+        },
+        {
+          "text": "überweisen",
+          "start": 46.92,
+          "end": 48.1
+        },
+        {
+          "text": "auszahlen",
+          "start": 50.87,
+          "end": 52.27
+        },
+        {
+          "text": "Belege ausdrucken",
+          "start": 52.27,
+          "end": 54.27
+        },
+        {
+          "text": "bestätigen",
+          "start": 57.19,
+          "end": 58.59
+        },
+        {
+          "text": "Betrag",
+          "start": 60.19,
+          "end": 61.59
+        },
+        {
+          "text": "eingeben",
+          "start": 62.17,
+          "end": 63.57
+        },
+        {
+          "text": "einstecken",
+          "start": 65.45,
+          "end": 66.73
+        },
+        {
+          "text": "einzahlen",
+          "start": 67.45,
+          "end": 69.09
+        },
+        {
+          "text": "Code",
+          "start": 70.37,
+          "end": 71.87
+        },
+        {
+          "text": "Geheimzahl",
+          "start": 73.27,
+          "end": 74.67
+        },
+        {
+          "text": "Kontostand",
+          "start": 77.94,
+          "end": 78.64
+        },
+        {
+          "text": "abzahlen",
+          "start": 79.68,
+          "end": 80.38
+        },
+        {
+          "text": "zurückzahlen",
+          "start": 82.99,
+          "end": 83.69
+        },
+        {
+          "text": "tilgen",
+          "start": 85.67,
+          "end": 86.57
+        },
+        {
+          "text": "Antragsformular",
+          "start": 88.39,
+          "end": 89.85
+        },
+        {
+          "text": "beantragen",
+          "start": 93.08,
+          "end": 93.78
+        },
+        {
+          "text": "Gebühr",
+          "start": 94.94,
+          "end": 95.64
+        },
+        {
+          "text": "PIN-Code",
+          "start": 97.58,
+          "end": 98.92
+        },
+        {
+          "text": "Rate",
+          "start": 100.26,
+          "end": 101.66
+        },
+        {
+          "text": "TAN-Code",
+          "start": 103.27,
+          "end": 105.67
+        },
+        {
+          "text": "Autokredit",
+          "start": 105.67,
+          "end": 108.23
+        },
+        {
+          "text": "Dispokredit",
+          "start": 108.23,
+          "end": 109.79
+        },
+        {
+          "text": "Privatkredit",
+          "start": 112.9,
+          "end": 113.6
+        },
+        {
+          "text": "Zins",
+          "start": 116.3,
+          "end": 117.1
+        },
+        {
+          "text": "Zinssatz",
+          "start": 119.37,
+          "end": 120.17
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Das geht auf mein Konto.",
-        "Möchten Sie ein Girokonto oder ein Sparkonto eröffnen?",
-        "Wenn Sie Ihr Geld sicher anlegen möchten und schnell darauf zugreifen können, ist ein Tagesgeldkonto eine gute Wahl.",
-        "Du hast den Feuerbrand in mein junges, friedsames Herz geworfen und er wird nimmer nimmer gelöscht werden.",
-        "Kabale und Liebe.",
-        "Der Saldo beträgt nur 100 Euro.",
-        "Schecks werden in Deutschland nur sehr selten von Privatpersonen verwendet.",
-        "Mein Vater hat gestern 5000 Euro an mich überwiesen.",
-        "Ich habe kein Bargeld und werde am Geldautomaten Geld abheben.",
-        "Mit den Apps kann man den Kontostand einsehen.",
-        "Er zahlt seine Wohnung in monatlichen Raten von 300 Euro ab.",
-        "Füllen Sie das Antragsformular online aus.",
-        "Meistens muss man für ein Konto Gebühr bezahlen.",
-        "Diese Familie lebt von Zinsen ihres Vermögens."
+        {
+          "text": "Das geht auf mein Konto.",
+          "start": 130.57,
+          "end": 132.69
+        },
+        {
+          "text": "Möchten Sie ein Girokonto oder ein Sparkonto eröffnen?",
+          "start": 135.15,
+          "end": 139.19
+        },
+        {
+          "text": "Wenn Sie Ihr Geld sicher anlegen möchten und schnell darauf zugreifen können, ist ein Tagesgeldkonto eine gute Wahl.",
+          "start": 142.09,
+          "end": 150.15
+        },
+        {
+          "text": "Du hast den Feuerbrand in mein junges, friedsames Herz geworfen und er wird nimmer nimmer gelöscht werden.",
+          "start": 152.97,
+          "end": 160.65
+        },
+        {
+          "text": "Kabale und Liebe.",
+          "start": 161.15,
+          "end": 162.45
+        },
+        {
+          "text": "Der Saldo beträgt nur 100 Euro.",
+          "start": 165.45,
+          "end": 168.01
+        },
+        {
+          "text": "Schecks werden in Deutschland nur sehr selten von Privatpersonen verwendet.",
+          "start": 171.12,
+          "end": 176.46
+        },
+        {
+          "text": "Mein Vater hat gestern 5000 Euro an mich überwiesen.",
+          "start": 179.1,
+          "end": 183.1
+        },
+        {
+          "text": "Ich habe kein Bargeld und werde am Geldautomaten Geld abheben.",
+          "start": 186.14,
+          "end": 190.78
+        },
+        {
+          "text": "Mit den Apps kann man den Kontostand einsehen.",
+          "start": 193.84,
+          "end": 196.78
+        },
+        {
+          "text": "Er zahlt seine Wohnung in monatlichen Raten von 300 Euro ab.",
+          "start": 199.05,
+          "end": 204.83
+        },
+        {
+          "text": "Füllen Sie das Antragsformular online aus.",
+          "start": 207.64,
+          "end": 210.72
+        },
+        {
+          "text": "Meistens muss man für ein Konto Gebühr bezahlen.",
+          "start": 213.81,
+          "end": 216.97
+        },
+        {
+          "text": "Diese Familie lebt von Zinsen Ihres Vermögens.",
+          "start": 220.17,
+          "end": 223.53
+        }
       ]
     }
   ]

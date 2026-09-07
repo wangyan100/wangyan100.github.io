@@ -4,60 +4,257 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "snacks",
-        "drops",
-        "Gummibongbong",
-        "Halspastille",
-        "Halstablette",
-        "Kaugummi",
-        "Knallbrause",
-        "Knisterzucker",
-        "Lutscher",
-        "Nougat",
-        "die dunkle Schokolade",
-        "Marzipanpraline",
-        "Milchschokolade",
-        "Praline",
-        "Schokoladentafel",
-        "Trüffel",
-        "die weiße Schokolade",
-        "Überraschungsei",
-        "das Eis am Stiel",
-        "Eisbecher",
-        "Eiscreme",
-        "Eiskugel",
-        "Eistüte",
-        "Fruchteis",
-        "Cashewnuss",
-        "Erdnuss",
-        "Haselnuss",
-        "Maroni",
-        "Pistazie",
-        "Studentenfutter",
-        "Walnuss",
-        "Chips",
-        "Cracker",
-        "Crackers",
-        "Erdnussflips",
-        "Extrudaprodukt",
-        "Schokoflocken."
+        {
+          "text": "snacks",
+          "start": 1.81,
+          "end": 3.17
+        },
+        {
+          "text": "drops",
+          "start": 5.08,
+          "end": 5.82
+        },
+        {
+          "text": "Gummibongbong",
+          "start": 7.79,
+          "end": 9.25
+        },
+        {
+          "text": "Halspastille",
+          "start": 11.02,
+          "end": 12.58
+        },
+        {
+          "text": "Halstablette",
+          "start": 14.43,
+          "end": 15.71
+        },
+        {
+          "text": "Kaugummi",
+          "start": 17.75,
+          "end": 18.99
+        },
+        {
+          "text": "Knallbrause",
+          "start": 20.52,
+          "end": 21.84
+        },
+        {
+          "text": "Knisterzucker",
+          "start": 23.85,
+          "end": 25.25
+        },
+        {
+          "text": "Lutscher",
+          "start": 27.06,
+          "end": 28.1
+        },
+        {
+          "text": "Nougat",
+          "start": 30.0,
+          "end": 31.2
+        },
+        {
+          "text": "die dunkle Schokolade",
+          "start": 32.84,
+          "end": 35.0
+        },
+        {
+          "text": "Marzipanpraline",
+          "start": 36.72,
+          "end": 38.44
+        },
+        {
+          "text": "Milchschokolade",
+          "start": 40.44,
+          "end": 41.72
+        },
+        {
+          "text": "Praline",
+          "start": 43.66,
+          "end": 44.56
+        },
+        {
+          "text": "Schokoladentafel",
+          "start": 46.0,
+          "end": 48.64
+        },
+        {
+          "text": "Trüffel",
+          "start": 50.28,
+          "end": 51.4
+        },
+        {
+          "text": "die weiße Schokolade",
+          "start": 53.06,
+          "end": 54.88
+        },
+        {
+          "text": "Überraschungsei",
+          "start": 56.88,
+          "end": 57.78
+        },
+        {
+          "text": "das Eis am Stiel",
+          "start": 60.01,
+          "end": 61.95
+        },
+        {
+          "text": "Eisbecher",
+          "start": 63.78,
+          "end": 64.48
+        },
+        {
+          "text": "Eiscreme",
+          "start": 66.82,
+          "end": 68.3
+        },
+        {
+          "text": "Eiskugel",
+          "start": 69.72,
+          "end": 71.08
+        },
+        {
+          "text": "Eistüte",
+          "start": 72.77,
+          "end": 73.83
+        },
+        {
+          "text": "Fruchteis",
+          "start": 76.15,
+          "end": 77.21
+        },
+        {
+          "text": "Cashewnuss",
+          "start": 79.38,
+          "end": 80.34
+        },
+        {
+          "text": "Erdnuss",
+          "start": 82.4,
+          "end": 83.3
+        },
+        {
+          "text": "Haselnuss",
+          "start": 85.38,
+          "end": 86.76
+        },
+        {
+          "text": "Maroni",
+          "start": 88.24,
+          "end": 88.98
+        },
+        {
+          "text": "Pistazie",
+          "start": 91.08,
+          "end": 92.14
+        },
+        {
+          "text": "Studentenfutter",
+          "start": 96.84,
+          "end": 97.94
+        },
+        {
+          "text": "Walnuss",
+          "start": 97.94,
+          "end": 99.04
+        },
+        {
+          "text": "Chips",
+          "start": 100.61,
+          "end": 101.49
+        },
+        {
+          "text": "Cracker",
+          "start": 103.28,
+          "end": 104.28
+        },
+        {
+          "text": "Crackers",
+          "start": 105.97,
+          "end": 107.01
+        },
+        {
+          "text": "Erdnussflips",
+          "start": 108.9,
+          "end": 110.16
+        },
+        {
+          "text": "Extrudaprodukt",
+          "start": 112.19,
+          "end": 113.97
+        },
+        {
+          "text": "Schokoflocken.",
+          "start": 115.87,
+          "end": 116.67
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Gummibärchen sind Gummibongbongs in Form von etwa zwei Zentimeter großen, stilisierten Halspastillen lindern und behandeln die schmerzhaften Symptome leicht entzündeter Schleimhäute.",
-        "Jeder Deutsche kaut Schätzungen zufolge 100 Kaugummis im Jahr.",
-        "Milchschokolade ist hitzeempfindlicher und weniger lange haltbar als Bitterschokolade.",
-        "Das Leben ist wie eine Schachtel Pralinen.",
-        "Man weiß nie, was man kriegt.",
-        "Mozartkugeln sind Pralinen aus Pistazien, Marzipan und Nougat.",
-        "Häufig kostet eine Eiskugel der handwerklichen Eisdealer ein Euro.",
-        "Erdnüsse wachsen unterirdisch.",
-        "Es gilt für die Pistazie, je grüner, desto höher die Qualität.",
-        "Studentenfutter ist eine bekannte Bezeichnung für einen Snack, der aus getrockneten Früchten und Nüssen besteht.",
-        "Cracker werden oft als kleine Beilage zu Wein, Bier, Käse und ähnlichem gegessen."
+        {
+          "text": "Gummibärchen sind Gummibongbongs in Form von etwa zwei Zentimeter großen stilisierten Beeren.",
+          "start": 127.6,
+          "end": 136.12
+        },
+        {
+          "text": "Halspastillen lindern und behandeln die schmerzhaften Symptome leicht entzündeter Schleimhäute.",
+          "start": 138.99,
+          "end": 146.37
+        },
+        {
+          "text": "Jeder Deutsche kaut Schätzungen zufolge 100 Kaugummis im Jahr.",
+          "start": 149.01,
+          "end": 153.81
+        },
+        {
+          "text": "Milchschokolade ist hitzeempfindlicher und weniger lange haltbar als Bitterschokolade.",
+          "start": 157.13,
+          "end": 163.31
+        },
+        {
+          "text": "Das Leben ist wie eine Schachtel Pralinen.",
+          "start": 166.32,
+          "end": 169.1
+        },
+        {
+          "text": "Man weiß nie, was man kriegt.",
+          "start": 169.54,
+          "end": 171.8
+        },
+        {
+          "text": "Mozartkugeln sind Pralinen aus Pistazien, Marzipan und Nougat.",
+          "start": 176.5,
+          "end": 182.46
+        },
+        {
+          "text": "Häufig kostet eine Eiskugel der handwerklichen Eisdealer ein Euro.",
+          "start": 185.05,
+          "end": 190.09
+        },
+        {
+          "text": "Erdnüsse wachsen unterirdisch.",
+          "start": 193.32,
+          "end": 195.84
+        },
+        {
+          "text": "Es gilt für die Pistazie, je grüner, desto höher die Qualität.",
+          "start": 198.76,
+          "end": 204.14
+        },
+        {
+          "text": "Studentenfutter ist eine bekannte Bezeichnung für einen Snack, der aus getrockneten Früchten und Nüssen besteht.",
+          "start": 207.49,
+          "end": 214.93
+        },
+        {
+          "text": "Cracker werden oft als kleine Beilage zu Wein, Bier, Käse und ähnlichem gegessen.",
+          "start": 218.27,
+          "end": 225.19
+        }
       ]
     }
   ]

@@ -4,62 +4,262 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Staaten 2",
-        "Belgien",
-        "Deutschland",
-        "die Niederlande",
-        "die Schweiz",
-        "England",
-        "Großbritannien",
-        "Frankreich",
-        "Irland",
-        "Österreich",
-        "Luxemburg",
-        "Griechenland",
-        "Italien",
-        "Malta",
-        "Portugal",
-        "Spanien",
-        "der Vatikan",
-        "Bulgarien",
-        "Rumänien",
-        "Dänemark",
-        "Finnland",
-        "Island",
-        "Norwegen",
-        "Schweden",
-        "Ägypten",
-        "Äthiopien",
-        "Libyen",
-        "Marokko",
-        "Rwanda",
-        "Somalia",
-        "Sudan",
-        "die Republik Südafrika",
-        "Australien",
-        "Fiji",
-        "Neuseeland",
-        "Palau"
+        {
+          "text": "Staaten 2",
+          "start": 1.9,
+          "end": 4.12
+        },
+        {
+          "text": "Belgien",
+          "start": 5.37,
+          "end": 7.11
+        },
+        {
+          "text": "Deutschland",
+          "start": 8.36,
+          "end": 10.36
+        },
+        {
+          "text": "die Niederlande",
+          "start": 10.94,
+          "end": 13.2
+        },
+        {
+          "text": "die Schweiz",
+          "start": 14.45,
+          "end": 16.05
+        },
+        {
+          "text": "England",
+          "start": 17.29,
+          "end": 18.47
+        },
+        {
+          "text": "Großbritannien",
+          "start": 19.75,
+          "end": 21.91
+        },
+        {
+          "text": "Frankreich",
+          "start": 23.32,
+          "end": 25.76
+        },
+        {
+          "text": "Irland",
+          "start": 25.76,
+          "end": 27.64
+        },
+        {
+          "text": "Österreich",
+          "start": 28.98,
+          "end": 30.24
+        },
+        {
+          "text": "Luxemburg",
+          "start": 33.08,
+          "end": 34.48
+        },
+        {
+          "text": "Griechenland",
+          "start": 36.2,
+          "end": 37.6
+        },
+        {
+          "text": "Italien",
+          "start": 37.6,
+          "end": 39.94
+        },
+        {
+          "text": "Malta",
+          "start": 41.19,
+          "end": 42.63
+        },
+        {
+          "text": "Portugal",
+          "start": 43.97,
+          "end": 45.21
+        },
+        {
+          "text": "Spanien",
+          "start": 46.65,
+          "end": 48.51
+        },
+        {
+          "text": "der Vatikan",
+          "start": 49.76,
+          "end": 52.32
+        },
+        {
+          "text": "Bulgarien",
+          "start": 53.92,
+          "end": 55.32
+        },
+        {
+          "text": "Rumänien",
+          "start": 55.98,
+          "end": 57.52
+        },
+        {
+          "text": "Dänemark",
+          "start": 58.77,
+          "end": 60.05
+        },
+        {
+          "text": "Finnland",
+          "start": 61.62,
+          "end": 64.04
+        },
+        {
+          "text": "Island",
+          "start": 64.72,
+          "end": 66.12
+        },
+        {
+          "text": "Norwegen",
+          "start": 67.6,
+          "end": 68.86
+        },
+        {
+          "text": "Schweden",
+          "start": 70.26,
+          "end": 72.72
+        },
+        {
+          "text": "Ägypten",
+          "start": 73.4,
+          "end": 74.92
+        },
+        {
+          "text": "Äthiopien",
+          "start": 76.17,
+          "end": 78.63
+        },
+        {
+          "text": "Libyen",
+          "start": 80.57,
+          "end": 81.97
+        },
+        {
+          "text": "Marokko",
+          "start": 81.97,
+          "end": 83.69
+        },
+        {
+          "text": "Rwanda",
+          "start": 84.94,
+          "end": 86.5
+        },
+        {
+          "text": "Somalia",
+          "start": 87.84,
+          "end": 89.38
+        },
+        {
+          "text": "Sudan",
+          "start": 90.73,
+          "end": 92.11
+        },
+        {
+          "text": "die Republik Südafrika",
+          "start": 93.31,
+          "end": 96.33
+        },
+        {
+          "text": "Australien",
+          "start": 97.58,
+          "end": 99.28
+        },
+        {
+          "text": "Fiji",
+          "start": 100.65,
+          "end": 102.99
+        },
+        {
+          "text": "Neuseeland",
+          "start": 102.99,
+          "end": 105.01
+        },
+        {
+          "text": "Palau",
+          "start": 106.36,
+          "end": 107.76
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Belgien hat eine Fläche von 32.545 km².",
-        "Es ist damit ein bisschen kleiner als das deutsche Bundesland Nordrhein-Westfalen.",
-        "Deutschland ist etwa neunmal so groß wie die Schweiz.",
-        "Amsterdam ist die Hauptstadt der Niederlande.",
-        "Die Geografie von England ist geprägt durch niedrige Hügel und Ebenen, aber es gibt auch Hochland im Norden und Südwesten.",
-        "Im Alter von 16 Jahren wurde er von Seeräubern nach Irland entführt.",
-        "Staatsoberhaupt des Vatikans ist der Papst.",
-        "Das ist der Vorsteher der römisch-katholischen Christen.",
-        "Der nördliche Teil Finnlands liegt über dem Polarkreis.",
-        "Die Einwohner Äthiopiens sprechen über 80 verschiedene Sprachen.",
-        "Den elektrischen Strom hat Marokko vor allem aus Kraftwerken, die mit Erdöl oder Erdgas betrieben werden.",
-        "In Rwanda gibt es zwei große Volksgruppen, Hutu und Tutsi.",
-        "In der Kolonialzeit gehörte ein Teil von Somalia zu Italien und ein anderer Teil zu Großbritannien.",
-        "Palau lebt heute vor allem vom Tourismus und dem Fischfang."
+        {
+          "text": "Belgien hat eine Fläche von 32.545 km².",
+          "start": 117.9,
+          "end": 124.6
+        },
+        {
+          "text": "Es ist damit ein bisschen kleiner als das deutsche Bundesland Nordrhein-Westfalen.",
+          "start": 127.97,
+          "end": 133.43
+        },
+        {
+          "text": "Deutschland ist etwa neunmal so groß wie die Schweiz.",
+          "start": 136.03,
+          "end": 139.47
+        },
+        {
+          "text": "Amsterdam ist die Hauptstadt der Niederlande.",
+          "start": 142.68,
+          "end": 146.42
+        },
+        {
+          "text": "Die Geografie von England ist geprägt durch niedrige Hügel und Ebenen, aber es gibt auch Hochland im Norden und Südwesten.",
+          "start": 148.84,
+          "end": 158.16
+        },
+        {
+          "text": "Im Alter von 16 Jahren wurde er von Seeräubern nach Irland entführt.",
+          "start": 160.62,
+          "end": 166.1
+        },
+        {
+          "text": "Staatsoberhaupt des Vatikans ist der Papst.",
+          "start": 169.14,
+          "end": 172.2
+        },
+        {
+          "text": "Das ist der Vorsteher der römisch-katholischen Christen.",
+          "start": 172.78,
+          "end": 176.1
+        },
+        {
+          "text": "Der nördliche Teil Finnlands liegt über dem Polarkreis.",
+          "start": 179.14,
+          "end": 183.12
+        },
+        {
+          "text": "Die Einwohner Äthiopiens sprechen über 80 verschiedene Sprachen.",
+          "start": 185.98,
+          "end": 190.6
+        },
+        {
+          "text": "Den elektrischen Strom hat Marokko vor allem aus Kraftwerken, die mit Erdöl oder Erdgas betrieben werden.",
+          "start": 193.4,
+          "end": 200.7
+        },
+        {
+          "text": "In Rwanda gibt es zwei große Volksgruppen, Hutu und Tutsi.",
+          "start": 203.82,
+          "end": 209.48
+        },
+        {
+          "text": "In der Kolonialzeit gehörte ein Teil von Somalia zu Italien und ein anderer Teil zu Großbritannien.",
+          "start": 212.06,
+          "end": 219.5
+        },
+        {
+          "text": "Palau lebt heute vor allem vom Tourismus und dem Fischfang.",
+          "start": 222.56,
+          "end": 226.6
+        }
       ]
     }
   ]

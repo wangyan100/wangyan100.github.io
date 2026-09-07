@@ -4,44 +4,172 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "überraschen aufdrehen",
-        "begeistern sich begeistern",
-        "anregen angeregt",
-        "Erregung schockieren",
-        "bestürzen Bestürzung",
-        "erschüttern erschüttert",
-        "Erschütterung verblüffen erstaunen frappieren",
-        "wundern verwundern sich verwundern Verwunderung überraschen",
-        "überraschend überraschenderweise",
-        "unerwartet unverhofft",
-        "undenkbar unglaublich",
-        "unglaubwürdig",
-        "unvorstellbar bizarr",
-        "merkwürdig",
-        "seltsam sonderbar"
+        {
+          "text": "überraschen aufdrehen",
+          "start": 1.65,
+          "end": 7.64
+        },
+        {
+          "text": "begeistern sich begeistern",
+          "start": 12.16,
+          "end": 15.96
+        },
+        {
+          "text": "anregen angeregt",
+          "start": 21.76,
+          "end": 24.56
+        },
+        {
+          "text": "Erregung schockieren",
+          "start": 25.81,
+          "end": 31.33
+        },
+        {
+          "text": "bestürzen Bestürzung",
+          "start": 34.03,
+          "end": 36.83
+        },
+        {
+          "text": "erschüttern erschüttert",
+          "start": 37.55,
+          "end": 43.41
+        },
+        {
+          "text": "Erschütterung verblüffen erstaunen frappieren",
+          "start": 43.41,
+          "end": 54.62
+        },
+        {
+          "text": "wundern verwundern sich verwundern Verwunderung überraschen",
+          "start": 54.62,
+          "end": 69.52
+        },
+        {
+          "text": "überraschend überraschenderweise",
+          "start": 70.08,
+          "end": 75.2
+        },
+        {
+          "text": "unerwartet unverhofft",
+          "start": 76.48,
+          "end": 81.33
+        },
+        {
+          "text": "undenkbar unglaublich",
+          "start": 82.61,
+          "end": 87.14
+        },
+        {
+          "text": "unglaubwürdig",
+          "start": 90.14,
+          "end": 91.54
+        },
+        {
+          "text": "unvorstellbar bizarr",
+          "start": 91.54,
+          "end": 96.54
+        },
+        {
+          "text": "merkwürdig",
+          "start": 97.82,
+          "end": 100.6
+        },
+        {
+          "text": "seltsam sonderbar",
+          "start": 100.6,
+          "end": 105.2
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Sportler war heute mächtig aufgedreht.",
-        "Das Publikum hat dem Künstler begeistert Beifall gespendet.",
-        "Aperitiv regt den Appetit an.",
-        "Er konnte seine Erregung nicht mehr verbergen.",
-        "Ihre Art zu reden hat uns alle schockiert.",
-        "Der tödliche Unfall löste große Bestürzung aus.",
-        "Sie war so verblüfft, dass sie nichts zu sagen wusste.",
-        "Ich staunte über den Reichtum seiner Kenntnisse.",
-        "Der Krieg in Syrien hat die ganze Welt erschüttert.",
-        "Er erstaunte mich durch seine Leistungen.",
-        "Sein schlechtes Benehmen wundert seine Eltern sehr.",
-        "Auf wunderbare Weise wurde er wieder gesund.",
-        "Das ist aber eine Überraschung.",
-        "Das Problem wurde auf überraschende Weise gelöst.",
-        "Der Urlaub war unglaublich schnell vorbei.",
-        "Heute verhält er sich merkwürdig.",
-        "Was ist daran so sonderbar?"
+        {
+          "text": "Der Sportler war heute mächtig aufgedreht.",
+          "start": 115.12,
+          "end": 118.68
+        },
+        {
+          "text": "Das Publikum hat dem Künstler begeistert Beifall gespendet.",
+          "start": 121.26,
+          "end": 125.46
+        },
+        {
+          "text": "Aperitiv regt den Appetit an.",
+          "start": 128.6,
+          "end": 131.44
+        },
+        {
+          "text": "Er konnte seine Erregung nicht mehr verbergen.",
+          "start": 134.32,
+          "end": 137.36
+        },
+        {
+          "text": "Ihre Art zu reden hat uns alle schockiert.",
+          "start": 140.49,
+          "end": 143.47
+        },
+        {
+          "text": "Der tödliche Unfall löste große Bestürzung aus.",
+          "start": 146.46,
+          "end": 150.46
+        },
+        {
+          "text": "Sie war so verblüfft, dass sie nichts zu sagen wusste.",
+          "start": 153.5,
+          "end": 157.1
+        },
+        {
+          "text": "Ich staunte über den Reichtum seiner Kenntnisse.",
+          "start": 159.9,
+          "end": 163.28
+        },
+        {
+          "text": "Der Krieg in Syrien hat die ganze Welt erschüttert.",
+          "start": 166.4,
+          "end": 169.58
+        },
+        {
+          "text": "Er erstaunte mich durch seine Leistungen.",
+          "start": 172.49,
+          "end": 174.91
+        },
+        {
+          "text": "Sein schlechtes Benehmen wundert seine Eltern sehr.",
+          "start": 178.02,
+          "end": 181.06
+        },
+        {
+          "text": "Auf wunderbare Weise wurde er wieder gesund.",
+          "start": 184.06,
+          "end": 186.92
+        },
+        {
+          "text": "Das ist aber eine Überraschung.",
+          "start": 189.95,
+          "end": 191.69
+        },
+        {
+          "text": "Das Problem wurde auf überraschende Weise gelöst.",
+          "start": 194.77,
+          "end": 197.85
+        },
+        {
+          "text": "Der Urlaub war unglaublich schnell vorbei.",
+          "start": 200.87,
+          "end": 203.41
+        },
+        {
+          "text": "Heute verhält er sich merkwürdig.",
+          "start": 205.75,
+          "end": 208.71
+        },
+        {
+          "text": "Was ist daran so sonderbar?",
+          "start": 211.66,
+          "end": 213.32
+        }
       ]
     }
   ]

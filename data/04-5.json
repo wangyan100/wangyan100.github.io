@@ -4,64 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Vergnügungspark",
-        "Einlasszeit",
-        "Eintritt frei",
-        "Eintrittskarte",
-        "Familienticket",
-        "Gruppenticket",
-        "Gutschein",
-        "Jahreskarte",
-        "Regulär",
-        "Familie",
-        "Gäste mit Behinderung",
-        "Kleinkind",
-        "Schulklasse",
-        "Senior",
-        "Vorlage des Ausweises",
-        "Achterbahn",
-        "Floßfahrt",
-        "Karussell",
-        "Labyrinth",
-        "Piratenschiff",
-        "Riesenrad",
-        "Spukhaus",
-        "begeistert",
-        "erregend",
-        "erschreckend",
-        "langweilig",
-        "nervös",
-        "schrecklich",
-        "spannend",
-        "erlaubt",
-        "gestattet",
-        "verboten",
-        "untersagt",
-        "Sicherheit",
-        "Vorsicht",
-        "Kuscheltier",
-        "Plüschfigur"
+        {
+          "text": "Vergnügungspark",
+          "start": 1.94,
+          "end": 4.4
+        },
+        {
+          "text": "Einlasszeit",
+          "start": 7.38,
+          "end": 8.78
+        },
+        {
+          "text": "Eintritt frei",
+          "start": 8.78,
+          "end": 10.82
+        },
+        {
+          "text": "Eintrittskarte",
+          "start": 12.1,
+          "end": 14.14
+        },
+        {
+          "text": "Familienticket",
+          "start": 15.49,
+          "end": 17.63
+        },
+        {
+          "text": "Gruppenticket",
+          "start": 18.88,
+          "end": 20.56
+        },
+        {
+          "text": "Gutschein",
+          "start": 23.14,
+          "end": 23.84
+        },
+        {
+          "text": "Jahreskarte",
+          "start": 25.66,
+          "end": 27.06
+        },
+        {
+          "text": "Regulär",
+          "start": 27.06,
+          "end": 29.66
+        },
+        {
+          "text": "Familie",
+          "start": 31.03,
+          "end": 32.67
+        },
+        {
+          "text": "Gäste mit Behinderung",
+          "start": 33.93,
+          "end": 36.41
+        },
+        {
+          "text": "Kleinkind",
+          "start": 37.72,
+          "end": 39.2
+        },
+        {
+          "text": "Schulklasse",
+          "start": 40.61,
+          "end": 42.55
+        },
+        {
+          "text": "Senior",
+          "start": 43.86,
+          "end": 45.1
+        },
+        {
+          "text": "Vorlage des Ausweises",
+          "start": 47.08,
+          "end": 49.66
+        },
+        {
+          "text": "Achterbahn",
+          "start": 50.94,
+          "end": 52.6
+        },
+        {
+          "text": "Floßfahrt",
+          "start": 54.01,
+          "end": 56.07
+        },
+        {
+          "text": "Karussell",
+          "start": 57.35,
+          "end": 59.13
+        },
+        {
+          "text": "Labyrinth",
+          "start": 61.19,
+          "end": 61.89
+        },
+        {
+          "text": "Piratenschiff",
+          "start": 64.15,
+          "end": 65.55
+        },
+        {
+          "text": "Riesenrad",
+          "start": 65.55,
+          "end": 67.59
+        },
+        {
+          "text": "Spukhaus",
+          "start": 69.03,
+          "end": 70.71
+        },
+        {
+          "text": "begeistert",
+          "start": 73.95,
+          "end": 74.71
+        },
+        {
+          "text": "erregend",
+          "start": 75.35,
+          "end": 76.99
+        },
+        {
+          "text": "erschreckend",
+          "start": 79.98,
+          "end": 80.68
+        },
+        {
+          "text": "langweilig",
+          "start": 83.16,
+          "end": 83.86
+        },
+        {
+          "text": "nervös",
+          "start": 84.74,
+          "end": 86.14
+        },
+        {
+          "text": "schrecklich",
+          "start": 87.52,
+          "end": 89.02
+        },
+        {
+          "text": "spannend",
+          "start": 91.15,
+          "end": 92.17
+        },
+        {
+          "text": "erlaubt",
+          "start": 93.15,
+          "end": 94.53
+        },
+        {
+          "text": "gestattet",
+          "start": 95.15,
+          "end": 95.99
+        },
+        {
+          "text": "verboten",
+          "start": 98.09,
+          "end": 98.79
+        },
+        {
+          "text": "untersagt",
+          "start": 98.79,
+          "end": 100.37
+        },
+        {
+          "text": "Sicherheit",
+          "start": 101.65,
+          "end": 103.07
+        },
+        {
+          "text": "Vorsicht",
+          "start": 104.45,
+          "end": 106.53
+        },
+        {
+          "text": "Kuscheltier",
+          "start": 107.81,
+          "end": 109.27
+        },
+        {
+          "text": "Plüschfigur",
+          "start": 110.58,
+          "end": 112.64
+        },
+        {
+          "text": "Postkarte",
+          "start": 114.89,
+          "end": 115.69
+        },
+        {
+          "text": "Souvenir",
+          "start": 117.0,
+          "end": 118.46
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Das Ticket kann nach Einlasszeit nicht mehr umgetauscht werden.",
-        "Alle Eintrittskarten sind weg und die Kassen bleiben am Abend geschlossen.",
-        "Der reguläre Eintrittspreis gilt für Erwachsene.",
-        "So etwas kommt in den besten Familien vor.",
-        "Das Unternehmen geht vom Senior auf den Junior über.",
-        "Gegen Vorlage des Ausweises erhalten die Gäste mit Behinderung einen reduzierten Eintrittspreis.",
-        "Die Gedanken fahren in ihrem Kopf Karussell.",
-        "Die Natur findet keinen Ausweg aus dem Labyrinthe der verworrenen und widersprechenden Kräfte.",
-        "Und der Menschen muss sterben.",
-        "Die Leiden des jungen Werther.",
-        "Riesenrad ist mir zu langweilig.",
-        "Das Grillen im Freizeitpark ist untersagt.",
-        "Die Armee bringt sich in Sicherheit.",
-        "Vorsicht Stufe!",
-        "Gibt es in dem Shop Souvenirs zu kaufen?"
+        {
+          "text": "Das Ticket kann nach Einlasszeit nicht mehr umgetauscht werden.",
+          "start": 128.71,
+          "end": 132.91
+        },
+        {
+          "text": "Alle Eintrittskarten sind weg und die Kassen bleiben am Abend geschlossen.",
+          "start": 136.02,
+          "end": 140.68
+        },
+        {
+          "text": "Der reguläre Eintrittspreis gilt für Erwachsene.",
+          "start": 143.72,
+          "end": 147.24
+        },
+        {
+          "text": "So etwas kommt in den besten Familien vor.",
+          "start": 150.26,
+          "end": 153.34
+        },
+        {
+          "text": "Das Unternehmen geht vom Senior auf den Junior über.",
+          "start": 156.3,
+          "end": 160.28
+        },
+        {
+          "text": "Gegen Vorlage des Ausweises erhalten die Gäste mit Behinderung einen reduzierten Eintrittspreis.",
+          "start": 162.49,
+          "end": 170.29
+        },
+        {
+          "text": "Die Gedanken fahren in ihrem Kopf Karussell.",
+          "start": 173.2,
+          "end": 176.22
+        },
+        {
+          "text": "Die Natur findet keinen Ausweg aus dem Labyrinthe der verworrenen und widersprechenden Kräfte.",
+          "start": 179.17,
+          "end": 186.07
+        },
+        {
+          "text": "Und der Menschen muss sterben.",
+          "start": 186.63,
+          "end": 188.51
+        },
+        {
+          "text": "Die Leiden des jungen Werther.",
+          "start": 188.97,
+          "end": 191.25
+        },
+        {
+          "text": "Riesenrad ist mir zu langweilig.",
+          "start": 193.89,
+          "end": 196.23
+        },
+        {
+          "text": "Das Grillen im Freizeitpark ist untersagt.",
+          "start": 198.47,
+          "end": 202.41
+        },
+        {
+          "text": "Die Armee bringt sich in Sicherheit.",
+          "start": 205.54,
+          "end": 207.6
+        },
+        {
+          "text": "Vorsicht Stufe!",
+          "start": 210.79,
+          "end": 212.25
+        },
+        {
+          "text": "Gibt es in dem Shop Souvenirs zu kaufen?",
+          "start": 215.03,
+          "end": 217.37
+        }
       ]
     }
   ]

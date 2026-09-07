@@ -4,60 +4,252 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Muttertag und Vatertag",
-        "Eltern",
-        "Frau",
-        "mütterlich",
-        "Mütterlichkeit",
-        "Mutterliebe",
-        "mutterlos",
-        "Mutterschaft",
-        "Aufopferung",
-        "bewundern",
-        "fürsorglich",
-        "liebevoll",
-        "respektieren",
-        "verehren",
-        "vertrauen",
-        "Übermüdung",
-        "Blumenstrauß",
-        "Dankeschön",
-        "Nelke",
-        "Rispengipskraut",
-        "Schnittblume",
-        "Trend",
-        "verschenken",
-        "Dame",
-        "elegant",
-        "glücklich",
-        "reizvoll",
-        "sanft",
-        "schön",
-        "zärtlich",
-        "Autorität",
-        "Beschützer",
-        "Ernährer",
-        "Großvater",
-        "Himmelfahrt",
-        "Liebeserklärung",
-        "Mann"
+        {
+          "text": "Muttertag und Vatertag",
+          "start": 1.84,
+          "end": 4.74
+        },
+        {
+          "text": "Eltern",
+          "start": 6.02,
+          "end": 7.18
+        },
+        {
+          "text": "Frau",
+          "start": 8.62,
+          "end": 10.9
+        },
+        {
+          "text": "mütterlich",
+          "start": 12.56,
+          "end": 13.96
+        },
+        {
+          "text": "Mütterlichkeit",
+          "start": 14.56,
+          "end": 16.54
+        },
+        {
+          "text": "Mutterliebe",
+          "start": 18.46,
+          "end": 19.86
+        },
+        {
+          "text": "mutterlos",
+          "start": 21.11,
+          "end": 23.21
+        },
+        {
+          "text": "Mutterschaft",
+          "start": 23.81,
+          "end": 25.47
+        },
+        {
+          "text": "Aufopferung",
+          "start": 28.28,
+          "end": 29.68
+        },
+        {
+          "text": "bewundern",
+          "start": 29.68,
+          "end": 31.88
+        },
+        {
+          "text": "fürsorglich",
+          "start": 33.26,
+          "end": 35.46
+        },
+        {
+          "text": "liebevoll",
+          "start": 35.46,
+          "end": 37.46
+        },
+        {
+          "text": "respektieren",
+          "start": 39.32,
+          "end": 40.7
+        },
+        {
+          "text": "verehren",
+          "start": 42.61,
+          "end": 44.23
+        },
+        {
+          "text": "vertrauen",
+          "start": 45.54,
+          "end": 47.48
+        },
+        {
+          "text": "Übermüdung",
+          "start": 47.48,
+          "end": 49.36
+        },
+        {
+          "text": "Blumenstrauß",
+          "start": 51.49,
+          "end": 53.25
+        },
+        {
+          "text": "Dankeschön",
+          "start": 54.5,
+          "end": 56.48
+        },
+        {
+          "text": "Nelke",
+          "start": 57.72,
+          "end": 59.26
+        },
+        {
+          "text": "Rispengipskraut",
+          "start": 61.6,
+          "end": 63.0
+        },
+        {
+          "text": "Schnittblume",
+          "start": 64.35,
+          "end": 65.05
+        },
+        {
+          "text": "Trend",
+          "start": 67.28,
+          "end": 68.14
+        },
+        {
+          "text": "Verschenken",
+          "start": 69.49,
+          "end": 71.61
+        },
+        {
+          "text": "Dame",
+          "start": 72.86,
+          "end": 73.6
+        },
+        {
+          "text": "elegant",
+          "start": 75.82,
+          "end": 76.76
+        },
+        {
+          "text": "lieblich",
+          "start": 78.44,
+          "end": 79.84
+        },
+        {
+          "text": "reizvoll",
+          "start": 82.64,
+          "end": 83.34
+        },
+        {
+          "text": "sanft",
+          "start": 84.04,
+          "end": 85.04
+        },
+        {
+          "text": "schön",
+          "start": 87.09,
+          "end": 88.15
+        },
+        {
+          "text": "zärtlich",
+          "start": 89.56,
+          "end": 91.5
+        },
+        {
+          "text": "Autorität",
+          "start": 92.75,
+          "end": 94.53
+        },
+        {
+          "text": "Beschützer",
+          "start": 96.11,
+          "end": 97.51
+        },
+        {
+          "text": "Ernährer",
+          "start": 98.79,
+          "end": 100.45
+        },
+        {
+          "text": "Großvater",
+          "start": 101.76,
+          "end": 103.42
+        },
+        {
+          "text": "Himmelfahrt",
+          "start": 106.59,
+          "end": 107.29
+        },
+        {
+          "text": "Liebeserklärung",
+          "start": 109.11,
+          "end": 110.51
+        },
+        {
+          "text": "Mann",
+          "start": 110.51,
+          "end": 112.09
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Muttertag geht auf eine Initiative der amerikanischen Frauenrechtlerin Anna Jarvis zurück.",
-        "Am Muttertag wäre es das beste Geschenk, die Mutterschaft von Übermüdung und Geldsorgen zu befreien.",
-        "Man will auf humorvolle Art und Weise allen Müttern anlässlich des Muttertags Dankeschön sagen.",
-        "Die Lehrerin behandelte ihre Schüler mütterlich.",
-        "Das Mutterbild ist stark an die Idee von Aufopferung geknüpft.",
-        "Die Idee, dass nur Mütter fürsorglich, liebevoll und aufmerksam sein können, ist so alt wie überholt.",
-        "Ich verliebte mich sofort in sie, weil sie so lieblich lächelte.",
-        "Er kraulte ihr sanft den Nacken.",
-        "Eine schöne schlichte Würdigung der Väter, die so viel sind, Beschützer und Ernährer, Autoritäten und Vorbilder.",
-        "Christi Himmelfahrt wird jedes Jahr im Mai gefeiert.",
-        "Männer sehnen sich stärker nach Familie als Frauen."
+        {
+          "text": "Der Muttertag geht auf eine Initiative der amerikanischen Frauenrechtlerin Anna Jarvis zurück.",
+          "start": 122.72,
+          "end": 130.32
+        },
+        {
+          "text": "Am Muttertag wäre es das beste Geschenk, die Mutterschaft von Übermüdung und Geldsorgen zu befreien.",
+          "start": 133.42,
+          "end": 141.28
+        },
+        {
+          "text": "Man will auf humorvolle Art und Weise allen Müttern anlässlich des Muttertags Dankeschön sagen.",
+          "start": 143.64,
+          "end": 150.56
+        },
+        {
+          "text": "Die Lehrerin behandelte ihre Schüler mütterlich.",
+          "start": 150.56,
+          "end": 157.05
+        },
+        {
+          "text": "Das Mutterbild ist stark an die Idee von Aufopferung geknüpft.",
+          "start": 160.03,
+          "end": 164.57
+        },
+        {
+          "text": "Die Idee, dass nur Mütter fürsorglich, liebevoll und aufmerksam sein können, ist so alt wie überholt.",
+          "start": 167.61,
+          "end": 174.67
+        },
+        {
+          "text": "Ich verliebte mich sofort in sie, weil sie so lieblich lächelte.",
+          "start": 178.02,
+          "end": 183.0
+        },
+        {
+          "text": "Er kraulte ihr sanft den Nacken.",
+          "start": 185.48,
+          "end": 187.88
+        },
+        {
+          "text": "Eine schöne schlichte Würdigung der Väter, die so viel sind, Beschützer und Ernährer, Autoritäten und Vorbilder.",
+          "start": 190.16,
+          "end": 199.16
+        },
+        {
+          "text": "Christi Himmelfahrt wird jedes Jahr im Mai gefeiert.",
+          "start": 202.64,
+          "end": 205.64
+        },
+        {
+          "text": "Männer sehnen sich stärker nach Familie als Frauen.",
+          "start": 209.17,
+          "end": 212.73
+        }
       ]
     }
   ]

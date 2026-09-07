@@ -4,57 +4,242 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Fotografie",
-        "Familienfoto",
-        "Farbfoto",
-        "Gruppenfoto",
-        "Lichtbild",
-        "Passfoto",
-        "Portraitfoto",
-        "Pressefoto",
-        "Satellitenfoto",
-        "Blitzlicht",
-        "Panorama",
-        "Selfie",
-        "Video",
-        "Zeitraffer",
-        "Batterie",
-        "Brennweite",
-        "Film",
-        "Objektiv",
-        "Okular",
-        "Reflexspiegel",
-        "Schraubdeckel",
-        "Spiegelreflexkamera",
-        "Stativ",
-        "Ausschussware",
-        "Einfotomachen",
-        "Filmen",
-        "Fotograf",
-        "Haltung",
-        "Lichtverhältnisse",
-        "Wackeln"
+        {
+          "text": "Fotografie",
+          "start": 1.84,
+          "end": 3.84
+        },
+        {
+          "text": "Familienfoto",
+          "start": 5.28,
+          "end": 7.24
+        },
+        {
+          "text": "Farbfoto",
+          "start": 8.62,
+          "end": 10.42
+        },
+        {
+          "text": "Gruppenfoto",
+          "start": 11.73,
+          "end": 13.69
+        },
+        {
+          "text": "Lichtbild",
+          "start": 14.97,
+          "end": 16.65
+        },
+        {
+          "text": "Passfoto",
+          "start": 18.53,
+          "end": 19.75
+        },
+        {
+          "text": "Portraitfoto",
+          "start": 21.84,
+          "end": 23.06
+        },
+        {
+          "text": "Pressefoto",
+          "start": 25.18,
+          "end": 26.44
+        },
+        {
+          "text": "Satellitenfoto",
+          "start": 28.46,
+          "end": 29.94
+        },
+        {
+          "text": "Blitzlicht",
+          "start": 31.71,
+          "end": 32.53
+        },
+        {
+          "text": "Panorama",
+          "start": 34.89,
+          "end": 35.59
+        },
+        {
+          "text": "Selfie",
+          "start": 38.19,
+          "end": 38.89
+        },
+        {
+          "text": "Video",
+          "start": 43.12,
+          "end": 43.82
+        },
+        {
+          "text": "Zeitraffer",
+          "start": 47.62,
+          "end": 48.46
+        },
+        {
+          "text": "Batterie",
+          "start": 48.46,
+          "end": 50.78
+        },
+        {
+          "text": "Brennweite",
+          "start": 52.13,
+          "end": 53.81
+        },
+        {
+          "text": "Film",
+          "start": 55.22,
+          "end": 56.3
+        },
+        {
+          "text": "Objektiv",
+          "start": 58.56,
+          "end": 59.7
+        },
+        {
+          "text": "Okular",
+          "start": 61.81,
+          "end": 62.51
+        },
+        {
+          "text": "Reflexspiegel",
+          "start": 65.18,
+          "end": 65.96
+        },
+        {
+          "text": "Schraubdeckel",
+          "start": 68.54,
+          "end": 69.24
+        },
+        {
+          "text": "Spiegelreflexkamera",
+          "start": 72.03,
+          "end": 72.99
+        },
+        {
+          "text": "Stativ",
+          "start": 75.0,
+          "end": 75.7
+        },
+        {
+          "text": "Ausschussware",
+          "start": 78.38,
+          "end": 79.08
+        },
+        {
+          "text": "Einfotomachen",
+          "start": 80.92,
+          "end": 82.32
+        },
+        {
+          "text": "Filmen",
+          "start": 83.7,
+          "end": 85.34
+        },
+        {
+          "text": "Fotograf",
+          "start": 87.38,
+          "end": 88.08
+        },
+        {
+          "text": "Haltung",
+          "start": 90.36,
+          "end": 91.06
+        },
+        {
+          "text": "Knipsen",
+          "start": 92.41,
+          "end": 94.21
+        },
+        {
+          "text": "Lichtverhältnisse",
+          "start": 96.64,
+          "end": 97.56
+        },
+        {
+          "text": "Wackeln",
+          "start": 98.8,
+          "end": 99.98
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "An den Wänden hängt ein Familienfoto neben dem anderen.",
-        "Die Polizei sucht per Lichtbild nach einem der beiden Räuber.",
-        "Der elektronische Personalausweis besitzt einen integrierten Chip, der unter anderem ein digitales Passfoto enthält.",
-        "Auf einem Satellitenfoto entdeckte der US-amerikanische Geheimdienst in der Sowjetunion eine Langstreckenrakete.",
-        "Selfie gehört zu den Begriffen des 21.",
-        "Jahrhunderts, die man kennen sollte.",
-        "In der Hand beginnt der Selfiestick schnell zu wackeln.",
-        "Im Zeitraffer erkennen wir, dass das Leben ein Wettlauf gegen die Uhr ist.",
-        "Die Batterie ist erschöpft.",
-        "Er hat einen neuen Film in die Kamera eingelegt.",
-        "In einem bestimmten Abstand hinter dem Objektiv befindet sich das Okular.",
-        "Mit der Spiegel-Reflexkamera habe ich viele Urlaubsfotos gemacht.",
-        "Wenn die Sonne scheint, versuche lieber im Schatten zu fotografieren und eventuell mit einem Blitzlicht das Gesicht aufzuhellen.",
-        "Während der Reise knipste sie viele Bilder.",
-        "Wenn die Lichtverhältnisse gut sind, überzeugt auch die Mobilität der Fotos."
+        {
+          "text": "An den Wänden hängt ein Familienfoto neben dem anderen.",
+          "start": 110.28,
+          "end": 114.08
+        },
+        {
+          "text": "Die Polizei sucht per Lichtbild nach einem der beiden Räuber.",
+          "start": 117.1,
+          "end": 121.16
+        },
+        {
+          "text": "Der elektronische Personalausweis besitzt einen integrierten Chip, der unter anderem ein digitales Passfoto enthält.",
+          "start": 124.21,
+          "end": 132.27
+        },
+        {
+          "text": "Auf einem Satellitenfoto entdeckte der US-amerikanische Geheimdienst in der Sowjetunion eine Langstreckenrakete.",
+          "start": 135.34,
+          "end": 143.9
+        },
+        {
+          "text": "Selfie gehört zu den Begriffen des 21.",
+          "start": 146.71,
+          "end": 149.79
+        },
+        {
+          "text": "Jahrhunderts, die man kennen sollte.",
+          "start": 150.25,
+          "end": 152.11
+        },
+        {
+          "text": "In der Hand beginnt der Selfie-Stick schnell zu wackeln.",
+          "start": 155.21,
+          "end": 158.69
+        },
+        {
+          "text": "Im Zeitraffer erkennen wir, dass das Leben ein Wettlauf gegen die Uhr ist.",
+          "start": 161.76,
+          "end": 166.38
+        },
+        {
+          "text": "Die Batterie ist erschöpft.",
+          "start": 169.38,
+          "end": 171.2
+        },
+        {
+          "text": "Er hat einen neuen Film in die Kamera eingelegt.",
+          "start": 174.18,
+          "end": 177.18
+        },
+        {
+          "text": "In einem bestimmten Abstand hinter dem Objektiv befindet sich das Okular.",
+          "start": 180.2,
+          "end": 185.16
+        },
+        {
+          "text": "Mit der Spiegelreflexkamera habe ich viele Urlaubsfotos gemacht.",
+          "start": 188.26,
+          "end": 192.86
+        },
+        {
+          "text": "Wenn die Sonne scheint, versuche lieber im Schatten zu fotografieren und eventuell mit einem Blitzlicht das Gesicht aufzuhellen.",
+          "start": 195.9,
+          "end": 204.04
+        },
+        {
+          "text": "Während der Reise knipste sie viele Bilder.",
+          "start": 207.19,
+          "end": 210.09
+        },
+        {
+          "text": "Wenn die Lichtverhältnisse gut sind, überzeugt auch die Qualität der Fotos.",
+          "start": 213.22,
+          "end": 218.4
+        }
       ]
     }
   ]

@@ -4,64 +4,272 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "streit",
-        "knatsch",
-        "krach",
-        "schimpfen",
-        "Schimpfwort",
-        "sich zerstreiten",
-        "streitbar",
-        "Streiterei",
-        "uneinig",
-        "eifersucht",
-        "eifersüchtig",
-        "Kleinigkeit",
-        "Konflikt",
-        "Missverständnis",
-        "neid",
-        "neidisch",
-        "Verdacht",
-        "Faust",
-        "Ohrfeige",
-        "Prügelei",
-        "prügeln",
-        "Schlägerei",
-        "verprügeln",
-        "Dialog",
-        "enttäuschen",
-        "missverstehen",
-        "reden",
-        "schlichten",
-        "sich verständigen",
-        "Strategie",
-        "verstehen",
-        "entschuldigen",
-        "Entschuldigung",
-        "Verzeihung",
-        "Schuld",
-        "sich aussöhnen",
-        "vergeben",
-        "vermitteln",
-        "verzeihen"
+        {
+          "text": "streit",
+          "start": 1.97,
+          "end": 3.57
+        },
+        {
+          "text": "knatsch",
+          "start": 5.3,
+          "end": 6.52
+        },
+        {
+          "text": "krach",
+          "start": 8.24,
+          "end": 8.96
+        },
+        {
+          "text": "schimpfen",
+          "start": 10.71,
+          "end": 11.75
+        },
+        {
+          "text": "Schimpfwort",
+          "start": 13.46,
+          "end": 14.54
+        },
+        {
+          "text": "sich zerstreiten",
+          "start": 16.49,
+          "end": 18.23
+        },
+        {
+          "text": "streitbar",
+          "start": 20.12,
+          "end": 21.26
+        },
+        {
+          "text": "Streiterei",
+          "start": 23.16,
+          "end": 25.46
+        },
+        {
+          "text": "uneinig",
+          "start": 25.46,
+          "end": 27.3
+        },
+        {
+          "text": "eifersucht",
+          "start": 28.9,
+          "end": 29.9
+        },
+        {
+          "text": "eifersüchtig",
+          "start": 31.89,
+          "end": 33.45
+        },
+        {
+          "text": "Kleinigkeit",
+          "start": 35.21,
+          "end": 36.29
+        },
+        {
+          "text": "Konflikt",
+          "start": 38.42,
+          "end": 39.54
+        },
+        {
+          "text": "Missverständnis",
+          "start": 41.25,
+          "end": 42.93
+        },
+        {
+          "text": "neid",
+          "start": 44.18,
+          "end": 45.84
+        },
+        {
+          "text": "neidisch",
+          "start": 47.34,
+          "end": 48.62
+        },
+        {
+          "text": "Verdacht",
+          "start": 50.38,
+          "end": 51.4
+        },
+        {
+          "text": "Faust",
+          "start": 53.29,
+          "end": 54.21
+        },
+        {
+          "text": "Ohrfeige",
+          "start": 56.01,
+          "end": 57.29
+        },
+        {
+          "text": "Prügelei",
+          "start": 58.89,
+          "end": 59.89
+        },
+        {
+          "text": "prügeln",
+          "start": 61.74,
+          "end": 62.8
+        },
+        {
+          "text": "Schlägerei",
+          "start": 64.64,
+          "end": 66.16
+        },
+        {
+          "text": "verprügeln",
+          "start": 67.64,
+          "end": 69.88
+        },
+        {
+          "text": "Dialog",
+          "start": 69.88,
+          "end": 71.94
+        },
+        {
+          "text": "enttäuschen",
+          "start": 73.67,
+          "end": 75.95
+        },
+        {
+          "text": "missverstehen",
+          "start": 76.55,
+          "end": 78.85
+        },
+        {
+          "text": "reden",
+          "start": 80.21,
+          "end": 80.21
+        },
+        {
+          "text": "schlichten",
+          "start": 82.54,
+          "end": 83.76
+        },
+        {
+          "text": "sich verständigen",
+          "start": 85.38,
+          "end": 86.78
+        },
+        {
+          "text": "Strategie",
+          "start": 88.84,
+          "end": 89.54
+        },
+        {
+          "text": "verstehen",
+          "start": 91.85,
+          "end": 92.47
+        },
+        {
+          "text": "entschuldigen",
+          "start": 94.74,
+          "end": 95.76
+        },
+        {
+          "text": "Entschuldigung",
+          "start": 97.73,
+          "end": 98.61
+        },
+        {
+          "text": "Verzeihung",
+          "start": 100.78,
+          "end": 101.84
+        },
+        {
+          "text": "Schuld",
+          "start": 103.78,
+          "end": 104.16
+        },
+        {
+          "text": "sich aussöhnen",
+          "start": 106.36,
+          "end": 107.62
+        },
+        {
+          "text": "vergeben",
+          "start": 109.77,
+          "end": 110.51
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "In dieser Diskussion sind die Geschäftspartner noch uneinig.",
-        "Sie ist neidisch auf ihren Freund.",
-        "In der Vergangenheit hatte der Kaiser Gewalt über Leben und Tod.",
-        "Der starke Mann hielt dem Gegenüber die Faust unter die Nase.",
-        "Die Tochter bekommt eine saftige Ohrfeige von ihrer Mutter.",
-        "Ich bin enttäuscht davon.",
-        "Meine Eltern können mich nicht abholen.",
-        "Es gelang ihm nicht, den Streit zu schlichten.",
-        "Ich habe schon verstanden, was du meinst.",
-        "Die Mutter hat ihrem Sohn die Schuld längst vergeben.",
-        "Nach einer Abhandlung haben sich die beiden Geschäftspartner ausgesöhnt.",
-        "Der Staatspräsident möchte die Konflikte zwischen den Einheimischen und den Ausländern vermitteln.",
-        "Hast du schon wieder die ganze Nacht lang geweint?"
+        {
+          "text": "streitet immer mit ihrem älteren Bruder um das Spielzeug.",
+          "start": 128.84,
+          "end": 132.52
+        },
+        {
+          "text": "Es gibt stetig Knatsch in dieser Familie.",
+          "start": 135.57,
+          "end": 138.57
+        },
+        {
+          "text": "Ihr Mann schimpft den ganzen Tag.",
+          "start": 141.82,
+          "end": 144.26
+        },
+        {
+          "text": "Die Geschwister in dieser Familie haben sich in dieser Diskussion sind die Geschäftspartner noch uneinig.",
+          "start": 147.21,
+          "end": 158.06
+        },
+        {
+          "text": "Sie ist neidisch auf ihren Freund.",
+          "start": 161.06,
+          "end": 163.22
+        },
+        {
+          "text": "In der Vergangenheit hatte der Kaiser Gewalt über Leben und Tod.",
+          "start": 166.31,
+          "end": 170.97
+        },
+        {
+          "text": "Der starke Mann hielt dem Gegenüber die Faust unter die Nase.",
+          "start": 174.0,
+          "end": 178.42
+        },
+        {
+          "text": "Die Tochter bekommt eine saftige Ohrfeige von ihrer Mutter.",
+          "start": 181.48,
+          "end": 185.12
+        },
+        {
+          "text": "Ich bin enttäuscht davon, meine Eltern können mich nicht abholen.",
+          "start": 188.13,
+          "end": 192.25
+        },
+        {
+          "text": "Es gelang ihm nicht, den Streit zu schlichten.",
+          "start": 194.62,
+          "end": 198.14
+        },
+        {
+          "text": "Ich habe schon verstanden, was du meinst.",
+          "start": 200.97,
+          "end": 203.71
+        },
+        {
+          "text": "Die Mutter hat ihrem Sohn die Schuld längst vergeben.",
+          "start": 206.63,
+          "end": 209.91
+        },
+        {
+          "text": "Nach einer Abhandlung haben sich die beiden Geschäftspartner ausgesöhnt.",
+          "start": 213.0,
+          "end": 217.94
+        },
+        {
+          "text": "Der Staatspräsident möchte die Konflikte zwischen den Einheimischen und den Ausländern vermitteln.",
+          "start": 220.86,
+          "end": 227.16
+        },
+        {
+          "text": "Hast du schon wieder die ganze Nacht lang geweint?",
+          "start": 230.11,
+          "end": 232.73
+        }
       ]
     }
   ]

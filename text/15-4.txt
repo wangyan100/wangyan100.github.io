@@ -1,55 +1,71 @@
-Säugetiere, zwei
-Dachs, Fuchs
-Hyäne
-Marderhund
-Polarfuchs
-Schakal
-Wiesel
-Wolf
-Bengalkatze
-Gepard
-Leopard
-Löwe
-Luchs
-Puma
-Silberlöwe
-Tiger
-Affe
-Gibbon
-Gorilla
-Makak
-Mandrill
-Pavian
-Schimpanse
-Stumpfnasenaffe
-Beuteldachs
-Beutelmarder
-Beutelratte
-Koala
-Wombat
-Beutel
-Zitze
-Fledermaus
-Flughund
-Rosettenflughund
-Vampirfledermaus
-Elefant
-Mammut
-Rüssel
-Stoßzahn
-Sprechen Sie bitte die folgenden Sätze
-Der Junge ist schlau wie ein Fuchs.
-Der Polarfuchs ist der einzige Wildhund, der die Farbe seines Pelzes den Jahreszeiten entsprechend wechselt.
-Die Bengalkatze wird wegen ihres Fels gejagt.
-Nach dem Mahl bedeckt Leopard seine Beutereste mit Gras, Zweigen oder Laub.
-Pumas sind sehr beweglich und kräftig.
-In Malaysia, Indonesien und Thailand werden Makaken zur Kokosnussernte eingesetzt.
-Beuteldachs sind Allesfresser.
-Ihr Speiseplan reicht von Insekten über kleine Wirbeltiere bis zu pflanzlichem Material.
-Weibliche Beutelwölfe hatten einen geöffneten Beutel, der vier Zitzen enthielt.
-Kängurus springen mit den Hinterbeinen, der Schwanz bleibt in der Luft und dient der Balance.
-Als nachtaktive Tiere besitzen Koalas ein gutes Hörvermögen.
-Erwachsene Wombats haben wenige natürliche Gegner, ihr größter Fressfeind ist der Dingo.
-Natürliche Feinde der Fledermäuse sind vor allem Katzen und Greifvögel.
-Die Touristin setzte sich auf den Elefanten.
-Der Rüssel ist ein Multifunktionsorgan.
+[00:00:01.680 --> 00:00:04.640] Säugetiere, zwei
+[00:00:05.950 --> 00:00:09.860] Dachs, Fuchs
+[00:00:11.200 --> 00:00:12.780] Hyäne
+[00:00:14.060 --> 00:00:15.840] Marderhund
+[00:00:17.090 --> 00:00:18.730] Polarfuchs
+[00:00:20.740 --> 00:00:21.880] Schakal
+[00:00:24.660 --> 00:00:26.060] Wiesel
+[00:00:26.060 --> 00:00:27.420] Wolf
+[00:00:30.720 --> 00:00:32.120] Bengalkatze
+[00:00:32.120 --> 00:00:33.500] Gepard
+[00:00:35.270 --> 00:00:36.870] Leopard
+[00:00:38.490 --> 00:00:39.270] Löwe
+[00:00:39.890 --> 00:00:41.730] Luchs
+[00:00:43.140 --> 00:00:44.980] Puma
+[00:00:46.260 --> 00:00:48.200] Silberlöwe
+[00:00:49.510 --> 00:00:50.550] Tiger
+[00:00:53.010 --> 00:00:53.710] Affe
+[00:00:54.960 --> 00:00:56.260] Gibbon
+[00:00:57.500 --> 00:00:59.140] Gorilla
+[00:01:00.420 --> 00:01:01.960] Makak
+[00:01:03.240 --> 00:01:04.740] Mandrill
+[00:01:06.180 --> 00:01:07.840] Pavian
+[00:01:09.220 --> 00:01:10.940] Schimpanse
+[00:01:12.480 --> 00:01:14.440] Stumpfnasenaffe
+[00:01:15.750 --> 00:01:18.050] Beuteldax
+[00:01:19.390 --> 00:01:21.310] Beutelmarder
+[00:01:22.560 --> 00:01:24.620] Beutelratte
+[00:01:25.900 --> 00:01:27.200] Beutelwolf
+[00:01:29.210 --> 00:01:30.490] Känguru
+[00:01:32.520 --> 00:01:33.400] Koala
+[00:01:35.530 --> 00:01:36.230] Wombat
+[00:01:38.470 --> 00:01:39.170] Beutel
+[00:01:40.510 --> 00:01:41.830] Zitze
+[00:01:43.240 --> 00:01:44.980] Fledermaus
+[00:01:46.390 --> 00:01:48.090] Flughund
+[00:01:49.400 --> 00:01:51.740] Rosettenflughund
+[00:01:55.300 --> 00:01:56.000] Vampirfledermaus
+[00:01:57.800 --> 00:01:59.200] Elefant
+[00:01:59.900 --> 00:02:01.080] Mammut
+[00:02:02.800 --> 00:02:03.500] Rüssel
+[00:02:05.160 --> 00:02:06.800] Stoßzahn
+[00:02:11.250 --> 00:02:14.090] Sprechen Sie bitte die folgenden Sätze.
+[00:02:17.140 --> 00:02:19.620] Der Junge ist schlau wie ein Fuchs.
+[00:02:22.640 --> 00:02:25.700] Der Polarfuchs ist der einzige Wildhund,
+[00:02:25.980 --> 00:02:27.840] der die Farbe seines Pelzes
+[00:02:27.840 --> 00:02:30.680] den Jahreszeiten entsprechend wechselt.
+[00:02:33.370 --> 00:02:36.910] Die Bengalkatze wird wegen ihres Fels gejagt.
+[00:02:40.010 --> 00:02:43.390] Nach dem Mahl bedeckt Leopard seine Beutereste
+[00:02:43.390 --> 00:02:45.950] mit Gras, Zweigen oder Laub.
+[00:02:48.320 --> 00:02:52.120] Pumas sind sehr beweglich und kräftig.
+[00:02:54.940 --> 00:02:57.800] In Malaysia, Indonesien und Thailand
+[00:02:57.800 --> 00:03:01.560] werden Makaken zur Kokosnussernte eingesetzt.
+[00:03:04.820 --> 00:03:06.920] Beuteldax sind Allesfresser.
+[00:03:07.400 --> 00:03:10.180] Ihr Speiseplan reicht von Insekten
+[00:03:10.180 --> 00:03:12.100] über kleine Wirbeltiere
+[00:03:12.100 --> 00:03:14.400] bis zu pflanzlichem Material.
+[00:03:17.630 --> 00:03:19.430] Weibliche Beutelwölfe
+[00:03:19.430 --> 00:03:21.610] hatten einen geöffneten Beutel,
+[00:03:21.690 --> 00:03:23.410] der vier Zitzen enthielt.
+[00:03:25.780 --> 00:03:29.040] Kängurus springen mit den Hinterbeinen.
+[00:03:29.160 --> 00:03:30.920] Der Schwanz bleibt in der Luft
+[00:03:30.920 --> 00:03:32.340] und dient der Balance.
+[00:03:35.720 --> 00:03:37.460] Als nachtaktive Tiere
+[00:03:37.460 --> 00:03:40.140] besitzen Koalas ein gutes Hörvermögen.
+[00:03:43.580 --> 00:03:44.740] Erwachsene Wombats
+[00:03:45.120 --> 00:03:47.540] haben wenige natürliche Gegner.
+[00:03:48.000 --> 00:03:50.720] Ihr größter Fressfeind ist der Dingo.
+[00:03:53.920 --> 00:03:55.760] Natürliche Feinde der Fledermäuse
+[00:03:56.240 --> 00:03:58.660] sind vor allem Katzen und Greifvögel.
+[00:04:01.900 --> 00:04:05.120] Die Touristin setzte sich auf den Elefanten.
+[00:04:08.160 --> 00:04:10.140] Der Rüssel ist ein Multifunktionsorgan.

@@ -1,49 +1,38 @@
-Bibliothek erledigen
-erweiterte Suche recherchieren
-sammeln Schlagwort
-Suche
-Buch
-Die elektronischen Datenträger Zeitschrift
-Flugblatt Heft
-Karte
-Mikroform
-Online-Resourcen
-bestellen
-vormerken
-drucken
-kopieren
-leihfrist
-scannen
-stornieren
-verlängern
-zurückgeben
-Bestand
-Freihand
-Katalog
-Präsenz
-Signatur
-Ausweis
-Benutzernummer
-sich einloggen
-Passwort
-erschöpft
-konzentriert
-schläfrig
-sich für
-interessieren
-Sprechen Sie bitte die folgenden Sätze
-Um die Semesterarbeit zu schreiben, muss ich in der Bibliothek recherchieren.
-Es ist verboten, Flugblätter auf der Straße zu verteilen.
-Das ist das letzte Heft dieser Zeitschrift.
-Kann ich die bestellten Bücher nach Hause mitnehmen?
-Beachten Sie, dass für vorgemerkte Medien keine Verlängerungen möglich sind.
-Jeder will jeden kopieren.
-Sie dürfen maximal dreimal die Leihfrist verlängern.
-Heute muss ich die geliehenen Bücher zurückgeben.
-Der Bestand unserer Bibliothek beträgt 100.000 Bände.
-Das ist ein alphabetischer Katalog einer Bibliothek.
-Mithilfe des Bibliothekskatalogs kann der Benutzer die Signatur des gesuchten Buches herausfinden.
-Es wurde verlangt, den Ausweis zu zeigen.
-Loggen Sie sich bitte mit der Nummer des Benutzungsausweises und folgendem Passwort ein.
-Das regnerische Wetter macht mich schläfrig.
-Ich interessiere mich für das Buch überhaupt nicht.
+[00:00:04.860 --> 00:00:07.660] Bibliothek erledigen
+[00:00:07.660 --> 00:00:13.330] erweiterte Suche recherchieren
+[00:00:14.130 --> 00:00:19.110] sammeln Schlagwort
+[00:00:21.510 --> 00:00:22.910] Suche
+[00:00:22.910 --> 00:00:23.650] Buch
+[00:00:24.900 --> 00:00:31.100] Die elektronischen Datenträger Zeitschrift
+[00:00:32.440 --> 00:00:36.590] Flugblatt Heft
+[00:00:37.900 --> 00:00:39.060] Karte
+[00:00:41.920 --> 00:00:46.580] Mikroform Online-Resourcen
+[00:00:47.460 --> 00:00:51.820] bestellen Vormärken
+[00:00:53.100 --> 00:00:58.270] drucken kopieren
+[00:00:58.270 --> 00:01:03.060] Leihfrist scannen
+[00:01:04.470 --> 00:01:08.960] stornieren verlängern
+[00:01:10.310 --> 00:01:11.910] zurückgeben
+[00:01:13.030 --> 00:01:17.740] Bestand Freihand
+[00:01:19.020 --> 00:01:23.510] Katalog Präsenz
+[00:01:26.210 --> 00:01:27.610] Signatur
+[00:01:27.610 --> 00:01:29.730] Ausweis
+[00:01:31.170 --> 00:01:32.570] Benutzernummer
+[00:01:33.350 --> 00:01:38.240] sich einloggen Passwort
+[00:01:39.520 --> 00:01:44.190] erschöpft konzentriert
+[00:01:45.540 --> 00:01:49.790] schläfrig sich für
+[00:01:49.790 --> 00:01:58.760] interessieren Sprechen Sie bitte die folgenden Sätze.
+[00:01:58.760 --> 00:02:06.890] Um die Semesterarbeit zu schreiben, muss ich in der Bibliothek recherchieren.
+[00:02:09.880 --> 00:02:14.160] Es ist verboten, Flugblätter auf der Straße zu verteilen.
+[00:02:17.060 --> 00:02:19.940] Das ist das letzte Heft dieser Zeitschrift.
+[00:02:22.910 --> 00:02:25.930] Kann ich die bestellten Bücher nach Hause mitnehmen?
+[00:02:29.070 --> 00:02:34.350] Beachten Sie, dass für vorgemerkte Medien keine Verlängerungen möglich sind.
+[00:02:37.390 --> 00:02:39.150] Jeder will jeden kopieren.
+[00:02:41.920 --> 00:02:46.320] Sie dürfen maximal dreimal die Leihfrist verlängern.
+[00:02:48.950 --> 00:02:51.870] Heute muss ich die geliehenen Bücher zurückgeben.
+[00:02:54.930 --> 00:02:59.230] Der Bestand unserer Bibliothek beträgt 100.000 Bände.
+[00:03:02.200 --> 00:03:06.440] Das ist ein alphabetischer Katalog einer Bibliothek.
+[00:03:08.950 --> 00:03:15.710] Mithilfe des Bibliothekskatalogs kann der Benutzer die Signatur des gesuchten Buches herausfinden.
+[00:03:18.720 --> 00:03:21.640] Es wurde verlangt, den Ausweis zu zeigen.
+[00:03:24.590 --> 00:03:30.470] Loggen Sie sich bitte mit der Nummer des Benutzungsausweises und folgendem Passwort ein.
+[00:03:33.550 --> 00:03:36.390] Das regnerische Wetter macht mich schläfrig.
+[00:03:39.230 --> 00:03:42.350] Ich interessiere mich für das Buch überhaupt nicht.

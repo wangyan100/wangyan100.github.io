@@ -1,53 +1,55 @@
-Vergnügungspark
-Einlasszeit
-Eintritt frei
-Eintrittskarte
-Familienticket
-Gruppenticket
-Gutschein
-Jahreskarte
-Regulär
-Familie
-Gäste mit Behinderung
-Kleinkind
-Schulklasse
-Senior
-Vorlage des Ausweises
-Achterbahn
-Floßfahrt
-Karussell
-Labyrinth
-Piratenschiff
-Riesenrad
-Spukhaus
-begeistert
-erregend
-erschreckend
-langweilig
-nervös
-schrecklich
-spannend
-erlaubt
-gestattet
-verboten
-untersagt
-Sicherheit
-Vorsicht
-Kuscheltier
-Plüschfigur
-Sprechen Sie bitte die folgenden Sätze.
-Das Ticket kann nach Einlasszeit nicht mehr umgetauscht werden.
-Alle Eintrittskarten sind weg und die Kassen bleiben am Abend geschlossen.
-Der reguläre Eintrittspreis gilt für Erwachsene.
-So etwas kommt in den besten Familien vor.
-Das Unternehmen geht vom Senior auf den Junior über.
-Gegen Vorlage des Ausweises erhalten die Gäste mit Behinderung einen reduzierten Eintrittspreis.
-Die Gedanken fahren in ihrem Kopf Karussell.
-Die Natur findet keinen Ausweg aus dem Labyrinthe der verworrenen und widersprechenden Kräfte.
-Und der Menschen muss sterben.
-Die Leiden des jungen Werther.
-Riesenrad ist mir zu langweilig.
-Das Grillen im Freizeitpark ist untersagt.
-Die Armee bringt sich in Sicherheit.
-Vorsicht Stufe!
-Gibt es in dem Shop Souvenirs zu kaufen?
+[00:00:01.940 --> 00:00:04.400] Vergnügungspark
+[00:00:07.380 --> 00:00:08.780] Einlasszeit
+[00:00:08.780 --> 00:00:10.820] Eintritt frei
+[00:00:12.100 --> 00:00:14.140] Eintrittskarte
+[00:00:15.490 --> 00:00:17.630] Familienticket
+[00:00:18.880 --> 00:00:20.560] Gruppenticket
+[00:00:23.140 --> 00:00:23.840] Gutschein
+[00:00:25.660 --> 00:00:27.060] Jahreskarte
+[00:00:27.060 --> 00:00:29.660] Regulär
+[00:00:31.030 --> 00:00:32.670] Familie
+[00:00:33.930 --> 00:00:36.410] Gäste mit Behinderung
+[00:00:37.720 --> 00:00:39.200] Kleinkind
+[00:00:40.610 --> 00:00:42.550] Schulklasse
+[00:00:43.860 --> 00:00:45.100] Senior
+[00:00:47.080 --> 00:00:49.660] Vorlage des Ausweises
+[00:00:50.940 --> 00:00:52.600] Achterbahn
+[00:00:54.010 --> 00:00:56.070] Floßfahrt
+[00:00:57.350 --> 00:00:59.130] Karussell
+[00:01:01.190 --> 00:01:01.890] Labyrinth
+[00:01:04.150 --> 00:01:05.550] Piratenschiff
+[00:01:05.550 --> 00:01:07.590] Riesenrad
+[00:01:09.030 --> 00:01:10.710] Spukhaus
+[00:01:13.950 --> 00:01:14.710] begeistert
+[00:01:15.350 --> 00:01:16.990] erregend
+[00:01:19.980 --> 00:01:20.680] erschreckend
+[00:01:23.160 --> 00:01:23.860] langweilig
+[00:01:24.740 --> 00:01:26.140] nervös
+[00:01:27.520 --> 00:01:29.020] schrecklich
+[00:01:31.150 --> 00:01:32.170] spannend
+[00:01:33.150 --> 00:01:34.530] erlaubt
+[00:01:35.150 --> 00:01:35.990] gestattet
+[00:01:38.090 --> 00:01:38.790] verboten
+[00:01:38.790 --> 00:01:40.370] untersagt
+[00:01:41.650 --> 00:01:43.070] Sicherheit
+[00:01:44.450 --> 00:01:46.530] Vorsicht
+[00:01:47.810 --> 00:01:49.270] Kuscheltier
+[00:01:50.580 --> 00:01:52.640] Plüschfigur
+[00:01:54.890 --> 00:01:55.690] Postkarte
+[00:01:57.000 --> 00:01:58.460] Souvenir
+[00:02:02.940 --> 00:02:05.660] Sprechen Sie bitte die folgenden Sätze.
+[00:02:08.710 --> 00:02:12.910] Das Ticket kann nach Einlasszeit nicht mehr umgetauscht werden.
+[00:02:16.020 --> 00:02:20.680] Alle Eintrittskarten sind weg und die Kassen bleiben am Abend geschlossen.
+[00:02:23.720 --> 00:02:27.240] Der reguläre Eintrittspreis gilt für Erwachsene.
+[00:02:30.260 --> 00:02:33.340] So etwas kommt in den besten Familien vor.
+[00:02:36.300 --> 00:02:40.280] Das Unternehmen geht vom Senior auf den Junior über.
+[00:02:42.490 --> 00:02:50.290] Gegen Vorlage des Ausweises erhalten die Gäste mit Behinderung einen reduzierten Eintrittspreis.
+[00:02:53.200 --> 00:02:56.220] Die Gedanken fahren in ihrem Kopf Karussell.
+[00:02:59.170 --> 00:03:06.070] Die Natur findet keinen Ausweg aus dem Labyrinthe der verworrenen und widersprechenden Kräfte.
+[00:03:06.630 --> 00:03:08.510] Und der Menschen muss sterben.
+[00:03:08.970 --> 00:03:11.250] Die Leiden des jungen Werther.
+[00:03:13.890 --> 00:03:16.230] Riesenrad ist mir zu langweilig.
+[00:03:18.470 --> 00:03:22.410] Das Grillen im Freizeitpark ist untersagt.
+[00:03:25.540 --> 00:03:27.600] Die Armee bringt sich in Sicherheit.
+[00:03:30.790 --> 00:03:32.250] Vorsicht Stufe!
+[00:03:35.030 --> 00:03:37.370] Gibt es in dem Shop Souvenirs zu kaufen?

@@ -1,26 +1,20 @@
-verabredung aufgeregt
-nervös, scheu, schüchtern, sich aufregen
-sich röten, Spannung, zurückhaltend, Anziehungskraft, Flirt, hinziehen
-interessiert an jemandem sein, Sexualität, sexuell, sich fühlen, signalisieren, attraktiv
-ideal, jemandes Herz erobern, jemandem sein Herz öffnen
-perfekt, Traumfrau, Traummann, das erste Date, Eindruck, Ersehen, fremd
-gegenüber, peinlich, zusammenpassen, aussehen
-geduldig, großzügig, Kriterium, Typ, Vermögen, Zuverlässigkeit
-Sprechen Sie bitte die folgenden Sätze
-Sie schweigt aus scheu
-Ich mag nur schüchterne Männer, die ein bisschen ängstlich und scheu sind.
-Sein Gesicht rötet sich vor Scham und Zorn.
-Mit Spannung warteten wir auf das Ergebnis.
-Das Weiße Haus reagierte zurückhaltend auf die Berichte.
-Norwegen gilt in Sachen Sexualität als sehr aufgeklärt.
-Diese Frau fühlte sich von Anfang an sehr stark zu dem Mann hingezogen.
-Beide Partner gehen nur dann eine romantische Beziehung ein, wenn sie merken, dass der
-andere wirkliche Interessen signalisiert.
-Das erste Date sorgt bei den meisten Menschen für feuchte Hände und eine große Portion
-Nervosität.
-Vor dem ersten Date ist man höllisch aufgeregt.
-Beim Date ist der erste Eindruck sehr wichtig.
-Endlich kam die heiß ersehnte Verabredung.
-Man soll die Menschen nicht nach ihrem Aussehen beurteilen.
-Papier ist geduldig.
-Du bist ja sehr großzügig mit dem Trinkgeld.
+[00:00:01.970 --> 00:00:08.020] verabredung aufgeregt
+[00:00:08.020 --> 00:00:19.260] nervös, scheu, schüchtern, sich aufregen
+[00:00:19.800 --> 00:00:37.320] sich röten, Spannung, zurückhaltend, Anziehungskraft, Flirt, hinziehen
+[00:00:37.320 --> 00:00:57.640] interessiert an jemandem sein, Sexualität, sexuell, sich fühlen, signalisieren, attraktiv
+[00:00:57.640 --> 00:01:10.010] ideal, jemandes Herz erobern, jemandem sein Herz öffnen, perfekt
+[00:01:11.390 --> 00:01:29.650] Traumfrau, Traummann, das erste Date, Eindruck, Ersehnen, Fremd
+[00:01:29.650 --> 00:01:40.670] gegenüber, peinlich, zusammenpassen, aussehen
+[00:01:44.480 --> 00:01:57.870] geduldig, großzügig, Kriterium, Typ, Vermögen, Zuverlässigkeit
+[00:02:02.410 --> 00:02:05.470] Sprechen Sie bitte die folgenden Sätze
+[00:02:07.870 --> 00:02:18.080] Sie schweigt aus scheu. Ich mag nur schüchterne Männer, die ein bisschen ängstlich und scheu sind.
+[00:02:21.290 --> 00:02:30.030] Sein Gesicht rötet sich vor Scham und Zorn. Mit Spannung warteten wir auf das Ergebnis.
+[00:02:32.300 --> 00:02:36.980] Das Weiße Haus reagierte zurückhaltend auf die Berichte.
+[00:02:40.250 --> 00:02:44.670] Norwegen gilt in Sachen Sexualität als sehr aufgeklärt.
+[00:02:47.780 --> 00:02:53.140] Diese Frau fühlte sich von Anfang an sehr stark zu dem Mann hingezogen.
+[00:02:56.170 --> 00:03:01.790] Beide Partner gehen nur dann eine romantische Beziehung ein, wenn sie merken, dass der
+[00:03:01.790 --> 00:03:10.620] andere wirkliche Interessen signalisiert. Das erste Date sorgt bei den meisten Menschen
+[00:03:10.620 --> 00:03:14.900] für feuchte Hände und eine große Portion Nervosität.
+[00:03:17.670 --> 00:03:27.100] Vor dem ersten Date ist man höllisch aufgeregt. Beim Date ist der erste Eindruck sehr wichtig.
+[00:03:30.190 --> 00:03:38.930] Endlich kam die heiß ersehnte Verabredung. Man soll die Menschen nicht nach ihrem Aussehen
+[00:03:38.930 --> 00:03:50.850] beurteilen. Papier ist geduldig. Du bist ja sehr großzügig mit dem Trinkgeld.

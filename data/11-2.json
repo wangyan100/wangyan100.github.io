@@ -4,57 +4,237 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Tag und Datum Januar",
-        "Februar",
-        "März",
-        "April",
-        "Mai",
-        "Juni",
-        "Juli August",
-        "September",
-        "Oktober",
-        "November",
-        "Dezember",
-        "Montag",
-        "Dienstag",
-        "Mittwoch",
-        "Donnerstag",
-        "Freitag",
-        "Samstag",
-        "Sonntag",
-        "Wochenende",
-        "Halbjahr",
-        "Jahrhundert",
-        "Jahrelang",
-        "Schaltjahr",
-        "Zeitalter",
-        "vorgestern",
-        "gestern",
-        "heute",
-        "morgen",
-        "übermorgen"
+        {
+          "text": "Tag und Datum Januar",
+          "start": 1.74,
+          "end": 7.02
+        },
+        {
+          "text": "Februar",
+          "start": 8.87,
+          "end": 10.05
+        },
+        {
+          "text": "März",
+          "start": 11.74,
+          "end": 12.86
+        },
+        {
+          "text": "April",
+          "start": 14.47,
+          "end": 15.67
+        },
+        {
+          "text": "Mai",
+          "start": 16.65,
+          "end": 17.85
+        },
+        {
+          "text": "Juni",
+          "start": 17.85,
+          "end": 20.87
+        },
+        {
+          "text": "Juli August",
+          "start": 22.42,
+          "end": 25.76
+        },
+        {
+          "text": "September",
+          "start": 28.06,
+          "end": 28.62
+        },
+        {
+          "text": "Oktober",
+          "start": 30.89,
+          "end": 33.01
+        },
+        {
+          "text": "November",
+          "start": 33.01,
+          "end": 34.59
+        },
+        {
+          "text": "Dezember",
+          "start": 36.68,
+          "end": 38.02
+        },
+        {
+          "text": "Montag",
+          "start": 39.58,
+          "end": 41.68
+        },
+        {
+          "text": "Dienstag",
+          "start": 42.46,
+          "end": 44.66
+        },
+        {
+          "text": "Mittwoch",
+          "start": 44.66,
+          "end": 46.54
+        },
+        {
+          "text": "Donnerstag",
+          "start": 48.09,
+          "end": 49.05
+        },
+        {
+          "text": "Freitag",
+          "start": 51.1,
+          "end": 53.44
+        },
+        {
+          "text": "Samstag",
+          "start": 53.44,
+          "end": 54.96
+        },
+        {
+          "text": "Sonntag",
+          "start": 56.97,
+          "end": 58.17
+        },
+        {
+          "text": "Wochenende",
+          "start": 59.84,
+          "end": 60.96
+        },
+        {
+          "text": "Halbjahr",
+          "start": 62.88,
+          "end": 63.9
+        },
+        {
+          "text": "Jahrhundert",
+          "start": 65.78,
+          "end": 67.6
+        },
+        {
+          "text": "Jahrelang",
+          "start": 67.6,
+          "end": 69.94
+        },
+        {
+          "text": "Schaltjahr",
+          "start": 71.68,
+          "end": 72.84
+        },
+        {
+          "text": "Zeitalter",
+          "start": 74.61,
+          "end": 75.93
+        },
+        {
+          "text": "vorgestern",
+          "start": 77.73,
+          "end": 79.89
+        },
+        {
+          "text": "gestern",
+          "start": 79.89,
+          "end": 81.75
+        },
+        {
+          "text": "heute",
+          "start": 83.5,
+          "end": 84.18
+        },
+        {
+          "text": "morgen",
+          "start": 86.45,
+          "end": 86.83
+        },
+        {
+          "text": "übermorgen",
+          "start": 88.98,
+          "end": 90.42
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Monat Februar umfasst in Gemeinjahren 28 Tage und in Schaltjahren 29 Tage.",
-        "Zwischen Januar 2016 und März 2019 seien in der EU mehr als 44.000 Fälle der hoch ansteckenden Infektionskrankheit gemeldet worden, teilte die Behörde mit.",
-        "Die Europäische Union will möglichst bis Ende Juni einen neuen Kommissionspräsidenten auswählen.",
-        "Das letzte schwere Erdbeben wurde in Peru am 15.",
-        "August 2007 registriert.",
-        "Die Legislaturperiode hat am 24.",
-        "September 2017 begonnen und wird bis zum Herbst 2021 dauern.",
-        "Der 22.",
-        "Dezember ist auf der Nordhalbkugel der kürzeste Tag im Jahr, die Nacht ist die längste.",
-        "Am kommenden Montag wird sie ihren Rücktritt als Vorsitzende der SPD erklären.",
-        "Der Dienstag gilt in der griechischen Kultur als Unglückstag.",
-        "Am Sonntag klettern die Temperaturen laut deutschem Wetterdienst gar auf bis zu 32 Grad.",
-        "China ist die aufstrebende Großmacht des 21.",
-        "Jahrhunderts.",
-        "Im kolonialen Zeitalter wurde das Reich der Mitte vom Westen ausgebeutet und gedemütigt.",
-        "Diese Familie ist gestern gekommen, bleibt heute und morgen und fährt übermorgen weiter."
+        {
+          "text": "Der Monat Februar umfasst in Gemeinjahren 28 Tage und in Schaltjahren 29 Tage.",
+          "start": 100.52,
+          "end": 108.04
+        },
+        {
+          "text": "Zwischen Januar 2016 und März 2019 seien in der EU mehr als 44.000 Fälle der hoch ansteckenden Infektionskrankheit gemeldet worden, teilte die Behörde mit.",
+          "start": 110.44,
+          "end": 126.18
+        },
+        {
+          "text": "Die Europäische Union will möglichst bis Ende Juni einen neuen Kommissionspräsidenten auswählen.",
+          "start": 129.18,
+          "end": 136.2
+        },
+        {
+          "text": "Das letzte schwere Erdbeben wurde in Peru am 15.",
+          "start": 138.44,
+          "end": 143.68
+        },
+        {
+          "text": "August 2007 registriert.",
+          "start": 143.9,
+          "end": 146.64
+        },
+        {
+          "text": "Die Legislaturperiode hat am 24.",
+          "start": 149.68,
+          "end": 152.84
+        },
+        {
+          "text": "September 2017 begonnen und wird bis zum Herbst 2021 dauern.",
+          "start": 153.08,
+          "end": 159.6
+        },
+        {
+          "text": "Der 22.",
+          "start": 162.5,
+          "end": 163.66
+        },
+        {
+          "text": "Dezember ist auf der Nordhalbkugel der kürzeste Tag im Jahr, die Nacht ist die längste.",
+          "start": 163.92,
+          "end": 170.02
+        },
+        {
+          "text": "Am kommenden Montag wird sie ihren Rücktritt als Vorsitzende der SPD erklären.",
+          "start": 172.26,
+          "end": 178.32
+        },
+        {
+          "text": "Der Dienstag gilt in der griechischen Kultur als Unglückstag.",
+          "start": 181.4,
+          "end": 185.72
+        },
+        {
+          "text": "Am Sonntag klettern die Temperaturen laut deutschem Wetterdienst gar auf bis zu 32 Grad.",
+          "start": 188.84,
+          "end": 195.42
+        },
+        {
+          "text": "China ist die aufstrebende Großmacht des 21.",
+          "start": 198.56,
+          "end": 202.34
+        },
+        {
+          "text": "Jahrhunderts.",
+          "start": 202.8,
+          "end": 203.25
+        },
+        {
+          "text": "Im kolonialen Zeitalter wurde das Reich der Mitte vom Westen ausgebeutet und gedemütigt.",
+          "start": 206.28,
+          "end": 213.38
+        },
+        {
+          "text": "Diese Familie ist gestern gekommen, bleibt heute und morgen und fährt übermorgen weiter.",
+          "start": 216.35,
+          "end": 222.31
+        }
       ]
     }
   ]

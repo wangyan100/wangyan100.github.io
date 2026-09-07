@@ -1,52 +1,59 @@
-Gemüse
-Bärlauch
-Chinakohl
-Eisbergsalat
-Feldsalat
-Kopfsalat
-Rucola
-Salat
-Spinat
-Weißkohl
-Ingwer
-Knoblauch
-Lauchzwiebel
-Lauch
-Spargel
-Staudensellerie
-Zwiebel
-Kartoffel
-Radieschen
-Süßkartoffel
-Karotte
-Möhre
-Blumenkohl
-Brokkoli
-Rosenkohl
-Rotkohl
-Aubergine
-Erbse
-Gartenbohne
-Gurke
-Kürbis
-Paprika
-Tomate
-Zucchini
-Austernpilz
-Champignon
-Pfifferling
-Steinpilz
-Sprechen Sie bitte die folgenden Sätze
-Der Chinakohl stammt ursprünglich aus China.
-Seit der Steinzeit nutzen Menschen den Feldsalat als Nahrungspflanze.
-Spinat dient zur Behandlung von Nierensteinen.
-Der alte Ingwer ist der Schärfste.
-Knoblauch diente den ägyptischen Sklaven für den Pyramidenbau als wichtige Nahrung.
-Das Speicherorgan des Spargels liegt unter der Erde.
-Im alten Ägypten war die Zwiebel ein Symbol für das ewige Leben.
-Die dümmsten Bauern ernten die dicksten Kartoffeln.
-Nach den Tomaten kommen Karotten an zweiter Stelle auf der Gemüse-Beliebtheitsskala in Deutschland.
-Brokkoli kann man sowohl roh als auch gegart genießen.
-Auberginen werden meist gegrillt, gebraten, gedünstet oder geschmort.
-Bitterschmeckende Kürbisse sind giftig und sollen nicht verzehrt werden.
-Sie hat ein Pfund Paprika gekauft.
+[00:00:01.740 --> 00:00:03.600] Gemüse
+[00:00:04.920 --> 00:00:06.340] Bärlauch
+[00:00:07.810 --> 00:00:09.690] Chinakohl
+[00:00:11.000 --> 00:00:13.320] Eisbergsalat
+[00:00:14.700 --> 00:00:16.700] Feldsalat
+[00:00:19.690 --> 00:00:21.090] Kopfsalat
+[00:00:21.090 --> 00:00:22.830] Rucola
+[00:00:24.140 --> 00:00:25.600] Salat
+[00:00:27.070 --> 00:00:28.770] Spinat
+[00:00:30.080 --> 00:00:31.740] Weißkohl
+[00:00:33.090 --> 00:00:34.470] Ingwer
+[00:00:35.840 --> 00:00:37.700] Knoblauch
+[00:00:39.050 --> 00:00:41.150] Lauchzwiebel
+[00:00:42.430 --> 00:00:43.650] Lauch
+[00:00:45.220 --> 00:00:46.700] Spargel
+[00:00:48.260 --> 00:00:50.320] Staudensellerie
+[00:00:51.800 --> 00:00:53.260] Zwiebel
+[00:00:54.600 --> 00:00:56.420] Kartoffel
+[00:00:57.830 --> 00:00:59.530] Radieschen
+[00:01:00.900 --> 00:01:03.000] Süßkartoffel
+[00:01:04.320 --> 00:01:05.640] Karotte
+[00:01:06.950 --> 00:01:08.530] Möhre
+[00:01:09.940 --> 00:01:11.540] Blumenkohl
+[00:01:12.850 --> 00:01:14.730] Brokkoli
+[00:01:16.600 --> 00:01:18.000] Rosenkohl
+[00:01:19.880 --> 00:01:21.940] Rotkohl
+[00:01:21.940 --> 00:01:23.880] Aubergine
+[00:01:25.190 --> 00:01:26.810] Erbse
+[00:01:28.120 --> 00:01:30.120] Gartenbohne
+[00:01:31.500 --> 00:01:32.920] Gurke
+[00:01:35.210 --> 00:01:35.910] Kürbis
+[00:01:37.220 --> 00:01:38.680] Paprika
+[00:01:40.550 --> 00:01:41.670] Tomate
+[00:01:43.990 --> 00:01:44.690] Zucchini
+[00:01:47.220 --> 00:01:47.890] Austernpilz
+[00:01:50.250 --> 00:01:50.920] Champignon
+[00:01:52.290 --> 00:01:53.770] Pfifferling
+[00:01:55.240 --> 00:01:57.160] Steinpilz
+[00:02:01.740 --> 00:02:04.600] Sprechen Sie bitte die folgenden Sätze
+[00:02:06.940 --> 00:02:11.440] Der Chinakohl stammt ursprünglich aus China.
+[00:02:14.620 --> 00:02:16.280] Seit der Steinzeit
+[00:02:16.280 --> 00:02:20.620] nutzen Menschen den Feldsalat als Nahrungspflanze.
+[00:02:23.110 --> 00:02:27.370] Spinat dient zur Behandlung von Nierensteinen.
+[00:02:30.320 --> 00:02:32.880] Der alte Ingwer ist der schärfste.
+[00:02:35.980 --> 00:02:39.220] Knoblauch diente den ägyptischen Sklaven
+[00:02:39.220 --> 00:02:42.400] für den Pyramidenbau als wichtige Nahrung.
+[00:02:45.460 --> 00:02:49.460] Das Speicherorgan des Spargels liegt unter der Erde.
+[00:02:52.630 --> 00:02:54.210] Im alten Ägypten
+[00:02:54.210 --> 00:02:57.470] war die Zwiebel ein Symbol für das ewige Leben.
+[00:02:59.740 --> 00:03:03.920] Die dümmsten Bauern ernten die dicksten Kartoffeln.
+[00:03:07.290 --> 00:03:08.490] Nach den Tomaten
+[00:03:08.650 --> 00:03:11.110] kommen Karotten an zweiter Stelle
+[00:03:11.110 --> 00:03:14.850] auf der Gemüse-Beliebtheitsskala in Deutschland.
+[00:03:18.100 --> 00:03:22.380] Brokkoli kann man sowohl roh als auch gegart genießen.
+[00:03:25.540 --> 00:03:27.820] Auberginen werden meist gegrillt,
+[00:03:28.460 --> 00:03:31.760] gebraten, gedünstet oder geschmort.
+[00:03:34.830 --> 00:03:36.350] Bitter schmeckende Kürbisse
+[00:03:36.350 --> 00:03:39.830] sind giftig und sollen nicht verzehrt werden.
+[00:03:42.930 --> 00:03:45.690] Sie hat ein Pfund Paprika gekauft.

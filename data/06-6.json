@@ -4,68 +4,277 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Tischtennis",
-        "Aufschläger",
-        "Gegner",
-        "Kontrahent",
-        "Rückschläger",
-        "Sieger",
-        "Verlierer",
-        "Weltmeister",
-        "Ballroboter",
-        "Kante",
-        "Netzgarnitur",
-        "Noppen nach außen",
-        "Noppen nach innen",
-        "Spielfläche",
-        "Tischtennistisch",
-        "Aufschlagrecht",
-        "Flugball",
-        "Münzwurf",
-        "Netzball",
-        "Punkt",
-        "Seitenwahl",
-        "Verlängerung",
-        "Wechseln",
-        "Backspin",
-        "Hochziehen",
-        "Loopingball",
-        "Querschlag",
-        "Schmettern",
-        "Schneiden",
-        "Seitenschnittrotation",
-        "Topspin",
-        "Winkel",
-        "Doppel",
-        "Das gemischte Doppel",
-        "Einzel",
-        "Halbfinale",
-        "Finale",
-        "Endspiel"
+        {
+          "text": "Tischtennis",
+          "start": 1.84,
+          "end": 4.58
+        },
+        {
+          "text": "Aufschläger",
+          "start": 6.1,
+          "end": 7.5
+        },
+        {
+          "text": "Gegner",
+          "start": 7.5,
+          "end": 8.9
+        },
+        {
+          "text": "Kontrahent",
+          "start": 9.18,
+          "end": 10.26
+        },
+        {
+          "text": "Rückschläger",
+          "start": 12.86,
+          "end": 14.26
+        },
+        {
+          "text": "Sieger",
+          "start": 14.84,
+          "end": 16.04
+        },
+        {
+          "text": "Verlierer",
+          "start": 17.91,
+          "end": 19.75
+        },
+        {
+          "text": "Weltmeister",
+          "start": 19.75,
+          "end": 21.91
+        },
+        {
+          "text": "Ballroboter",
+          "start": 23.8,
+          "end": 24.86
+        },
+        {
+          "text": "Kante",
+          "start": 26.82,
+          "end": 28.26
+        },
+        {
+          "text": "Netzgarnitur",
+          "start": 30.88,
+          "end": 31.74
+        },
+        {
+          "text": "Noppen nach außen",
+          "start": 31.74,
+          "end": 34.74
+        },
+        {
+          "text": "Noppen nach innen",
+          "start": 35.72,
+          "end": 37.92
+        },
+        {
+          "text": "Spielfläche",
+          "start": 39.33,
+          "end": 40.79
+        },
+        {
+          "text": "Tischtennistisch",
+          "start": 42.04,
+          "end": 44.22
+        },
+        {
+          "text": "Aufschlagrecht",
+          "start": 45.53,
+          "end": 47.23
+        },
+        {
+          "text": "Flugball",
+          "start": 48.58,
+          "end": 51.0
+        },
+        {
+          "text": "Münzwurf",
+          "start": 51.0,
+          "end": 53.74
+        },
+        {
+          "text": "Netzball",
+          "start": 53.74,
+          "end": 56.04
+        },
+        {
+          "text": "Punkt",
+          "start": 57.38,
+          "end": 58.5
+        },
+        {
+          "text": "Seitenwahl",
+          "start": 60.04,
+          "end": 62.04
+        },
+        {
+          "text": "Verlängerung",
+          "start": 63.38,
+          "end": 65.08
+        },
+        {
+          "text": "Wechseln",
+          "start": 66.39,
+          "end": 68.01
+        },
+        {
+          "text": "Backspin",
+          "start": 69.32,
+          "end": 70.74
+        },
+        {
+          "text": "Hochziehen",
+          "start": 72.02,
+          "end": 73.16
+        },
+        {
+          "text": "Loopingball",
+          "start": 75.14,
+          "end": 76.54
+        },
+        {
+          "text": "Querschlag",
+          "start": 77.89,
+          "end": 79.65
+        },
+        {
+          "text": "Schmettern",
+          "start": 81.06,
+          "end": 81.92
+        },
+        {
+          "text": "Schneiden",
+          "start": 83.84,
+          "end": 85.5
+        },
+        {
+          "text": "Seitenschnittrotation",
+          "start": 86.84,
+          "end": 88.6
+        },
+        {
+          "text": "Topspin",
+          "start": 90.58,
+          "end": 92.42
+        },
+        {
+          "text": "Winkel",
+          "start": 94.52,
+          "end": 95.92
+        },
+        {
+          "text": "Doppel",
+          "start": 95.92,
+          "end": 97.88
+        },
+        {
+          "text": "Das gemischte Doppel",
+          "start": 98.6,
+          "end": 100.96
+        },
+        {
+          "text": "Einzel",
+          "start": 102.21,
+          "end": 103.39
+        },
+        {
+          "text": "Halbfinale",
+          "start": 104.67,
+          "end": 106.47
+        },
+        {
+          "text": "Finale",
+          "start": 107.78,
+          "end": 110.0
+        },
+        {
+          "text": "Endspiel",
+          "start": 110.0,
+          "end": 111.86
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Spieler geht als Sieger aus einem Wettkampf hervor.",
-        "Tischtennis wurde erstmals Ende des 19.",
-        "Jahrhunderts in England gespielt.",
-        "Der Aufschläger stößt sich an der Kante des Tischtennistischs.",
-        "Der Verlierer des Finales bekommt noch 2 Millionen Euro als Trostpreis.",
-        "Der Weltmeister unterliegt seinem ehemaligen Gegner.",
-        "Der Einsatz der Ballroboter als Mittel zum Ausdauertraining ist unproblematisch.",
-        "Wenn der Ball die Netzgarnitur berührt und in das Spielfeld des Aufschlägers zurückfällt, erhält der Gegner einen Punkt.",
-        "Sie wechselten ihre Plätze.",
-        "Zieh bitte die Rollläden am Fenster hoch und lass Licht herein.",
-        "Der Spieler schmettert den Ball und endet den letzten Satz.",
-        "Der Topspin ist einer der wichtigsten Angriffsschläge im Tischtennis.",
-        "Die Winkel im Dreieck ergeben zusammen 180 Grad.",
-        "Das Doppel im Tischtennis kann als Herrendoppel, Damendoppel und gemischtes Doppel gespielt werden.",
-        "Die chinesische Nationalmannschaft bleibt im Einzel immer die Oberhand.",
-        "Das war's für heute.",
-        "Vielen Dank für's Zuhören.",
-        "Bis zum nächsten Mal."
+        {
+          "text": "Der Spieler geht als Sieger aus einem Wettkampf hervor.",
+          "start": 122.12,
+          "end": 126.22
+        },
+        {
+          "text": "Tischtennis wurde erstmals Ende des 19.",
+          "start": 129.25,
+          "end": 132.31
+        },
+        {
+          "text": "Jahrhunderts in England gespielt.",
+          "start": 132.49,
+          "end": 134.31
+        },
+        {
+          "text": "Der Aufschläger stößt sich an der Kante des Tischtennistischs.",
+          "start": 137.43,
+          "end": 142.05
+        },
+        {
+          "text": "Der Verlierer des Finales bekommt noch 2 Millionen Euro als Trostpreis.",
+          "start": 144.43,
+          "end": 150.25
+        },
+        {
+          "text": "Der Weltmeister unterliegt seinem ehemaligen Gegner.",
+          "start": 152.49,
+          "end": 157.17
+        },
+        {
+          "text": "Der Einsatz der Ballroboter als Mittel zum Ausdauertraining ist unproblematisch.",
+          "start": 160.17,
+          "end": 166.09
+        },
+        {
+          "text": "Wenn der Ball die Netzgarnitur berührt und in das Spielfeld des Aufschlägers zurückfällt, erhält der Gegner einen Punkt.",
+          "start": 169.03,
+          "end": 177.11
+        },
+        {
+          "text": "Sie wechselten ihre Plätze.",
+          "start": 180.29,
+          "end": 182.19
+        },
+        {
+          "text": "Zieh bitte die Rollläden am Fenster hoch und lass Licht herein.",
+          "start": 185.31,
+          "end": 189.07
+        },
+        {
+          "text": "Der Spieler schmettert den Ball und endet den letzten Satz.",
+          "start": 191.34,
+          "end": 196.56
+        },
+        {
+          "text": "Der Topspin ist einer der wichtigsten Angriffsschläge im Tischtennis.",
+          "start": 198.98,
+          "end": 203.84
+        },
+        {
+          "text": "Die Winkel im Dreieck ergeben zusammen 180 Grad.",
+          "start": 206.86,
+          "end": 211.02
+        },
+        {
+          "text": "Das Doppel im Tischtennis kann als Herrendoppel, Damendoppel und gemischtes Doppel gespielt werden.",
+          "start": 214.12,
+          "end": 221.2
+        },
+        {
+          "text": "Die chinesische Nationalmannschaft bleibt im Einzel immer die Oberhand.",
+          "start": 224.3,
+          "end": 229.12
+        }
       ]
     }
   ]

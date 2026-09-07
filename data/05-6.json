@@ -4,75 +4,327 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Krankenhaus",
-        "Arzt",
-        "Ärztin",
-        "Bereitschaftsarzt",
-        "Chirurg",
-        "Hausarzt",
-        "Internist",
-        "Krankenschwester",
-        "Oberarzt",
-        "Stationsarzt",
-        "Allergie",
-        "Durchfall",
-        "Fieber",
-        "Grippe",
-        "Husten",
-        "Krebs",
-        "Schmerz",
-        "sich entzünden",
-        "W",
-        "Blutdruckmesser",
-        "Fieberthermometer",
-        "Hohlnadel",
-        "Mull",
-        "Ohrthermometer",
-        "Rollstuhl",
-        "Stethoskop",
-        "behandeln",
-        "diagnostizieren",
-        "gesund",
-        "krank",
-        "operieren",
-        "Puls",
-        "Therapie",
-        "untersuchen",
-        "verordnen",
-        "verschreiben",
-        "Antibiotikum",
-        "Apotheker",
-        "Kapsel",
-        "Medikament",
-        "Pille",
-        "Rezept",
-        "Salbe",
-        "Spray",
-        "Tablette",
-        "Tropfen"
+        {
+          "text": "Krankenhaus",
+          "start": 3.5,
+          "end": 4.9
+        },
+        {
+          "text": "Arzt",
+          "start": 4.9,
+          "end": 6.36
+        },
+        {
+          "text": "Ärztin",
+          "start": 7.77,
+          "end": 9.39
+        },
+        {
+          "text": "Bereitschaftsarzt",
+          "start": 10.67,
+          "end": 12.67
+        },
+        {
+          "text": "Chirurg",
+          "start": 14.02,
+          "end": 14.94
+        },
+        {
+          "text": "Hausarzt",
+          "start": 17.78,
+          "end": 19.18
+        },
+        {
+          "text": "Internist",
+          "start": 19.18,
+          "end": 21.38
+        },
+        {
+          "text": "Krankenschwester",
+          "start": 22.69,
+          "end": 24.45
+        },
+        {
+          "text": "Oberarzt",
+          "start": 25.76,
+          "end": 27.58
+        },
+        {
+          "text": "Stationsarzt",
+          "start": 28.96,
+          "end": 31.04
+        },
+        {
+          "text": "Allergie",
+          "start": 32.28,
+          "end": 33.76
+        },
+        {
+          "text": "Durchfall",
+          "start": 35.11,
+          "end": 36.35
+        },
+        {
+          "text": "Fieber",
+          "start": 37.72,
+          "end": 39.38
+        },
+        {
+          "text": "Grippe",
+          "start": 40.66,
+          "end": 41.84
+        },
+        {
+          "text": "Husten",
+          "start": 43.16,
+          "end": 44.84
+        },
+        {
+          "text": "Krebs",
+          "start": 46.15,
+          "end": 47.33
+        },
+        {
+          "text": "Schmerz",
+          "start": 48.83,
+          "end": 50.01
+        },
+        {
+          "text": "sich entzünden",
+          "start": 51.32,
+          "end": 54.7
+        },
+        {
+          "text": "W",
+          "start": 54.7,
+          "end": 55.82
+        },
+        {
+          "text": "Blutdruckmesser",
+          "start": 57.17,
+          "end": 59.39
+        },
+        {
+          "text": "Fieberthermometer",
+          "start": 60.73,
+          "end": 63.01
+        },
+        {
+          "text": "Hohlnadel",
+          "start": 65.75,
+          "end": 67.15
+        },
+        {
+          "text": "Mull",
+          "start": 67.15,
+          "end": 68.49
+        },
+        {
+          "text": "Ohrthermometer",
+          "start": 70.27,
+          "end": 71.67
+        },
+        {
+          "text": "Rollstuhl",
+          "start": 73.57,
+          "end": 74.75
+        },
+        {
+          "text": "Stethoskop",
+          "start": 76.16,
+          "end": 78.0
+        },
+        {
+          "text": "behandeln",
+          "start": 80.1,
+          "end": 81.5
+        },
+        {
+          "text": "diagnostizieren",
+          "start": 83.5,
+          "end": 84.9
+        },
+        {
+          "text": "gesund",
+          "start": 84.9,
+          "end": 86.7
+        },
+        {
+          "text": "krank",
+          "start": 88.27,
+          "end": 89.73
+        },
+        {
+          "text": "operieren",
+          "start": 90.98,
+          "end": 92.6
+        },
+        {
+          "text": "Puls",
+          "start": 93.84,
+          "end": 95.06
+        },
+        {
+          "text": "Therapie",
+          "start": 96.47,
+          "end": 99.27
+        },
+        {
+          "text": "untersuchen",
+          "start": 99.27,
+          "end": 100.79
+        },
+        {
+          "text": "verordnen",
+          "start": 102.68,
+          "end": 103.98
+        },
+        {
+          "text": "verschreiben",
+          "start": 105.33,
+          "end": 107.55
+        },
+        {
+          "text": "Antibiotikum",
+          "start": 109.49,
+          "end": 110.89
+        },
+        {
+          "text": "Apotheker",
+          "start": 110.89,
+          "end": 113.21
+        },
+        {
+          "text": "Kapsel",
+          "start": 114.49,
+          "end": 116.31
+        },
+        {
+          "text": "Medikament",
+          "start": 117.31,
+          "end": 118.73
+        },
+        {
+          "text": "Pille",
+          "start": 120.5,
+          "end": 121.2
+        },
+        {
+          "text": "Rezept",
+          "start": 122.48,
+          "end": 123.96
+        },
+        {
+          "text": "Salbe",
+          "start": 125.33,
+          "end": 126.91
+        },
+        {
+          "text": "Spray",
+          "start": 128.38,
+          "end": 129.38
+        },
+        {
+          "text": "Tablette",
+          "start": 131.76,
+          "end": 132.68
+        },
+        {
+          "text": "Tropfen",
+          "start": 134.0,
+          "end": 135.34
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Arzt verordnet dem Patienten ein Medikament.",
-        "Der Arzt diagnostizierte die Krankheit als Lungenentzündung.",
-        "Der Arzt hat ihm die Tabletten gegen Kopfschmerzen verschrieben.",
-        "Er hat hier einen guten Ruf als Hausarzt.",
-        "Zu den Aufgaben des Internisten zählt die Prävention, Diagnose und Behandlung von Erkrankungen.",
-        "Schwindelanfall ist ein Symptom von Unterernährung.",
-        "Er hat eine Allergie gegen Blütenstaub.",
-        "Sie hat Erbrechen und Durchfall.",
-        "Das Fieber fällt.",
-        "Das Fieber steigt.",
-        "Das Kind hat sich wieder eine Grippe eingefangen.",
-        "Ich hörte gequältes Stöhnen und Husten.",
-        "Krebs ruft im frühen Stadium in der Regel keine Beschwerden hervor.",
-        "Wo hast du Schmerzen?",
-        "Ihr Puls war nicht mehr fühlbar.",
-        "Apotheken dürfen starke Beruhigungsmittel nur gegen Rezept verkaufen.",
-        "Sie trägt die Salbe auf ihre Wunde auf."
+        {
+          "text": "Der Arzt verordnet dem Patienten ein Medikament.",
+          "start": 144.72,
+          "end": 149.02
+        },
+        {
+          "text": "Der Arzt diagnostizierte die Krankheit als Lungenentzündung.",
+          "start": 152.04,
+          "end": 156.56
+        },
+        {
+          "text": "Der Arzt hat ihm die Tabletten gegen Kopfschmerzen verschrieben.",
+          "start": 159.48,
+          "end": 163.18
+        },
+        {
+          "text": "Er hat hier einen guten Ruf als Hausarzt.",
+          "start": 166.22,
+          "end": 169.34
+        },
+        {
+          "text": "Zu den Aufgaben des Internisten zählt die Prävention, Diagnose und Behandlung von Erkrankungen.",
+          "start": 171.64,
+          "end": 179.92
+        },
+        {
+          "text": "Schwindelanfall ist ein Symptom von Unterernährung.",
+          "start": 183.18,
+          "end": 187.02
+        },
+        {
+          "text": "Er hat eine Allergie gegen Blütenstaub.",
+          "start": 189.89,
+          "end": 193.47
+        },
+        {
+          "text": "Sie hat Erbrechen und Durchfall.",
+          "start": 195.98,
+          "end": 198.5
+        },
+        {
+          "text": "Das Fieber fällt.",
+          "start": 201.54,
+          "end": 202.76
+        },
+        {
+          "text": "Das Fieber steigt.",
+          "start": 203.86,
+          "end": 205.22
+        },
+        {
+          "text": "Das Kind hat sich wieder eine Grippe eingefangen.",
+          "start": 208.29,
+          "end": 211.09
+        },
+        {
+          "text": "Ich hörte gequältes Stöhnen und Husten.",
+          "start": 213.36,
+          "end": 217.76
+        },
+        {
+          "text": "Krebs ruft im frühen Stadium in der Regel keine Beschwerden hervor.",
+          "start": 220.48,
+          "end": 225.16
+        },
+        {
+          "text": "Wo hast du Schmerzen?",
+          "start": 228.24,
+          "end": 229.7
+        },
+        {
+          "text": "Ihr Puls war nicht mehr fühlbar.",
+          "start": 232.76,
+          "end": 235.14
+        },
+        {
+          "text": "Apotheken dürfen starke Beruhigungsmittel nur gegen Rezept verkaufen.",
+          "start": 238.02,
+          "end": 243.08
+        },
+        {
+          "text": "Sie trägt die Salbe auf ihre Wunde auf.",
+          "start": 246.21,
+          "end": 249.03
+        }
       ]
     }
   ]

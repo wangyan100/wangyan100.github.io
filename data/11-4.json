@@ -4,61 +4,257 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Maße",
-        "Acker",
-        "Hektar",
-        "Morgen",
-        "Quadratkilometer",
-        "Quadratmeter",
-        "Quadratzentimeter",
-        "Gramm",
-        "Karat",
-        "Kilogramm",
-        "Pfund",
-        "Tonne",
-        "Unze",
-        "Waage",
-        "Zentner",
-        "Fuß",
-        "Inch",
-        "Lineal",
-        "Meile",
-        "Kilometer",
-        "Meter",
-        "Dezimeter",
-        "Zentimeter",
-        "Millimeter",
-        "Galone",
-        "Liter",
-        "Milliliter",
-        "Kubikmeter",
-        "Kubikmillimeter",
-        "Pinte",
-        "Quad",
-        "Kilokalorie",
-        "Kilowatt",
-        "Joule",
-        "Watt",
-        "Celsius",
-        "Fahrenheit",
-        "Kelvin"
+        {
+          "text": "Maße",
+          "start": 1.78,
+          "end": 3.62
+        },
+        {
+          "text": "Acker",
+          "start": 4.9,
+          "end": 6.28
+        },
+        {
+          "text": "Hektar",
+          "start": 7.56,
+          "end": 9.22
+        },
+        {
+          "text": "Morgen",
+          "start": 10.5,
+          "end": 11.72
+        },
+        {
+          "text": "Quadratkilometer",
+          "start": 13.03,
+          "end": 15.47
+        },
+        {
+          "text": "Quadratmeter",
+          "start": 16.78,
+          "end": 18.64
+        },
+        {
+          "text": "Quadratzentimeter",
+          "start": 19.95,
+          "end": 22.13
+        },
+        {
+          "text": "Gramm",
+          "start": 23.41,
+          "end": 25.11
+        },
+        {
+          "text": "Karat",
+          "start": 26.42,
+          "end": 27.7
+        },
+        {
+          "text": "Kilogramm",
+          "start": 28.98,
+          "end": 30.84
+        },
+        {
+          "text": "Pfund",
+          "start": 32.22,
+          "end": 33.2
+        },
+        {
+          "text": "Tonne",
+          "start": 34.51,
+          "end": 35.91
+        },
+        {
+          "text": "Unze",
+          "start": 37.22,
+          "end": 39.04
+        },
+        {
+          "text": "Waage",
+          "start": 39.92,
+          "end": 41.26
+        },
+        {
+          "text": "Zentner",
+          "start": 42.58,
+          "end": 44.08
+        },
+        {
+          "text": "Fuß",
+          "start": 45.55,
+          "end": 46.53
+        },
+        {
+          "text": "Inch",
+          "start": 49.53,
+          "end": 50.93
+        },
+        {
+          "text": "Lineal",
+          "start": 52.41,
+          "end": 53.81
+        },
+        {
+          "text": "Meile",
+          "start": 53.81,
+          "end": 55.29
+        },
+        {
+          "text": "Kilometer",
+          "start": 56.6,
+          "end": 58.18
+        },
+        {
+          "text": "Meter",
+          "start": 60.09,
+          "end": 61.09
+        },
+        {
+          "text": "Dezimeter",
+          "start": 62.65,
+          "end": 64.05
+        },
+        {
+          "text": "Zentimeter",
+          "start": 65.39,
+          "end": 67.85
+        },
+        {
+          "text": "Millimeter",
+          "start": 68.43,
+          "end": 70.53
+        },
+        {
+          "text": "Galone",
+          "start": 71.81,
+          "end": 73.65
+        },
+        {
+          "text": "Liter",
+          "start": 74.71,
+          "end": 75.81
+        },
+        {
+          "text": "Milliliter",
+          "start": 77.96,
+          "end": 79.36
+        },
+        {
+          "text": "Kubikmeter",
+          "start": 80.67,
+          "end": 82.61
+        },
+        {
+          "text": "Kubikmillimeter",
+          "start": 83.92,
+          "end": 85.72
+        },
+        {
+          "text": "Pinte",
+          "start": 87.04,
+          "end": 88.74
+        },
+        {
+          "text": "Quad",
+          "start": 90.08,
+          "end": 90.98
+        },
+        {
+          "text": "Kilokalorie",
+          "start": 92.98,
+          "end": 94.72
+        },
+        {
+          "text": "Kilowatt",
+          "start": 96.04,
+          "end": 97.66
+        },
+        {
+          "text": "Joule",
+          "start": 98.9,
+          "end": 100.26
+        },
+        {
+          "text": "Watt",
+          "start": 101.58,
+          "end": 102.5
+        },
+        {
+          "text": "Celsius",
+          "start": 104.19,
+          "end": 105.47
+        },
+        {
+          "text": "Fahrenheit",
+          "start": 107.46,
+          "end": 108.32
+        },
+        {
+          "text": "Kelvin",
+          "start": 110.27,
+          "end": 111.27
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Seit 2002 hat die Waldfläche in Deutschland um circa 50.000 Hektar zugenommen.",
-        "Ein Morgen, MG, war noch ein bis etwa 1900 in Deutschland verwendetes Flächenmaß.",
-        "Das Gewichtmaß Unze wird noch heute in einigen englischsprachigen Ländern bei Lebensmitteln benutzt.",
-        "Im US-Bundesstaat Kalifornien ist ein Säugling mit gerade einmal 245 Gramm zur Welt gekommen.",
-        "Der weltweit größte Diamant, der Cullinan, mit 3106 Karat wurde 1905 in Südafrika gefunden.",
-        "Der Hamburger Zoll entdeckt 50 Kilogramm Kokain, der einen Verkaufswert von mindestens 12 Millionen Euro hat.",
-        "Eine Reise von 1000 Meilen beginnt mit dem ersten Schritt.",
-        "Um 22 Cent hat sich der Liter Superbenzin seit Jahresbeginn verteuert.",
-        "Örtlich fielen bis zu 70 Liter Wasser pro Quadratmeter.",
-        "Quad ist eine Einheit für das Volumen von Flüssigkeiten und Trockenstoffen, die vor allem im angloamerikanischen Maßsystem Verwendung findet.",
-        "Das Kelvin ist die Basiseinheit der thermodynamischen Temperatur und zugleich gesetzliche Temperatureinheit."
+        {
+          "text": "Seit 2002 hat die Waldfläche in Deutschland um ca. 50.000 Hektar zugenommen.",
+          "start": 122.06,
+          "end": 129.24
+        },
+        {
+          "text": "Ein Morgen, MG, war noch ein bis etwa 1900 in Deutschland verwendetes Flächenmaß.",
+          "start": 131.48,
+          "end": 139.48
+        },
+        {
+          "text": "Das Gewichtmaß Unze wird noch heute in einigen englischsprachigen Ländern bei Lebensmitteln benutzt.",
+          "start": 142.78,
+          "end": 149.99
+        },
+        {
+          "text": "Im US-Bundesstaat Kalifornien ist ein Säugling mit gerade einmal 245 Gramm zur Welt gekommen.",
+          "start": 153.2,
+          "end": 161.2
+        },
+        {
+          "text": "Der weltweit größte Diamant, der Cullinan, mit 3106 Karat wurde 1905 in Südafrika gefunden.",
+          "start": 163.44,
+          "end": 174.94
+        },
+        {
+          "text": "Der Hamburger Zoll entdeckt 50 Kilogramm Kokain, der einen Verkaufswert von mindestens 12 Millionen Euro hat.",
+          "start": 178.07,
+          "end": 186.75
+        },
+        {
+          "text": "Eine Reise von 1000 Meilen beginnt mit dem ersten Schritt.",
+          "start": 189.86,
+          "end": 193.68
+        },
+        {
+          "text": "Um 22 Cent hat sich der Liter Superbenzin seit Jahresbeginn verteuert.",
+          "start": 195.96,
+          "end": 203.06
+        },
+        {
+          "text": "Örtlich fielen bis zu 70 Liter Wasser pro Quadratmeter.",
+          "start": 205.68,
+          "end": 209.78
+        },
+        {
+          "text": "Quad ist eine Einheit für das Volumen von Flüssigkeiten und Trockenstoffen, die vor allem im Angloamerikanischen Maßsystem Verwendung findet.",
+          "start": 212.97,
+          "end": 222.49
+        },
+        {
+          "text": "Das Kelvin ist die Basiseinheit der thermodynamischen Temperatur und zugleich gesetzliche Temperatureinheit.",
+          "start": 224.8,
+          "end": 232.8
+        }
       ]
     }
   ]

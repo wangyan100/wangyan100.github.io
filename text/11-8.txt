@@ -1,71 +1,82 @@
-Geometrie die analytische Geometrie
-die lineare Geometrie
-Planimetrie
-Stereometrie
-Satz
-Prinzip
-Punkt
-Linie
-Fläche
-das gleichseitige Dreieck
-das gleichschenklige Dreieck
-das rechtwinklige Dreieck
-das unregelmäßige Dreieck
-Seite
-Basis
-Grundlinie
-Hypotenuse
-Kathete
-Winkel
-Durchmesser
-Diameter
-Halbmesser
-Radius
-Mittelpunkt
-Peripherie
-Pi
-Inkreis
-Umkreis
-Kreisbogen
-Sehne
-Quadrat
-Rechteck
-Parallelogramm
-Rombus
-Raute
-Trapez
-Kegel
-Kugel
-Quader
-Würfel
-Sprechen Sie bitte die folgenden Sätze
-Die analytische Geometrie
-stellt algebraische Hilfsmittel
-zur Lösung geometrischer Probleme bereit.
-Das vorliegende Lehrbuch der Planimetrie
-ist für Bedürfnisse der Schüler höherer Klassen bestimmt.
-Die Stereometrie stellt im antiken Griechenland
-einen der Wissenschaftsbereiche dar,
-die von herausragender Bedeutung waren.
-Die Summe aller Winkel im Dreieck beträgt 180°.
-Das unregelmäßige Dreieck ist das Dreieck,
-in der alle drei Seiten unterschiedlich lang sind.
-Ein gleichseitiges Dreieck
-kann in vierteilige kleine gegliedert werden.
-Als Hypotenuse bezeichnet man die längste Seite
-eines rechtwinkligen Dreiecks
-und sie liegt dem rechten Winkel gegenüber.
-Winkel können ihrer Größe nach
-in verschiedene Winkelarten eingeteilt werden,
-wie der rechte Winkel,
-der spitze Winkel,
-der stumpfe Winkel.
-Man bezeichnet Peripherie
-als einen mathematischen Begriff
-für den Umfang des Kreises.
-Eine Raute oder ein Rombus
-ist ein ebenes Viereck
-mit vier gleich langen Seiten.
-Gegenüberliegende Seiten sind parallel
-und gegenüberliegende Winkel gleich groß.
-Ein Würfel besteht aus sechs quadratischen Flächen.
+[00:00:01.650 --> 00:00:09.090] Geometrie die analytische Geometrie
+[00:00:09.090 --> 00:00:11.730] die lineare Geometrie
+[00:00:13.040 --> 00:00:15.000] Planimetrie
+[00:00:16.470 --> 00:00:18.610] Stereometrie
+[00:00:19.890 --> 00:00:21.570] Satz
+[00:00:22.850 --> 00:00:23.630] Prinzip
+[00:00:24.940 --> 00:00:26.420] Punkt
+[00:00:27.830 --> 00:00:29.670] Linie
+[00:00:31.050 --> 00:00:32.410] Fläche
+[00:00:33.660 --> 00:00:36.320] das gleichseitige Dreieck
+[00:00:37.600 --> 00:00:40.520] das gleichschenklige Dreieck
+[00:00:41.800 --> 00:00:44.560] das rechtwinklige Dreieck
+[00:00:45.800 --> 00:00:50.000] das unregelmäßige Dreieck
+[00:00:50.000 --> 00:00:51.000] Seite
+[00:00:52.980 --> 00:00:54.520] Basis
+[00:00:55.800 --> 00:00:57.580] Grundlinie
+[00:00:58.830 --> 00:01:00.330] Hypotenuse
+[00:01:01.580 --> 00:01:04.140] Kathete
+[00:01:04.760 --> 00:01:06.100] Winkel
+[00:01:07.440 --> 00:01:08.900] Durchmesser
+[00:01:10.220 --> 00:01:12.080] Diameter
+[00:01:13.390 --> 00:01:15.290] Halbmesser
+[00:01:17.270 --> 00:01:18.670] Radius
+[00:01:19.430 --> 00:01:21.470] Mittelpunkt
+[00:01:22.530 --> 00:01:24.130] Peripherie
+[00:01:25.410 --> 00:01:26.290] Pi
+[00:01:29.480 --> 00:01:30.880] Inkreis
+[00:01:30.880 --> 00:01:32.560] Umkreis
+[00:01:33.900 --> 00:01:35.780] Kreisbogen
+[00:01:37.030 --> 00:01:38.610] Sehne
+[00:01:39.890 --> 00:01:41.590] Quadrat
+[00:01:42.840 --> 00:01:44.460] Rechteck
+[00:01:45.800 --> 00:01:48.100] Parallelogramm
+[00:01:49.350 --> 00:01:50.330] Rombus
+[00:01:50.330 --> 00:01:51.710] Raute
+[00:01:53.090 --> 00:01:54.390] Trapez
+[00:01:55.700 --> 00:01:57.480] Kegel
+[00:01:58.890 --> 00:02:00.310] Kugel
+[00:02:01.590 --> 00:02:03.110] Quader
+[00:02:04.360 --> 00:02:05.620] Würfel
+[00:02:10.100 --> 00:02:13.000] Sprechen Sie bitte die folgenden Sätze
+[00:02:15.730 --> 00:02:18.070] Die analytische Geometrie
+[00:02:18.070 --> 00:02:20.550] stellt algebraische Hilfsmittel
+[00:02:20.550 --> 00:02:23.430] zur Lösung geometrischer Probleme bereit.
+[00:02:26.550 --> 00:02:29.490] Das vorliegende Lehrbuch der Planimetrie
+[00:02:29.490 --> 00:02:31.570] ist für Bedürfnisse der Schüler
+[00:02:31.570 --> 00:02:33.190] höherer Klassen bestimmt.
+[00:02:36.310 --> 00:02:37.730] Die Stereometrie
+[00:02:37.730 --> 00:02:39.850] stellt im antiken Griechenland
+[00:02:39.850 --> 00:02:42.170] einen der Wissenschaftsbereiche dar,
+[00:02:42.450 --> 00:02:45.030] die von herausragender Bedeutung waren.
+[00:02:48.080 --> 00:02:50.420] Die Summe aller Winkel im Dreieck
+[00:02:50.420 --> 00:02:52.520] beträgt 180 Grad.
+[00:02:55.550 --> 00:02:57.650] Das unregelmäßige Dreieck
+[00:02:57.650 --> 00:02:58.770] ist das Dreieck,
+[00:02:59.030 --> 00:03:00.430] in der alle drei Seiten
+[00:03:00.430 --> 00:03:02.230] unterschiedlich lang sind.
+[00:03:05.160 --> 00:03:07.320] Ein gleichseitiges Dreieck
+[00:03:07.320 --> 00:03:08.960] kann in vierteilige,
+[00:03:09.180 --> 00:03:10.560] kleine gegliedert werden.
+[00:03:13.660 --> 00:03:15.100] Als Hypotenuse
+[00:03:15.100 --> 00:03:17.240] bezeichnet man die längste Seite
+[00:03:17.240 --> 00:03:19.200] eines rechtwinkligen Dreiecks
+[00:03:19.200 --> 00:03:22.280] und sie liegt dem rechten Winkel gegenüber.
+[00:03:25.610 --> 00:03:27.590] Winkel können ihrer Größe nach
+[00:03:27.590 --> 00:03:29.370] in verschiedene Winkelarten
+[00:03:29.370 --> 00:03:30.630] eingeteilt werden,
+[00:03:31.030 --> 00:03:32.510] wie der rechte Winkel,
+[00:03:32.610 --> 00:03:33.850] der spitze Winkel,
+[00:03:33.990 --> 00:03:35.270] der stumpfe Winkel.
+[00:03:38.220 --> 00:03:40.360] Man bezeichnet Peripherie
+[00:03:40.360 --> 00:03:42.480] als einen mathematischen Begriff
+[00:03:42.480 --> 00:03:44.780] für den Umfang des Kreises.
+[00:03:47.750 --> 00:03:50.050] Eine Raute oder ein Rombus
+[00:03:50.050 --> 00:03:52.030] ist ein ebenes Viereck
+[00:03:52.030 --> 00:03:54.210] mit vier gleich langen Seiten.
+[00:03:55.010 --> 00:03:56.470] Gegenüberliegende Seiten
+[00:03:56.470 --> 00:03:57.470] sind parallel
+[00:03:57.470 --> 00:03:59.870] und gegenüberliegende Winkel
+[00:03:59.870 --> 00:04:00.770] gleich groß.
+[00:04:03.710 --> 00:04:05.210] Ein Würfel besteht
+[00:04:05.210 --> 00:04:07.410] aus sechs quadratischen Flächen.

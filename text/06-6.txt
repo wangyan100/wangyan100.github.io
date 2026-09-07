@@ -1,52 +1,49 @@
-Tischtennis
-Aufschläger
-Gegner, Kontrahent
-Rückschläger
-Sieger, Verlierer
-Weltmeister, Ballroboter, Kante
-Netzgarnitur
-Noppen nach außen
-Noppen nach innen
-Spielfläche
-Tischtennistisch
-Aufschlagrecht
-Flugball
-Münzwurf
-Netzball
-Punkt
-Seitenwahl
-Verlängerung
-Wechseln
-Backspin
-Hochziehen
-Loopingball
-Querschlag
-Schmettern
-Schneiden
-Seitenschnittrotation
-Topspin
-Winkel
-Doppel
-Das gemischte Doppel
-Einzel
-Halbfinale
-Finale
-Endspiel
-Sprechen Sie bitte die folgenden Sätze.
-Der Spieler geht als Sieger aus einem Wettkampf hervor.
-Tischtennis wurde erstmals Ende des 19. Jahrhunderts in England gespielt.
-Der Aufschläger stößt sich an der Kante des Tischtennistischs.
-Der Verlierer des Finales bekommt noch 2 Millionen Euro als Trostpreis.
-Der Weltmeister unterliegt seinem ehemaligen Gegner.
-Der Einsatz der Ballroboter als Mittel zum Ausdauertraining ist unproblematisch.
-Wenn der Ball die Netzgarnitur berührt und in das Spielfeld des Aufschlägers zurückfällt, erhält der Gegner einen Punkt.
-Sie wechselten ihre Plätze.
-Zieh bitte die Rollläden am Fenster hoch und lass Licht herein.
-Der Spieler schmettert den Ball und endet den letzten Satz.
-Der Topspin ist einer der wichtigsten Angriffsschläge im Tischtennis.
-Die Winkel im Dreieck ergeben zusammen 180 Grad.
-Das Doppel im Tischtennis kann als Herrendoppel, Damendoppel und gemischtes Doppel gespielt werden.
-Die chinesische Nationalmannschaft bleibt im Einzel immer die Oberhand.
-Das war's für heute.
-Vielen Dank für's Zuhören.
-Bis zum nächsten Mal.
+[00:00:01.840 --> 00:00:04.580] Tischtennis
+[00:00:06.100 --> 00:00:07.500] Aufschläger
+[00:00:07.500 --> 00:00:10.260] Gegner, Kontrahent
+[00:00:12.860 --> 00:00:14.260] Rückschläger
+[00:00:14.840 --> 00:00:19.750] Sieger, Verlierer
+[00:00:19.750 --> 00:00:28.260] Weltmeister, Ballroboter, Kante
+[00:00:30.880 --> 00:00:31.740] Netzgarnitur
+[00:00:31.740 --> 00:00:34.740] Noppen nach außen
+[00:00:35.720 --> 00:00:37.920] Noppen nach innen
+[00:00:39.330 --> 00:00:40.790] Spielfläche
+[00:00:42.040 --> 00:00:44.220] Tischtennistisch
+[00:00:45.530 --> 00:00:47.230] Aufschlagrecht
+[00:00:48.580 --> 00:00:51.000] Flugball
+[00:00:51.000 --> 00:00:53.740] Münzwurf
+[00:00:53.740 --> 00:00:56.040] Netzball
+[00:00:57.380 --> 00:00:58.500] Punkt
+[00:01:00.040 --> 00:01:02.040] Seitenwahl
+[00:01:03.380 --> 00:01:05.080] Verlängerung
+[00:01:06.390 --> 00:01:08.010] Wechseln
+[00:01:09.320 --> 00:01:10.740] Backspin
+[00:01:12.020 --> 00:01:13.160] Hochziehen
+[00:01:15.140 --> 00:01:16.540] Loopingball
+[00:01:17.890 --> 00:01:19.650] Querschlag
+[00:01:21.060 --> 00:01:21.920] Schmettern
+[00:01:23.840 --> 00:01:25.500] Schneiden
+[00:01:26.840 --> 00:01:28.600] Seitenschnittrotation
+[00:01:30.580 --> 00:01:32.420] Topspin
+[00:01:34.520 --> 00:01:35.920] Winkel
+[00:01:35.920 --> 00:01:37.880] Doppel
+[00:01:38.600 --> 00:01:40.960] Das gemischte Doppel
+[00:01:42.210 --> 00:01:43.390] Einzel
+[00:01:44.670 --> 00:01:46.470] Halbfinale
+[00:01:47.780 --> 00:01:50.000] Finale
+[00:01:50.000 --> 00:01:51.860] Endspiel
+[00:01:56.280 --> 00:01:59.120] Sprechen Sie bitte die folgenden Sätze.
+[00:02:02.120 --> 00:02:06.220] Der Spieler geht als Sieger aus einem Wettkampf hervor.
+[00:02:09.250 --> 00:02:14.310] Tischtennis wurde erstmals Ende des 19. Jahrhunderts in England gespielt.
+[00:02:17.430 --> 00:02:22.050] Der Aufschläger stößt sich an der Kante des Tischtennistischs.
+[00:02:24.430 --> 00:02:30.250] Der Verlierer des Finales bekommt noch 2 Millionen Euro als Trostpreis.
+[00:02:32.490 --> 00:02:37.170] Der Weltmeister unterliegt seinem ehemaligen Gegner.
+[00:02:40.170 --> 00:02:46.090] Der Einsatz der Ballroboter als Mittel zum Ausdauertraining ist unproblematisch.
+[00:02:49.030 --> 00:02:57.110] Wenn der Ball die Netzgarnitur berührt und in das Spielfeld des Aufschlägers zurückfällt, erhält der Gegner einen Punkt.
+[00:03:00.290 --> 00:03:02.190] Sie wechselten ihre Plätze.
+[00:03:05.310 --> 00:03:09.070] Zieh bitte die Rollläden am Fenster hoch und lass Licht herein.
+[00:03:11.340 --> 00:03:16.560] Der Spieler schmettert den Ball und endet den letzten Satz.
+[00:03:18.980 --> 00:03:23.840] Der Topspin ist einer der wichtigsten Angriffsschläge im Tischtennis.
+[00:03:26.860 --> 00:03:31.020] Die Winkel im Dreieck ergeben zusammen 180 Grad.
+[00:03:34.120 --> 00:03:41.200] Das Doppel im Tischtennis kann als Herrendoppel, Damendoppel und gemischtes Doppel gespielt werden.
+[00:03:44.300 --> 00:03:49.120] Die chinesische Nationalmannschaft bleibt im Einzel immer die Oberhand.

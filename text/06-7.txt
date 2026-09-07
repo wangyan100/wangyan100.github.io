@@ -1,66 +1,63 @@
-Fitness
-Gewicht
-Sitzfahrrad
-Handtel
-Laufband
-Sandsack
-Stepper
-Vibrationsplatte
-Widerstandband
-Energie
-Kalorie
-Kohlenhydrat
-Fett
-Eiweiß
-Protein
-vegetarisch
-Vitamin
-abnehmen
-Ausdauer
-Dehnung
-Gleichgewicht
-Kraft
-Probetraining
-sich aufwärmen
-Ziel
-Aquazumba
-Kardiotraining
-Crossfit
-Hot Hula
-Liegestütz
-Pilates
-Seilspringen
-Yoga
-Anfänger
-Einsteiger
-der private Trainer
-Pumper
-Fitness-Tracker
-Kompressions-Shirt
-Stirnband
-Laufschuh
-Sprechen Sie bitte die folgenden Sätze.
-Wenn du Krafttraining betreibst,
-dann braucht dein Körper Kohlenhydrate als Energielieferant.
-Muskeln bestehen zu einem großen Teil aus Eiweiß.
-Deshalb ist es wichtig, dass man ausreichend Proteine zu sich nimmt.
-Sie geht jeden Samstag ins Fitnessstudio, um abzunehmen.
-Wärmt man sich vor dem Sport nicht auf,
-kommt es zu Zerrungen und Gelenkverschleiß.
-Aquazumba heißt der Trend,
-der eine Mischung aus Aquaerobic und Zumba ist.
-Kardiotraining kann das Herz und die Lunge verstärken.
-Hot Hula ist ein echtes gute Laune-Workout,
-das den ganzen Körper trainiert.
-Hot Pilates wird sich nach und nach
-von großen Städten in die kleineren Städte vorarbeiten.
-Liegestütze trainieren nicht nur den Bauch,
-sondern auch Oberarme, Schultern und Brust.
-Viele Mädchen spielen gerne Seilspringen.
-Fast 90% der Deutschen
-finden Gartenarbeit entspannender als Yoga.
-Der Trainer hat dem Anfänger
-einen passenden Trainingskurs empfohlen.
-Mein privater Trainer inspiriert mich oft beim Training.
-Man kann Fitness-Tracker mit seinem Smartphone
-über Bluetooth verbinden.
+[00:00:01.970 --> 00:00:03.810] Fitness
+[00:00:06.130 --> 00:00:07.530] Gewicht
+[00:00:07.530 --> 00:00:09.470] Sitzfahrrad
+[00:00:10.780 --> 00:00:13.240] Handtel
+[00:00:13.240 --> 00:00:15.260] Laufband
+[00:00:16.480 --> 00:00:17.900] Sandsack
+[00:00:19.600 --> 00:00:21.660] Stepper
+[00:00:23.800 --> 00:00:25.200] Vibrationsplatte
+[00:00:25.780 --> 00:00:27.500] Widerstandband
+[00:00:28.740 --> 00:00:30.220] Energie
+[00:00:31.500 --> 00:00:33.380] Kalorie
+[00:00:34.760 --> 00:00:36.580] Kohlenhydrat
+[00:00:37.920 --> 00:00:39.160] Fett
+[00:00:40.480 --> 00:00:42.060] Eiweiß
+[00:00:43.300 --> 00:00:44.800] Protein
+[00:00:47.690 --> 00:00:49.090] vegetarisch
+[00:00:49.090 --> 00:00:50.230] Vitamin
+[00:00:51.480 --> 00:00:53.340] abnehmen
+[00:00:54.590 --> 00:00:56.570] Ausdauer
+[00:00:57.550 --> 00:00:59.050] Dehnung
+[00:01:00.300 --> 00:01:01.940] Gleichgewicht
+[00:01:03.280 --> 00:01:04.240] Kraft
+[00:01:05.710 --> 00:01:07.750] Probetraining
+[00:01:09.030 --> 00:01:11.010] sich aufwärmen
+[00:01:12.360 --> 00:01:13.260] Ziel
+[00:01:14.570 --> 00:01:16.770] Aquazumba
+[00:01:18.140 --> 00:01:20.180] Kardiotraining
+[00:01:21.530 --> 00:01:23.110] Crossfit
+[00:01:24.390 --> 00:01:27.130] Hot Hula
+[00:01:27.130 --> 00:01:29.250] Liegestütz
+[00:01:30.560 --> 00:01:32.040] Pilates
+[00:01:34.850 --> 00:01:36.250] Seilspringen
+[00:01:36.250 --> 00:01:37.690] Yoga
+[00:01:38.970 --> 00:01:40.790] Anfänger
+[00:01:42.130 --> 00:01:43.890] Einsteiger
+[00:01:45.140 --> 00:01:47.100] Der private Trainer
+[00:01:48.410 --> 00:01:50.150] Pumper
+[00:01:51.560 --> 00:01:53.540] Fitness-Tracker
+[00:01:54.850 --> 00:01:56.930] Kompressions-Shirt
+[00:01:58.370 --> 00:02:00.610] Stirnband
+[00:02:01.370 --> 00:02:03.010] Laufschuh
+[00:02:07.460 --> 00:02:10.120] Sprechen Sie bitte die folgenden Sätze.
+[00:02:13.260 --> 00:02:15.500] Wenn du Krafttraining betreibst,
+[00:02:15.800 --> 00:02:19.620] dann braucht dein Körper Kohlenhydrate als Energielieferant.
+[00:02:22.790 --> 00:02:26.510] Muskeln bestehen zu einem großen Teil aus Eiweiß.
+[00:02:26.710 --> 00:02:30.970] Deshalb ist es wichtig, dass man ausreichend Proteine zu sich nimmt.
+[00:02:34.090 --> 00:02:38.450] Sie geht jeden Samstag ins Fitnessstudio, um abzunehmen.
+[00:02:41.040 --> 00:02:43.700] Wärmt man sich vor dem Sport nicht auf,
+[00:02:43.700 --> 00:02:47.220] kommt es zu Zerrungen und Gelenkverschleiß.
+[00:02:50.040 --> 00:02:51.600] Aquazumba heißt der Trend,
+[00:02:51.980 --> 00:02:55.280] der eine Mischung aus Aquaerobic und Zumba ist.
+[00:02:58.760 --> 00:03:02.460] Kardiotraining kann das Herz und die Lunge verstärken.
+[00:03:05.060 --> 00:03:08.640] Hot Hula ist ein echtes gute Laune-Workout,
+[00:03:08.940 --> 00:03:10.860] das den ganzen Körper trainiert.
+[00:03:13.930 --> 00:03:16.870] Hot Pilates wird sich nach und nach
+[00:03:16.870 --> 00:03:20.310] von großen Städten in die kleineren Städte vorarbeiten.
+[00:03:23.460 --> 00:03:26.100] Liegestütze trainieren nicht nur den Bauch,
+[00:03:26.280 --> 00:03:29.560] sondern auch Oberarme, Schultern und Brust.
+[00:03:32.230 --> 00:03:34.990] Viele Mädchen spielen gerne Seilspringen.
+[00:03:38.060 --> 00:03:43.680] Fast 90% der Deutschen finden Gartenarbeit entspannender als Yoga.
+[00:03:46.740 --> 00:03:51.140] Der Trainer hat dem Anfänger einen passenden Trainingskurs empfohlen.
+[00:03:54.280 --> 00:03:57.820] Mein privater Trainer inspiriert mich oft beim Training.
+[00:04:00.090 --> 00:04:06.490] Man kann Fitness-Tracker mit seinem Smartphone über Bluetooth verbinden.

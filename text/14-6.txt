@@ -1,48 +1,75 @@
-Schuhwerk
-Absatz
-Einlage
-Kappe
-Schuband
-Schuhlöffel
-Schuhspanner
-Schuhwichse
-Sohle
-Clock
-Halbschuh
-Hüttenchuh
-Schleppchen
-Schnürschuh
-Latsch
-Schlappen
-Pantoffel
-Pantolette
-Sandalette
-Slipper
-Zehensandale
-Blockabsatz
-Keilabsatz
-Pumps
-Slingpumps
-Stöckelabsatz
-Stoffpumps
-Arbeitsschuh
-Gummistiefel
-Innenreißverschluss
-Plüschfutter
-Regenstiefel
-Stiefelette
-Westenstiefel
-Sprechen Sie bitte die folgenden Sätze
-Meine Mutter trägt gerne hohe Absätze.
-Die Einlage schmiegt sich weich in den Schuh.
-Wann die ersten Schubänder aufkamen, ist nicht genau bekannt.
-Schuhwichse erhält Leder geschmeidig und wasserdicht.
-Clocks stammen ursprünglich aus England und haben über Schweden allgemeine Verbreitung gefunden.
-Schleppchen umschließen den Fuß wie eine zweite Haut.
-Adidas hat eine limitierte Serie Sneakers entworfen.
-Seine Füße stecken in Pantoffeln.
-Ich trage im Sommer Sandalen und keine Socken, weil es angenehm und gesund ist.
-Ich kann leider in Pumps nicht richtig gehen.
-Pumps aus Velourleder mit Schleife werden hier zurzeit gerne gekauft.
-Die Wunschzettel wurden bereits am Nikolaustag geschrieben und in die Stiefel gesteckt.
-Von Hochgebirgen sind in Mittel- und Nordeuropa Gummistiefel aus Naturkautschuk häufiges Schuhwerk für Jäger.
+[00:00:02.160 --> 00:00:03.900] Schuhwerk
+[00:00:05.210 --> 00:00:07.810] Absatz
+[00:00:07.810 --> 00:00:09.870] Einlage
+[00:00:11.150 --> 00:00:12.170] Kappe
+[00:00:14.190 --> 00:00:15.330] Schuband
+[00:00:17.630 --> 00:00:18.750] Schuhlöffel
+[00:00:20.680 --> 00:00:21.380] Schuhspanner
+[00:00:24.280 --> 00:00:24.980] Schuhwichse
+[00:00:26.230 --> 00:00:27.630] Sohle
+[00:00:29.000 --> 00:00:29.920] Clock
+[00:00:31.270 --> 00:00:33.350] Halbschuh
+[00:00:34.720 --> 00:00:36.360] Hüttenchuh
+[00:00:37.800 --> 00:00:39.380] Schleppchen
+[00:00:40.790 --> 00:00:42.470] Schnürschuh
+[00:00:43.910 --> 00:00:45.570] Sneaker
+[00:00:46.880 --> 00:00:48.580] Wanderschuh
+[00:00:50.500 --> 00:00:52.640] Hausschuh
+[00:00:52.640 --> 00:00:54.040] Latsch
+[00:00:55.480 --> 00:00:56.880] Schlappen
+[00:00:59.100 --> 00:00:59.800] Pantoffel
+[00:01:01.180 --> 00:01:02.500] Pantolette
+[00:01:03.810 --> 00:01:05.850] Sandalette
+[00:01:07.230 --> 00:01:08.690] Slipper
+[00:01:10.060 --> 00:01:12.080] Zehnsandale
+[00:01:13.430 --> 00:01:15.210] Blockabsatz
+[00:01:16.550 --> 00:01:18.590] Keilabsatz
+[00:01:19.870 --> 00:01:20.810] Pumps
+[00:01:22.220 --> 00:01:24.300] Slingpumps
+[00:01:25.770 --> 00:01:27.750] Stöckelabsatz
+[00:01:30.890 --> 00:01:31.590] Stoffpumps
+[00:01:32.770 --> 00:01:33.470] Arbeitsschuh
+[00:01:36.100 --> 00:01:36.800] Fellstiefel
+[00:01:39.360 --> 00:01:40.060] Gummistiefel
+[00:01:42.720 --> 00:01:43.420] Innenreißverschluss
+[00:01:45.430 --> 00:01:46.590] Plüschfutter
+[00:01:49.390 --> 00:01:50.090] Regenstiefel
+[00:01:52.200 --> 00:01:53.720] Stiefelette
+[00:01:54.970 --> 00:01:56.590] Westenstiefel
+[00:02:01.860 --> 00:02:03.200] Sprechen Sie bitte die
+[00:02:03.200 --> 00:02:04.680] folgenden Sätze
+[00:02:07.020 --> 00:02:09.320] Meine Mutter trägt gerne
+[00:02:09.320 --> 00:02:10.540] hohe Absätze.
+[00:02:12.750 --> 00:02:15.170] Die Einlage schmiegt
+[00:02:15.170 --> 00:02:16.890] sich weich in den Schuh.
+[00:02:19.840 --> 00:02:21.480] Wann die ersten Schuhbänder
+[00:02:21.480 --> 00:02:23.320] aufkamen, ist nicht genau
+[00:02:23.320 --> 00:02:27.700] bekannt. Schuhwichse
+[00:02:28.020 --> 00:02:29.780] erhält Leder geschmeidig
+[00:02:29.780 --> 00:02:31.040] und wasserdicht.
+[00:02:34.050 --> 00:02:36.210] Clocks stammen ursprünglich
+[00:02:36.210 --> 00:02:38.010] aus England und haben
+[00:02:38.010 --> 00:02:39.710] über Schweden allgemeine
+[00:02:39.710 --> 00:02:41.030] Verbreitung gefunden.
+[00:02:44.330 --> 00:02:46.410] Schleppchen umschließen den Fuß
+[00:02:46.410 --> 00:02:48.030] wie eine zweite Haut.
+[00:02:51.270 --> 00:02:52.410] Adidas hat eine
+[00:02:52.410 --> 00:02:54.450] limitierte Serie Sneakers
+[00:02:54.450 --> 00:02:55.930] entworfen.
+[00:02:58.610 --> 00:03:01.030] Seine Füße stecken in Pantoffeln.
+[00:03:04.170 --> 00:03:05.050] Ich trage im
+[00:03:05.050 --> 00:03:06.750] Sommer Sandalen und keine
+[00:03:06.750 --> 00:03:08.970] Socken, weil es angenehm und
+[00:03:08.970 --> 00:03:09.790] gesund ist.
+[00:03:12.820 --> 00:03:15.040] Ich kann leider in Pumps nicht richtig
+[00:03:15.040 --> 00:03:19.520] gehen. Pumps aus
+[00:03:19.520 --> 00:03:21.520] Velourleder mit Schleife werden
+[00:03:21.520 --> 00:03:23.580] hier zur Zeit gerne gekauft.
+[00:03:26.680 --> 00:03:28.080] Die Wunschzettel wurden
+[00:03:28.080 --> 00:03:29.740] bereits am Nikolaustag
+[00:03:29.740 --> 00:03:31.880] geschrieben und in die Stiefel
+[00:03:31.880 --> 00:03:36.340] gesteckt. Von Hochgebirgen
+[00:03:36.940 --> 00:03:38.080] sind in Mittel- und
+[00:03:38.080 --> 00:03:40.120] Nordeuropa Gummistiefel aus
+[00:03:40.120 --> 00:03:42.160] Naturkautschuk häufiges
+[00:03:42.160 --> 00:03:43.480] Schuhwerk für Jäger.

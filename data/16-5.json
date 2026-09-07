@@ -4,76 +4,332 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Wetter",
-        "Blitz",
-        "blitzen",
-        "Donner",
-        "donnern",
-        "Regenbogen",
-        "sich bewölken",
-        "Wolke",
-        "Wetterbericht",
-        "Wettervorhersage",
-        "Zirrus",
-        "Feuchtigkeit",
-        "Gewitter",
-        "Nebel",
-        "Niederschlag",
-        "Nieseln",
-        "Regnen",
-        "Schauer",
-        "Sprühregen",
-        "Tröpfeln",
-        "Frieren",
-        "Frost",
-        "Graupeln",
-        "Hagel",
-        "Reif",
-        "Schneefall",
-        "Schneesturm",
-        "Schneien",
-        "bedeckt",
-        "bewölkt",
-        "halb bedeckt",
-        "Heiter",
-        "wolkenlos",
-        "wolkig",
-        "Brise",
-        "Hurikan",
-        "Monsun",
-        "Orkan",
-        "Sturm",
-        "Typhoon",
-        "Tornado",
-        "Wirbelsturm"
+        {
+          "text": "Wetter",
+          "start": 1.87,
+          "end": 3.23
+        },
+        {
+          "text": "Blitz",
+          "start": 5.2,
+          "end": 6.26
+        },
+        {
+          "text": "blitzen",
+          "start": 7.71,
+          "end": 8.87
+        },
+        {
+          "text": "Donner",
+          "start": 10.48,
+          "end": 11.36
+        },
+        {
+          "text": "donnern",
+          "start": 13.06,
+          "end": 14.32
+        },
+        {
+          "text": "Regenbogen",
+          "start": 15.93,
+          "end": 16.81
+        },
+        {
+          "text": "sich bewölken",
+          "start": 18.87,
+          "end": 21.29
+        },
+        {
+          "text": "Wolke",
+          "start": 21.29,
+          "end": 23.33
+        },
+        {
+          "text": "Wetterbericht",
+          "start": 25.0,
+          "end": 26.24
+        },
+        {
+          "text": "Wettervorhersage",
+          "start": 28.06,
+          "end": 29.68
+        },
+        {
+          "text": "Zirrus",
+          "start": 31.57,
+          "end": 32.59
+        },
+        {
+          "text": "Feuchtigkeit",
+          "start": 34.29,
+          "end": 35.39
+        },
+        {
+          "text": "Gewitter",
+          "start": 37.52,
+          "end": 39.4
+        },
+        {
+          "text": "Nebel",
+          "start": 41.3,
+          "end": 42.7
+        },
+        {
+          "text": "Niederschlag",
+          "start": 43.18,
+          "end": 44.54
+        },
+        {
+          "text": "nieseln",
+          "start": 46.19,
+          "end": 47.33
+        },
+        {
+          "text": "Regnen",
+          "start": 49.18,
+          "end": 50.2
+        },
+        {
+          "text": "Schauer",
+          "start": 52.15,
+          "end": 52.77
+        },
+        {
+          "text": "Sprühregen",
+          "start": 54.79,
+          "end": 56.19
+        },
+        {
+          "text": "Tröpfeln",
+          "start": 57.79,
+          "end": 58.93
+        },
+        {
+          "text": "Frieren",
+          "start": 60.82,
+          "end": 61.82
+        },
+        {
+          "text": "Frost",
+          "start": 65.55,
+          "end": 65.55
+        },
+        {
+          "text": "Graupeln",
+          "start": 65.55,
+          "end": 67.91
+        },
+        {
+          "text": "Hagel",
+          "start": 70.53,
+          "end": 73.51
+        },
+        {
+          "text": "Reif",
+          "start": 75.21,
+          "end": 76.23
+        },
+        {
+          "text": "Schneefall",
+          "start": 78.08,
+          "end": 79.28
+        },
+        {
+          "text": "Schneesturm",
+          "start": 81.12,
+          "end": 82.38
+        },
+        {
+          "text": "Schneien",
+          "start": 84.14,
+          "end": 85.6
+        },
+        {
+          "text": "bedeckt",
+          "start": 85.6,
+          "end": 87.92
+        },
+        {
+          "text": "bewölkt",
+          "start": 89.81,
+          "end": 90.97
+        },
+        {
+          "text": "halb bedeckt",
+          "start": 92.69,
+          "end": 94.13
+        },
+        {
+          "text": "Heiter",
+          "start": 95.82,
+          "end": 97.8
+        },
+        {
+          "text": "Wolkenlos",
+          "start": 99.8,
+          "end": 101.2
+        },
+        {
+          "text": "Wolkig",
+          "start": 102.04,
+          "end": 102.88
+        },
+        {
+          "text": "Brise",
+          "start": 104.54,
+          "end": 105.4
+        },
+        {
+          "text": "Hurikan",
+          "start": 107.39,
+          "end": 109.43
+        },
+        {
+          "text": "Monsun",
+          "start": 109.43,
+          "end": 111.33
+        },
+        {
+          "text": "Orkan",
+          "start": 113.44,
+          "end": 114.14
+        },
+        {
+          "text": "Sturm",
+          "start": 116.38,
+          "end": 117.16
+        },
+        {
+          "text": "Typhoon",
+          "start": 119.09,
+          "end": 120.15
+        },
+        {
+          "text": "Tornado",
+          "start": 122.04,
+          "end": 123.2
+        },
+        {
+          "text": "Wirbelsturm",
+          "start": 125.07,
+          "end": 126.37
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Blitz hat in den Baum eingeschlagen.",
-        "Es blitzt und donnert.",
-        "Der Donner grollt.",
-        "Der Regenbogen ist allmählich verschwunden.",
-        "Wolken stehen am Himmel.",
-        "Der Wetterbericht hat gewittrige Schauer vorhergesagt.",
-        "Im Wetterbericht stand, es bleibe jetzt eine ganze Weile sonnig und warm.",
-        "Nach dem Gewitter war die Luft erquickend.",
-        "Ein leichter Nebel lagert über dem See.",
-        "Es hat gestern nur getröpfelt.",
-        "Es regnet in Strömen.",
-        "Sprühregen kommt vor allem in den Subtropen, in den Tropen und in den gemäßigten Breiten vor.",
-        "Es friert Stein und Bein.",
-        "Der Frost steckt noch im Boden.",
-        "Einer der schwersten Schneestürme seit vielen Jahren hat die US-Ostküste getroffen.",
-        "Es hat aufgehört zu schneien.",
-        "Der Himmel bedeckte sich mit Wolken.",
-        "Vom Meer her wehte eine Brise.",
-        "Ein Hurikan ist ein tropischer Wirbelsturm.",
-        "Monsune ändern alle halben Jahre ihre Richtung.",
-        "Vor allem im Herbst und Winter brausen Orkane über West- und Mitteleuropa.",
-        "Am Nordpol gibt es keinen Typhoon."
+        {
+          "text": "Der Blitz hat in den Baum eingeschlagen.",
+          "start": 136.63,
+          "end": 139.23
+        },
+        {
+          "text": "Es blitzt und donnert.",
+          "start": 142.33,
+          "end": 144.67
+        },
+        {
+          "text": "Der Donner rollt.",
+          "start": 147.12,
+          "end": 148.68
+        },
+        {
+          "text": "Der Regenbogen ist allmählich verschwunden.",
+          "start": 151.46,
+          "end": 154.86
+        },
+        {
+          "text": "Wolken stehen am Himmel.",
+          "start": 157.64,
+          "end": 159.48
+        },
+        {
+          "text": "Der Wetterbericht hat gewittrige Schauer vorhergesagt.",
+          "start": 162.28,
+          "end": 166.1
+        },
+        {
+          "text": "Im Wetterbericht stand, es bleibe jetzt eine ganze Weile sonnig und warm.",
+          "start": 169.1,
+          "end": 174.04
+        },
+        {
+          "text": "Nach dem Gewitter war die Luft erquickend.",
+          "start": 176.28,
+          "end": 179.59
+        },
+        {
+          "text": "Ein leichter Nebel lagert über dem See.",
+          "start": 183.17,
+          "end": 185.97
+        },
+        {
+          "text": "Es hat gestern nur getröpfelt.",
+          "start": 188.99,
+          "end": 191.05
+        },
+        {
+          "text": "Es regnet in Strömen.",
+          "start": 194.07,
+          "end": 196.19
+        },
+        {
+          "text": "Sprühregen kommt vor allem in den Subtropen, in den Tropen und in den gemäßigten Breiten vor.",
+          "start": 199.39,
+          "end": 206.13
+        },
+        {
+          "text": "Es friert Stein und Bein.",
+          "start": 209.04,
+          "end": 211.21
+        },
+        {
+          "text": "Der Frost steckt noch im Boden.",
+          "start": 214.2,
+          "end": 216.42
+        },
+        {
+          "text": "Einer der schwersten Schneestürme seit vielen Jahren hat die US-Ostküste getroffen.",
+          "start": 218.75,
+          "end": 225.57
+        },
+        {
+          "text": "Es hat aufgehört zu schneien.",
+          "start": 228.69,
+          "end": 230.73
+        },
+        {
+          "text": "Der Himmel bedeckte sich mit Wolken.",
+          "start": 233.64,
+          "end": 236.4
+        },
+        {
+          "text": "Vom Meer her wehte eine Brise.",
+          "start": 239.14,
+          "end": 241.42
+        },
+        {
+          "text": "Ein Hurikan ist ein tropischer Wirbelsturm.",
+          "start": 244.47,
+          "end": 247.89
+        },
+        {
+          "text": "Monsune ändern alle halben Jahre ihre Richtung.",
+          "start": 250.68,
+          "end": 253.84
+        },
+        {
+          "text": "Vor allem im Herbst und Winter brausen Orkane über West- und Mitteleuropa.",
+          "start": 256.21,
+          "end": 261.21
+        },
+        {
+          "text": "Am Nordpol gibt es keinen Typhoon.",
+          "start": 261.21,
+          "end": 267.02
+        }
       ]
     }
   ]

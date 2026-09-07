@@ -1,57 +1,57 @@
-Firma, Aktiengesellschaft, AG
-die börsennotierte Firma
-Einzelunternehmen
-Gemeinschaftsunternehmen
-die Gesellschaft mit beschränkter Haftung
-GmbH
-Kommanditgesellschaft
-KG
-Privatunternehmen
-Staatsbetrieb
-Vorstandsvorsitzender
-Generaldirektor
-Generaldirektoren
-Chef
-Chefin
-Manager
-Managerin
-Mitarbeiter
-Mitarbeiterin
-Assistent
-Assistentin
-Sekretär
-Sekretärin
-Praktikant
-Praktikantin
-Buchhaltung
-Finanzabteilung
-Marketingabteilung
-Personalabteilung
-Produktionsabteilung
-Rechtsabteilung
-Sicherheitsabteilung
-Technikabteilung
-Besprechen
-Feierabend
-Ordnen
-Protokoll
-Rückfrage
-Sich bemühen
-Stressig
-Überstunden machen
-Sprechen Sie bitte die folgenden Sätze
-Die Aktiengesellschaft
-AG
-ist die übliche Gesellschaftsform für börsennotierte Firmen.
-Der Professor kommt mit seinem Assistenten in das Zimmer,
-der sein Buch und Laptop trägt.
-Meine Mutter arbeitet in der Buchhaltung.
-Die Personalabteilung lässt mich als Sekretär anmelden.
-Wir müssen uns mal treffen und das näher besprechen.
-Man kann am Wochenende oder nach Feierabend in den Park gehen.
-Alles hat sich sinnvoll geordnet.
-Anbei schicke ich Ihnen das Protokoll.
-Für weitere Rückfragen stehe ich Ihnen zur Verfügung.
-Der Mann bemüht sich täglich um einen Arbeitsplatz.
-Seine Arbeit ist zu stressig.
-Um mehr Geld zu verdienen, macht er jeden Abend Überstunden.
+[00:00:02.060 --> 00:00:09.360] Firma, Aktiengesellschaft, AG
+[00:00:09.360 --> 00:00:12.100] die börsennotierte Firma
+[00:00:13.380 --> 00:00:16.000] Einzelunternehmen
+[00:00:18.100 --> 00:00:19.500] Gemeinschaftsunternehmen
+[00:00:20.220 --> 00:00:23.760] die Gesellschaft mit beschränkter Haftung
+[00:00:23.760 --> 00:00:25.340] GmbH
+[00:00:26.650 --> 00:00:28.610] Kommanditgesellschaft
+[00:00:28.610 --> 00:00:30.070] KG
+[00:00:31.350 --> 00:00:33.310] Privatunternehmen
+[00:00:34.720 --> 00:00:36.540] Staatsbetrieb
+[00:00:43.640 --> 00:00:45.040] Vorstandsvorsitzender
+[00:00:46.760 --> 00:00:48.160] Generaldirektor
+[00:00:49.980 --> 00:00:51.380] Generaldirektorin
+[00:00:52.760 --> 00:00:53.440] Chef
+[00:00:54.780 --> 00:00:56.620] Chefin
+[00:00:58.060 --> 00:00:59.460] Manager
+[00:01:01.280 --> 00:01:02.680] Managerin
+[00:01:03.300 --> 00:01:04.360] Mitarbeiter
+[00:01:07.600 --> 00:01:09.000] Mitarbeiterin
+[00:01:09.000 --> 00:01:11.300] Assistent
+[00:01:12.840 --> 00:01:14.240] Assistentin
+[00:01:15.490 --> 00:01:16.930] Sekretär
+[00:01:18.210 --> 00:01:20.050] Sekretärin
+[00:01:21.330 --> 00:01:22.910] Praktikant
+[00:01:26.110 --> 00:01:27.510] Praktikantin
+[00:01:27.510 --> 00:01:29.050] Buchhaltung
+[00:01:31.880 --> 00:01:33.280] Finanzabteilung
+[00:01:34.740 --> 00:01:36.140] Marketingabteilung
+[00:01:37.390 --> 00:01:39.710] Personalabteilung
+[00:01:41.020 --> 00:01:43.440] Produktionsabteilung
+[00:01:46.480 --> 00:01:47.880] Rechtsabteilung
+[00:01:47.880 --> 00:01:50.400] Sicherheitsabteilung
+[00:01:51.720 --> 00:01:54.040] Technikabteilung
+[00:01:55.280 --> 00:01:56.540] Besprechen
+[00:01:59.550 --> 00:02:00.950] Feierabend
+[00:02:00.950 --> 00:02:02.490] Ordnen
+[00:02:05.290 --> 00:02:06.690] Protokoll
+[00:02:06.690 --> 00:02:08.230] Rückfrage
+[00:02:09.510 --> 00:02:11.550] sich bemühen
+[00:02:13.020 --> 00:02:15.740] stressig
+[00:02:15.740 --> 00:02:17.480] Überstunden machen
+[00:02:21.930 --> 00:02:24.990] Sprechen Sie bitte die folgenden Sätze
+[00:02:27.460 --> 00:02:29.740] Die Aktiengesellschaft
+[00:02:29.740 --> 00:02:30.460] AG
+[00:02:30.460 --> 00:02:35.720] ist die übliche Gesellschaftsform für börsennotierte Firmen.
+[00:02:38.100 --> 00:02:41.680] Der Professor kommt mit seinem Assistenten in das Zimmer,
+[00:02:42.040 --> 00:02:44.620] der sein Buch und Laptop trägt.
+[00:02:47.220 --> 00:02:49.960] Meine Mutter arbeitet in der Buchhaltung.
+[00:02:52.900 --> 00:02:56.980] Die Personalabteilung lässt mich als Sekretär anmelden.
+[00:02:59.970 --> 00:03:03.070] Wir müssen uns mal treffen und das näher besprechen.
+[00:03:06.070 --> 00:03:10.670] Man kann am Wochenende oder nach Feierabend in den Park gehen.
+[00:03:13.530 --> 00:03:16.370] Alles hat sich sinnvoll geordnet.
+[00:03:19.180 --> 00:03:21.840] Anbei schicke ich Ihnen das Protokoll.
+[00:03:24.640 --> 00:03:28.220] Für weitere Rückfragen stehe ich Ihnen zur Verfügung.
+[00:03:31.340 --> 00:03:34.560] Der Mann bemüht sich täglich um einen Arbeitsplatz.
+[00:03:37.800 --> 00:03:40.040] Seine Arbeit ist zu stressig.
+[00:03:42.970 --> 00:03:47.330] Um mehr Geld zu verdienen, macht er jeden Abend Überstunden.

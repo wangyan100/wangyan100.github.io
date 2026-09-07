@@ -4,67 +4,292 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Landformen 1",
-        "Bach",
-        "Bächelchen",
-        "Bächlein",
-        "Buhne",
-        "Delta",
-        "Flussbett",
-        "Flüsschen",
-        "Flüsslein",
-        "Kanal",
-        "Mündung",
-        "Sandbank",
-        "Brandung",
-        "Hebe",
-        "Flut",
-        "Gezeiten",
-        "Insel",
-        "Korallenriff",
-        "Küste",
-        "Ablagerung",
-        "Binnensee",
-        "Bucht",
-        "Deich",
-        "Stausee",
-        "Strandsee",
-        "Ufer",
-        "Becken",
-        "Ebene",
-        "Feuchtgebiet",
-        "Moor",
-        "Sumpf",
-        "Moos",
-        "Schlamm",
-        "Tiefebene",
-        "Beben",
-        "Bergrutsch",
-        "Bodenriss",
-        "Erdspalte",
-        "Erdbeben",
-        "Erdstoß",
-        "Schlammlawine",
-        "Tsunami"
+        {
+          "text": "Landformen 1",
+          "start": 1.84,
+          "end": 6.34
+        },
+        {
+          "text": "Bach",
+          "start": 6.34,
+          "end": 7.12
+        },
+        {
+          "text": "Bächelchen",
+          "start": 10.01,
+          "end": 11.41
+        },
+        {
+          "text": "Bächlein",
+          "start": 12.91,
+          "end": 13.61
+        },
+        {
+          "text": "Buhne",
+          "start": 14.31,
+          "end": 15.25
+        },
+        {
+          "text": "Delta",
+          "start": 17.07,
+          "end": 18.15
+        },
+        {
+          "text": "Flussbett",
+          "start": 19.56,
+          "end": 21.6
+        },
+        {
+          "text": "Flüsschen",
+          "start": 22.97,
+          "end": 24.55
+        },
+        {
+          "text": "Flüsslein",
+          "start": 26.69,
+          "end": 27.65
+        },
+        {
+          "text": "Kanal",
+          "start": 29.37,
+          "end": 30.07
+        },
+        {
+          "text": "Mündung",
+          "start": 32.27,
+          "end": 33.67
+        },
+        {
+          "text": "Sandbank",
+          "start": 33.67,
+          "end": 35.85
+        },
+        {
+          "text": "Brandung",
+          "start": 37.16,
+          "end": 38.88
+        },
+        {
+          "text": "Ebbe",
+          "start": 40.13,
+          "end": 41.59
+        },
+        {
+          "text": "Flut",
+          "start": 43.5,
+          "end": 45.5
+        },
+        {
+          "text": "Gezeiten",
+          "start": 45.5,
+          "end": 47.84
+        },
+        {
+          "text": "Insel",
+          "start": 47.84,
+          "end": 49.5
+        },
+        {
+          "text": "Korallenriff",
+          "start": 51.3,
+          "end": 52.92
+        },
+        {
+          "text": "Küste",
+          "start": 54.2,
+          "end": 55.76
+        },
+        {
+          "text": "Ablagerung",
+          "start": 58.56,
+          "end": 59.34
+        },
+        {
+          "text": "Binnensee",
+          "start": 61.78,
+          "end": 63.18
+        },
+        {
+          "text": "Bucht",
+          "start": 63.18,
+          "end": 63.88
+        },
+        {
+          "text": "Deich",
+          "start": 65.66,
+          "end": 67.06
+        },
+        {
+          "text": "Stausee",
+          "start": 68.5,
+          "end": 70.28
+        },
+        {
+          "text": "Strandsee",
+          "start": 71.69,
+          "end": 72.93
+        },
+        {
+          "text": "Ufer",
+          "start": 75.47,
+          "end": 76.39
+        },
+        {
+          "text": "Welle",
+          "start": 76.39,
+          "end": 78.73
+        },
+        {
+          "text": "Becken",
+          "start": 80.04,
+          "end": 82.04
+        },
+        {
+          "text": "Ebene",
+          "start": 82.04,
+          "end": 83.9
+        },
+        {
+          "text": "Feuchtgebiet",
+          "start": 86.72,
+          "end": 87.42
+        },
+        {
+          "text": "Moor",
+          "start": 88.12,
+          "end": 89.08
+        },
+        {
+          "text": "Sumpf",
+          "start": 91.08,
+          "end": 92.62
+        },
+        {
+          "text": "Moos",
+          "start": 94.0,
+          "end": 94.96
+        },
+        {
+          "text": "Schlamm",
+          "start": 97.11,
+          "end": 98.03
+        },
+        {
+          "text": "Tiefebene",
+          "start": 100.37,
+          "end": 101.07
+        },
+        {
+          "text": "Beben",
+          "start": 102.39,
+          "end": 103.33
+        },
+        {
+          "text": "Bergrutsch",
+          "start": 106.12,
+          "end": 107.52
+        },
+        {
+          "text": "Bodenriss",
+          "start": 107.52,
+          "end": 109.98
+        },
+        {
+          "text": "Erdspalte",
+          "start": 112.12,
+          "end": 113.52
+        },
+        {
+          "text": "Erdbeben",
+          "start": 115.94,
+          "end": 116.76
+        },
+        {
+          "text": "Erdstoß",
+          "start": 117.78,
+          "end": 118.6
+        },
+        {
+          "text": "Schlammlawine",
+          "start": 121.08,
+          "end": 121.9
+        },
+        {
+          "text": "Tsunami",
+          "start": 123.24,
+          "end": 124.58
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Bach rauscht, schlängelt sich durch das Tal.",
-        "Das Wasser des Bächleins ist kristallklar und man kann kleine Fischchen im Wasser erkennen.",
-        "Hier befindet sich der längste von Menschen geschaffene Kanal der Welt.",
-        "Die Gezeiten werden von Erde, Mond und der Sonne bestimmt.",
-        "Im Gegensatz zu einem natürlichen See kann der Wasserstand in einem Stausee stark schwanken.",
-        "Landschaften mit sehr starken Ablagerungen nennt man Sedimentbecken.",
-        "Das Wasser hat die Erde vom Ufer geschwemmt.",
-        "Feuchtgebiete haben eine hohe Bedeutung für Ökologie, Klimaschutz und Hochwasserschutz.",
-        "Moose haben sich vor etwa 400 bis 450 Millionen Jahren aus Grünalgen der Gezeitenzone entwickelt.",
-        "Erdbeben können auch entstehen, wenn zwei kontinentale Platten frontal aufeinander prallen.",
-        "Das heftigste bisher auf der Erde gemessene Erdbeben hatte eine Erdbebenstärke von 9,5 und ereignete sich 1960 in Chile.",
-        "Sommer ist die Saison der Schlammlavinen.",
-        "Im Jahr 2004 löste ein Seebeben vor Sumatra im Indischen Ozean einen gewaltigen Tsunami aus."
+        {
+          "text": "Der Bach rauscht, schlängelt sich durch das Tal.",
+          "start": 134.83,
+          "end": 138.25
+        },
+        {
+          "text": "Das Wasser des Bächleins ist kristallklar und man kann kleine Fischchen im Wasser erkennen.",
+          "start": 141.34,
+          "end": 147.48
+        },
+        {
+          "text": "Hier befindet sich der längste von Menschen geschaffene Kanal der Welt.",
+          "start": 150.63,
+          "end": 154.93
+        },
+        {
+          "text": "Die Gezeiten werden von Erde, Mond und der Sonne bestimmt.",
+          "start": 157.2,
+          "end": 162.16
+        },
+        {
+          "text": "Im Gegensatz zu einem natürlichen See kann der Wasserstand in einem Stausee stark schwanken.",
+          "start": 165.26,
+          "end": 171.44
+        },
+        {
+          "text": "Landschaften mit sehr starken Ablagerungen nennt man Sedimentbecken.",
+          "start": 174.9,
+          "end": 179.7
+        },
+        {
+          "text": "Das Wasser hat die Erde vom Ufer geschwemmt.",
+          "start": 182.78,
+          "end": 186.08
+        },
+        {
+          "text": "Feuchtgebiete haben eine hohe Bedeutung für Ökologie, Klimaschutz und Hochwasserschutz.",
+          "start": 189.18,
+          "end": 194.42
+        },
+        {
+          "text": "Mose haben sich vor etwa 400 bis 450 Millionen Jahren aus Grünalgen der Gezeitenzone entwickelt.",
+          "start": 194.42,
+          "end": 206.95
+        },
+        {
+          "text": "Erdbeben können auch entstehen, wenn zwei kontinentale Platten frontal aufeinander prallen.",
+          "start": 210.2,
+          "end": 216.58
+        },
+        {
+          "text": "Das heftigste bisher auf der Erde gemessene Erdbeben hatte eine Erdbebenstärke von 9,5 und ereignete sich 1960 in Chile.",
+          "start": 219.64,
+          "end": 230.18
+        },
+        {
+          "text": "Im Sommer ist die Saison der Schlammlawinen.",
+          "start": 232.42,
+          "end": 236.22
+        },
+        {
+          "text": "Im Jahr 2004 löste ein Seebeben vor Sumatra im Indischen Ozean einen gewaltigen Tsunami aus.",
+          "start": 239.3,
+          "end": 247.36
+        }
       ]
     }
   ]

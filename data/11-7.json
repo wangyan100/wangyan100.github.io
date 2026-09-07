@@ -4,58 +4,182 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Algebra 2",
-        "Approximation",
-        "Die bekannte Zahl",
-        "Die unbekannte Zahl",
-        "Funktion",
-        "Identität",
-        "Koeffizient",
-        "Kubus",
-        "Quadrat",
-        "Radikant",
-        "Radizieren",
-        "Wurzel",
-        "Kubikwurzel",
-        "Quadratwurzel",
-        "Wurzelexponent",
-        "Wurzelwert",
-        "Wurzelzeichen",
-        "Koordinatenachse",
-        "Abszissenachse",
-        "Ordinatenachse",
-        "Koordinatensystem",
-        "Hyperbil",
-        "Nullpunkt",
-        "Parabel",
-        "Quadrant",
-        "Vektor",
-        "Annähernd gleich",
-        "Identisch",
-        "Unendlich",
-        "Ungleich",
-        "Die lineare Algebra",
-        "Topologie",
-        "Wahrscheinlichkeitstheorie"
+        {
+          "text": "Algebra 2",
+          "start": 1.74,
+          "end": 3.74
+        },
+        {
+          "text": "Approximation",
+          "start": 6.94,
+          "end": 7.74
+        },
+        {
+          "text": "Die bekannte Zahl",
+          "start": 8.34,
+          "end": 11.8
+        },
+        {
+          "text": "Die unbekannte Zahl",
+          "start": 11.8,
+          "end": 14.62
+        },
+        {
+          "text": "Funktion",
+          "start": 17.09,
+          "end": 18.63
+        },
+        {
+          "text": "Identität",
+          "start": 18.63,
+          "end": 20.89
+        },
+        {
+          "text": "Koeffizient",
+          "start": 22.17,
+          "end": 24.21
+        },
+        {
+          "text": "Kubus",
+          "start": 25.49,
+          "end": 26.97
+        },
+        {
+          "text": "Quadrat",
+          "start": 28.93,
+          "end": 30.69
+        },
+        {
+          "text": "Radikant",
+          "start": 30.69,
+          "end": 32.93
+        },
+        {
+          "text": "Radizieren",
+          "start": 34.21,
+          "end": 36.49
+        },
+        {
+          "text": "Wurzel",
+          "start": 36.49,
+          "end": 38.71
+        },
+        {
+          "text": "Kubikwurzel",
+          "start": 39.99,
+          "end": 41.97
+        },
+        {
+          "text": "Quadratwurzel",
+          "start": 45.36,
+          "end": 46.76
+        },
+        {
+          "text": "Wurzelexponent",
+          "start": 46.76,
+          "end": 47.46
+        },
+        {
+          "text": "Wurzelwert",
+          "start": 50.36,
+          "end": 51.08
+        },
+        {
+          "text": "Wurzelzeichen",
+          "start": 54.02,
+          "end": 54.72
+        },
+        {
+          "text": "Koordinatenachse",
+          "start": 57.82,
+          "end": 59.22
+        },
+        {
+          "text": "Abszissenachse",
+          "start": 62.44,
+          "end": 63.84
+        },
+        {
+          "text": "Ordinatenachse",
+          "start": 63.84,
+          "end": 64.92
+        },
+        {
+          "text": "Koordinatensystem",
+          "start": 68.41,
+          "end": 69.81
+        },
+        {
+          "text": "Hyperbil",
+          "start": 71.09,
+          "end": 71.79
+        },
+        {
+          "text": "Nullpunkt",
+          "start": 74.18,
+          "end": 74.88
+        },
+        {
+          "text": "Parabel",
+          "start": 74.88,
+          "end": 76.88
+        },
+        {
+          "text": "Quadrant",
+          "start": 80.16,
+          "end": 81.4
+        },
+        {
+          "text": "Vektor",
+          "start": 83.17,
+          "end": 84.81
+        },
+        {
+          "text": "Annähernd gleich",
+          "start": 86.16,
+          "end": 87.84
+        },
+        {
+          "text": "Identisch",
+          "start": 89.08,
+          "end": 91.56
+        },
+        {
+          "text": "Unendlich",
+          "start": 93.12,
+          "end": 93.82
+        },
+        {
+          "text": "Ungleich",
+          "start": 95.38,
+          "end": 96.78
+        },
+        {
+          "text": "Die lineare Algebra",
+          "start": 98.03,
+          "end": 100.55
+        },
+        {
+          "text": "Topologie",
+          "start": 101.9,
+          "end": 103.86
+        },
+        {
+          "text": "Wahrscheinlichkeitstheorie",
+          "start": 105.98,
+          "end": 107.38
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Mit der Approximation irrationaler Zahlen durch rationale beschäftigt sich die Theorie der diophantischen Approximation.",
-        "Lineare Funktion ist nicht schwer für ihn.",
-        "Der Koeffizient ist die Zahl in einem Term.",
-        "Sie steht immer vor der Unbekannten.",
-        "Wie 2 von 2x.",
-        "Es ist unmöglich, einen Kubus in zwei Kuben zu zerlegen. 4 zum Quadrat ist 16. 2 ist die Kubikwurzel von 8.",
-        "Koordinatenachsen sind herausgehobene Linien, die für Positionsangaben in Fläche oder Raum den Bezug liefern.",
-        "Die beiden Richtungsachsen von Koordinatenachsen stehen orthogonal aufeinander, schneiden sich also im 90°-Winkel.",
-        "Man bezeichnet die horizontale Achse als Abszissenachse.",
-        "Die vertikale Achse heißt Ordinatenachse.",
-        "In einem karthesischen Koordinatensystem werden die 4 Quadranten entgegen dem Uhrzeigersinn mit 1, 2, 3, 4 bzw. 1, 2, 3, 4 bezeichnet.",
-        "Die Topologie ist ein fundamentales Teilgebiet der Mathematik.",
-        "Die Wahrscheinlichkeitstheorie bildet gemeinsam mit der mathematischen Statistik das weite Feld der Stochastik, die von der Beschreibung zufälliger Ereignisse und ihrer Modellierung handelt."
+        {
+          "text": "Mit der Approximation irrationaler Zahlen durch Rationale beschäftigt sich die Theorie der diophantischen Approximation Lineare Funktion ist nicht schwer für ihn Der Koeffizient ist die Zahl in einem Term Sie steht immer vor der Unbekannten wie 2 von 2x Es ist unmöglich einen Kubus in zwei Kuben zu zerlegen 4 zum Quadrat ist 16 2 ist die Kubikwurzel von 8 Koordinatenachsen sind herausgehobene Linien die für Positionsangaben in Fläche oder Raum den Bezug liefern Die beiden Richtungsachsen von Koordinatenachsen stehen orthogonal aufeinander schneiden sich also um 90° Winkel Man bezeichnet die als Abszissenachse Die vertikale Achse heißt Ordinatenachse In einem karthesischen Koordinatensystem werden die 4 Quadranten entgegen dem Uhrzeigersinn mit 1, 2, 3, 4 bzw. 1, 2, 3, 4 bezeichnet Die Topologie ist ein fundamentales Teilgebiet der Mathematik Die Wahrscheinlichkeitstheorie bildet gemeinsam mit der mathematischen Statistik das weite Feld der Stochastik die von der Beschreibung zufälliger Ereignisse und ihrer Modellierung handelt",
+          "start": 117.12,
+          "end": 240.89
+        }
       ]
     }
   ]

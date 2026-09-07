@@ -4,51 +4,217 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Vögel 2",
-        "Ara-Rauner",
-        "Gelbbrustara",
-        "3 Zehenspecht",
-        "Eisvogel",
-        "Grauspecht",
-        "Kardinal",
-        "Kolibri",
-        "Kuckuck",
-        "Specht",
-        "Ara",
-        "Graupapagei",
-        "Kakadu",
-        "Papagei",
-        "Wellensittich",
-        "Paradiesvogel",
-        "Flamingo",
-        "Kranich",
-        "Löffler",
-        "Manchurenkranich",
-        "Mönchskranich",
-        "Schwarzhalskranich",
-        "Schwarzstorch",
-        "Tril",
-        "Emu",
-        "Kasuar",
-        "Strauß",
-        "Möwe",
-        "Seeadler",
-        "Sturmvogel",
-        "Erhaschen",
-        "Habitat",
-        "Nest",
-        "Nesterbauen",
-        "Standvogel",
-        "Zugvogel",
-        "Ziehen",
-        "Zwitschern"
+        {
+          "text": "Vögel 2",
+          "start": 1.87,
+          "end": 4.25
+        },
+        {
+          "text": "Ara-Rauner",
+          "start": 5.66,
+          "end": 7.48
+        },
+        {
+          "text": "Gelbbrustara",
+          "start": 8.76,
+          "end": 10.82
+        },
+        {
+          "text": "3 Zehenspecht",
+          "start": 12.16,
+          "end": 14.06
+        },
+        {
+          "text": "Eisvogel",
+          "start": 17.24,
+          "end": 18.64
+        },
+        {
+          "text": "Grauspecht",
+          "start": 18.64,
+          "end": 19.34
+        },
+        {
+          "text": "Kardinal",
+          "start": 21.72,
+          "end": 22.5
+        },
+        {
+          "text": "Kolibri",
+          "start": 24.4,
+          "end": 26.1
+        },
+        {
+          "text": "Kuckuck",
+          "start": 27.38,
+          "end": 28.7
+        },
+        {
+          "text": "Specht",
+          "start": 30.2,
+          "end": 31.54
+        },
+        {
+          "text": "Ara",
+          "start": 5.66,
+          "end": 6.3
+        },
+        {
+          "text": "Graupapagei",
+          "start": 36.91,
+          "end": 37.61
+        },
+        {
+          "text": "Kakadu",
+          "start": 38.98,
+          "end": 40.34
+        },
+        {
+          "text": "Papagei",
+          "start": 41.62,
+          "end": 43.54
+        },
+        {
+          "text": "Sittich",
+          "start": 44.86,
+          "end": 47.34
+        },
+        {
+          "text": "Wellensittich",
+          "start": 47.34,
+          "end": 48.86
+        },
+        {
+          "text": "Paradiesvogel",
+          "start": 50.7,
+          "end": 52.14
+        },
+        {
+          "text": "Flamingo",
+          "start": 54.18,
+          "end": 55.76
+        },
+        {
+          "text": "Kranich",
+          "start": 57.1,
+          "end": 59.28
+        },
+        {
+          "text": "Löffler",
+          "start": 59.28,
+          "end": 60.82
+        },
+        {
+          "text": "Manchurenkranich",
+          "start": 64.46,
+          "end": 65.86
+        },
+        {
+          "text": "Mönchskranich",
+          "start": 65.86,
+          "end": 68.12
+        },
+        {
+          "text": "Schwarzhalskranich",
+          "start": 69.5,
+          "end": 71.96
+        },
+        {
+          "text": "Schwarzstorch",
+          "start": 73.27,
+          "end": 75.19
+        },
+        {
+          "text": "Tril",
+          "start": 76.54,
+          "end": 78.46
+        },
+        {
+          "text": "Emu",
+          "start": 78.46,
+          "end": 80.5
+        },
+        {
+          "text": "Kasuar",
+          "start": 81.9,
+          "end": 83.24
+        },
+        {
+          "text": "Strauß",
+          "start": 84.78,
+          "end": 86.48
+        },
+        {
+          "text": "Lumme",
+          "start": 87.73,
+          "end": 89.11
+        },
+        {
+          "text": "Möwe",
+          "start": 91.31,
+          "end": 92.97
+        },
+        {
+          "text": "Seeadler",
+          "start": 92.97,
+          "end": 94.81
+        },
+        {
+          "text": "Sturmvogel",
+          "start": 96.31,
+          "end": 98.43
+        },
+        {
+          "text": "Erhaschen",
+          "start": 99.68,
+          "end": 101.06
+        },
+        {
+          "text": "Habitat",
+          "start": 103.4,
+          "end": 104.7
+        },
+        {
+          "text": "Nest",
+          "start": 105.4,
+          "end": 106.52
+        },
+        {
+          "text": "Nesterbauen",
+          "start": 108.44,
+          "end": 109.84
+        },
+        {
+          "text": "Standvogel",
+          "start": 111.38,
+          "end": 113.32
+        },
+        {
+          "text": "Zugvogel",
+          "start": 114.66,
+          "end": 116.42
+        },
+        {
+          "text": "Ziehen",
+          "start": 117.77,
+          "end": 119.01
+        },
+        {
+          "text": "Zwitschern",
+          "start": 121.0,
+          "end": 121.76
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Er steckt den Kopf in den Sand In der Vogel Strauß Im Frühling bauen die Vögel Nester Der Bestand von Eisvogel hat in den letzten Jahren wieder zugenommen Die Kolibris ernähren sich vorwiegend von Blütennektar Der Specht klopft am Baumstamm Kakadus haben ein wesentlich kleineres Verbreitungsgebiet als andere Papageienfamilien Papageien und Rabenvögel gehören zu den Vögeln mit der höchsten Intelligenz Die Paradiesvögel teilen sich in zwei Unterfamilien mit sehr unterschiedlichem Aussehen In beiden Unterfamilien ist das Weibchen kleiner als das Männchen Kranich war ein Symbol der Klugheit und galt als Vogel des Glücks Flamingos sind eine sehr alte Vogelgruppe Den Laufvögeln Der Brustbeinkamm Die Möwen flogen kreischend davon Anders als Zugvögel führen Standvögel keine regelmäßigen saisonalen Wanderungen durch Die Zugvögel ziehen jedes Jahr nach Süden Die Vögel zwitschern im Garten"
+        {
+          "text": "Er steckt den Kopf in den Sand wie der Vogel Strauß Im Frühling bauen die Vögel Nester Der Bestand von Eisvogel hat in den letzten Jahren wieder zugenommen Die Kolibris ernähren sich vorwiegend von Blütennektar Der Specht klopft am Baumstamm Kakadus haben ein wesentlich kleineres Verbreitungsgebiet als andere Papageienfamilien Papageien und Rabenvögel gehören zu den Vögeln mit der höchsten Intelligenz Die Paradiesvögel teilen sich in zwei Unterfamilien mit sehr unterschiedlichem Aussehen In beiden Unterfamilien ist das Weibchen kleiner als das Männchen Kranich war ein Symbol der Klugheit und galt als Vogel des Glücks Flamingos sind eine sehr alte Vogelgruppe Den Laufvögeln fehlt der Brustbeinkamm Die Möwen flogen kreischend davon Anders als Zugvögel führen Standvögel keine regelmäßigen saisonalen Wanderungen durch Die Zugvögel ziehen jedes Jahr nach Süden Die Vögel zwitschern im Garten",
+          "start": 131.36,
+          "end": 241.85
+        }
       ]
     }
   ]

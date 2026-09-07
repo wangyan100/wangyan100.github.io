@@ -1,47 +1,68 @@
-Cocktails
-Gin Tonic
-Long Island Iced Tea
-Martini
-Pink Lady
-Sidecar
-Mojito
-Old Cuban
-Pina Colada
-Margarita
-Paloma
-Tequila Sunrise
-Black Russian
-Bloody Mary
-Cosmopolitan
-Moscow Mule
-Salty Dog
-Screwdriver
-Collins
-Irish Coffee
-Manhattan
-Angostura Bitter
-Grenadine
-Limettenscheibe
-Maraschino Kirsche
-Muscatnuss
-Srirup
-Sprichen Sie bitte die folgenden Sätze.
-Gin ist Hauptbestandteil
-vieler Cocktails.
-Der Long Island Iced Tea
-wird in einem langen
-Long Drink Glas serviert
-und mit Minzblättern garniert.
-Als trockener,
-herber und starkalkoholischer
-Short Drink
-zählt der Martini
-zu den Aperitifs.
-Gut herum zeichnet sich
-zu den meisten anderen Zuckerrohrbränden durch eine lange Reifung in Holzfässern aus.
-Der Old Cuban gilt als veredelte Short-Drink-Variante des beliebten Long-Drink-Klassikers Mojito.
-Der Geschmack des aus Kartoffel gewonnenen Vodkas ist gewöhnlich schwerer und süßlicher
-als der des aus Weizen destillierten Vodkas. Die Bloody Mary soll nach der englischen Königin
-Maria I. Tudor benannt worden sein. Der Moscow Mule ist ein Cocktail mit Ingwer-Geschmack und
-gehört zu den High Balls. Collins's waren bereits im 19. Jahrhundert in den Vereinigten
-Staaten sehr populär. Die Limettenscheibe ist eine übliche kleine Dekoration der Cocktails.
+[00:00:01.810 --> 00:00:03.690] Cocktails
+[00:00:04.970 --> 00:00:07.430] Gin Tonic
+[00:00:07.930 --> 00:00:10.490] Long Island Iced Tea
+[00:00:11.800 --> 00:00:13.340] Martini
+[00:00:14.680 --> 00:00:16.440] Pink Lady
+[00:00:17.850 --> 00:00:20.430] Sidecar
+[00:00:21.150 --> 00:00:22.790] Mojito
+[00:00:24.070 --> 00:00:25.910] Old Cuban
+[00:00:27.530 --> 00:00:30.170] Pina Colada
+[00:00:30.710 --> 00:00:32.330] Margarita
+[00:00:33.640 --> 00:00:35.440] Paloma
+[00:00:37.000 --> 00:00:38.900] Tequila Sunrise
+[00:00:40.180 --> 00:00:41.660] Black Russian
+[00:00:43.620 --> 00:00:45.480] Bloody Mary
+[00:00:46.720 --> 00:00:48.620] Cosmopolitan
+[00:00:49.870 --> 00:00:52.070] Moscow Mule
+[00:00:53.380 --> 00:00:55.060] Salty Dog
+[00:00:56.600 --> 00:00:58.380] Screwdriver
+[00:01:00.300 --> 00:01:01.060] Collins
+[00:01:02.380 --> 00:01:04.900] Irish Coffee
+[00:01:05.620 --> 00:01:07.180] Manhattan
+[00:01:08.460 --> 00:01:11.120] Angostura Bitter
+[00:01:12.430 --> 00:01:14.310] Grenadine
+[00:01:17.420 --> 00:01:18.120] Limettenscheibe
+[00:01:19.360 --> 00:01:21.200] Maraschino Kirsche
+[00:01:22.480 --> 00:01:24.320] Muscatnuss
+[00:01:25.570 --> 00:01:27.010] Sirup
+[00:01:32.160 --> 00:01:34.910] Sprechen Sie bitte die folgenden Sätze.
+[00:01:37.890 --> 00:01:39.120] Gin ist Hauptbestandteil
+[00:01:39.810 --> 00:01:41.050] vieler Cocktails.
+[00:01:44.190 --> 00:01:46.310] Der Long Island Iced Tea
+[00:01:46.310 --> 00:01:47.330] wird in einem
+[00:01:47.330 --> 00:01:49.090] langen Long Drink Glas
+[00:01:49.090 --> 00:01:50.510] serviert und mit
+[00:01:50.860 --> 00:01:52.070] Minzblättern garniert.
+[00:01:55.140 --> 00:01:57.500] Als trockener, herber und stark
+[00:01:57.500 --> 00:01:59.500] alkoholischer Short Drink
+[00:01:59.500 --> 00:02:00.940] zählt der Martini
+[00:02:00.940 --> 00:02:02.380] zu den Aparitifs.
+[00:02:05.590 --> 00:02:07.630] Gut herum zeichnet sich
+[00:02:07.630 --> 00:02:09.050] im Gegensatz zu den
+[00:02:09.050 --> 00:02:11.770] meisten anderen Zuckerrohrbränden
+[00:02:11.770 --> 00:02:13.390] durch eine lange Reifung
+[00:02:13.390 --> 00:02:14.910] in Holzfässern aus.
+[00:02:17.940 --> 00:02:19.220] Der Old Cuban
+[00:02:19.220 --> 00:02:21.700] gilt als veredelte Short Drink
+[00:02:21.700 --> 00:02:23.200] Variante des
+[00:02:23.200 --> 00:02:25.660] beliebten Long Drink Klassikers
+[00:02:25.660 --> 00:02:26.340] Mojito.
+[00:02:29.460 --> 00:02:31.640] Der Geschmack des aus Kartoffel
+[00:02:31.820 --> 00:02:32.980] gewonnenen Vodkas
+[00:02:32.980 --> 00:02:35.200] ist gewöhnlich schwerer
+[00:02:35.200 --> 00:02:37.400] und süßlicher als der
+[00:02:37.400 --> 00:02:39.940] des aus Weizen destillierten Vodkas.
+[00:02:42.180 --> 00:02:44.440] Die Bloody Mary
+[00:02:44.440 --> 00:02:46.140] soll nach der englischen
+[00:02:46.140 --> 00:02:48.600] Königin Maria I. Tudor
+[00:02:48.600 --> 00:02:49.940] benannt worden sein.
+[00:02:53.240 --> 00:02:54.460] Der Moscow Mule
+[00:02:54.460 --> 00:02:57.080] ist ein Cocktail mit Ingwer-Geschmack
+[00:02:57.080 --> 00:02:59.020] und gehört zu den High Balls.
+[00:03:02.300 --> 00:03:02.960] Collins's
+[00:03:02.960 --> 00:03:05.320] waren bereits im 19. Jahrhundert
+[00:03:05.460 --> 00:03:07.180] in den Vereinigten Staaten
+[00:03:07.180 --> 00:03:08.380] sehr populär.
+[00:03:11.290 --> 00:03:13.110] Die Limettenscheibe ist eine
+[00:03:13.110 --> 00:03:15.030] übliche kleine Dekoration
+[00:03:15.030 --> 00:03:16.030] der Cocktails.

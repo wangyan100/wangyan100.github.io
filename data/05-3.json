@@ -4,58 +4,242 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Post",
-        "Bindfaden",
-        "Briefumschlag",
-        "Karton",
-        "Luftpolsterfolie",
-        "Luftpolster Tasche",
-        "Tesafilm",
-        "Versandtasche",
-        "Brief",
-        "Einschreiben",
-        "Expressbrief",
-        "Luftpost",
-        "Paket",
-        "per Schiff",
-        "Standardbrief",
-        "Wertbrief",
-        "Adresse",
-        "Anschrift",
-        "Briefkasten",
-        "Briefmarke",
-        "Frankieren",
-        "Postfach",
-        "Postleitzahl",
-        "Postkarte",
-        "Porto",
-        "Stempel",
-        "versenden",
-        "Absender",
-        "aufbewahren",
-        "Boote",
-        "Briefträger",
-        "Empfänger",
-        "Sendung verfolgen",
-        "verpacken"
+        {
+          "text": "Post",
+          "start": 1.84,
+          "end": 4.12
+        },
+        {
+          "text": "Bindfaden",
+          "start": 4.12,
+          "end": 6.16
+        },
+        {
+          "text": "Briefumschlag",
+          "start": 7.44,
+          "end": 9.42
+        },
+        {
+          "text": "Karton",
+          "start": 10.73,
+          "end": 12.43
+        },
+        {
+          "text": "Luftpolsterfolie",
+          "start": 15.45,
+          "end": 16.85
+        },
+        {
+          "text": "Luftpolster Tasche",
+          "start": 17.43,
+          "end": 19.61
+        },
+        {
+          "text": "Tesafilm",
+          "start": 20.86,
+          "end": 22.6
+        },
+        {
+          "text": "Versandtasche",
+          "start": 25.57,
+          "end": 26.27
+        },
+        {
+          "text": "Brief",
+          "start": 26.97,
+          "end": 27.93
+        },
+        {
+          "text": "Einschreiben",
+          "start": 29.21,
+          "end": 30.91
+        },
+        {
+          "text": "Expressbrief",
+          "start": 33.81,
+          "end": 34.55
+        },
+        {
+          "text": "Luftpost",
+          "start": 35.21,
+          "end": 37.31
+        },
+        {
+          "text": "Paket",
+          "start": 38.56,
+          "end": 40.32
+        },
+        {
+          "text": "per Schiff",
+          "start": 41.57,
+          "end": 43.09
+        },
+        {
+          "text": "Standardbrief",
+          "start": 45.15,
+          "end": 46.29
+        },
+        {
+          "text": "Wertbrief",
+          "start": 48.43,
+          "end": 50.07
+        },
+        {
+          "text": "Adresse",
+          "start": 50.07,
+          "end": 52.79
+        },
+        {
+          "text": "Anschrift",
+          "start": 52.79,
+          "end": 54.85
+        },
+        {
+          "text": "Briefkasten",
+          "start": 56.1,
+          "end": 57.9
+        },
+        {
+          "text": "Briefmarke",
+          "start": 59.18,
+          "end": 61.0
+        },
+        {
+          "text": "Frankieren",
+          "start": 62.41,
+          "end": 63.93
+        },
+        {
+          "text": "Postfach",
+          "start": 65.21,
+          "end": 67.61
+        },
+        {
+          "text": "Postleitzahl",
+          "start": 69.55,
+          "end": 70.25
+        },
+        {
+          "text": "Postkarte",
+          "start": 71.63,
+          "end": 73.03
+        },
+        {
+          "text": "Porto",
+          "start": 74.93,
+          "end": 76.11
+        },
+        {
+          "text": "Stempel",
+          "start": 77.55,
+          "end": 78.95
+        },
+        {
+          "text": "Versenden",
+          "start": 80.86,
+          "end": 81.62
+        },
+        {
+          "text": "Absender",
+          "start": 84.57,
+          "end": 85.97
+        },
+        {
+          "text": "Aufbewahren",
+          "start": 85.97,
+          "end": 88.27
+        },
+        {
+          "text": "Boote",
+          "start": 89.71,
+          "end": 90.41
+        },
+        {
+          "text": "Briefträger",
+          "start": 92.17,
+          "end": 93.57
+        },
+        {
+          "text": "Empfänger",
+          "start": 95.42,
+          "end": 97.26
+        },
+        {
+          "text": "Sendungverfolgen",
+          "start": 97.26,
+          "end": 99.78
+        },
+        {
+          "text": "Verpacken",
+          "start": 101.12,
+          "end": 102.7
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Er gibt seiner Freundin Brief und Siegel darauf, morgen rechtzeitig anzukommen.",
-        "Diesen wichtigen Brief sollst du einschreiben lassen.",
-        "Das Paket ist gut verpackt.",
-        "Jetzt kann man die Pakete jederzeit direkt an einer Packstation versenden.",
-        "Er klebt die Briefmarke auf den Brief.",
-        "Um Zeit und Geld zu sparen, frankiert man die Post online.",
-        "Der Postbeamte berechnet das Porto mit dem Rechner.",
-        "Falls verzogen, bitte zurück an den Absender.",
-        "Bei einem offiziellen Brief gibt der Absender ganz oben seine Informationen an und schreibt darunter die Informationen des Empfängers.",
-        "Wir bewahren Briefe, Postkarten etc., die während ihrer Abwesenheit eintreffen, sicher für Sie auf.",
-        "An jedem Werktag stellen die deutschen Booten rund 59 Millionen Briefsendungen zu.",
-        "Ich verpacke das Geschenk in einen Karton."
+        {
+          "text": "Er gibt seiner Freundin Brief und Siegel darauf, morgen rechtzeitig anzukommen.",
+          "start": 112.03,
+          "end": 118.31
+        },
+        {
+          "text": "Diesen wichtigen Brief sollst du einschreiben lassen.",
+          "start": 120.55,
+          "end": 124.85
+        },
+        {
+          "text": "Das Paket ist gut verpackt.",
+          "start": 127.98,
+          "end": 130.48
+        },
+        {
+          "text": "Jetzt kann man die Pakete jederzeit direkt an einer Packstation versenden.",
+          "start": 133.11,
+          "end": 138.37
+        },
+        {
+          "text": "Er klebt die Briefmarke auf den Brief.",
+          "start": 141.48,
+          "end": 144.28
+        },
+        {
+          "text": "Um Zeit und Geld zu sparen, frankiert man die Post online.",
+          "start": 147.34,
+          "end": 151.74
+        },
+        {
+          "text": "Der Postbeamte berechnet das Porto mit dem Rechner.",
+          "start": 154.74,
+          "end": 158.9
+        },
+        {
+          "text": "Falls ein Brief verzogen, bitte zurück an den Absender.",
+          "start": 161.53,
+          "end": 165.11
+        },
+        {
+          "text": "Bei einem offiziellen Brief gibt der Absender ganz oben seine Informationen an und schreibt darunter die Informationen des Empfängers.",
+          "start": 168.22,
+          "end": 177.36
+        },
+        {
+          "text": "Wir bewahren Briefe, Postkarten etc., die während ihrer Abwesenheit eintreffen, sicher für Sie auf.",
+          "start": 180.22,
+          "end": 187.7
+        },
+        {
+          "text": "An jedem Werktag stellen die deutschen Booten rund 59 Millionen Briefsendungen zu.",
+          "start": 190.74,
+          "end": 197.22
+        },
+        {
+          "text": "Ich verpacke das Geschenk in einen Karton.",
+          "start": 200.23,
+          "end": 202.93
+        }
       ]
     }
   ]

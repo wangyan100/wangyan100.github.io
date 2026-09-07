@@ -4,64 +4,272 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Verkehrsmittel 2",
-        "Bergfahrrad",
-        "Geländefahrrad",
-        "Klingel",
-        "Lenker",
-        "Pedal",
-        "Rad",
-        "Radfahrer",
-        "Sattel",
-        "Bombenflugzeug",
-        "Charterflugzeug",
-        "Flugboot",
-        "Helikopter",
-        "Hubschrauber",
-        "Passagierflugzeug",
-        "Segelflugzeug",
-        "Transportflugzeug",
-        "Beiwagen",
-        "Drei-Redrik",
-        "Führerschein",
-        "Mofa",
-        "Mokick",
-        "Moped",
-        "Motorroller",
-        "Zwei-Redrik",
-        "Krankentrage",
-        "Notarzt",
-        "Notfall",
-        "Notfallkoffer",
-        "Notfallrucksack",
-        "Sanität",
-        "Sauerstoffflasche",
-        "Transportieren",
-        "Rakete",
-        "Raumfahrer",
-        "Raumschiff",
-        "Raumstation",
-        "Fischdampfer",
-        "Frachter",
-        "Kahn",
-        "Schlauchboot"
+        {
+          "text": "Verkehrsmittel 2",
+          "start": 1.78,
+          "end": 4.82
+        },
+        {
+          "text": "Bergfahrrad",
+          "start": 6.1,
+          "end": 7.54
+        },
+        {
+          "text": "Geländefahrrad",
+          "start": 7.72,
+          "end": 9.06
+        },
+        {
+          "text": "Klingel",
+          "start": 11.03,
+          "end": 12.19
+        },
+        {
+          "text": "Lenker",
+          "start": 13.82,
+          "end": 14.96
+        },
+        {
+          "text": "Pedal",
+          "start": 16.61,
+          "end": 17.67
+        },
+        {
+          "text": "Rad",
+          "start": 19.44,
+          "end": 19.88
+        },
+        {
+          "text": "Radfahrer",
+          "start": 22.02,
+          "end": 23.36
+        },
+        {
+          "text": "Sattel",
+          "start": 25.0,
+          "end": 26.04
+        },
+        {
+          "text": "Bombenflugzeug",
+          "start": 27.63,
+          "end": 28.99
+        },
+        {
+          "text": "Charterflugzeug",
+          "start": 30.27,
+          "end": 32.87
+        },
+        {
+          "text": "Flugboot",
+          "start": 34.66,
+          "end": 35.88
+        },
+        {
+          "text": "Helikopter",
+          "start": 37.66,
+          "end": 39.06
+        },
+        {
+          "text": "Hubschrauber",
+          "start": 40.64,
+          "end": 41.94
+        },
+        {
+          "text": "Passagierflugzeug",
+          "start": 43.88,
+          "end": 45.64
+        },
+        {
+          "text": "Segelflugzeug",
+          "start": 47.44,
+          "end": 48.74
+        },
+        {
+          "text": "Transportflugzeug",
+          "start": 51.0,
+          "end": 52.7
+        },
+        {
+          "text": "Beiwagen",
+          "start": 54.01,
+          "end": 55.87
+        },
+        {
+          "text": "Dreiradrick",
+          "start": 57.65,
+          "end": 59.05
+        },
+        {
+          "text": "Führerschein",
+          "start": 60.73,
+          "end": 62.23
+        },
+        {
+          "text": "Mofa",
+          "start": 63.73,
+          "end": 64.99
+        },
+        {
+          "text": "Mokick",
+          "start": 66.6,
+          "end": 67.62
+        },
+        {
+          "text": "Moped",
+          "start": 69.48,
+          "end": 70.08
+        },
+        {
+          "text": "Motorroller",
+          "start": 72.44,
+          "end": 73.24
+        },
+        {
+          "text": "Zweiradrick",
+          "start": 75.51,
+          "end": 76.83
+        },
+        {
+          "text": "Krankentrage",
+          "start": 78.74,
+          "end": 80.8
+        },
+        {
+          "text": "Notarzt",
+          "start": 81.98,
+          "end": 83.02
+        },
+        {
+          "text": "Notfall",
+          "start": 85.03,
+          "end": 86.35
+        },
+        {
+          "text": "Notfallkoffer",
+          "start": 87.93,
+          "end": 89.13
+        },
+        {
+          "text": "Notfallrucksack",
+          "start": 91.27,
+          "end": 92.63
+        },
+        {
+          "text": "Sanität",
+          "start": 94.69,
+          "end": 95.59
+        },
+        {
+          "text": "Sauerstoffflasche",
+          "start": 97.78,
+          "end": 99.22
+        },
+        {
+          "text": "Transportieren",
+          "start": 101.06,
+          "end": 102.92
+        },
+        {
+          "text": "Rakete",
+          "start": 104.75,
+          "end": 107.19
+        },
+        {
+          "text": "Raumfahrer",
+          "start": 107.71,
+          "end": 109.05
+        },
+        {
+          "text": "Raumschiff",
+          "start": 110.79,
+          "end": 111.85
+        },
+        {
+          "text": "Raumstation",
+          "start": 113.65,
+          "end": 114.57
+        },
+        {
+          "text": "Fischdampfer",
+          "start": 116.91,
+          "end": 118.07
+        },
+        {
+          "text": "Frachter",
+          "start": 120.1,
+          "end": 121.16
+        },
+        {
+          "text": "Kahn",
+          "start": 122.96,
+          "end": 123.66
+        },
+        {
+          "text": "Schlauchboot",
+          "start": 125.61,
+          "end": 126.77
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "In der Werbungssprache werden Mountainbikes öfter als Geländefahrräder verwendet.",
-        "Beim Radfahren kann man mit dem Lenker die Richtung bestimmen.",
-        "Eines der Pedale meines Fahrrads ist kaputt und muss repariert werden.",
-        "Laut einer großen Umfrage fühlen sich Radfahrer in Deutschland beim Fahren immer unsicherer.",
-        "Ein Führerschein ist zum Autofahren erforderlich.",
-        "Die Feuerwehr nutzte ein Leitergerüst und einen Flaschenzug, um den Mann auf einer Krankentrage nach unten zu bringen.",
-        "In dem Erste-Hilfe-Kurs lernt man, wie man mit Notfällen umgeht.",
-        "Die Raumfahrtbehörde wird nächsten Monat eine Rakete starten.",
-        "Die Raumfahrer befinden sich in einem schwere, losen Zustand.",
-        "Der Schlepper hat am Montag den im Boden gebliebenen Fischdampfer in tiefes Wasser gezogen.",
-        "Er pumpt sein Schlauchboot auf, setzt sich hinein und rudert los."
+        {
+          "text": "In der Werbungssprache werden Mountainbikes öfter als Geländefahrräder verwendet.",
+          "start": 137.23,
+          "end": 143.13
+        },
+        {
+          "text": "Beim Radfahren kann man mit dem Lenker die Richtung bestimmen.",
+          "start": 145.5,
+          "end": 149.8
+        },
+        {
+          "text": "Eines der Pedale meines Fahrrads ist kaputt und muss repariert werden.",
+          "start": 152.46,
+          "end": 157.18
+        },
+        {
+          "text": "Laut einer großen Umfrage fühlen sich Radfahrer in Deutschland beim Fahren immer unsicherer.",
+          "start": 160.32,
+          "end": 166.82
+        },
+        {
+          "text": "Ein Führerschein ist zum Autofahren erforderlich.",
+          "start": 169.83,
+          "end": 173.01
+        },
+        {
+          "text": "Die Feuerwehr nutzte ein Leitergerüst und einen Flaschenzug, um den Mann auf einer Krankentrage nach unten zu bringen.",
+          "start": 175.98,
+          "end": 183.8
+        },
+        {
+          "text": "In dem Erste-Hilfe-Kurs lernt man, wie man mit Notfällen umgeht.",
+          "start": 186.69,
+          "end": 191.46
+        },
+        {
+          "text": "Die Raumfahrtbehörde wird nächsten Monat eine Rakete starten.",
+          "start": 194.56,
+          "end": 198.86
+        },
+        {
+          "text": "Die Raumfahrer befinden sich in einem schwere, losen Zustand.",
+          "start": 201.8,
+          "end": 205.84
+        },
+        {
+          "text": "Der Schlepper hat am Montag den im Boden gebliebenen Fischdampfer in tiefes Wasser gezogen.",
+          "start": 208.85,
+          "end": 215.11
+        },
+        {
+          "text": "Er pumpt sein Schlauchboot auf, setzt sich hinein und rudert los.",
+          "start": 218.17,
+          "end": 222.91
+        }
       ]
     }
   ]

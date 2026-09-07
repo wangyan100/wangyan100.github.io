@@ -4,60 +4,267 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Ehescheidung",
-        "alkoholsüchtig",
-        "anbrüllen",
-        "Drogensucht",
-        "Entfremdung",
-        "Familiengewalt",
-        "Gewalttätigkeit",
-        "jemandem die kalte Schulter zeigen",
-        "misshandeln",
-        "die außereheliche Liebesbeziehung",
-        "betrogen",
-        "betrügen",
-        "dritte",
-        "dritter",
-        "Ehebruch",
-        "Fremdgehen",
-        "Lügen",
-        "Seitensprung",
-        "auseinanderleben",
-        "Eheleute getrennt",
-        "getrennt leben",
-        "scheitern",
-        "zerrütten",
-        "beenden",
-        "beendigen",
-        "Ehelösung einreichen",
-        "einvernehmlich scheiden",
-        "Scheidungsantrag",
-        "sich entscheiden",
-        "Exfrau",
-        "Ex-Mann",
-        "Scheidungsrecht",
-        "Unterhalt",
-        "Vormund",
-        "Wiederheirat"
+        {
+          "text": "Ehescheidung",
+          "start": 1.71,
+          "end": 3.77
+        },
+        {
+          "text": "alkoholsüchtig",
+          "start": 5.56,
+          "end": 7.16
+        },
+        {
+          "text": "anbrüllen",
+          "start": 8.74,
+          "end": 9.96
+        },
+        {
+          "text": "Drogensucht",
+          "start": 11.72,
+          "end": 13.44
+        },
+        {
+          "text": "Entfremdung",
+          "start": 14.98,
+          "end": 16.38
+        },
+        {
+          "text": "Familiengewalt",
+          "start": 18.2,
+          "end": 19.52
+        },
+        {
+          "text": "Gewalttätigkeit",
+          "start": 21.36,
+          "end": 23.06
+        },
+        {
+          "text": "jemandem die kalte Schulter zeigen",
+          "start": 25.07,
+          "end": 27.13
+        },
+        {
+          "text": "misshandeln",
+          "start": 29.4,
+          "end": 30.3
+        },
+        {
+          "text": "die außereheliche Liebesbeziehung",
+          "start": 32.36,
+          "end": 36.34
+        },
+        {
+          "text": "betrogen",
+          "start": 36.34,
+          "end": 38.18
+        },
+        {
+          "text": "betrügen",
+          "start": 39.62,
+          "end": 41.04
+        },
+        {
+          "text": "dritte",
+          "start": 42.36,
+          "end": 43.7
+        },
+        {
+          "text": "dritter",
+          "start": 45.14,
+          "end": 46.18
+        },
+        {
+          "text": "Ehebruch",
+          "start": 47.9,
+          "end": 48.94
+        },
+        {
+          "text": "Fremdgehen",
+          "start": 50.84,
+          "end": 52.86
+        },
+        {
+          "text": "lügen",
+          "start": 52.86,
+          "end": 54.7
+        },
+        {
+          "text": "Seitensprung",
+          "start": 56.69,
+          "end": 58.95
+        },
+        {
+          "text": "Auseinanderleben",
+          "start": 59.57,
+          "end": 60.99
+        },
+        {
+          "text": "Eheleute",
+          "start": 62.9,
+          "end": 65.34
+        },
+        {
+          "text": "getrennt",
+          "start": 67.2,
+          "end": 68.6
+        },
+        {
+          "text": "getrenntleben",
+          "start": 68.88,
+          "end": 69.9
+        },
+        {
+          "text": "scheitern",
+          "start": 72.12,
+          "end": 73.2
+        },
+        {
+          "text": "zerrütten",
+          "start": 74.87,
+          "end": 75.99
+        },
+        {
+          "text": "beenden",
+          "start": 77.67,
+          "end": 78.45
+        },
+        {
+          "text": "beendigen",
+          "start": 80.45,
+          "end": 82.45
+        },
+        {
+          "text": "Ehe-Lösung",
+          "start": 82.45,
+          "end": 85.65
+        },
+        {
+          "text": "einreichen",
+          "start": 85.65,
+          "end": 87.25
+        },
+        {
+          "text": "einvernehmlich",
+          "start": 89.2,
+          "end": 90.8
+        },
+        {
+          "text": "scheiden",
+          "start": 92.5,
+          "end": 93.32
+        },
+        {
+          "text": "Scheidungsantrag",
+          "start": 95.34,
+          "end": 96.88
+        },
+        {
+          "text": "sich entscheiden",
+          "start": 98.74,
+          "end": 99.72
+        },
+        {
+          "text": "Exfrau",
+          "start": 102.2,
+          "end": 103.16
+        },
+        {
+          "text": "Ex-Mann",
+          "start": 104.82,
+          "end": 105.94
+        },
+        {
+          "text": "Scheidungsrecht",
+          "start": 107.58,
+          "end": 108.86
+        },
+        {
+          "text": "Unterhalt",
+          "start": 110.94,
+          "end": 112.0
+        },
+        {
+          "text": "Vormund",
+          "start": 113.92,
+          "end": 115.18
+        },
+        {
+          "text": "Wiederheirat",
+          "start": 116.88,
+          "end": 117.52
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Für alkoholsüchtige Menschen besteht es ein starker Wunsch oder Zwang, Alkohol zu trinken.",
-        "Familiengewalt betrifft nicht nur Frauen, sondern auch Männer.",
-        "Er misshandelt seinen Sohn durch Körperstrafe.",
-        "Fremdgehen ist zwar immer ein Betrug an einer Person, doch dahinter steckt nicht selten eine komplexere Geschichte.",
-        "Jede Trennung der Eltern ist schlimm für ein Kind, ob die Eltern verheiratet waren oder nicht.",
-        "Viele Eheleute glauben, die Trennung muss irgendwie aktenkundig gemacht werden.",
-        "Beide Ehegatten halten ihre Ehe für gescheitert.",
-        "Die dauernden Streitigkeiten haben ihre Ehe zerrüttet.",
-        "Zu Beginn der 1990er Jahre sind mehr als 80% der Scheidungen innerhalb der ersten 15 Ehejahre vollzogen worden.",
-        "Der Mann war zum Zeitpunkt der Ehe-Lösung bereits mehr als 80 Jahre alt.",
-        "In Deutschland wurde die Mehrheit der Scheidungen von Frauen eingereicht.",
-        "Ich bin der Meinung, dass bei einem einvernehmlichen Scheidungsverfahren die Scheidungskosten unangemessen hoch sind.",
-        "Wegen der Wiederheirat wurde der katholische Chefarzt eines katholischen Krankenhauses entlassen."
+        {
+          "text": "Für alkoholsüchtige Menschen besteht es ein starker Wunsch oder Zwang, Alkohol zu trinken.",
+          "start": 127.92,
+          "end": 135.42
+        },
+        {
+          "text": "Familiengewalt betrifft nicht nur Frauen, sondern auch Männer.",
+          "start": 138.46,
+          "end": 142.36
+        },
+        {
+          "text": "Er misshandelt seinen Sohn durch Körperstrafe.",
+          "start": 145.54,
+          "end": 148.6
+        },
+        {
+          "text": "Fremdgehen ist zwar immer ein Betrug an einer Person, doch dahinter steckt nicht selten eine komplexere Geschichte.",
+          "start": 151.84,
+          "end": 159.34
+        },
+        {
+          "text": "Jede Trennung der Eltern ist schlimm für ein Kind, ob die Eltern verheiratet waren oder nicht.",
+          "start": 162.62,
+          "end": 168.84
+        },
+        {
+          "text": "Viele Eheleute glauben, die Trennung muss irgendwie aktenkundig gemacht werden.",
+          "start": 172.05,
+          "end": 177.37
+        },
+        {
+          "text": "Beide Ehegatten halten ihre Ehe für gescheitert.",
+          "start": 180.52,
+          "end": 183.74
+        },
+        {
+          "text": "Die dauernden Streitigkeiten haben ihre Ehe zerrüttet.",
+          "start": 185.98,
+          "end": 190.46
+        },
+        {
+          "text": "Zu Beginn der 1990er Jahre sind mehr als 80% der Scheidungen innerhalb der ersten 15 Ehejahre vollzogen worden.",
+          "start": 193.57,
+          "end": 202.37
+        },
+        {
+          "text": "Der Mann war zum Zeitpunkt der Ehe-Lösung bereits mehr als 80 Jahre alt.",
+          "start": 202.37,
+          "end": 210.81
+        },
+        {
+          "text": "In Deutschland wurde die Mehrheit der Scheidungen von Frauen eingereicht.",
+          "start": 210.81,
+          "end": 218.0
+        },
+        {
+          "text": "Ich bin der Meinung, dass bei einem einvernehmlichen Scheidungsverfahren die Scheidungskosten unangemessen hoch sind.",
+          "start": 218.0,
+          "end": 228.86
+        },
+        {
+          "text": "Wegen der Wiederheirat wurde der katholische Chefarzt eines katholischen Krankenhauses entlassen.",
+          "start": 228.86,
+          "end": 237.89
+        }
       ]
     }
   ]

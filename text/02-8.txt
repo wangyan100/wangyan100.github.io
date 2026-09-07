@@ -1,24 +1,15 @@
-Beschreibung bitter, herb, mild, schwach, stark, süffig, vollmundig, süß
-weich, dunkel, farblos, hell, klar
-destillieren, erhitzen, filtern, lagern
-rühren, schroten, vergehren, vermischen
-ausschenken, ausgießen, austrinken, einschenken
-in kleinen Schlucken, mit kleinen Schlucken
-in großen Zügen, saufen, trinken, zechen
-Sprechen Sie bitte die folgenden Sätze
-Was bitter dem Mund ist dem Magen gesund.
-Dieser Wein ist um eine Nuance herber.
-Das Gericht ist mild gewürzt.
-Die Speise schmeckt süß.
-Nachdem Sie die Stoffe vermischt haben,
-erhitzen Sie sie auf 70 Grad und warten die chemische Reaktion ab.
-Weinbrand soll in alten Holzfässern lagern.
-Der Koch gibt Milch, Eier und Mehl in eine Schüssel und rührt sie kräftig.
-Der Saft ist zu Most vergoren.
-Er hilft seiner Mutter, den Wein auszuschenken.
-Darf ich Ihnen noch eine Tasse Tee einschenken?
-Er trinkt mit kleinen Schlucken das heiße Wasser.
-Er hat ein Glas Wein in großen Zügen ausgetrunken.
-Weißt du was? Der alte Schmidt säuft.
-Gestern habe ich zu viel getrunken.
-Die ganze Nacht hindurch zechten wir in der Bar.
+[00:00:01.810 --> 00:00:27.460] Beschreibung bitter, herb, mild, schwach, stark, süffig, vollmundig, süß
+[00:00:27.460 --> 00:00:39.850] weich, dunkel, farblos, hell, klar
+[00:00:41.190 --> 00:00:52.810] destillieren, erhitzen, filtern, lagern
+[00:00:52.810 --> 00:01:16.370] rühren, schroten, vergehren, vermischen, ausschenken, ausgießen, austrinken, einschenken
+[00:01:17.650 --> 00:01:22.710] in kleinen Schlucken, mit kleinen Schlucken
+[00:01:23.590 --> 00:01:34.610] in großen Zügen, saufen, trinken, zechen
+[00:01:39.190 --> 00:01:48.620] Sprechen Sie bitte die folgenden Sätze. Was bitter dem Mund ist dem Magen gesund.
+[00:01:51.710 --> 00:02:00.160] Dieser Wein ist um eine Nuance herber. Das Gericht ist mild gewürzt.
+[00:02:03.200 --> 00:02:10.820] Die Speise schmeckt süß. Nachdem Sie die Stoffe vermischt haben,
+[00:02:11.420 --> 00:02:16.620] erhitzen Sie sie auf 70 Grad und warten die chemische Reaktion ab.
+[00:02:19.180 --> 00:02:31.580] Weinbrand soll in alten Holzfässern lagern. Der Koch gibt Milch, Eier und Mehl in eine Schüssel und rührt sie kräftig.
+[00:02:34.650 --> 00:02:43.840] Der Saft ist zu Most vergoren. Er hilft seiner Mutter, den Wein auszuschenken.
+[00:02:46.770 --> 00:02:55.680] Darf ich Ihnen noch eine Tasse Tee einschenken? Er trinkt mit kleinen Schlucken das heiße Wasser.
+[00:02:55.680 --> 00:03:08.960] Er hat ein Glas Wein in großen Zügen ausgetrunken. Weißt du was? Der alte Schmidt säuft.
+[00:03:11.880 --> 00:03:20.250] Gestern habe ich zu viel getrunken. Die ganze Nacht hindurch zechten wir in der Bar.

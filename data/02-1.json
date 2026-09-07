@@ -4,60 +4,252 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Spiritusen",
-        "Armaniak",
-        "Brandy",
-        "Weinbrand",
-        "Cognac",
-        "Grappa",
-        "Cognac",
-        "Treber",
-        "Apfelbrand",
-        "Birnenbrand",
-        "Kirschwasser",
-        "Marillenbrand",
-        "Schlehenschnaps",
-        "Vogelbeerbrand",
-        "Zuckerrohrbrand",
-        "Zwetschgen-Schnaps",
-        "Brombeergeist",
-        "Hagebuttengeist",
-        "Himbeergeist",
-        "Hollunderbeergeist",
-        "Johannesbeerwein",
-        "Korn",
-        "Sake",
-        "Reiswein",
-        "Amaretto-Likör",
-        "Ararula-Likör",
-        "Eierlikör",
-        "Creme de cassis-Likör",
-        "Galliano-Likör",
-        "Absinthe",
-        "Vermut",
-        "Arac",
-        "Enzian",
-        "Magenbitter",
-        "Raki",
-        "Schnaps"
+        {
+          "text": "Spiritusen",
+          "start": 2.16,
+          "end": 4.34
+        },
+        {
+          "text": "Armaniak",
+          "start": 5.68,
+          "end": 7.06
+        },
+        {
+          "text": "Brandy",
+          "start": 10.0,
+          "end": 11.4
+        },
+        {
+          "text": "Weinbrand",
+          "start": 11.4,
+          "end": 12.56
+        },
+        {
+          "text": "Cognac",
+          "start": 14.42,
+          "end": 15.74
+        },
+        {
+          "text": "Grappa",
+          "start": 17.28,
+          "end": 18.58
+        },
+        {
+          "text": "Cognac",
+          "start": 14.42,
+          "end": 15.74
+        },
+        {
+          "text": "Treber",
+          "start": 22.96,
+          "end": 24.4
+        },
+        {
+          "text": "Apfelbrand",
+          "start": 25.65,
+          "end": 26.99
+        },
+        {
+          "text": "Birnenbrand",
+          "start": 28.24,
+          "end": 30.08
+        },
+        {
+          "text": "Kirschwasser",
+          "start": 31.33,
+          "end": 33.33
+        },
+        {
+          "text": "Marillenbrand",
+          "start": 34.58,
+          "end": 36.7
+        },
+        {
+          "text": "Schlehenschnaps",
+          "start": 38.1,
+          "end": 39.92
+        },
+        {
+          "text": "Vogelbeerbrand",
+          "start": 41.36,
+          "end": 43.76
+        },
+        {
+          "text": "Zuckerrohrbrand",
+          "start": 45.38,
+          "end": 46.78
+        },
+        {
+          "text": "Zwetschgen-Schnaps",
+          "start": 48.13,
+          "end": 50.45
+        },
+        {
+          "text": "Brombeergeist",
+          "start": 52.47,
+          "end": 53.87
+        },
+        {
+          "text": "Hagebuttengeist",
+          "start": 57.16,
+          "end": 58.56
+        },
+        {
+          "text": "Himbeergeist",
+          "start": 58.56,
+          "end": 60.74
+        },
+        {
+          "text": "Hollunderbeergeist",
+          "start": 64.28,
+          "end": 65.68
+        },
+        {
+          "text": "Johannesbeerwein",
+          "start": 65.68,
+          "end": 67.92
+        },
+        {
+          "text": "Korn",
+          "start": 69.33,
+          "end": 70.55
+        },
+        {
+          "text": "Sake",
+          "start": 71.92,
+          "end": 73.38
+        },
+        {
+          "text": "Reiswein",
+          "start": 74.63,
+          "end": 76.77
+        },
+        {
+          "text": "Amaretto-Likör",
+          "start": 77.31,
+          "end": 79.81
+        },
+        {
+          "text": "Ararula-Likör",
+          "start": 81.12,
+          "end": 83.5
+        },
+        {
+          "text": "Eierlikör",
+          "start": 84.88,
+          "end": 86.6
+        },
+        {
+          "text": "Creme de cassis-Likör",
+          "start": 88.04,
+          "end": 90.18
+        },
+        {
+          "text": "Galliano-Likör",
+          "start": 92.03,
+          "end": 93.67
+        },
+        {
+          "text": "Absinthe",
+          "start": 97.26,
+          "end": 98.42
+        },
+        {
+          "text": "Vermut",
+          "start": 98.42,
+          "end": 100.1
+        },
+        {
+          "text": "Arak",
+          "start": 101.38,
+          "end": 102.3
+        },
+        {
+          "text": "Enzian",
+          "start": 105.85,
+          "end": 106.47
+        },
+        {
+          "text": "Magenbitter",
+          "start": 107.89,
+          "end": 108.47
+        },
+        {
+          "text": "Raki",
+          "start": 110.33,
+          "end": 111.47
+        },
+        {
+          "text": "Schnaps",
+          "start": 49.43,
+          "end": 50.45
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Wenn Oscar zum Dessert den Brandy aus dem Schrank holt, sind die Gäste glücklich.",
-        "Der Mindestalkoholgehalt von deutscher Weinbrand ist 38%.",
-        "Cognac darf seinen Namen nur tragen, wenn er aus der gleichnamigen Region im Südwesten Frankreichs stammt.",
-        "Grappa ist ein Tristerbrand, der aus Italien oder der italienischen Schweiz stammt.",
-        "Einen alkoholischen Brand kann man in Kornbrand oder Obstbrand unterscheiden.",
-        "Vogelbeerbrand haben einen fruchtigen Geschmack.",
-        "Im Gegensatz zum Obstbrand werden für den Obstgeist Früchte mit geringem Zuckeranteil verwendet.",
-        "Sake enthält 15 oder mehr Volumenprozent Alkohol und wird heiß oder kalt serviert.",
-        "Es ist alles andere als einfach, in Deutschland eine Erlaubnis zum Brennen von hochprozentigen Obstlern oder Likören zu erhalten.",
-        "Vermut wird normalerweise als Aperitif getrunken.",
-        "Enzian wird aus der Wurzel des gelben Enzians gebrannt.",
-        "Raki ist ein türkischer Brandwein und wird in der Regel beim Genuss mit Wasser verdünnt."
+        {
+          "text": "Wenn Oscar zum Dessert den Brandy aus dem Schrank holt, sind die Gäste glücklich.",
+          "start": 124.2,
+          "end": 130.08
+        },
+        {
+          "text": "Der Mindestalkoholgehalt von deutscher Weinbrand ist 38%.",
+          "start": 132.36,
+          "end": 139.64
+        },
+        {
+          "text": "Cognac darf seinen Namen nur tragen, wenn er aus der gleichnamigen Region im Südwesten Frankreichs stammt.",
+          "start": 142.1,
+          "end": 150.24
+        },
+        {
+          "text": "Grappa ist ein Tristerbrand, der aus Italien oder der italienischen Schweiz stammt.",
+          "start": 153.02,
+          "end": 159.28
+        },
+        {
+          "text": "Einen alkoholischen Brand kann man in Kornbrand oder Obstbrand unterscheiden.",
+          "start": 161.97,
+          "end": 167.53
+        },
+        {
+          "text": "Vogelbärbrand haben einen fruchtigen Geschmack.",
+          "start": 169.9,
+          "end": 174.8
+        },
+        {
+          "text": "Im Gegensatz zum Obstbrand werden für den Obstgeist Früchte mit geringem Zuckeranteil verwendet.",
+          "start": 177.47,
+          "end": 185.31
+        },
+        {
+          "text": "Sake enthält 15 oder mehr Volumenprozent Alkohol und wird heiß oder kalt serviert.",
+          "start": 188.07,
+          "end": 195.33
+        },
+        {
+          "text": "Es ist alles andere als einfach, in Deutschland eine Erlaubnis zum Brennen von hochprozentigen Obstlern oder Likören zu erhalten.",
+          "start": 197.63,
+          "end": 207.35
+        },
+        {
+          "text": "Vermut wird normalerweise als Aperitif getrunken.",
+          "start": 210.69,
+          "end": 214.05
+        },
+        {
+          "text": "Enzian wird aus der Wurzel des gelben Enzians gebrannt.",
+          "start": 217.39,
+          "end": 221.89
+        },
+        {
+          "text": "Raki ist ein türkischer Brandwein und wird in der Regel beim Genuss mit Wasser verdünnt.",
+          "start": 225.09,
+          "end": 231.03
+        }
       ]
     }
   ]

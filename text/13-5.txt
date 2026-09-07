@@ -1,38 +1,39 @@
-Familienangehörige elternlos
-weise Elternteil
-Mutter Mutti
-Mama Vater
-Vati Papa
-Stiefmutter Stiefvater
-Enkel Enkelin
-Enkelkind Großmutter
-Großvater Urgroßeltern
-Urgroßmutter Urgroßvater
-Bruder Brüderchen
-Geschwister Schwester
-Stiefsohn Stieftochter
-Sohn Tochter
-Blutverwandte
-Blutverwandter Cousine
-Neffe Nichte
-Onkel Tante
-Vetter Cousin
-adoptieren Adoptivkind
-Pflegemutter Pflegevater
-Pflegeeltern Schwiegervater
-Schwiegermutter Sprechen Sie bitte die folgenden Sätze
-Seine Eltern und eine Tante starben in Konzentrationslagern.
-Die Kinder hängen der Mutter immer am Rockzipfel.
-Tag der Väter wird als Pendant zum Muttertag gesehen
-und hat sich erst später etabliert.
-Das Motiv der Stiefmutter wird in Märchen häufig verwendet.
-Die Großmütter verbringen fast ihre gesamte Zeit mit den Enkeln.
-Sie hatte den Großvater sehr gerne und war stolz auf ihn.
-Wie hat sich die sportliche Mode seit der Zeit unserer Urgroßeltern bis in die Gegenwart entwickelt?
-Zuvor spielte er gern Fußball wie sein älterer Bruder.
-Sehr herzlich grüße ich alle Brüder und Schwestern aus dem deutschen Sprachraum.
-Die Polizei fahndet nach einem Mann, der seinen achtjährigen Stiefsohn schwer misshandelt haben soll.
-Busches Tochter heiratet Anfang Mai.
-Die Neffen sind Söhne von eigenen Geschwisterteilen.
-Nach den eigenen Zwillingen möchte die Schauspielerin weder einen Sohn oder ein Töchterchen adoptieren.
-Ich bin bei Pflegeeltern aufgewachsen.
+[00:00:02.060 --> 00:00:08.430] Familienangehörige elternlos
+[00:00:11.790 --> 00:00:14.590] weise Elternteil
+[00:00:14.590 --> 00:00:20.070] Mutter Mutti
+[00:00:20.070 --> 00:00:24.100] Mama Vater
+[00:00:25.540 --> 00:00:29.510] Vati Papa
+[00:00:30.950 --> 00:00:36.260] Stiefmutter Stiefvater
+[00:00:37.540 --> 00:00:41.200] Enkel Enkelin
+[00:00:42.440 --> 00:00:47.760] Enkelkind Großmutter
+[00:00:49.040 --> 00:00:54.280] Großvater Urgroßeltern
+[00:00:55.590 --> 00:01:01.150] Urgroßmutter Urgroßvater
+[00:01:02.430 --> 00:01:07.030] Bruder Brüderchen
+[00:01:08.310 --> 00:01:12.620] Geschwister Schwester
+[00:01:14.090 --> 00:01:18.890] Stiefsohn Stieftochter
+[00:01:20.200 --> 00:01:24.500] Sohn Tochter
+[00:01:27.380 --> 00:01:28.780] Blutverwandte
+[00:01:28.780 --> 00:01:33.770] Blutverwandter Cousine
+[00:01:35.020 --> 00:01:38.960] Neffe Nichte
+[00:01:40.270 --> 00:01:44.400] Onkel Tante
+[00:01:45.810 --> 00:01:51.360] Vetter Cousin
+[00:01:51.360 --> 00:01:56.370] adoptieren Adoptivkind
+[00:01:57.740 --> 00:02:03.110] Pflegemutter Pflegevater
+[00:02:04.550 --> 00:02:09.970] Pflegeeltern Schwiegervater
+[00:02:12.280 --> 00:02:13.160] Schwiegermutter
+[00:02:17.700 --> 00:02:20.620] Sprechen Sie bitte die folgenden Sätze.
+[00:02:23.600 --> 00:02:28.200] Seine Eltern und eine Tante starben in Konzentrationslagern.
+[00:02:31.180 --> 00:02:34.320] Die Kinder hängen der Mutter immer am Rockzipfel.
+[00:02:37.310 --> 00:02:41.290] Tag der Väter wird als Pendant zum Muttertag gesehen
+[00:02:41.290 --> 00:02:44.150] und hat sich erst später etabliert.
+[00:02:47.120 --> 00:02:51.680] Das Motiv der Stiefmutter wird in Märchen häufig verwendet.
+[00:02:53.980 --> 00:02:59.020] Die Großmütter verbringen fast ihre gesamte Zeit mit den Enkeln.
+[00:03:02.100 --> 00:03:05.840] Sie hatte den Großvater sehr gerne und war stolz auf ihn.
+[00:03:08.860 --> 00:03:15.280] Wie hat sich die sportliche Mode seit der Zeit unserer Urgroßeltern bis in die Gegenwart entwickelt?
+[00:03:18.520 --> 00:03:22.200] Zuvor spielte er gern Fußball wie sein älterer Bruder.
+[00:03:25.310 --> 00:03:30.310] Sehr herzlich grüße ich alle Brüder und Schwestern aus dem deutschen Sprachraum.
+[00:03:33.130 --> 00:03:40.270] Die Polizei fahndet nach einem Mann, der seinen achtjährigen Stiefsohn schwer misshandelt haben soll.
+[00:03:43.440 --> 00:03:46.140] Busches Tochter heiratet Anfang Mai.
+[00:03:49.220 --> 00:03:52.860] Die Neffen sind Söhne von eigenen Geschwisterteilen.
+[00:03:55.900 --> 00:04:02.400] Nach den eigenen Zwillingen möchte die Schauspielerin weder einen Sohn oder ein Töchterchen adoptieren.
+[00:04:05.440 --> 00:04:08.120] Ich bin bei Pflegeeltern aufgewachsen.

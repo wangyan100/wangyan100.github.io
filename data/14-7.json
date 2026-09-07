@@ -4,72 +4,312 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Haarschnitt",
-        "Fliege",
-        "Knebelbart",
-        "Schnauze",
-        "Schnurrbart",
-        "Stoppel",
-        "Stutzbart",
-        "Vollbart",
-        "Ziegenbart",
-        "Bubikopf",
-        "Glatze",
-        "Igelkopf",
-        "Locker",
-        "Scheitel",
-        "Mittelscheitel",
-        "Pagenkopf",
-        "Pony",
-        "Seitenscheitel",
-        "der verstellbare Frisierstuhl",
-        "Friseur",
-        "Friseuse",
-        "Frisierkittel",
-        "Frisierumhang",
-        "Handdusche",
-        "Meisterbrief",
-        "Serviceplateau",
-        "Brennschere",
-        "Effilierschere",
-        "Glätteisen",
-        "Haarbürste",
-        "Haarschneider",
-        "Lockenklammer",
-        "Lockenwickler",
-        "Nackenpinsel",
-        "Antiverlust",
-        "Haarkur",
-        "Haarlack",
-        "Haarspray",
-        "Haaröl",
-        "Lockencreme",
-        "Schaumfestiger",
-        "Schuppe",
-        "Wachs"
+        {
+          "text": "Haarschnitt",
+          "start": 1.78,
+          "end": 3.5
+        },
+        {
+          "text": "Fliege",
+          "start": 4.9,
+          "end": 6.42
+        },
+        {
+          "text": "Knebelbart",
+          "start": 7.8,
+          "end": 9.16
+        },
+        {
+          "text": "Schnauze",
+          "start": 11.25,
+          "end": 12.57
+        },
+        {
+          "text": "Schnurrbart",
+          "start": 13.94,
+          "end": 15.52
+        },
+        {
+          "text": "Stoppel",
+          "start": 16.96,
+          "end": 18.34
+        },
+        {
+          "text": "Stutzbart",
+          "start": 19.75,
+          "end": 21.21
+        },
+        {
+          "text": "Vollbart",
+          "start": 22.56,
+          "end": 24.16
+        },
+        {
+          "text": "Ziegenbart",
+          "start": 25.5,
+          "end": 27.42
+        },
+        {
+          "text": "Bubikopf",
+          "start": 28.67,
+          "end": 30.37
+        },
+        {
+          "text": "Glatze",
+          "start": 31.71,
+          "end": 34.45
+        },
+        {
+          "text": "Igelkopf",
+          "start": 34.45,
+          "end": 36.13
+        },
+        {
+          "text": "Locker",
+          "start": 37.64,
+          "end": 39.1
+        },
+        {
+          "text": "Scheitel",
+          "start": 40.47,
+          "end": 42.69
+        },
+        {
+          "text": "Mittelscheitel",
+          "start": 42.69,
+          "end": 44.59
+        },
+        {
+          "text": "Pagenkopf",
+          "start": 46.54,
+          "end": 48.04
+        },
+        {
+          "text": "Pony",
+          "start": 49.64,
+          "end": 51.64
+        },
+        {
+          "text": "Seitenscheitel",
+          "start": 52.26,
+          "end": 53.64
+        },
+        {
+          "text": "der verstellbare Frisierstuhl",
+          "start": 55.57,
+          "end": 57.93
+        },
+        {
+          "text": "Friseur",
+          "start": 60.25,
+          "end": 61.61
+        },
+        {
+          "text": "Friseuse",
+          "start": 62.96,
+          "end": 64.58
+        },
+        {
+          "text": "Frisierkittel",
+          "start": 65.98,
+          "end": 67.7
+        },
+        {
+          "text": "Frisierumhang",
+          "start": 69.08,
+          "end": 71.3
+        },
+        {
+          "text": "Handdusche",
+          "start": 72.58,
+          "end": 74.78
+        },
+        {
+          "text": "Meisterbrief",
+          "start": 76.26,
+          "end": 76.96
+        },
+        {
+          "text": "Serviceplateau",
+          "start": 79.82,
+          "end": 80.52
+        },
+        {
+          "text": "Brennschere",
+          "start": 82.5,
+          "end": 83.34
+        },
+        {
+          "text": "Effilierschere",
+          "start": 86.22,
+          "end": 86.92
+        },
+        {
+          "text": "Glätteisen",
+          "start": 88.87,
+          "end": 89.87
+        },
+        {
+          "text": "Haarbürste",
+          "start": 91.84,
+          "end": 93.48
+        },
+        {
+          "text": "Haarschneider",
+          "start": 94.79,
+          "end": 97.17
+        },
+        {
+          "text": "Lockenklammer",
+          "start": 98.42,
+          "end": 100.52
+        },
+        {
+          "text": "Lockenwickler",
+          "start": 103.19,
+          "end": 103.89
+        },
+        {
+          "text": "Nackenpinsel",
+          "start": 105.45,
+          "end": 106.85
+        },
+        {
+          "text": "Antiverlust",
+          "start": 108.1,
+          "end": 108.8
+        },
+        {
+          "text": "Haarkur",
+          "start": 111.57,
+          "end": 112.27
+        },
+        {
+          "text": "Haarlack",
+          "start": 114.31,
+          "end": 115.65
+        },
+        {
+          "text": "Haarspray",
+          "start": 117.25,
+          "end": 118.87
+        },
+        {
+          "text": "Haaröl",
+          "start": 120.25,
+          "end": 122.51
+        },
+        {
+          "text": "Lockencreme",
+          "start": 122.51,
+          "end": 124.49
+        },
+        {
+          "text": "Schaumfestiger",
+          "start": 125.96,
+          "end": 127.9
+        },
+        {
+          "text": "Schuppe",
+          "start": 129.31,
+          "end": 131.05
+        },
+        {
+          "text": "Wachs",
+          "start": 131.99,
+          "end": 133.41
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Knebelbart war gegen Ende des 16.",
-        "Jahrhunderts bis zur Mitte des 17.",
-        "Jahrhunderts weit verbreitet.",
-        "Mein Mann hat einen Vollbart, der die Hälfte des Gesichts verdeckt.",
-        "Er leidet an extremem Haarausfall und hat sich deshalb eine Glatze rasieren lassen.",
-        "Unsere Tochter hat hübsche Locken, während unser Sohn glattes Haar hat.",
-        "Sie trägt den Scheitel in der linken Seite.",
-        "Tina lässt sich einen Pony schneiden.",
-        "Gehst du auch immer zum selben Friseur?",
-        "Die Ausbildung zum Friseur in Deutschland dauert drei Jahre.",
-        "In Deutschland war der Meisterbrief als zwingende Voraussetzung, einen Handwerksbetrieb führen zu dürfen.",
-        "Brennschere findet in der Friseurtechnik keine Anwendung mehr.",
-        "Lockenwickler dienen dazu, glatte oder schwach gelockte Haare aufzuwickeln.",
-        "Da meine Haare schwer strapaziert werden, benutze ich einmal in der Woche eine Haarkur.",
-        "Für die Haarpflege gibt es im Supermarkt wohl so viele Produkte.",
-        "Shampoos, Haarkuren, Gel, Wachs und Haarwasser.",
-        "Eine trockene Kopfhaut, die juckt, bringt häufig weiße Schuppen mit sich."
+        {
+          "text": "Knebelbart war gegen Ende des 16.",
+          "start": 144.22,
+          "end": 146.92
+        },
+        {
+          "text": "Jahrhunderts bis zur Mitte des 17.",
+          "start": 147.14,
+          "end": 149.38
+        },
+        {
+          "text": "Jahrhunderts weit verbreitet.",
+          "start": 149.74,
+          "end": 151.66
+        },
+        {
+          "text": "Mein Mann hat einen Vollbart, der die Hälfte des Gesichts verdeckt.",
+          "start": 154.83,
+          "end": 159.01
+        },
+        {
+          "text": "Er leidet an extremem Haarausfall und hat sich deshalb eine Glatze rasieren lassen.",
+          "start": 162.07,
+          "end": 167.75
+        },
+        {
+          "text": "Unsere Tochter hat hübsche Locken, während unser Sohn glattes Haar hat.",
+          "start": 170.97,
+          "end": 175.71
+        },
+        {
+          "text": "Sie trägt den Scheitel in der linken Seite.",
+          "start": 178.77,
+          "end": 181.59
+        },
+        {
+          "text": "Tina lässt sich einen Pony schneiden.",
+          "start": 183.92,
+          "end": 186.94
+        },
+        {
+          "text": "Gehst du auch immer zum selben Friseur?",
+          "start": 190.36,
+          "end": 192.74
+        },
+        {
+          "text": "Die Ausbildung zum Friseur in Deutschland dauert drei Jahre.",
+          "start": 195.65,
+          "end": 199.61
+        },
+        {
+          "text": "In Deutschland war der Meisterbrief als zwingende Voraussetzung, einen Handwerksbetrieb führen zu dürfen.",
+          "start": 202.72,
+          "end": 209.64
+        },
+        {
+          "text": "Brennschere findet in der Friseurtechnik keine Anwendung mehr.",
+          "start": 212.95,
+          "end": 217.19
+        },
+        {
+          "text": "Lockenwickler dienen dazu, glatte oder schwach gelockte Haare aufzuwickeln.",
+          "start": 220.32,
+          "end": 225.86
+        },
+        {
+          "text": "Da meine Haare schwer strapaziert werden, benutze ich einmal in der Woche eine Haarkur.",
+          "start": 228.42,
+          "end": 234.3
+        },
+        {
+          "text": "Für die Haarpflege gibt es im Supermarkt wohl so viele Produkte.",
+          "start": 237.48,
+          "end": 241.96
+        },
+        {
+          "text": "Shampoos, Haarkuren, Gel, Wachs und Haarwasser.",
+          "start": 242.64,
+          "end": 246.94
+        },
+        {
+          "text": "Eine trockene Kopfhaut, die juckt, bringt häufig weiße Schuppen mit sich.",
+          "start": 250.22,
+          "end": 255.02
+        }
       ]
     }
   ]

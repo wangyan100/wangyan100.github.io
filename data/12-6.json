@@ -4,65 +4,277 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Heirat",
-        "annehmen",
-        "auf die Knie fallen",
-        "Geheimnis",
-        "Ja-Wort",
-        "Planen",
-        "Werbung",
-        "Abstreifen",
-        "anstecken",
-        "mit Gift",
-        "sich verloben",
-        "Verlöbnis",
-        "verlobte",
-        "verlobter",
-        "Verlobungsanzeige",
-        "Verlobungsring",
-        "Ehe",
-        "Ehefrau",
-        "Ehemann",
-        "Ehepaar",
-        "Ehepartner",
-        "früh verheiratet",
-        "Partner",
-        "Partnerin",
-        "Partnerschaft",
-        "Blumenkind",
-        "Braut",
-        "Bräutigam",
-        "Brautpaar",
-        "Brautjungfer",
-        "Brautführer",
-        "Trauzeuge",
-        "Brautkleid",
-        "Brautstrauß",
-        "Ehering",
-        "Geldgeschenk",
-        "Hochzeitsessen",
-        "Standesamt",
-        "Trauen",
-        "Trauschein"
+        {
+          "text": "Heirat",
+          "start": 1.74,
+          "end": 3.68
+        },
+        {
+          "text": "annehmen",
+          "start": 5.3,
+          "end": 6.42
+        },
+        {
+          "text": "auf die Knie fallen",
+          "start": 6.42,
+          "end": 10.12
+        },
+        {
+          "text": "Geheimnis",
+          "start": 11.42,
+          "end": 13.08
+        },
+        {
+          "text": "Ja-Wort",
+          "start": 14.36,
+          "end": 15.36
+        },
+        {
+          "text": "Planen",
+          "start": 17.2,
+          "end": 18.44
+        },
+        {
+          "text": "Werbung",
+          "start": 20.05,
+          "end": 21.73
+        },
+        {
+          "text": "abstreifen",
+          "start": 22.37,
+          "end": 24.33
+        },
+        {
+          "text": "anstecken",
+          "start": 26.07,
+          "end": 27.21
+        },
+        {
+          "text": "mit Gift",
+          "start": 28.94,
+          "end": 30.12
+        },
+        {
+          "text": "sich verloben",
+          "start": 31.36,
+          "end": 33.32
+        },
+        {
+          "text": "Verlöbnis",
+          "start": 35.03,
+          "end": 36.37
+        },
+        {
+          "text": "verlobte",
+          "start": 38.18,
+          "end": 39.38
+        },
+        {
+          "text": "verlobter",
+          "start": 41.05,
+          "end": 42.35
+        },
+        {
+          "text": "Verlobungsanzeige",
+          "start": 43.91,
+          "end": 46.05
+        },
+        {
+          "text": "Verlobungsring",
+          "start": 47.77,
+          "end": 49.09
+        },
+        {
+          "text": "Ehe",
+          "start": 50.34,
+          "end": 51.82
+        },
+        {
+          "text": "Ehefrau",
+          "start": 53.38,
+          "end": 54.54
+        },
+        {
+          "text": "Ehemann",
+          "start": 56.35,
+          "end": 57.53
+        },
+        {
+          "text": "Ehepaar",
+          "start": 59.23,
+          "end": 60.23
+        },
+        {
+          "text": "Ehepartner",
+          "start": 62.07,
+          "end": 63.47
+        },
+        {
+          "text": "früh verheiratet",
+          "start": 65.06,
+          "end": 67.2
+        },
+        {
+          "text": "Partner",
+          "start": 68.51,
+          "end": 69.29
+        },
+        {
+          "text": "Partnerin",
+          "start": 71.58,
+          "end": 72.74
+        },
+        {
+          "text": "Partnerschaft",
+          "start": 74.45,
+          "end": 76.39
+        },
+        {
+          "text": "Blumenkind",
+          "start": 76.39,
+          "end": 78.95
+        },
+        {
+          "text": "Braut",
+          "start": 78.95,
+          "end": 81.31
+        },
+        {
+          "text": "Bräutigam",
+          "start": 83.13,
+          "end": 84.15
+        },
+        {
+          "text": "Brautpaar",
+          "start": 86.18,
+          "end": 87.72
+        },
+        {
+          "text": "Brautjungfer",
+          "start": 89.29,
+          "end": 90.39
+        },
+        {
+          "text": "Brautführer",
+          "start": 92.42,
+          "end": 93.86
+        },
+        {
+          "text": "Trauzeuge",
+          "start": 95.64,
+          "end": 97.26
+        },
+        {
+          "text": "Brautkleid",
+          "start": 101.12,
+          "end": 102.24
+        },
+        {
+          "text": "Brautstrauß",
+          "start": 102.24,
+          "end": 103.36
+        },
+        {
+          "text": "Ehering",
+          "start": 105.06,
+          "end": 106.2
+        },
+        {
+          "text": "Geldgeschenk",
+          "start": 107.86,
+          "end": 109.28
+        },
+        {
+          "text": "Hochzeitsessen",
+          "start": 110.94,
+          "end": 112.12
+        },
+        {
+          "text": "Standesamt",
+          "start": 114.45,
+          "end": 115.49
+        },
+        {
+          "text": "Trauen",
+          "start": 117.53,
+          "end": 118.47
+        },
+        {
+          "text": "Trauschein",
+          "start": 120.21,
+          "end": 121.47
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Nach der Heirat hat er die Mitgiften seiner Frau in die Börse gesetzt.",
-        "Ein Heiratsantrag sollte kreativ und romantisch sein.",
-        "Diese schöne Frau nimmt die Werbung dieses Mannes an.",
-        "Das Geheimnis liegt nun bloß.",
-        "Mit dem Ja-Wort der Angebeteten in einem Heiratsantrag versprechen sich beide Seiten, den Bund der Ehe einzugehen.",
-        "Bevor sie ins Bett geht, hat sie alles Schmuck abgestreift.",
-        "Der klassische Verlobungsring ist ein mit einem Diamanten besetzter Ring.",
-        "Das alte Ehepaar führt ein zurückgezogenes Leben.",
-        "In der Vergangenheit in China soll die Braut ihr Gesicht mit einem roten Schleier in der Hochzeit verhüllen.",
-        "Die Brautjungfern waren ursprünglich dazu da, böse Geister von der Braut abzulenken.",
-        "Die traditionelle Farbe für Brautkleider in den westlichen Ländern ist weiß, da diese Farbe für Reinheit steht.",
-        "Geldgeschenke sind bei einer Hochzeit äußerst beliebt.",
-        "Sie haben sich auf dem Standesamt trauen lassen."
+        {
+          "text": "Nach der Heirat hat er die Mitgiften seiner Frau in die Börse gesetzt.",
+          "start": 131.14,
+          "end": 136.88
+        },
+        {
+          "text": "Ein Heiratsantrag sollte kreativ und romantisch sein.",
+          "start": 139.15,
+          "end": 143.87
+        },
+        {
+          "text": "Diese schöne Frau nimmt die Werbung dieses Mannes an.",
+          "start": 147.19,
+          "end": 150.63
+        },
+        {
+          "text": "Das Geheimnis liegt nun bloß.",
+          "start": 153.55,
+          "end": 156.13
+        },
+        {
+          "text": "Mit dem Ja-Wort der Angebeteten in einem Heiratsantrag versprechen sich beide Seiten, den Bund der Ehe einzugehen.",
+          "start": 158.99,
+          "end": 167.53
+        },
+        {
+          "text": "Bevor sie ins Bett geht, hat sie alles Schmuck abgestreift.",
+          "start": 170.14,
+          "end": 174.14
+        },
+        {
+          "text": "Der klassische Verlobungsring ist ein mit einem Diamanten besetzter Ring.",
+          "start": 176.35,
+          "end": 181.97
+        },
+        {
+          "text": "Das alte Ehepaar führt ein zurückgezogenes Leben.",
+          "start": 185.09,
+          "end": 188.69
+        },
+        {
+          "text": "In der Vergangenheit in China soll die Braut ihr Gesicht mit einem roten Schleier in der Hochzeit verhüllen.",
+          "start": 191.76,
+          "end": 198.14
+        },
+        {
+          "text": "Die Brautjungfern waren ursprünglich dazu da, böse Geister von der Braut abzulenken.",
+          "start": 201.3,
+          "end": 207.56
+        },
+        {
+          "text": "Die traditionelle Farbe für Brautkleider in den westlichen Ländern ist weiß, da diese Farbe für Reinheit steht.",
+          "start": 209.83,
+          "end": 218.27
+        },
+        {
+          "text": "Geldgeschenke sind bei einer Hochzeit äußerst beliebt.",
+          "start": 221.48,
+          "end": 224.98
+        },
+        {
+          "text": "Sie haben sich auf dem Standesamt trauen lassen.",
+          "start": 227.87,
+          "end": 231.03
+        }
       ]
     }
   ]

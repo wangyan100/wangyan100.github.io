@@ -4,59 +4,187 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Kaffee",
-        "Arabica Kaffee",
-        "Java Kaffee",
-        "Berg Kaffee",
-        "Blue Mountain Kaffee",
-        "Brasilien Kaffee",
-        "Kilimanjaro Kaffee",
-        "Colombien Kaffee",
-        "Robusta Kaffee",
-        "Americano",
-        "Café Latte",
-        "Cappuccino",
-        "Espresso",
-        "Caramel Macchiato",
-        "Mocha",
-        "Eiskaffee",
-        "Instant Kaffee",
-        "Schnell Kaffee",
-        "Malz Kaffee",
-        "Marocchino",
-        "Milch Kaffee",
-        "Der türkische Kaffee",
-        "Filter Kaffee",
-        "Kaffeepresse",
-        "Kaffeepulver",
-        "Kaffeepad",
-        "Kaffeekapsel",
-        "Die helle Röstung",
-        "Die starke Röstung",
-        "Die mittlere Röstung",
-        "Die amerikanische Röstung",
-        "Die doppelte Röstung",
-        "Die französische Röstung",
-        "Die italienische Röstung"
+        {
+          "text": "Kaffee",
+          "start": 1.84,
+          "end": 3.48
+        },
+        {
+          "text": "Arabica Kaffee",
+          "start": 4.82,
+          "end": 7.18
+        },
+        {
+          "text": "Java Kaffee",
+          "start": 8.2,
+          "end": 9.5
+        },
+        {
+          "text": "Berg Kaffee",
+          "start": 11.51,
+          "end": 12.73
+        },
+        {
+          "text": "Blue Mountain Kaffee",
+          "start": 14.7,
+          "end": 16.36
+        },
+        {
+          "text": "Brasilien Kaffee",
+          "start": 18.27,
+          "end": 20.45
+        },
+        {
+          "text": "Kilimanjaro Kaffee",
+          "start": 21.76,
+          "end": 24.18
+        },
+        {
+          "text": "Colombien Kaffee",
+          "start": 25.46,
+          "end": 27.56
+        },
+        {
+          "text": "Robusta Kaffee",
+          "start": 28.9,
+          "end": 31.02
+        },
+        {
+          "text": "Americano",
+          "start": 32.3,
+          "end": 34.02
+        },
+        {
+          "text": "Café Latte",
+          "start": 35.37,
+          "end": 37.07
+        },
+        {
+          "text": "Cappuccino",
+          "start": 38.41,
+          "end": 39.11
+        },
+        {
+          "text": "Espresso",
+          "start": 41.7,
+          "end": 42.4
+        },
+        {
+          "text": "Caramel Macchiato",
+          "start": 44.51,
+          "end": 46.03
+        },
+        {
+          "text": "Mocha",
+          "start": 47.31,
+          "end": 49.53
+        },
+        {
+          "text": "Eiskaffee",
+          "start": 50.94,
+          "end": 52.64
+        },
+        {
+          "text": "Instant Kaffee",
+          "start": 53.95,
+          "end": 56.09
+        },
+        {
+          "text": "Schnell Kaffee",
+          "start": 57.56,
+          "end": 59.42
+        },
+        {
+          "text": "Malz Kaffee",
+          "start": 60.7,
+          "end": 62.7
+        },
+        {
+          "text": "Marocchino",
+          "start": 64.05,
+          "end": 65.75
+        },
+        {
+          "text": "Milch Kaffee",
+          "start": 67.06,
+          "end": 69.04
+        },
+        {
+          "text": "Der türkische Kaffee",
+          "start": 70.32,
+          "end": 72.36
+        },
+        {
+          "text": "Filter Kaffee",
+          "start": 73.8,
+          "end": 75.78
+        },
+        {
+          "text": "Kaffeepresse",
+          "start": 77.16,
+          "end": 78.54
+        },
+        {
+          "text": "Kaffeepulver",
+          "start": 80.85,
+          "end": 81.97
+        },
+        {
+          "text": "Kaffeepad",
+          "start": 84.16,
+          "end": 84.88
+        },
+        {
+          "text": "Kaffeekapsel",
+          "start": 87.47,
+          "end": 88.73
+        },
+        {
+          "text": "Die helle Röstung",
+          "start": 89.25,
+          "end": 91.53
+        },
+        {
+          "text": "Die starke Röstung",
+          "start": 92.81,
+          "end": 95.05
+        },
+        {
+          "text": "Die mittlere Röstung",
+          "start": 96.3,
+          "end": 98.5
+        },
+        {
+          "text": "Die amerikanische Röstung",
+          "start": 99.75,
+          "end": 101.86
+        },
+        {
+          "text": "Die doppelte Röstung",
+          "start": 103.17,
+          "end": 105.32
+        },
+        {
+          "text": "Die französische Röstung",
+          "start": 106.78,
+          "end": 109.59
+        },
+        {
+          "text": "Die italienische Röstung",
+          "start": 109.59,
+          "end": 113.07
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Arabica Kaffee hat einen besonders feinen Geschmack denn in den Kaffeebohnen stecken mehr Fette, mehr Zucker und mehr Kaffeeöle drin.",
-        "Der Jamaica Blue Mountain Kaffee zeichnet sich durch seinen sehr milden Geschmack aus.",
-        "Robuster Kaffee kann wegen seiner mehr Koffein bitterer, schärfer schmecken.",
-        "Americano ist ein doppelter Espresso, der mit heißem Wasser verdünnt wird.",
-        "Das wichtigste beim Cappuccino ist nicht der Schaum, sondern das Verhältnis zwischen Espresso und Milch.",
-        "Der Eiskaffee kann mit Rum versetzt sein.",
-        "Die Vorteile von Instant Kaffee liegen auf der Hand.",
-        "Er ist im Handumdrehen zubereitet und besonders lange haltbar.",
-        "Über Lieferungen zufolge, stammt der Marocchino ursprünglich aus dem Norden Italiens.",
-        "Das Mischverhältnis von Kaffee und Milch liegt in Milchkaffee bei etwa 1 zu 1.",
-        "Früher hat man in Deutschland hauptsächlich schwarzen Filterkaffee getrunken.",
-        "Kaffeepulver entsteht durch das Mahlen von gerösteten Kaffeebohnen.",
-        "Die Geröstung ist das wichtigste Merkmal für ein gutes Kaffeprodukt."
+        {
+          "text": "Arabica Kaffee hat einen besonders feinen Geschmack denn in den Kaffeebohnen stecken mehr Fette mehr Zucker und mehr Kaffeeöle drin Der Jamaica Blue Mountain Kaffee zeichnet sich durch seinen sehr milden Geschmack aus Robuster Kaffee kann wegen seiner mehr Koffein bitterer schärfer schmecken Americano ist ein doppelter Espresso, der mit heißem Wasser verdünnt wird Das wichtigste beim Cappuccino ist nicht der Schaum, sondern das Verhältnis zwischen Espresso und Milch Der Eiskaffee kann mit Rum versetzt sein Die Vorteile von Instant Kaffee liegen auf der Hand Er ist im Handumdrehen zubereitet und besonders lange haltbar Über Lieferungen zufolge stammt der Maruccino ursprünglich aus dem Norden Italiens Das Mischverhältnis von Kaffee und Milch ist bei etwa 1 zu 1 Früher hat man in Deutschland hauptsächlich schwarzen Filterkaffee getrunken Kaffeepulver entsteht durch das Mahlen von gerösteten Kaffeebohnen Die Geröstung ist das wichtigste Merkmal für ein gutes Kaffeeprodukt",
+          "start": 122.84,
+          "end": 229.53
+        }
       ]
     }
   ]

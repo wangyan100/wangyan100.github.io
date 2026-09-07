@@ -4,65 +4,277 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Insekten",
-        "Ameise",
-        "Biene",
-        "Fangheuschrecke",
-        "Libelle",
-        "Marienkäfer",
-        "Mistkäfer",
-        "Schmetterling",
-        "Seidenraupe",
-        "Bockkäfer",
-        "Fliege",
-        "Goldlaufkäfer",
-        "Grashüpfer",
-        "Heuschrecke",
-        "Moskito",
-        "Motte",
-        "Termite",
-        "Grille",
-        "Larve",
-        "Leuchtkäfer",
-        "Reißkäfer",
-        "Schwimmkäfer",
-        "Spinne",
-        "Wespe",
-        "Fühler",
-        "Flügel",
-        "Facettenauge",
-        "Saugrüssel",
-        "Stachel",
-        "Kopf",
-        "Thorax",
-        "Abdomen",
-        "Flattern",
-        "Saugen",
-        "Schwärmen",
-        "Sich verpuppen",
-        "Summen",
-        "Stechen"
+        {
+          "text": "Insekten",
+          "start": 1.78,
+          "end": 3.68
+        },
+        {
+          "text": "Ameise",
+          "start": 5.44,
+          "end": 7.64
+        },
+        {
+          "text": "Biene",
+          "start": 7.64,
+          "end": 9.18
+        },
+        {
+          "text": "Fangheuschrecke",
+          "start": 11.09,
+          "end": 13.63
+        },
+        {
+          "text": "Libelle",
+          "start": 13.63,
+          "end": 15.53
+        },
+        {
+          "text": "Marienkäfer",
+          "start": 17.32,
+          "end": 18.84
+        },
+        {
+          "text": "Mistkäfer",
+          "start": 20.43,
+          "end": 21.13
+        },
+        {
+          "text": "Schmetterling",
+          "start": 23.32,
+          "end": 24.7
+        },
+        {
+          "text": "Seidenraupe",
+          "start": 26.75,
+          "end": 29.19
+        },
+        {
+          "text": "Bockkäfer",
+          "start": 29.19,
+          "end": 31.11
+        },
+        {
+          "text": "Fliege",
+          "start": 33.12,
+          "end": 34.06
+        },
+        {
+          "text": "Goldlaufkäfer",
+          "start": 35.3,
+          "end": 37.42
+        },
+        {
+          "text": "Grashüpfer",
+          "start": 39.31,
+          "end": 40.67
+        },
+        {
+          "text": "Heuschrecke",
+          "start": 43.57,
+          "end": 44.97
+        },
+        {
+          "text": "Moskito",
+          "start": 46.51,
+          "end": 47.91
+        },
+        {
+          "text": "Motte",
+          "start": 47.91,
+          "end": 49.31
+        },
+        {
+          "text": "Termite",
+          "start": 51.14,
+          "end": 51.98
+        },
+        {
+          "text": "Grille",
+          "start": 53.96,
+          "end": 55.5
+        },
+        {
+          "text": "Larve",
+          "start": 55.5,
+          "end": 57.9
+        },
+        {
+          "text": "Leuchtkäfer",
+          "start": 59.58,
+          "end": 61.1
+        },
+        {
+          "text": "Reißkäfer",
+          "start": 62.38,
+          "end": 64.34
+        },
+        {
+          "text": "Schwimmkäfer",
+          "start": 66.13,
+          "end": 67.43
+        },
+        {
+          "text": "Spinne",
+          "start": 69.0,
+          "end": 70.54
+        },
+        {
+          "text": "Wespe",
+          "start": 72.14,
+          "end": 73.12
+        },
+        {
+          "text": "Fühler",
+          "start": 75.04,
+          "end": 76.04
+        },
+        {
+          "text": "Flügel",
+          "start": 77.44,
+          "end": 78.98
+        },
+        {
+          "text": "Facettenauge",
+          "start": 80.89,
+          "end": 82.19
+        },
+        {
+          "text": "Saugrüssel",
+          "start": 83.7,
+          "end": 85.82
+        },
+        {
+          "text": "Stachel",
+          "start": 87.85,
+          "end": 88.55
+        },
+        {
+          "text": "Kopf",
+          "start": 90.06,
+          "end": 91.0
+        },
+        {
+          "text": "Thorax",
+          "start": 93.13,
+          "end": 94.23
+        },
+        {
+          "text": "Abdomen",
+          "start": 95.64,
+          "end": 97.24
+        },
+        {
+          "text": "Flattern",
+          "start": 99.09,
+          "end": 99.99
+        },
+        {
+          "text": "Saugen",
+          "start": 101.82,
+          "end": 102.64
+        },
+        {
+          "text": "Schwärmen",
+          "start": 104.88,
+          "end": 106.92
+        },
+        {
+          "text": "sich verpuppen",
+          "start": 106.92,
+          "end": 110.62
+        },
+        {
+          "text": "summen",
+          "start": 110.62,
+          "end": 112.02
+        },
+        {
+          "text": "stechen",
+          "start": 113.89,
+          "end": 114.63
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Sie ist fleißig wie eine Ameise.",
-        "Bienen ernähren sich rein vegetarisch.",
-        "Je näher er dem Bienenstock kam, desto deutlicher konnte er die Bienen-Summen hören.",
-        "Die Lebensdauer der adulten Libellen beträgt durchschnittlich etwa 6 bis 8 Wochen.",
-        "Libellen haben bis zu 30.000 Omatidien pro Facettenauge.",
-        "In der Wiese saßen so viele Grashüpfer, dass die Geräuschkulisse ohrenbetäubend war.",
-        "Heuschrecken werden in Teilen Afrikas, Asiens und Südamerikas als eiweißreiche Nahrung gegessen.",
-        "Das Leben eines Moskitos gliedert sich in vier verschiedene Stadien.",
-        "Ei, Larve, Puppe und Imago.",
-        "Diese Larve verpuppt sich und aus der Puppe schlüpft der Schmetterling.",
-        "Die Larven der meisten Bockkäferarten ernähren sich von Holz.",
-        "Leuchtkäfer sind auf allen Kontinenten mit Ausnahme der Antarktis zu finden.",
-        "Einige Spinnen sind Schädlinge, andere sind Nutztiere.",
-        "Das Mädchen wurde am Donnerstag im Kindergarten von einer Wespe in den Finger gestochen.",
-        "Die Fühler vom Bockkäfer sind länger als sein Körper."
+        {
+          "text": "Sie ist fleißig wie eine Ameise.",
+          "start": 125.07,
+          "end": 128.01
+        },
+        {
+          "text": "Bienen ernähren sich rein vegetarisch.",
+          "start": 130.28,
+          "end": 133.86
+        },
+        {
+          "text": "Je näher er dem Bienenstock kam, desto deutlicher konnte er die Bienensummen hören.",
+          "start": 136.69,
+          "end": 142.59
+        },
+        {
+          "text": "Die Lebensdauer der adulten Libellen beträgt durchschnittlich etwa 6 bis 8 Wochen.",
+          "start": 145.74,
+          "end": 152.14
+        },
+        {
+          "text": "Libellen haben bis zu 30.000 Omatidien pro Facettenauge.",
+          "start": 155.22,
+          "end": 160.42
+        },
+        {
+          "text": "In der Wiese saßen so viele Grashüpfer, dass die Geräuschkulisse ohrenbetäubend war.",
+          "start": 163.46,
+          "end": 169.52
+        },
+        {
+          "text": "Heuschrecken werden in Teilen Afrikas, Asiens und Südamerikas als eiweißreiche Nahrung gegessen.",
+          "start": 172.65,
+          "end": 180.25
+        },
+        {
+          "text": "Das Leben eines Moskitos gliedert sich in vier verschiedene Stadien.",
+          "start": 183.39,
+          "end": 188.65
+        },
+        {
+          "text": "Ei, Larve, Puppe und Imago.",
+          "start": 191.34,
+          "end": 194.54
+        },
+        {
+          "text": "Diese Larve verpuppt sich und aus der Puppe schlüpft der Schmetterling.",
+          "start": 197.54,
+          "end": 202.0
+        },
+        {
+          "text": "Die Larven der meisten Bockkäferarten ernähren sich von Holz.",
+          "start": 204.2,
+          "end": 209.9
+        },
+        {
+          "text": "Leuchtkäfer sind auf allen Kontinenten mit Ausnahme der Antarktis zu finden.",
+          "start": 213.39,
+          "end": 218.91
+        },
+        {
+          "text": "Einige Spinnen sind Schädlinge, andere sind Nutztiere.",
+          "start": 222.13,
+          "end": 226.45
+        },
+        {
+          "text": "Das Mädchen wurde am Donnerstag im Kindergarten von einer Wespe in den Finger gestochen.",
+          "start": 229.57,
+          "end": 235.39
+        },
+        {
+          "text": "Die Fühler vom Bockkäfer sind länger als sein Körper.",
+          "start": 238.33,
+          "end": 242.51
+        }
       ]
     }
   ]

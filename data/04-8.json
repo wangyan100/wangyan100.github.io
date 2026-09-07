@@ -4,60 +4,197 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Bibliothek erledigen",
-        "erweiterte Suche recherchieren",
-        "sammeln Schlagwort",
-        "Suche",
-        "Buch",
-        "Die elektronischen Datenträger Zeitschrift",
-        "Flugblatt Heft",
-        "Karte",
-        "Mikroform",
-        "Online-Resourcen",
-        "bestellen",
-        "vormerken",
-        "drucken",
-        "kopieren",
-        "leihfrist",
-        "scannen",
-        "stornieren",
-        "verlängern",
-        "zurückgeben",
-        "Bestand",
-        "Freihand",
-        "Katalog",
-        "Präsenz",
-        "Signatur",
-        "Ausweis",
-        "Benutzernummer",
-        "sich einloggen",
-        "Passwort",
-        "erschöpft",
-        "konzentriert",
-        "schläfrig",
-        "sich für",
-        "interessieren"
+        {
+          "text": "Bibliothek erledigen",
+          "start": 4.86,
+          "end": 7.66
+        },
+        {
+          "text": "erweiterte Suche recherchieren",
+          "start": 7.66,
+          "end": 13.33
+        },
+        {
+          "text": "sammeln Schlagwort",
+          "start": 14.13,
+          "end": 19.11
+        },
+        {
+          "text": "Suche",
+          "start": 8.72,
+          "end": 10.1
+        },
+        {
+          "text": "Buch",
+          "start": 22.91,
+          "end": 23.65
+        },
+        {
+          "text": "Die elektronischen Datenträger Zeitschrift",
+          "start": 24.9,
+          "end": 31.1
+        },
+        {
+          "text": "Flugblatt Heft",
+          "start": 32.44,
+          "end": 36.59
+        },
+        {
+          "text": "Karte",
+          "start": 37.9,
+          "end": 39.06
+        },
+        {
+          "text": "Mikroform Online-Resourcen",
+          "start": 41.92,
+          "end": 46.58
+        },
+        {
+          "text": "bestellen Vormärken",
+          "start": 47.46,
+          "end": 51.82
+        },
+        {
+          "text": "drucken kopieren",
+          "start": 53.1,
+          "end": 58.27
+        },
+        {
+          "text": "Leihfrist scannen",
+          "start": 58.27,
+          "end": 63.06
+        },
+        {
+          "text": "stornieren verlängern",
+          "start": 64.47,
+          "end": 68.96
+        },
+        {
+          "text": "zurückgeben",
+          "start": 70.31,
+          "end": 71.91
+        },
+        {
+          "text": "Bestand Freihand",
+          "start": 73.03,
+          "end": 77.74
+        },
+        {
+          "text": "Katalog Präsenz",
+          "start": 79.02,
+          "end": 83.51
+        },
+        {
+          "text": "Signatur",
+          "start": 86.21,
+          "end": 87.61
+        },
+        {
+          "text": "Ausweis",
+          "start": 87.61,
+          "end": 89.73
+        },
+        {
+          "text": "Benutzernummer",
+          "start": 91.17,
+          "end": 92.57
+        },
+        {
+          "text": "sich einloggen Passwort",
+          "start": 93.35,
+          "end": 98.24
+        },
+        {
+          "text": "erschöpft konzentriert",
+          "start": 99.52,
+          "end": 104.19
+        },
+        {
+          "text": "schläfrig sich für",
+          "start": 105.54,
+          "end": 109.79
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Um die Semesterarbeit zu schreiben, muss ich in der Bibliothek recherchieren.",
-        "Es ist verboten, Flugblätter auf der Straße zu verteilen.",
-        "Das ist das letzte Heft dieser Zeitschrift.",
-        "Kann ich die bestellten Bücher nach Hause mitnehmen?",
-        "Beachten Sie, dass für vorgemerkte Medien keine Verlängerungen möglich sind.",
-        "Jeder will jeden kopieren.",
-        "Sie dürfen maximal dreimal die Leihfrist verlängern.",
-        "Heute muss ich die geliehenen Bücher zurückgeben.",
-        "Der Bestand unserer Bibliothek beträgt 100.000 Bände.",
-        "Das ist ein alphabetischer Katalog einer Bibliothek.",
-        "Mithilfe des Bibliothekskatalogs kann der Benutzer die Signatur des gesuchten Buches herausfinden.",
-        "Es wurde verlangt, den Ausweis zu zeigen.",
-        "Loggen Sie sich bitte mit der Nummer des Benutzungsausweises und folgendem Passwort ein.",
-        "Das regnerische Wetter macht mich schläfrig.",
-        "Ich interessiere mich für das Buch überhaupt nicht."
+        {
+          "text": "Um die Semesterarbeit zu schreiben, muss ich in der Bibliothek recherchieren.",
+          "start": 118.76,
+          "end": 126.89
+        },
+        {
+          "text": "Es ist verboten, Flugblätter auf der Straße zu verteilen.",
+          "start": 129.88,
+          "end": 134.16
+        },
+        {
+          "text": "Das ist das letzte Heft dieser Zeitschrift.",
+          "start": 137.06,
+          "end": 139.94
+        },
+        {
+          "text": "Kann ich die bestellten Bücher nach Hause mitnehmen?",
+          "start": 142.91,
+          "end": 145.93
+        },
+        {
+          "text": "Beachten Sie, dass für vorgemerkte Medien keine Verlängerungen möglich sind.",
+          "start": 149.07,
+          "end": 154.35
+        },
+        {
+          "text": "Jeder will jeden kopieren.",
+          "start": 157.39,
+          "end": 159.15
+        },
+        {
+          "text": "Sie dürfen maximal dreimal die Leihfrist verlängern.",
+          "start": 161.92,
+          "end": 166.32
+        },
+        {
+          "text": "Heute muss ich die geliehenen Bücher zurückgeben.",
+          "start": 168.95,
+          "end": 171.87
+        },
+        {
+          "text": "Der Bestand unserer Bibliothek beträgt 100.000 Bände.",
+          "start": 174.93,
+          "end": 179.23
+        },
+        {
+          "text": "Das ist ein alphabetischer Katalog einer Bibliothek.",
+          "start": 182.2,
+          "end": 186.44
+        },
+        {
+          "text": "Mithilfe des Bibliothekskatalogs kann der Benutzer die Signatur des gesuchten Buches herausfinden.",
+          "start": 188.95,
+          "end": 195.71
+        },
+        {
+          "text": "Es wurde verlangt, den Ausweis zu zeigen.",
+          "start": 198.72,
+          "end": 201.64
+        },
+        {
+          "text": "Loggen Sie sich bitte mit der Nummer des Benutzungsausweises und folgendem Passwort ein.",
+          "start": 204.59,
+          "end": 210.47
+        },
+        {
+          "text": "Das regnerische Wetter macht mich schläfrig.",
+          "start": 213.55,
+          "end": 216.39
+        },
+        {
+          "text": "Ich interessiere mich für das Buch überhaupt nicht.",
+          "start": 219.23,
+          "end": 222.35
+        }
       ]
     }
   ]

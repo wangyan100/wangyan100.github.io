@@ -1,64 +1,64 @@
-Wanderung
-Bergfuß
-Bergwand
-Felsen
-Gebirge
-Gipfel
-Hang
-Höhle
-Wald
-Fluss
-Bach
-Quelle
-Strom
-Fließen
-Rauschen
-Springen
-Sprudeln
-Funktionsjacke
-Hängematte
-Kniebandage
-Kompass
-Rucksack
-Regenponcho
-Taschenlampe
-Wanderstock
-Anstrengend
-Breit
-eben
-gefährlich
-hoch
-niedrig
-reißend
-schneebedeckt
-schroff
-steil
-steinig
-aufsteigen
-klettern
-Bergsteiger
-besteigen
-bezwingen
-erfrischen
-frisch
-Luft
-Wanderer
-Sprechen Sie bitte die folgenden Sätze.
-Die Zugspitze ist der höchste Berg Deutschlands.
-Der Felsen springt ins Meer vor.
-Der Mount Everest ist der allerhöchste Gipfel der Erde.
-Er lebte zwanzig Jahre im Meer.
-Er lebte zwanzig Jahre lang in einer der Höhlen in der Bergwand.
-Der Jäger wagt sich in die Höhle des Löwen.
-Der Fluss fließt zu Tal.
-Bäche von Schweiß flossen an ihm herunter.
-Die Quelle sprudelt aus dem Felsen.
-Der junge Wissenschaftler redet wie ein Wasserfall.
-Um ihn herum sitzen Männer in Gummistiefeln,
-karierten Hemden und bunten Funktionsjacken.
-Die Nadel des Kompasses zeigt nach Norden.
-Der Aufstieg auf den Berg war sehr anstrengend.
-Sie hat einen steinigen Weg vor ihr.
-Mein Vater ist in seiner Jugend viel geklettert.
-Die Luft im Wald ist sehr erfrischend.
-In österreichischen Alpen sind zwei deutsche Wanderer tot aufgefunden worden.
+[00:00:03.260 --> 00:00:04.660] Wanderung
+[00:00:06.340 --> 00:00:07.740] Bergfuß
+[00:00:07.740 --> 00:00:09.120] Bergwand
+[00:00:12.090 --> 00:00:13.490] Felsen
+[00:00:13.490 --> 00:00:15.090] Gebirge
+[00:00:16.340 --> 00:00:17.960] Gipfel
+[00:00:19.270 --> 00:00:20.010] Hang
+[00:00:22.630 --> 00:00:23.330] Höhle
+[00:00:24.580 --> 00:00:25.480] Wald
+[00:00:26.860 --> 00:00:29.580] Fluss
+[00:00:29.580 --> 00:00:30.820] Bach
+[00:00:32.260 --> 00:00:33.760] Quelle
+[00:00:35.230 --> 00:00:36.150] Strom
+[00:00:37.460 --> 00:00:39.380] Tal
+[00:00:39.380 --> 00:00:41.460] Wasserfall
+[00:00:44.740 --> 00:00:45.440] Fließen
+[00:00:46.520 --> 00:00:47.220] Rauschen
+[00:00:49.420 --> 00:00:50.700] Springen
+[00:00:52.200 --> 00:00:53.800] Sprudeln
+[00:00:55.150 --> 00:00:57.450] Funktionsjacke
+[00:00:58.730 --> 00:01:00.430] Hängematte
+[00:01:01.800 --> 00:01:03.700] Kniebandage
+[00:01:04.980 --> 00:01:07.120] Kompass
+[00:01:07.120 --> 00:01:09.460] Rucksack
+[00:01:10.710 --> 00:01:12.570] Regenponcho
+[00:01:13.880 --> 00:01:15.680] Taschenlampe
+[00:01:17.000 --> 00:01:18.320] Wanderstock
+[00:01:21.620 --> 00:01:22.320] anstrengend
+[00:01:24.400 --> 00:01:25.800] breit
+[00:01:25.800 --> 00:01:27.080] eben
+[00:01:28.760 --> 00:01:30.160] gefährlich
+[00:01:31.470 --> 00:01:32.870] hoch
+[00:01:34.630 --> 00:01:35.330] niedrig
+[00:01:37.130 --> 00:01:38.530] reißend
+[00:01:39.940 --> 00:01:40.640] schneebedeckt
+[00:01:43.040 --> 00:01:44.220] schroff
+[00:01:45.780 --> 00:01:47.260] steil
+[00:01:48.740 --> 00:01:51.180] steinig
+[00:01:51.180 --> 00:01:53.080] aufsteigen
+[00:01:54.420 --> 00:01:56.400] klettern
+[00:01:56.400 --> 00:01:58.400] Bergsteiger
+[00:02:01.850 --> 00:02:03.210] besteigen
+[00:02:04.690 --> 00:02:06.050] bezwingen
+[00:02:06.050 --> 00:02:07.730] erfrischen
+[00:02:09.100 --> 00:02:11.480] frisch
+[00:02:11.480 --> 00:02:12.680] Luft
+[00:02:14.640 --> 00:02:15.320] Wanderer
+[00:02:20.520 --> 00:02:23.360] Sprechen Sie bitte die folgenden Sätze.
+[00:02:26.300 --> 00:02:29.880] Die Zugspitze ist der höchste Berg Deutschlands.
+[00:02:32.770 --> 00:02:35.530] Der Felsen springt ins Meer vor.
+[00:02:37.740 --> 00:02:42.560] Der Mount Everest ist der allerhöchste Gipfel der Erde.
+[00:02:45.670 --> 00:02:50.270] Er lebte 20 Jahre lang in einer der Höhlen in der Bergwand.
+[00:02:53.380 --> 00:02:56.460] Der Jäger wagt sich in die Höhle des Löwen.
+[00:02:59.450 --> 00:03:01.710] Der Fluss fließt zu Tal.
+[00:03:04.780 --> 00:03:08.060] Bäche von Schweiß flossen an ihm herunter.
+[00:03:11.150 --> 00:03:14.330] Die Quelle sprudelt aus dem Felsen.
+[00:03:17.010 --> 00:03:20.630] Der junge Wissenschaftler redet wie ein Wasserfall.
+[00:03:22.930 --> 00:03:30.730] Um ihn herum sitzen Männer in Gummistiefeln, karierten Hemden und bunten Funktionsjacken.
+[00:03:33.640 --> 00:03:36.960] Die Nadel des Kompasses zeigt nach Norden.
+[00:03:39.760 --> 00:03:43.120] Der Aufstieg auf den Berg war sehr anstrengend.
+[00:03:46.070 --> 00:03:48.770] Sie hat einen steinigen Weg vor ihr.
+[00:03:51.820 --> 00:03:54.920] Mein Vater ist in seiner Jugend viel geklettert.
+[00:03:58.250 --> 00:04:01.010] Die Luft im Wald ist sehr erfrischend.
+[00:04:03.220 --> 00:04:09.340] In den österreichischen Alpen sind zwei deutsche Wanderer tot aufgefunden worden.

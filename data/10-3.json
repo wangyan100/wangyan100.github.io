@@ -4,57 +4,257 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Halloween",
-        "aushöhlen",
-        "auslüften",
-        "basteln",
-        "form",
-        "herausdrücken",
-        "Kürbislaterne",
-        "Schaber",
-        "Schablone",
-        "schnitzen",
-        "anmalen",
-        "Hexe",
-        "Look",
-        "Rötung",
-        "Vampir",
-        "Wunde",
-        "Zombie",
-        "Allerheiligen",
-        "Böse Geister vertreiben",
-        "Geistergesicht",
-        "Fratze",
-        "Skelett",
-        "Spinnwebe",
-        "Streich",
-        "Süßes oder Saures",
-        "Verkleidung",
-        "Grusel",
-        "Horrormäßig",
-        "Anlass",
-        "Entstehen",
-        "Feierkultur",
-        "Populärkultur",
-        "Tradition"
+        {
+          "text": "Halloween",
+          "start": 1.84,
+          "end": 3.58
+        },
+        {
+          "text": "aushöhlen",
+          "start": 6.49,
+          "end": 7.19
+        },
+        {
+          "text": "auslüften",
+          "start": 8.95,
+          "end": 9.65
+        },
+        {
+          "text": "basteln",
+          "start": 10.85,
+          "end": 11.55
+        },
+        {
+          "text": "form",
+          "start": 13.62,
+          "end": 14.82
+        },
+        {
+          "text": "herausdrücken",
+          "start": 16.1,
+          "end": 17.74
+        },
+        {
+          "text": "Kürbislaterne",
+          "start": 20.49,
+          "end": 21.19
+        },
+        {
+          "text": "Schaber",
+          "start": 23.26,
+          "end": 24.34
+        },
+        {
+          "text": "Schablone",
+          "start": 25.72,
+          "end": 27.58
+        },
+        {
+          "text": "schnitzen",
+          "start": 28.96,
+          "end": 30.42
+        },
+        {
+          "text": "anmalen",
+          "start": 32.5,
+          "end": 33.48
+        },
+        {
+          "text": "Hexe",
+          "start": 35.28,
+          "end": 35.98
+        },
+        {
+          "text": "Look",
+          "start": 37.5,
+          "end": 38.2
+        },
+        {
+          "text": "Rötung",
+          "start": 40.62,
+          "end": 41.32
+        },
+        {
+          "text": "Strich",
+          "start": 42.86,
+          "end": 44.28
+        },
+        {
+          "text": "Vampir",
+          "start": 46.14,
+          "end": 47.3
+        },
+        {
+          "text": "Wunde",
+          "start": 49.28,
+          "end": 49.98
+        },
+        {
+          "text": "Zombie",
+          "start": 52.12,
+          "end": 52.82
+        },
+        {
+          "text": "Allerheiligen",
+          "start": 54.17,
+          "end": 56.07
+        },
+        {
+          "text": "Böse Geister vertreiben",
+          "start": 57.32,
+          "end": 60.02
+        },
+        {
+          "text": "Geistergesicht",
+          "start": 62.16,
+          "end": 62.86
+        },
+        {
+          "text": "Fratze",
+          "start": 62.86,
+          "end": 64.18
+        },
+        {
+          "text": "Skelett",
+          "start": 65.62,
+          "end": 66.92
+        },
+        {
+          "text": "Spinnwebe",
+          "start": 68.46,
+          "end": 70.06
+        },
+        {
+          "text": "Streich",
+          "start": 71.63,
+          "end": 73.01
+        },
+        {
+          "text": "Süßes oder Saures",
+          "start": 74.26,
+          "end": 76.76
+        },
+        {
+          "text": "Verkleidung",
+          "start": 78.13,
+          "end": 80.19
+        },
+        {
+          "text": "Grusel",
+          "start": 81.44,
+          "end": 82.98
+        },
+        {
+          "text": "Gruselig",
+          "start": 84.29,
+          "end": 85.95
+        },
+        {
+          "text": "Horrormäßig",
+          "start": 87.26,
+          "end": 89.22
+        },
+        {
+          "text": "Grässlich",
+          "start": 90.54,
+          "end": 92.0
+        },
+        {
+          "text": "Horror",
+          "start": 93.94,
+          "end": 94.62
+        },
+        {
+          "text": "Anlass",
+          "start": 95.96,
+          "end": 97.38
+        },
+        {
+          "text": "Entstehen",
+          "start": 98.66,
+          "end": 100.5
+        },
+        {
+          "text": "Feierkultur",
+          "start": 101.94,
+          "end": 103.92
+        },
+        {
+          "text": "Populärkultur",
+          "start": 105.2,
+          "end": 107.24
+        },
+        {
+          "text": "Tradition",
+          "start": 108.59,
+          "end": 110.29
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Nacht vom Halloween gehört den Hexen, Geistern und Gruselmonstern.",
-        "Zu Halloween sind die Gebäude oft mit Kürbisfratzen oder Spinnweben dekoriert.",
-        "Zu Halloween ist der Gruselook nicht fehlen.",
-        "Kürbisse stammen zwar ursprünglich aus Amerika.",
-        "Die Idee, sie als Laternen zu verwenden, stammt aber aus Europa.",
-        "Man schnitzte Kürbislaternen, um den Teufel fernzuhalten.",
-        "Im Volksglauben übt Hexe mit Hilfe von magischen Kräften einen meist schädigenden Einfluss auf andere Menschen aus.",
-        "Vampir ist unsterblich.",
-        "Alle Heiligen ist ein christliches Fest, bei dem man der Heiligen gedenkt.",
-        "Sie waren immer zu Streichen aufgelegt.",
-        "Die Kinder ziehen von Haus zu Haus, verlangen nach Süßigkeiten, spielen Süßes oder Saures.",
-        "Der Import von Feierkultur sei kein Einzelphänomen, sagt der Kulturwissenschaftler."
+        {
+          "text": "Die Nacht vom Halloween gehört den Hexen, Geistern und Gruselmonstern.",
+          "start": 119.89,
+          "end": 125.67
+        },
+        {
+          "text": "Zu Halloween sind die Gebäude oft mit Kürbisfratzen oder Spinnweben dekoriert.",
+          "start": 125.67,
+          "end": 135.54
+        },
+        {
+          "text": "Zu Halloween darf der Gruselook nicht fehlen.",
+          "start": 138.67,
+          "end": 142.75
+        },
+        {
+          "text": "Kürbisse stammen zwar ursprünglich aus Amerika.",
+          "start": 145.29,
+          "end": 148.69
+        },
+        {
+          "text": "Die Idee, sie als Laternen zu verwenden, stammt aber aus Europa.",
+          "start": 151.81,
+          "end": 156.73
+        },
+        {
+          "text": "Man schnitzte Kürbislaternen, um den Teufel fernzuhalten.",
+          "start": 160.0,
+          "end": 164.58
+        },
+        {
+          "text": "Im Volksglauben übt Hexe mithilfe von magischen Kräften einen meist schädigenden Einfluss auf andere Menschen aus.",
+          "start": 166.85,
+          "end": 176.31
+        },
+        {
+          "text": "Der Vampir ist unsterblich.",
+          "start": 179.28,
+          "end": 181.54
+        },
+        {
+          "text": "Alle Heiligen ist ein christliches Fest, bei dem man der Heiligen gedenkt.",
+          "start": 184.54,
+          "end": 189.56
+        },
+        {
+          "text": "Sie waren immer zu Streichen aufgelegt.",
+          "start": 192.66,
+          "end": 195.34
+        },
+        {
+          "text": "Die Kinder ziehen von Haus zu Haus, verlangen nach Süßigkeiten, spielen Süßes oder Saures.",
+          "start": 198.4,
+          "end": 205.08
+        },
+        {
+          "text": "Der Import von Feierkultur sei kein Einzelfenomen, sagt der Kulturwissenschaftler.",
+          "start": 207.38,
+          "end": 214.88
+        }
       ]
     }
   ]

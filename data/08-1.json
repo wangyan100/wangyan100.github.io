@@ -4,47 +4,182 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Verkehrsmittel 1 Abfahrt",
-        "Ankunft",
-        "Entwerter Fahrplan",
-        "Haltegriff Haltestelle",
-        "Station Stopp",
-        "Halt Fahrgast",
-        "Mitfahren",
-        "Nehmen Standort",
-        "Taxameter Taxifahrer",
-        "Taxichaufför Taxilicht",
-        "Ausgang",
-        "Aussteigen Eingang",
-        "Einsteigen Fahrrichtung",
-        "Linie Platz",
-        "Umsteigen",
-        "Abteil Bahnhof",
-        "Bahnsteig Gleis",
-        "Klasse Pünktlich",
-        "Reservieren Schaffner",
-        "Verspätung Dauer",
-        "Die einfache Fahrt Hin- und Rückfahrt",
-        "Fahrkarte Sparangebot",
-        "Reisende Reisender",
-        "Reiseplan"
+        {
+          "text": "Verkehrsmittel 1 Abfahrt",
+          "start": 1.87,
+          "end": 7.71
+        },
+        {
+          "text": "Ankunft",
+          "start": 9.06,
+          "end": 11.8
+        },
+        {
+          "text": "Entwerter Fahrplan",
+          "start": 11.8,
+          "end": 16.24
+        },
+        {
+          "text": "Haltegriff Haltestelle",
+          "start": 17.59,
+          "end": 22.61
+        },
+        {
+          "text": "Station Stopp",
+          "start": 24.02,
+          "end": 28.52
+        },
+        {
+          "text": "Halt Fahrgast",
+          "start": 30.12,
+          "end": 34.24
+        },
+        {
+          "text": "Mitfahren",
+          "start": 35.48,
+          "end": 37.22
+        },
+        {
+          "text": "Nehmen Standort",
+          "start": 38.46,
+          "end": 42.9
+        },
+        {
+          "text": "Taxameter Taxifahrer",
+          "start": 44.21,
+          "end": 49.16
+        },
+        {
+          "text": "Taxichaufför Taxilicht",
+          "start": 50.5,
+          "end": 55.42
+        },
+        {
+          "text": "Ausgang",
+          "start": 56.73,
+          "end": 59.33
+        },
+        {
+          "text": "Aussteigen Eingang",
+          "start": 59.33,
+          "end": 64.15
+        },
+        {
+          "text": "Einsteigen Fahrrichtung",
+          "start": 65.43,
+          "end": 71.22
+        },
+        {
+          "text": "Linie Platz",
+          "start": 71.82,
+          "end": 75.58
+        },
+        {
+          "text": "Umsteigen",
+          "start": 77.68,
+          "end": 79.08
+        },
+        {
+          "text": "Abteil Bahnhof",
+          "start": 80.16,
+          "end": 84.23
+        },
+        {
+          "text": "Bahnsteig Gleis",
+          "start": 85.51,
+          "end": 90.04
+        },
+        {
+          "text": "Klasse Pünktlich",
+          "start": 91.35,
+          "end": 95.75
+        },
+        {
+          "text": "Reservieren Schaffner",
+          "start": 97.03,
+          "end": 101.61
+        },
+        {
+          "text": "Verspätung Dauer",
+          "start": 102.99,
+          "end": 107.23
+        },
+        {
+          "text": "Die einfache Fahrt Hin- und Rückfahrt",
+          "start": 108.51,
+          "end": 112.83
+        },
+        {
+          "text": "Fahrkarte Sparangebot",
+          "start": 112.83,
+          "end": 117.13
+        },
+        {
+          "text": "Reisende Reisender",
+          "start": 118.66,
+          "end": 123.46
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Nach der Ankunft in Deutschland muss man sich beim Einwohnermeldeamt anmelden.",
-        "Entwerter können entweder stationär an Haltestellen oder Bahnhöfen oder mobil im Fahrzeug angebracht sein.",
-        "Ich möchte an der nächsten Haltestelle aussteigen.",
-        "Auch wenn wir ein Taxi nehmen, können wir den Zug nicht erreichen.",
-        "Unser Mitgefühl gilt den betroffenen Fahrgästen und Busfahrern sowie deren Familien und Freunden.",
-        "Alle Ausgänge waren versperrt.",
-        "Er steigt endlich im allerletzten Moment in den Zug ein.",
-        "Die Nummer meines Abteils war auf das Zugticket gedruckt.",
-        "Unser Zug ist auf Gleis 5 angekommen.",
-        "Der Zug hat möglicherweise 10 Minuten Verspätung, deshalb kann ich nicht pünktlich ankommen.",
-        "Wir haben unsere Fahrkarten beim Schalter gelöst."
+        {
+          "text": "Nach der Ankunft in Deutschland muss man sich beim Einwohnermeldeamt anmelden.",
+          "start": 134.85,
+          "end": 142.95
+        },
+        {
+          "text": "Entwerter können entweder stationär an Haltestellen oder Bahnhöfen oder mobil im Fahrzeug angebracht sein.",
+          "start": 142.95,
+          "end": 154.81
+        },
+        {
+          "text": "Ich möchte an der nächsten Haltestelle aussteigen.",
+          "start": 154.81,
+          "end": 160.48
+        },
+        {
+          "text": "Auch wenn wir ein Taxi nehmen, können wir den Zug nicht erreichen.",
+          "start": 160.48,
+          "end": 168.22
+        },
+        {
+          "text": "Unser Mitgefühl gilt den betroffenen Fahrgästen und Busfahrern sowie deren Familien und Freunden.",
+          "start": 168.22,
+          "end": 178.42
+        },
+        {
+          "text": "Alle Ausgänge waren versperrt.",
+          "start": 178.42,
+          "end": 183.56
+        },
+        {
+          "text": "Er steigt endlich im allerletzten Moment in den Zug ein.",
+          "start": 183.56,
+          "end": 190.81
+        },
+        {
+          "text": "Die Nummer meines Abteils war auf das Zugticket gedruckt.",
+          "start": 190.81,
+          "end": 197.45
+        },
+        {
+          "text": "Unser Zug ist auf Gleis 5 angekommen.",
+          "start": 197.45,
+          "end": 203.36
+        },
+        {
+          "text": "Der Zug hat möglicherweise 10 Minuten Verspätung, deshalb kann ich nicht pünktlich ankommen.",
+          "start": 203.36,
+          "end": 212.87
+        },
+        {
+          "text": "Wir haben unsere Fahrkarten beim Schalter gelöst.",
+          "start": 212.87,
+          "end": 219.03
+        }
       ]
     }
   ]

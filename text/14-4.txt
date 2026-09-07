@@ -1,36 +1,36 @@
-Accessoires 1 Brieftasche
-Geldbörse Portemonnaie
-Faltbörse Handyumhängetasche
-Kartenhalter Münzportmonnaie
-Schlüsselanhänger Haarband
-Haargummi Haarklammer
-Haarklemme Haarnadel
-Haarspange Perücke
-Reif Schleife
-Anstecknadel Armband
-Brosche Halskette
-Halsring Manchettenknopf
-Ohrgehänge Ohrring
-Brillant Diamant
-Edelstein Elfenbein
-Jade Jadeid
-Koralle Perle
-Flechttasche Gürteltasche
-Häkeltasche Handtasche
-Henkeltasche Schultertasche
-Umhängetasche Sprechen Sie bitte die folgenden Sätze
-Ich nahm meine Brieftasche aus der Innentasche und zog 500 Markscheine heraus.
-Im Bus stahl ein Dieb einem Mann den Geldbeutel.
-Lukas zog sein Portemonnaie aus der Tasche und bezahlte 10 Euro.
-Von jedem verkauften Schlüsselanhänger auf dem Weihnachtsmarkt wird 1 Euro gespendet.
-Lange Haarnadeln werden noch mit Vorliebe in Japan, China und Indien getragen.
-Haarspangen sind oft aus Kunststoff und Metall verarbeitet.
-Perücken wurden schon im alten Ägypten von Männern und Frauen gleichermaßen getragen.
-Eine Schleife hält ihr Haar zusammen.
-Im alten Griechenland Rom und im Bizanz kam der Brosche eine doppelte Funktion zu.
-Sie wurde sowohl als Gewandschließe als auch als Schmuckstück verwendet.
-In einem Ohr hat er einen Ohrring mit einem glitzernden Stein getragen.
-Früher glaubte man, dass das Pulver aus Diamanten tödlich sein kann.
-Die rote Koralle ist in allen warmen Meeren beheimatet.
-Aufgrund der hohen Nachfrage sind die Vorkommen aber bedrohlich geschrumpft.
-Sie erhielten neben dem traditionellen T-Shirt mit Logo auch eine Gürteltasche als Geschenk.
+[00:00:01.740 --> 00:00:08.650] Accessoires 1 Brieftasche
+[00:00:08.650 --> 00:00:13.360] Geldbörse Portemonnaie
+[00:00:14.700 --> 00:00:20.270] Faltbörse Handyumhängetasche
+[00:00:21.550 --> 00:00:26.980] Kartenhalter Münzportmonnaie
+[00:00:28.290 --> 00:00:33.080] Schlüsselanhänger Haarband
+[00:00:34.420 --> 00:00:39.160] Haargummi Haarklammer
+[00:00:40.440 --> 00:00:44.930] Haarklemme Haarnadel
+[00:00:46.270 --> 00:00:51.860] Haarspange Perücke
+[00:00:51.860 --> 00:00:56.360] Reif Schleife
+[00:00:57.610 --> 00:01:03.350] Anstecknadel Armband
+[00:01:03.350 --> 00:01:08.130] Brosche Halskette
+[00:01:09.410 --> 00:01:14.370] Halsring Manchettenknopf
+[00:01:15.720 --> 00:01:20.040] Ohrgehänge Ohrring
+[00:01:21.320 --> 00:01:25.920] Brillant Diamant
+[00:01:30.740 --> 00:01:33.540] Edelstein Elfenbein
+[00:01:33.540 --> 00:01:37.860] Jade Jadeid
+[00:01:39.110 --> 00:01:43.460] Koralle Perle
+[00:01:44.930 --> 00:01:50.200] Flechttasche Gürteltasche
+[00:01:51.510 --> 00:01:56.360] Häkeltasche Handtasche
+[00:01:57.710 --> 00:02:02.700] Henkeltasche Schultertasche
+[00:02:04.080 --> 00:02:13.000] Umhängetasche Sprechen Sie bitte die folgenden Sätze
+[00:02:15.900 --> 00:02:21.880] Ich nahm meine Brieftasche aus der Innentasche und zog 500 Markscheine heraus.
+[00:02:25.010 --> 00:02:29.150] Im Bus stahl ein Dieb einem Mann den Geldbeutel.
+[00:02:31.760 --> 00:02:36.260] Lukas zog sein Portemonnaie aus der Tasche und bezahlte 10 Euro.
+[00:02:39.510 --> 00:02:45.990] Von jedem verkauften Schlüsselanhänger auf dem Weihnachtsmarkt wird 1 Euro gespendet.
+[00:02:48.320 --> 00:02:54.760] Lange Haarnadeln werden noch mit Vorliebe in Japan, China und Indien getragen.
+[00:02:57.980 --> 00:03:02.700] Haarspangen sind oft aus Kunststoff und Metall verarbeitet.
+[00:03:05.350 --> 00:03:10.790] Perücken wurden schon im alten Ägypten von Männern und Frauen gleichermaßen getragen.
+[00:03:14.020 --> 00:03:16.420] Eine Schleife hält ihr Haar zusammen.
+[00:03:19.460 --> 00:03:25.840] Im alten Griechenland Rom und im Bizanz kam der Brosche eine doppelte Funktion zu.
+[00:03:25.840 --> 00:03:31.600] Sie wurde sowohl als Gewandschließe als auch als Schmuckstück verwendet.
+[00:03:34.590 --> 00:03:39.530] In einem Ohr hatte einen Ohrring mit einem glitzernden Stein getragen.
+[00:03:42.490 --> 00:03:47.210] Früher glaubte man, dass das Pulver aus Diamanten tödlich sein kann.
+[00:03:50.200 --> 00:03:54.620] Die rote Koralle ist in allen warmen Meeren beheimatet.
+[00:03:54.900 --> 00:04:00.840] Aufgrund der hohen Nachfrage sind die Vorkommen aber bedrohlich geschrumpft.
+[00:04:03.150 --> 00:04:09.990] Sie erhielten neben dem traditionellen T-Shirt mit Logo auch eine Gürteltasche als Geschenk.

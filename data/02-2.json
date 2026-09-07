@@ -4,65 +4,277 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Weine",
-        "Champagner",
-        "Sekt",
-        "Dessertwein",
-        "Fasswein",
-        "Riesling",
-        "Rotwein",
-        "Schaumwein",
-        "Weißwein",
-        "Madeira",
-        "Malaga",
-        "Masala",
-        "Portwein",
-        "Sherry",
-        "Tafelwein",
-        "Landwein",
-        "Prädikatswein",
-        "Kabinett",
-        "Spätlese",
-        "Auslese",
-        "Trockenbärenauslese",
-        "Eiswein",
-        "Kellermeister",
-        "Weinmacher",
-        "Küfer",
-        "Weinkenner",
-        "Winzer",
-        "Önologe",
-        "Sommelier",
-        "Weinkellner",
-        "Federweiße",
-        "Gespritzte",
-        "Weinschorle",
-        "Honigwein",
-        "Mett",
-        "Most",
-        "Obstwein",
-        "Tristerwein"
+        {
+          "text": "Weine",
+          "start": 1.81,
+          "end": 3.59
+        },
+        {
+          "text": "Champagner",
+          "start": 5.32,
+          "end": 6.56
+        },
+        {
+          "text": "Sekt",
+          "start": 8.36,
+          "end": 10.6
+        },
+        {
+          "text": "Dessertwein",
+          "start": 10.6,
+          "end": 12.46
+        },
+        {
+          "text": "Fasswein",
+          "start": 14.26,
+          "end": 16.48
+        },
+        {
+          "text": "Riesling",
+          "start": 17.06,
+          "end": 18.36
+        },
+        {
+          "text": "Rotwein",
+          "start": 20.34,
+          "end": 21.56
+        },
+        {
+          "text": "Schaumwein",
+          "start": 23.38,
+          "end": 24.7
+        },
+        {
+          "text": "Weißwein",
+          "start": 26.39,
+          "end": 27.81
+        },
+        {
+          "text": "Madeira",
+          "start": 29.36,
+          "end": 31.22
+        },
+        {
+          "text": "Malaga",
+          "start": 31.22,
+          "end": 33.1
+        },
+        {
+          "text": "Masala",
+          "start": 35.28,
+          "end": 36.04
+        },
+        {
+          "text": "Portwein",
+          "start": 38.04,
+          "end": 39.24
+        },
+        {
+          "text": "Sherry",
+          "start": 41.24,
+          "end": 42.1
+        },
+        {
+          "text": "Tafelwein",
+          "start": 43.44,
+          "end": 45.36
+        },
+        {
+          "text": "Landwein",
+          "start": 47.11,
+          "end": 48.29
+        },
+        {
+          "text": "Prädikatswein",
+          "start": 49.98,
+          "end": 51.78
+        },
+        {
+          "text": "Kabinett",
+          "start": 53.42,
+          "end": 54.54
+        },
+        {
+          "text": "Spätlese",
+          "start": 56.01,
+          "end": 57.91
+        },
+        {
+          "text": "Auslese",
+          "start": 59.56,
+          "end": 60.96
+        },
+        {
+          "text": "Trockenbärenauslese",
+          "start": 62.8,
+          "end": 65.12
+        },
+        {
+          "text": "Eiswein",
+          "start": 66.74,
+          "end": 68.08
+        },
+        {
+          "text": "Kellermeister",
+          "start": 69.42,
+          "end": 71.1
+        },
+        {
+          "text": "Weinmacher",
+          "start": 73.06,
+          "end": 74.18
+        },
+        {
+          "text": "Küfer",
+          "start": 76.12,
+          "end": 77.24
+        },
+        {
+          "text": "Weinkenner",
+          "start": 78.52,
+          "end": 80.48
+        },
+        {
+          "text": "Winzer",
+          "start": 82.12,
+          "end": 83.18
+        },
+        {
+          "text": "Önologe",
+          "start": 84.96,
+          "end": 86.34
+        },
+        {
+          "text": "Sommelier",
+          "start": 88.14,
+          "end": 88.84
+        },
+        {
+          "text": "Weinkellner",
+          "start": 90.53,
+          "end": 92.53
+        },
+        {
+          "text": "Federweiße",
+          "start": 94.45,
+          "end": 95.71
+        },
+        {
+          "text": "Gespritzte",
+          "start": 97.85,
+          "end": 99.19
+        },
+        {
+          "text": "Weinschorle",
+          "start": 100.53,
+          "end": 102.27
+        },
+        {
+          "text": "Honigwein",
+          "start": 104.26,
+          "end": 106.78
+        },
+        {
+          "text": "Mett",
+          "start": 106.78,
+          "end": 109.38
+        },
+        {
+          "text": "Most",
+          "start": 110.78,
+          "end": 110.78
+        },
+        {
+          "text": "Obstwein",
+          "start": 112.78,
+          "end": 114.18
+        },
+        {
+          "text": "Tristerwein",
+          "start": 115.49,
+          "end": 116.89
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Im deutschen Sprachraum ist Sekt die Bezeichnung für hochwertige Schaumweine.",
-        "Dessertwein wird in einigen Ländern am Ende einer Mahlzeit mit dem Dessert getrunken.",
-        "Riesling genießt hohes Ansehen auf internationalen Märkten.",
-        "Sie trinkt gern französische Rotweine.",
-        "Um ihre Schaumweine noch besser in Szene zu setzen, engagieren die Winzer Künstler aus aller Welt.",
-        "Man kann Portwein rot bei Zimmertemperatur trinken.",
-        "Sherry wurde im 18. und 19.",
-        "Jahrhundert durch englische Handelshäuser weltweit bekannt gemacht.",
-        "Nach Qualitätsbezeichnung für Wein aus Deutschland ist Tafelwein die niedrigste Qualitätsstufe.",
-        "Der Prädikatswein ist die Bezeichnung für die höchste Weinqualität in Deutschland.",
-        "Die Auslese ist als Wein von der Güte zwischen der Spätlese und der Beerenauslese eingeordnet.",
-        "Weinschorle besteht etwa zur Hälfte aus frischem Weißwein und kohlesäurehaltigem Mineralwasser.",
-        "Honigwein ist zu jeder Jahres- und Tageszeit ein Genuss.",
-        "Aus einer Ortschronik vom Ende des 19.",
-        "Jahrhunderts geht hervor, dass Most auf der Schwäbischen Alb zu einem der wichtigsten Getränke zählte."
+        {
+          "text": "Im deutschen Sprachraum ist Sekt die Bezeichnung für hochwertige Schaumweine.",
+          "start": 127.16,
+          "end": 133.54
+        },
+        {
+          "text": "Dessertwein wird in einigen Ländern am Ende einer Mahlzeit mit dem Dessert getrunken.",
+          "start": 136.52,
+          "end": 143.1
+        },
+        {
+          "text": "Riesling genießt hohes Ansehen auf internationalen Märkten.",
+          "start": 145.65,
+          "end": 150.51
+        },
+        {
+          "text": "Sie trinkt gern französische Rotweine.",
+          "start": 153.47,
+          "end": 156.37
+        },
+        {
+          "text": "Um ihre Schaumweine noch besser in Szene zu setzen, engagieren die Winzer Künstler aus aller Welt.",
+          "start": 158.74,
+          "end": 166.66
+        },
+        {
+          "text": "Man kann Portwein rot bei Zimmertemperatur trinken.",
+          "start": 169.82,
+          "end": 174.18
+        },
+        {
+          "text": "Sherry wurde im 18. und 19.",
+          "start": 177.04,
+          "end": 179.6
+        },
+        {
+          "text": "Jahrhundert durch englische Handelshäuser weltweit bekannt gemacht.",
+          "start": 179.82,
+          "end": 184.08
+        },
+        {
+          "text": "Nach Qualitätsbezeichnung für Wein aus Deutschland ist Tafelwein die niedrigste Qualitätsstufe.",
+          "start": 187.22,
+          "end": 194.54
+        },
+        {
+          "text": "Der Prädikatswein ist die Bezeichnung für die höchste Weinqualität in Deutschland.",
+          "start": 196.81,
+          "end": 202.85
+        },
+        {
+          "text": "Die Auslese ist als Wein von der Güte zwischen der Spätlese und der Beerenauslese eingeordnet.",
+          "start": 205.99,
+          "end": 213.47
+        },
+        {
+          "text": "Weinschorle besteht etwa zur Hälfte aus frischem Weißwein und kohlesäurehaltigem Mineralwasser.",
+          "start": 216.69,
+          "end": 223.89
+        },
+        {
+          "text": "Honigwein ist zu jeder Jahres- und Tageszeit ein Genuss.",
+          "start": 227.18,
+          "end": 230.8
+        },
+        {
+          "text": "Aus einer Ortschronik vom Ende des 19.",
+          "start": 230.8,
+          "end": 236.78
+        },
+        {
+          "text": "Jahrhunderts geht hervor, dass Most auf der Schwäbischen Alb zu einem der wichtigsten Getränke zählte.",
+          "start": 236.78,
+          "end": 243.94
+        }
       ]
     }
   ]

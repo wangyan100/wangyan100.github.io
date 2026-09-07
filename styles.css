@@ -301,6 +301,7 @@ h3 {
   border-radius: 6px;
   background: rgba(219, 231, 223, 0.42);
   font-size: 1.02rem;
+  cursor: pointer;
 }
 
 .transcript-section-sentences .transcript-items {
@@ -314,6 +315,20 @@ h3 {
   background: rgba(255, 250, 240, 0.78);
   font-size: clamp(1.05rem, 2vw, 1.25rem);
   line-height: 1.65;
+  cursor: pointer;
+}
+
+.transcript-item:hover,
+.transcript-item:focus-visible {
+  border-color: var(--accent);
+  outline: 2px solid rgba(173, 61, 43, 0.2);
+  outline-offset: 2px;
+}
+
+.transcript-item.is-playing {
+  border-color: var(--accent);
+  background: rgba(173, 61, 43, 0.16);
+  box-shadow: inset 4px 0 0 var(--accent);
 }
 
 .transcript-status {

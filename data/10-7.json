@@ -4,27 +4,97 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Welttag der Erde. Auf der Erde. Erde. Global. In aller Welt. International. Land. Unter der Sonne. Weltweit. Erderwärmung. Klima. Klimawandel.",
-        "Luftqualität. Natur. Ozone Loch. Ressource. Treibhauseffekt. Ökologisch. Forum. Initiative. Motto. Regierung.",
-        "Sammelaktion. Spende. Verband. Begrünen. Erneuerbar. Maßnahme. Nachhaltig. Recycling. Schützen. Umweltfreundlich. Umweltbewusstsein. Abgas. Abwasser. Aussterben.",
-        "Emission. Gefährden. Sich verschlechtern. Smog. Umweltfeindlich. Umweltzerstörung. Verschmutzen."
+        {
+          "text": "Welttag der Erde. Auf der Erde. Erde. Global. In aller Welt. International. Land. Unter der Sonne. Weltweit. Erderwärmung. Klima. Klimawandel.",
+          "start": 1.65,
+          "end": 36.88
+        },
+        {
+          "text": "Luftqualität. Natur. Ozone Loch. Ressource. Treibhauseffekt. Ökologisch. Forum. Initiative.",
+          "start": 39.82,
+          "end": 61.48
+        },
+        {
+          "text": "Motto. Regierung. Sammelaktion. Spende. Verband. Begrünen. Erneuerbar.",
+          "start": 65.32,
+          "end": 82.88
+        },
+        {
+          "text": "Maßnahme. Nachhaltig. Recycling. Schützen. Umweltfreundlich. Umweltbewusstsein. Abgas. Abwasser. Aussterben. Emission. Gefährden. Sich verschlechtern. Smog. Umweltfeindlich.",
+          "start": 84.56,
+          "end": 125.44
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Weltweit sterben einer internationalen Studie zufolge Millionen Menschen wegen Umweltverschmutzung.",
-        "Das Artensterben ist bedrohlicher als der Klimawandel.",
-        "Der Natur wohnt eine durchgängige Gesetzmäßigkeit inne.",
-        "Die Ozeane sind zweifellos unsere wichtigsten natürlichen Ressourcen.",
-        "Der Treibhauseffekt wird hauptsächlich durch Kohlendioxid verursacht.",
-        "Der Earth Day steht im Jahr 2019 unter dem Motto Artenschutz und Artenvielfalt.",
-        "Beim Recycling hält Deutschland weltweit den Spitzenplatz.",
-        "Etwa eine Million Tier- und Pflanzenarten könnten in den kommenden Jahrzehnten aussterben.",
-        "In einer Zeit, in der sich der Umweltzustand zunehmend verschlechtert, ist es schwer zu erkennen, welches unserer Ökosysteme am stärksten gefährdet ist.",
-        "Aus Angst vor Smog und Unfällen verbietet Peking in diesem Jahr Feuerwerk.",
-        "Als Folge der Umweltzerstörung steht die Zukunft der Menschheit auf dem Spiel."
+        {
+          "text": "Der Welttag der Erde macht auf Umweltprobleme aufmerksam.",
+          "start": 142.64,
+          "end": 147.4
+        },
+        {
+          "text": "Die Erde dreht sich um ihre Achse.",
+          "start": 150.49,
+          "end": 152.79
+        },
+        {
+          "text": "Weltweit sterben einer internationalen Studie zufolge Millionen Menschen wegen Umweltverschmutzung.",
+          "start": 156.01,
+          "end": 163.39
+        },
+        {
+          "text": "Das Artensterben ist bedrohlicher als der Klimawandel.",
+          "start": 165.66,
+          "end": 170.36
+        },
+        {
+          "text": "Der Natur wohnt eine durchgängige Gesetzmäßigkeit inne.",
+          "start": 173.5,
+          "end": 177.68
+        },
+        {
+          "text": "Die Ozeane sind zweifellos unsere wichtigsten natürlichen Ressourcen.",
+          "start": 180.77,
+          "end": 185.59
+        },
+        {
+          "text": "Der Treibhauseffekt wird hauptsächlich durch Kohlendioxid verursacht.",
+          "start": 188.65,
+          "end": 193.71
+        },
+        {
+          "text": "Der Earth Day steht im Jahr 2019 unter dem Motto Artenschutz und Artenvielfalt.",
+          "start": 195.95,
+          "end": 204.21
+        },
+        {
+          "text": "Beim Recycling hält Deutschland weltweit den Spitzenplatz.",
+          "start": 207.16,
+          "end": 211.44
+        },
+        {
+          "text": "Etwa eine Million Tier- und Pflanzenarten könnten in den kommenden Jahrzehnten aussterben.",
+          "start": 214.56,
+          "end": 219.92
+        },
+        {
+          "text": "In einer Zeit, in der sich der Umweltzustand zunehmend verschlechtert, ist es schwer zu erkennen, welches unserer Ökosysteme am stärksten gefährdet ist.",
+          "start": 219.92,
+          "end": 234.24
+        },
+        {
+          "text": "Aus Angst vor Smog und Unfällen verbietet Peking in diesem Jahr Feuerwerk.",
+          "start": 234.24,
+          "end": 242.37
+        },
+        {
+          "text": "Als Folge der Umweltzerstörung steht die Zukunft der Menschheit auf dem Spiel.",
+          "start": 242.37,
+          "end": 251.12
+        }
       ]
     }
   ]

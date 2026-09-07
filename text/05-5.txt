@@ -1,74 +1,75 @@
-Bank
-Girokonto
-Mobile Banking
-Online Banking
-Sparkonto
-Tagesgeldkonto
-abheben
-eröffnen
-Kontoauszug
-Kontonummer
-löschen
-schließen
-Saldo
-Sparbuch
-überweisen
-auszahlen
-Belege ausdrucken
-bestätigen
-Betrag
-eingeben
-einstecken
-einzahlen
-Code
-Geheimzahl
-Kontostand
-abzahlen
-zurückzahlen
-tilgen
-Antragsformular
-beantragen
-Gebühr
-PIN-Code
-Rate
-TAN-Code
-Autokredit
-Dispokredit
-Privatkredit
-Zins
-Zinssatz
-Sprechen Sie bitte die folgenden Sätze.
-Das geht auf mein Konto.
-Möchten Sie ein Girokonto
-oder ein Sparkonto eröffnen?
-Wenn Sie Ihr Geld
-sicher anlegen möchten
-und schnell darauf zugreifen können,
-ist ein Tagesgeldkonto
-eine gute Wahl.
-Du hast den Feuerbrand
-in mein junges,
-friedsames Herz geworfen
-und er wird nimmer nimmer gelöscht werden.
-Kabale und Liebe.
-Der Saldo
-beträgt nur 100 Euro.
-Schecks werden in Deutschland
-nur sehr selten von Privatpersonen
-verwendet.
-Mein Vater hat gestern
-5000 Euro an mich überwiesen.
-Ich habe kein Bargeld
-und werde am Geldautomaten
-Geld abheben.
-Mit den Apps kann man
-den Kontostand einsehen.
-Er zahlt seine Wohnung
-in monatlichen Raten von
-300 Euro ab.
-Füllen Sie das Antragsformular
-online aus.
-Meistens muss man für ein Konto
-Gebühr bezahlen.
-Diese Familie lebt von Zinsen
-ihres Vermögens.
+[00:00:01.940 --> 00:00:03.760] Bank
+[00:00:06.400 --> 00:00:07.800] Girokonto
+[00:00:07.800 --> 00:00:10.020] Mobile Banking
+[00:00:11.300 --> 00:00:13.160] Online Banking
+[00:00:14.690 --> 00:00:16.230] Sparkonto
+[00:00:17.510 --> 00:00:19.850] Tagesgeldkonto
+[00:00:21.100 --> 00:00:22.340] abheben
+[00:00:24.590 --> 00:00:25.410] eröffnen
+[00:00:27.750 --> 00:00:28.450] Kontoauszug
+[00:00:31.180 --> 00:00:32.060] Kontonummer
+[00:00:33.180 --> 00:00:34.220] löschen
+[00:00:36.530 --> 00:00:37.610] schließen
+[00:00:38.530 --> 00:00:39.850] Saldo
+[00:00:41.190 --> 00:00:41.990] Scheck
+[00:00:44.920 --> 00:00:46.400] Sparbuch
+[00:00:46.920 --> 00:00:48.100] überweisen
+[00:00:50.870 --> 00:00:52.270] auszahlen
+[00:00:52.270 --> 00:00:54.270] Belege ausdrucken
+[00:00:57.190 --> 00:00:58.590] bestätigen
+[00:01:00.190 --> 00:01:01.590] Betrag
+[00:01:02.170 --> 00:01:03.570] eingeben
+[00:01:05.450 --> 00:01:06.730] einstecken
+[00:01:07.450 --> 00:01:09.090] einzahlen
+[00:01:10.370 --> 00:01:11.870] Code
+[00:01:13.270 --> 00:01:14.670] Geheimzahl
+[00:01:17.940 --> 00:01:18.640] Kontostand
+[00:01:19.680 --> 00:01:20.380] abzahlen
+[00:01:22.990 --> 00:01:23.690] zurückzahlen
+[00:01:25.670 --> 00:01:26.570] tilgen
+[00:01:28.390 --> 00:01:29.850] Antragsformular
+[00:01:33.080 --> 00:01:33.780] beantragen
+[00:01:34.940 --> 00:01:35.640] Gebühr
+[00:01:37.580 --> 00:01:38.920] PIN-Code
+[00:01:40.260 --> 00:01:41.660] Rate
+[00:01:43.270 --> 00:01:45.670] TAN-Code
+[00:01:45.670 --> 00:01:48.230] Autokredit
+[00:01:48.230 --> 00:01:49.790] Dispokredit
+[00:01:52.900 --> 00:01:53.600] Privatkredit
+[00:01:56.300 --> 00:01:57.100] Zins
+[00:01:59.370 --> 00:02:00.170] Zinssatz
+[00:02:04.650 --> 00:02:07.850] Sprechen Sie bitte die folgenden Sätze.
+[00:02:10.570 --> 00:02:12.690] Das geht auf mein Konto.
+[00:02:15.150 --> 00:02:16.990] Möchten Sie ein Girokonto
+[00:02:16.990 --> 00:02:19.190] oder ein Sparkonto eröffnen?
+[00:02:22.090 --> 00:02:23.150] Wenn Sie Ihr Geld
+[00:02:23.150 --> 00:02:24.710] sicher anlegen möchten
+[00:02:24.710 --> 00:02:27.030] und schnell darauf zugreifen können,
+[00:02:27.430 --> 00:02:29.030] ist ein Tagesgeldkonto
+[00:02:29.030 --> 00:02:30.150] eine gute Wahl.
+[00:02:32.970 --> 00:02:34.770] Du hast den Feuerbrand
+[00:02:34.770 --> 00:02:35.950] in mein junges,
+[00:02:35.970 --> 00:02:37.890] friedsames Herz geworfen
+[00:02:37.890 --> 00:02:40.650] und er wird nimmer nimmer gelöscht werden.
+[00:02:41.150 --> 00:02:42.450] Kabale und Liebe.
+[00:02:45.450 --> 00:02:46.010] Der Saldo
+[00:02:46.010 --> 00:02:48.010] beträgt nur 100 Euro.
+[00:02:51.120 --> 00:02:52.800] Schecks werden in Deutschland
+[00:02:52.800 --> 00:02:54.640] nur sehr selten von Privatpersonen
+[00:02:55.620 --> 00:02:56.460] verwendet.
+[00:02:59.100 --> 00:03:00.580] Mein Vater hat gestern
+[00:03:00.580 --> 00:03:03.100] 5000 Euro an mich überwiesen.
+[00:03:06.140 --> 00:03:07.760] Ich habe kein Bargeld
+[00:03:07.760 --> 00:03:08.980] und werde am Geldautomaten
+[00:03:09.740 --> 00:03:10.780] Geld abheben.
+[00:03:13.840 --> 00:03:15.180] Mit den Apps kann man
+[00:03:15.180 --> 00:03:16.780] den Kontostand einsehen.
+[00:03:19.050 --> 00:03:21.270] Er zahlt seine Wohnung
+[00:03:21.270 --> 00:03:22.830] in monatlichen Raten
+[00:03:22.830 --> 00:03:24.830] von 300 Euro ab.
+[00:03:27.640 --> 00:03:29.680] Füllen Sie das Antragsformular
+[00:03:29.680 --> 00:03:30.720] online aus.
+[00:03:33.810 --> 00:03:35.810] Meistens muss man für ein Konto
+[00:03:35.810 --> 00:03:36.970] Gebühr bezahlen.
+[00:03:40.170 --> 00:03:41.850] Diese Familie lebt von
+[00:03:41.850 --> 00:03:43.530] Zinsen Ihres Vermögens.

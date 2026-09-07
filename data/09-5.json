@@ -4,59 +4,247 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Urinierens- und Genitalsystem",
-        "Harnblase",
-        "Harnleiter",
-        "Harnröhre",
-        "Nebennieren",
-        "Niere",
-        "Damm",
-        "Das äußere Genitale",
-        "Kitzler",
-        "Jungfernhäutchen",
-        "Schamhaar",
-        "Schamlippen",
-        "Scheidenöffnung",
-        "Ei",
-        "Eierstock",
-        "Eileiter",
-        "Gebärmutter",
-        "Menopause",
-        "Monatsblutung",
-        "Regel",
-        "Bärmutterhals",
-        "Muttermund",
-        "Scheide",
-        "Eichel",
-        "Hodensack",
-        "Penis",
-        "Glied",
-        "Schwellkörper",
-        "Vorhaut",
-        "Samenbläschen",
-        "Samenfaden",
-        "Samenzelle",
-        "Samenflüssigkeit",
-        "Sperma",
-        "Vorsteherdrüse"
+        {
+          "text": "Urinierens- und Genitalsystem",
+          "start": 1.14,
+          "end": 2.9
+        },
+        {
+          "text": "Harnblase",
+          "start": 2.9,
+          "end": 4.48
+        },
+        {
+          "text": "Harnleiter",
+          "start": 5.82,
+          "end": 7.86
+        },
+        {
+          "text": "Harnröhre",
+          "start": 9.17,
+          "end": 10.93
+        },
+        {
+          "text": "Nebennieren",
+          "start": 13.75,
+          "end": 15.15
+        },
+        {
+          "text": "Niere",
+          "start": 15.15,
+          "end": 17.61
+        },
+        {
+          "text": "Damm",
+          "start": 19.21,
+          "end": 20.61
+        },
+        {
+          "text": "Das äußere Genitale",
+          "start": 20.61,
+          "end": 24.71
+        },
+        {
+          "text": "Kitzler",
+          "start": 24.71,
+          "end": 26.05
+        },
+        {
+          "text": "Jungfernhäutchen",
+          "start": 27.33,
+          "end": 28.91
+        },
+        {
+          "text": "Schamhaar",
+          "start": 30.77,
+          "end": 32.17
+        },
+        {
+          "text": "Schamlippen",
+          "start": 33.52,
+          "end": 35.2
+        },
+        {
+          "text": "Scheidenöffnung",
+          "start": 36.54,
+          "end": 38.02
+        },
+        {
+          "text": "Ei",
+          "start": 41.13,
+          "end": 42.53
+        },
+        {
+          "text": "Eierstock",
+          "start": 42.53,
+          "end": 43.35
+        },
+        {
+          "text": "Eileiter",
+          "start": 44.63,
+          "end": 46.29
+        },
+        {
+          "text": "Gebärmutter",
+          "start": 47.8,
+          "end": 50.22
+        },
+        {
+          "text": "Menopause",
+          "start": 50.22,
+          "end": 52.52
+        },
+        {
+          "text": "Monatsblutung",
+          "start": 54.76,
+          "end": 56.16
+        },
+        {
+          "text": "Regel",
+          "start": 56.16,
+          "end": 58.8
+        },
+        {
+          "text": "Bärmutterhals",
+          "start": 60.08,
+          "end": 61.18
+        },
+        {
+          "text": "Muttermund",
+          "start": 61.9,
+          "end": 63.9
+        },
+        {
+          "text": "Scheide",
+          "start": 64.9,
+          "end": 66.24
+        },
+        {
+          "text": "Eichel",
+          "start": 67.55,
+          "end": 68.93
+        },
+        {
+          "text": "Hodensack",
+          "start": 70.18,
+          "end": 71.82
+        },
+        {
+          "text": "Penis",
+          "start": 73.1,
+          "end": 74.52
+        },
+        {
+          "text": "Glied",
+          "start": 77.24,
+          "end": 78.64
+        },
+        {
+          "text": "Schwellkörper",
+          "start": 78.64,
+          "end": 80.92
+        },
+        {
+          "text": "Vorhaut",
+          "start": 80.92,
+          "end": 82.86
+        },
+        {
+          "text": "Samenbläschen",
+          "start": 84.3,
+          "end": 85.74
+        },
+        {
+          "text": "Samenfaden",
+          "start": 89.06,
+          "end": 90.46
+        },
+        {
+          "text": "Samenzelle",
+          "start": 90.46,
+          "end": 92.56
+        },
+        {
+          "text": "Samenflüssigkeit",
+          "start": 93.84,
+          "end": 96.16
+        },
+        {
+          "text": "Sperma",
+          "start": 96.16,
+          "end": 98.48
+        },
+        {
+          "text": "Vorsteherdrüse",
+          "start": 99.86,
+          "end": 101.48
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Das häufigste Problem, das die ableitenden Harnwege betrifft, ist die akute Blasenentzündung.",
-        "In der Harnblase wird Hahn gesammelt und zwischengespeichert, bis er über die Harnröhre entleert wird.",
-        "Der Harnleiter verbindet die Nieren mit der Harnblase.",
-        "Die Nebennieren befinden sich bei Menschen auf den oberen Polen beider Nieren.",
-        "Der Kitzler ist ein Teil der Vulva.",
-        "Das Jungfernhäutchen bildet die Grenze zur Scheide, die zu den inneren Geschlechtsorganen zählt.",
-        "Die kleinen Schamlippen werden außen von den großen Schamlippen umschlossen.",
-        "Zu den inneren weiblichen Geschlechtsorganen gehören Eierstöcke, Gebärmutter, Eileiter und Scheide.",
-        "Die Gebärmutter ist bei der geschlechtsreifen Frau etwa 7 bis 9 cm lang.",
-        "Der Gebärmutterhals sollte sich erst am Ende der Schwangerschaft verkürzen.",
-        "Als Befruchtung bezeichnet man den Moment, in dem eine Samenzelle durch die Eihülle in die Eizelle eindringt und die Erbanlagen von Mann und Frau verschmelzen.",
-        "Männer ab 45 Jahren sollten jährlich zur Vorsorge von Vorsteherdrüse gehen, um mögliche Erkrankungen, zum Beispiel Prostatakrebs, frühzeitig erkennen und behandeln zu können."
+        {
+          "text": "Das häufigste Problem, das die ableitenden Harnwege betrifft, ist die akute Blasenentzündung.",
+          "start": 111.42,
+          "end": 120.55
+        },
+        {
+          "text": "In der Harnblase wird Harn gesammelt und zwischengespeichert, bis er über die Harnröhre entleert wird.",
+          "start": 120.55,
+          "end": 131.14
+        },
+        {
+          "text": "Der Harnleiter verbindet die Nieren mit der Harnblase.",
+          "start": 131.14,
+          "end": 137.24
+        },
+        {
+          "text": "Die Nebennieren befinden sich bei Menschen auf den oberen Polen beider Nieren.",
+          "start": 137.24,
+          "end": 145.89
+        },
+        {
+          "text": "Der Kitzler ist ein Teil der Vulva.",
+          "start": 145.89,
+          "end": 151.37
+        },
+        {
+          "text": "Das Jungfernhäutchen bildet die Grenze zur Scheide, die zu den inneren Geschlechtsorganen zählt.",
+          "start": 151.37,
+          "end": 161.03
+        },
+        {
+          "text": "Die kleinen Schamlippen werden außen von den großen Schamlippen umschlossen.",
+          "start": 161.03,
+          "end": 168.43
+        },
+        {
+          "text": "Zu den inneren weiblichen Geschlechtsorganen gehören Eierstöcke, Gebärmutter, Eileiter und Scheide.",
+          "start": 168.43,
+          "end": 178.55
+        },
+        {
+          "text": "Die Gebärmutter ist bei der geschlechtsreifen Frau etwa sieben bis neun Zentimeter lang.",
+          "start": 178.55,
+          "end": 187.24
+        },
+        {
+          "text": "Der Gebärmutterhals sollte sich erst am Ende der Schwangerschaft verkürzen.",
+          "start": 187.24,
+          "end": 194.78
+        },
+        {
+          "text": "Als Befruchtung bezeichnet man den Moment, in dem eine Samenzelle durch die Eihülle in die Eizelle eindringt und die Erbanlagen von Mann und Frau verschmelzen.",
+          "start": 194.78,
+          "end": 209.18
+        },
+        {
+          "text": "Männer ab 45 Jahren sollten jährlich zur Vorsorge von Vorsteherdrüse gehen, um mögliche Erkrankungen, zum Beispiel Prostata-Krebs, frühzeitig erkennen und behandeln zu können.",
+          "start": 209.18,
+          "end": 225.82
+        }
       ]
     }
   ]

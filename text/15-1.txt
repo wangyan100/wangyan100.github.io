@@ -1,45 +1,48 @@
-Insekten, Ameise
-Biene, Fangheuschrecke
-Libelle, Marienkäfer, Mistkäfer
-Schmetterling, Seidenraupe
-Bockkäfer, Fliege
-Goldlaufkäfer, Grashüpfer
-Heuschrecke, Moskito
-Motte, Termite, Grille
-Larve, Leuchtkäfer
-Reißkäfer, Schwimmkäfer
-Spinne, Wespe, Fühler
-Flügel, Facettenauge
-Saugrüssel, Stachel
-Kopf, Thorax
-Abdomen, Flattern
-Saugen, Schwärmen
-Sich verpuppen
-Summen, Stechen
-Sprechen Sie bitte die folgenden Sätze.
-Sie ist fleißig wie eine Ameise.
-Bienen ernähren sich rein vegetarisch.
-Je näher er dem Bienenstock kam,
-desto deutlicher konnte er die Bienen-Summen hören.
-Die Lebensdauer der adulten Libellen
-beträgt durchschnittlich etwa 6 bis 8 Wochen.
-Libellen haben bis zu 30.000 Omatidien pro Facettenauge.
-In der Wiese saßen so viele Grashüpfer,
-dass die Geräuschkulisse ohrenbetäubend war.
-Heuschrecken werden in Teilen Afrikas, Asiens und Südamerikas
-als eiweißreiche Nahrung gegessen.
-Das Leben eines Moskitos
-gliedert sich in vier verschiedene Stadien.
-Ei, Larve, Puppe und Imago.
-Diese Larve verpuppt sich
-und aus der Puppe schlüpft der Schmetterling.
-Die Larven der meisten Bockkäferarten
-ernähren sich von Holz.
-Leuchtkäfer sind auf allen Kontinenten
-mit Ausnahme der Antarktis zu finden.
-Einige Spinnen sind Schädlinge,
-andere sind Nutztiere.
-Das Mädchen wurde am Donnerstag im Kindergarten
-von einer Wespe in den Finger gestochen.
-Die Fühler vom Bockkäfer
-sind länger als sein Körper.
+[00:00:01.780 --> 00:00:07.640] Insekten, Ameise
+[00:00:07.640 --> 00:00:13.630] Biene, Fangheuschrecke
+[00:00:13.630 --> 00:00:21.130] Libelle, Marienkäfer, Mistkäfer
+[00:00:23.320 --> 00:00:29.190] Schmetterling, Seidenraupe
+[00:00:29.190 --> 00:00:34.060] Bockkäfer, Fliege
+[00:00:35.300 --> 00:00:40.670] Goldlaufkäfer, Grashüpfer
+[00:00:43.570 --> 00:00:44.970] Heuschrecke
+[00:00:46.510 --> 00:00:47.910] Moskito
+[00:00:47.910 --> 00:00:55.500] Motte, Termite, Grille
+[00:00:55.500 --> 00:01:01.100] Larve, Leuchtkäfer
+[00:01:02.380 --> 00:01:07.430] Reißkäfer, Schwimmkäfer
+[00:01:09.000 --> 00:01:16.040] Spinne, Wespe, Fühler
+[00:01:17.440 --> 00:01:22.190] Flügel, Facettenauge
+[00:01:23.700 --> 00:01:28.550] Saugrüssel, Stachel
+[00:01:30.060 --> 00:01:34.230] Kopf, Thorax
+[00:01:35.640 --> 00:01:39.990] Abdomen, Flattern
+[00:01:41.820 --> 00:01:46.920] Saugen, Schwärmen
+[00:01:46.920 --> 00:01:50.620] sich verpuppen
+[00:01:50.620 --> 00:01:54.630] summen, stechen
+[00:01:59.080 --> 00:02:02.200] Sprechen Sie bitte die folgenden Sätze.
+[00:02:05.070 --> 00:02:08.010] Sie ist fleißig wie eine Ameise.
+[00:02:10.280 --> 00:02:13.860] Bienen ernähren sich rein vegetarisch.
+[00:02:16.690 --> 00:02:19.050] Je näher er dem Bienenstock kam,
+[00:02:19.510 --> 00:02:22.590] desto deutlicher konnte er die Bienensummen hören.
+[00:02:25.740 --> 00:02:28.600] Die Lebensdauer der adulten Libellen
+[00:02:28.600 --> 00:02:32.140] beträgt durchschnittlich etwa 6 bis 8 Wochen.
+[00:02:35.220 --> 00:02:38.000] Libellen haben bis zu 30.000
+[00:02:38.000 --> 00:02:40.420] Omatidien pro Facettenauge.
+[00:02:43.460 --> 00:02:46.440] In der Wiese saßen so viele Grashüpfer,
+[00:02:46.440 --> 00:02:49.520] dass die Geräuschkulisse ohrenbetäubend war.
+[00:02:52.650 --> 00:02:55.550] Heuschrecken werden in Teilen Afrikas,
+[00:02:55.830 --> 00:02:57.730] Asiens und Südamerikas
+[00:02:57.730 --> 00:03:00.250] als eiweißreiche Nahrung gegessen.
+[00:03:03.390 --> 00:03:05.490] Das Leben eines Moskitos
+[00:03:05.650 --> 00:03:08.650] gliedert sich in vier verschiedene Stadien.
+[00:03:11.340 --> 00:03:14.540] Ei, Larve, Puppe und Imago.
+[00:03:17.540 --> 00:03:19.240] Diese Larve verpuppt sich
+[00:03:19.240 --> 00:03:22.000] und aus der Puppe schlüpft der Schmetterling.
+[00:03:24.200 --> 00:03:27.280] Die Larven der meisten Bockkäferarten
+[00:03:28.140 --> 00:03:29.900] ernähren sich von Holz.
+[00:03:33.390 --> 00:03:35.690] Leuchtkäfer sind auf allen Kontinenten
+[00:03:36.230 --> 00:03:38.910] mit Ausnahme der Antarktis zu finden.
+[00:03:42.130 --> 00:03:43.930] Einige Spinnen sind Schädlinge,
+[00:03:44.710 --> 00:03:46.450] andere sind Nutztiere.
+[00:03:49.570 --> 00:03:52.330] Das Mädchen wurde am Donnerstag im Kindergarten
+[00:03:52.670 --> 00:03:55.390] von einer Wespe in den Finger gestochen.
+[00:03:58.330 --> 00:04:00.430] Die Fühler vom Bockkäfer
+[00:04:00.430 --> 00:04:02.510] sind länger als sein Körper.

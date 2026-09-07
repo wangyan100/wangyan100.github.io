@@ -4,64 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Haustiere",
-        "Bellen",
-        "Chihuahua",
-        "Halsband",
-        "Hundeleine",
-        "Hundesteuer",
-        "Husky",
-        "Jagdhund",
-        "Labrador",
-        "Schäferhund",
-        "Schnauze",
-        "Federstab",
-        "Futter",
-        "Kater",
-        "Katzenbaum",
-        "Miauen",
-        "Perserkatze",
-        "Rasse",
-        "Wildkatze",
-        "Falle",
-        "Hamster",
-        "Käfig",
-        "Mäuschen",
-        "Meerschweinchen",
-        "Rennmaus",
-        "Angorakaninchen",
-        "Fell",
-        "Hoppeln",
-        "Kaninchen",
-        "Löffel",
-        "Schlappohr",
-        "Schwanz",
-        "Aquarium",
-        "Einsiedlerkrebs",
-        "Filter",
-        "Fischglas",
-        "Füttern",
-        "Wasserpflanze",
-        "Zierfisch"
+        {
+          "text": "Haustiere",
+          "start": 1.74,
+          "end": 3.72
+        },
+        {
+          "text": "Bellen",
+          "start": 4.97,
+          "end": 6.43
+        },
+        {
+          "text": "Chihuahua",
+          "start": 7.74,
+          "end": 9.42
+        },
+        {
+          "text": "Halsband",
+          "start": 10.7,
+          "end": 12.02
+        },
+        {
+          "text": "Hundeleine",
+          "start": 13.86,
+          "end": 15.28
+        },
+        {
+          "text": "Hundesteuer",
+          "start": 17.14,
+          "end": 18.38
+        },
+        {
+          "text": "Husky",
+          "start": 20.46,
+          "end": 21.92
+        },
+        {
+          "text": "Jagdhund",
+          "start": 23.76,
+          "end": 24.46
+        },
+        {
+          "text": "Labrador",
+          "start": 25.16,
+          "end": 26.46
+        },
+        {
+          "text": "Schäferhund",
+          "start": 28.36,
+          "end": 30.12
+        },
+        {
+          "text": "Schnauze",
+          "start": 31.5,
+          "end": 33.1
+        },
+        {
+          "text": "Federstab",
+          "start": 34.5,
+          "end": 36.2
+        },
+        {
+          "text": "Futter",
+          "start": 37.61,
+          "end": 38.93
+        },
+        {
+          "text": "Kater",
+          "start": 41.26,
+          "end": 41.96
+        },
+        {
+          "text": "Katzenbaum",
+          "start": 44.62,
+          "end": 45.9
+        },
+        {
+          "text": "Miauen",
+          "start": 45.9,
+          "end": 47.96
+        },
+        {
+          "text": "Perserkatze",
+          "start": 49.3,
+          "end": 51.5
+        },
+        {
+          "text": "Rasse",
+          "start": 52.78,
+          "end": 54.86
+        },
+        {
+          "text": "Wildkatze",
+          "start": 54.86,
+          "end": 56.52
+        },
+        {
+          "text": "Falle",
+          "start": 58.66,
+          "end": 60.04
+        },
+        {
+          "text": "Hamster",
+          "start": 61.32,
+          "end": 62.76
+        },
+        {
+          "text": "Käfig",
+          "start": 64.04,
+          "end": 66.46
+        },
+        {
+          "text": "Mäuschen",
+          "start": 66.46,
+          "end": 68.52
+        },
+        {
+          "text": "Meerschweinchen",
+          "start": 71.7,
+          "end": 72.52
+        },
+        {
+          "text": "Rennmaus",
+          "start": 73.1,
+          "end": 74.86
+        },
+        {
+          "text": "Angorakaninchen",
+          "start": 76.14,
+          "end": 77.8
+        },
+        {
+          "text": "Fell",
+          "start": 79.82,
+          "end": 80.68
+        },
+        {
+          "text": "Hoppeln",
+          "start": 81.92,
+          "end": 83.64
+        },
+        {
+          "text": "Hüpfen",
+          "start": 84.89,
+          "end": 86.61
+        },
+        {
+          "text": "Kaninchen",
+          "start": 89.32,
+          "end": 90.2
+        },
+        {
+          "text": "Löffel",
+          "start": 90.72,
+          "end": 92.36
+        },
+        {
+          "text": "Schlappohr",
+          "start": 93.71,
+          "end": 95.19
+        },
+        {
+          "text": "Schwanz",
+          "start": 96.56,
+          "end": 98.04
+        },
+        {
+          "text": "Aquarium",
+          "start": 100.2,
+          "end": 100.92
+        },
+        {
+          "text": "Einsiedlerkrebs",
+          "start": 103.45,
+          "end": 104.55
+        },
+        {
+          "text": "Filter",
+          "start": 106.62,
+          "end": 107.32
+        },
+        {
+          "text": "Fischglas",
+          "start": 109.8,
+          "end": 110.5
+        },
+        {
+          "text": "Füttern",
+          "start": 113.24,
+          "end": 113.94
+        },
+        {
+          "text": "Wasserpflanze",
+          "start": 115.52,
+          "end": 116.7
+        },
+        {
+          "text": "Zierfisch",
+          "start": 118.73,
+          "end": 119.43
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Hunde, die viel bellen, beißen nicht Die Hundeleine wird oft am Halsband des Hundes befestigt.",
-        "Die Haltung von Haushunden ist in Deutschland steuerpflichtig und die Hundesteuer wird von der Gemeinde erhoben.",
-        "Der Labrador ist ein mittelgroßer und kräftig gebauter Hund mit einem breiteren Schädel.",
-        "Die Katze ist so glücklich, weil es heute mehr Futter als sonst gibt.",
-        "Kater fühlte sich auf seinem Arm sichtlich wohl.",
-        "Wenn man so wachsam wie die Wildkatze ist, dann kann einem gar nichts passieren.",
-        "Hamster sind vorwiegend Pflanzenfresser und insbesondere Samenfresser.",
-        "Meerschweinchen sind Pflanzenfresser, die je nach Art und Lebensraum unterschiedlichste Pflanzen zu sich nehmen.",
-        "Der Hase stellt die Löffel hoch.",
-        "Mit Kamm und Bürste kann man die losen Haare der Angorakaninchen auskämmen, damit das Fell nicht verfilzt.",
-        "Die Affen rollen beim Laufen den Schwanz ein.",
-        "Bei den im Aquarium kultivierten Pflanzen handelt es sich entweder um Wasserpflanzen oder um auch emas gedeihende Sumpfpflanzen.",
-        "Hier darf der Vermieter seinen Mietern untersagen, diese Tiere zu füttern."
+        {
+          "text": "Hunde, die viel bellen, beißen nicht.",
+          "start": 129.39,
+          "end": 132.81
+        },
+        {
+          "text": "Die Hundeleine wird oft am Halsband des Hundes befestigt.",
+          "start": 135.88,
+          "end": 139.98
+        },
+        {
+          "text": "Die Haltung von Haushunden ist in Deutschland steuerpflichtig und die Hundesteuer wird von der Gemeinde erhoben.",
+          "start": 143.06,
+          "end": 150.8
+        },
+        {
+          "text": "Der Labrador ist ein mittelgroßer und kräftig gebauter Hund mit einem breiteren Schädel.",
+          "start": 153.8,
+          "end": 159.88
+        },
+        {
+          "text": "Die Katze ist so glücklich, weil es heute mehr Futter als sonst gibt.",
+          "start": 162.67,
+          "end": 167.19
+        },
+        {
+          "text": "Kater fühlte sich auf seinem Arm sichtlich wohl.",
+          "start": 169.56,
+          "end": 173.64
+        },
+        {
+          "text": "Wenn man so wachsam wie die Wildkatze ist, dann kann einem gar nichts passieren.",
+          "start": 176.69,
+          "end": 181.75
+        },
+        {
+          "text": "Hamster sind vorwiegend Pflanzenfresser und insbesondere Samenfresser.",
+          "start": 185.01,
+          "end": 190.15
+        },
+        {
+          "text": "Meerschweinchen sind Pflanzenfresser, die je nach Art und Lebensraum unterschiedlichste Pflanzen zu sich nehmen.",
+          "start": 193.47,
+          "end": 200.39
+        },
+        {
+          "text": "Der Hase stellt die Löffel hoch.",
+          "start": 203.49,
+          "end": 205.73
+        },
+        {
+          "text": "Mit Kamm und Bürste kann man die losen Haare der Angora-Kaninchen auskämmen, damit das Fell nicht verfilzt.",
+          "start": 207.97,
+          "end": 216.55
+        },
+        {
+          "text": "Die Affen rollen beim Laufen den Schwanz ein.",
+          "start": 219.6,
+          "end": 222.66
+        },
+        {
+          "text": "Bei den im Aquarium kultivierten Pflanzen handelt es sich entweder um Wasserpflanzen oder um auch Emas gedeihende Sumpfpflanzen.",
+          "start": 225.59,
+          "end": 235.11
+        },
+        {
+          "text": "Hier darf der Vermieter seinen Mietern untersagen, diese Tiere zu füttern.",
+          "start": 238.32,
+          "end": 243.0
+        }
       ]
     }
   ]

@@ -4,68 +4,292 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Baseball",
-        "Außenspieler",
-        "Baseman",
-        "Fänger",
-        "Innenspieler",
-        "Läufer",
-        "Schlagmann",
-        "Should-stop",
-        "Werfer",
-        "Außenfeld",
-        "Base",
-        "Mahlkissen",
-        "Mahlquadrat",
-        "Schlagmal",
-        "Homeplate",
-        "Strikezone",
-        "Tribüne",
-        "Umzäunung",
-        "Hit",
-        "Home run",
-        "Inning",
-        "Out",
-        "Run",
-        "Strike",
-        "Strikeout",
-        "Kopfhaube",
-        "Baseballmütze",
-        "Baseballschläger",
-        "Brustschutz",
-        "Fanghandschuh",
-        "Gesichtsmaske",
-        "Schlaghelm",
-        "Erlaufen",
-        "Erreichen",
-        "Erzielen",
-        "Schlagen",
-        "Stehlen",
-        "Treffen",
-        "Verfehlen",
-        "Werfen"
+        {
+          "text": "Baseball",
+          "start": 1.74,
+          "end": 3.06
+        },
+        {
+          "text": "Außenspieler",
+          "start": 6.4,
+          "end": 7.8
+        },
+        {
+          "text": "Baseman",
+          "start": 7.8,
+          "end": 8.76
+        },
+        {
+          "text": "Fänger",
+          "start": 10.11,
+          "end": 11.63
+        },
+        {
+          "text": "Innenspieler",
+          "start": 14.7,
+          "end": 16.1
+        },
+        {
+          "text": "Läufer",
+          "start": 16.1,
+          "end": 17.48
+        },
+        {
+          "text": "Schlagmann",
+          "start": 18.82,
+          "end": 20.42
+        },
+        {
+          "text": "Should-stop",
+          "start": 21.76,
+          "end": 23.26
+        },
+        {
+          "text": "Werfer",
+          "start": 24.67,
+          "end": 25.95
+        },
+        {
+          "text": "Außenfeld",
+          "start": 27.65,
+          "end": 29.05
+        },
+        {
+          "text": "Base",
+          "start": 30.41,
+          "end": 31.55
+        },
+        {
+          "text": "Mahlkissen",
+          "start": 32.83,
+          "end": 34.61
+        },
+        {
+          "text": "Mahlquadrat",
+          "start": 36.57,
+          "end": 37.97
+        },
+        {
+          "text": "Schlagmal",
+          "start": 39.35,
+          "end": 40.59
+        },
+        {
+          "text": "Homeplate",
+          "start": 42.21,
+          "end": 43.61
+        },
+        {
+          "text": "Strikezone",
+          "start": 45.11,
+          "end": 47.13
+        },
+        {
+          "text": "Tribüne",
+          "start": 48.44,
+          "end": 49.7
+        },
+        {
+          "text": "Umzäunung",
+          "start": 51.74,
+          "end": 53.14
+        },
+        {
+          "text": "Hit",
+          "start": 54.42,
+          "end": 55.2
+        },
+        {
+          "text": "Home run",
+          "start": 56.45,
+          "end": 58.27
+        },
+        {
+          "text": "Inning",
+          "start": 59.52,
+          "end": 60.78
+        },
+        {
+          "text": "Out",
+          "start": 62.06,
+          "end": 63.08
+        },
+        {
+          "text": "Run",
+          "start": 57.39,
+          "end": 58.27
+        },
+        {
+          "text": "Strike",
+          "start": 66.79,
+          "end": 68.23
+        },
+        {
+          "text": "Strikeout",
+          "start": 69.8,
+          "end": 71.74
+        },
+        {
+          "text": "Kopfhaube",
+          "start": 73.05,
+          "end": 74.39
+        },
+        {
+          "text": "Baseballmütze",
+          "start": 76.43,
+          "end": 77.83
+        },
+        {
+          "text": "Baseballschläger",
+          "start": 79.14,
+          "end": 80.82
+        },
+        {
+          "text": "Brustschutz",
+          "start": 82.5,
+          "end": 83.9
+        },
+        {
+          "text": "Fanghandschuh",
+          "start": 87.36,
+          "end": 88.64
+        },
+        {
+          "text": "Gesichtsmaske",
+          "start": 88.64,
+          "end": 90.56
+        },
+        {
+          "text": "Schlaghelm",
+          "start": 91.9,
+          "end": 93.26
+        },
+        {
+          "text": "Erlaufen",
+          "start": 95.06,
+          "end": 96.34
+        },
+        {
+          "text": "erreichen",
+          "start": 97.66,
+          "end": 98.8
+        },
+        {
+          "text": "erzielen",
+          "start": 100.04,
+          "end": 101.86
+        },
+        {
+          "text": "schlagen",
+          "start": 103.24,
+          "end": 104.6
+        },
+        {
+          "text": "stehlen",
+          "start": 106.04,
+          "end": 107.76
+        },
+        {
+          "text": "treffen",
+          "start": 109.07,
+          "end": 109.99
+        },
+        {
+          "text": "verfehlen",
+          "start": 113.41,
+          "end": 114.69
+        },
+        {
+          "text": "werfen",
+          "start": 114.69,
+          "end": 116.05
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Teams im Baseball erringen Punkte durch Ablaufen der Bases.",
-        "Baseballspiel wird von zwei Mannschaften zu je neun Spielern gespielt.",
-        "Der Ball berührte den Handschuh des Fängers.",
-        "Ein Läufer kann jederzeit versuchen, die Base zu stehlen, auch wenn der Ball vom Schlagmann gar nicht geschlagen wurde.",
-        "Schlagmänner und Läufer im Feld tragen Schlaghelme zum Schützen von Kopftreffern mit dem Ball.",
-        "Der Schlagmann hat den Ball getroffen.",
-        "Dieser Werfer hat zwei Strikes geworfen.",
-        "Im Baseball ist die Homeplate die Endbase.",
-        "Der Hauptschiedsrichter kann sich leicht entscheiden, ob der Ball in der Strikezone war oder nicht.",
-        "Das Spielfeld besteht aus zwei Teilen und wird durch eine Umzäunung begrenzt.",
-        "Ein Homerun zählt als Hit.",
-        "Ein Baseballspiel besteht im Regelfall aus neun Innings.",
-        "Der Fanghandschuh des First Basemans ist etwas größer als jene der anderen.",
-        "Der Schiedsrichter zeigte einen Strikeout durch eine Handbewegung an.",
-        "Die Heimmannschaft hat schnell den ersten Run erzielt.",
-        "Der Schuss verfehlte sein Ziel."
+        {
+          "text": "Die Teams im Baseball erringen Punkte durch Ablaufen der Bases.",
+          "start": 126.26,
+          "end": 130.72
+        },
+        {
+          "text": "Baseballspiel wird von zwei Mannschaften zu je neun Spielern gespielt.",
+          "start": 134.43,
+          "end": 139.21
+        },
+        {
+          "text": "Der Ball berührte den Handschuh des Fängers.",
+          "start": 142.4,
+          "end": 145.14
+        },
+        {
+          "text": "Ein Läufer kann jederzeit versuchen, die Base zu stehlen, auch wenn der Ball vom Schlagmann gar nicht geschlagen wurde.",
+          "start": 148.15,
+          "end": 156.85
+        },
+        {
+          "text": "Schlagmänner und Läufer im Feld tragen Schlaghelme zum Schützen von Kopftreffern mit dem Ball.",
+          "start": 160.19,
+          "end": 166.71
+        },
+        {
+          "text": "Der Schlagmann hat den Ball getroffen.",
+          "start": 169.73,
+          "end": 171.95
+        },
+        {
+          "text": "Dieser Werfer hat zwei Strikes geworfen.",
+          "start": 174.91,
+          "end": 178.19
+        },
+        {
+          "text": "Im Baseball ist die Homeplate die Endbase.",
+          "start": 181.23,
+          "end": 184.89
+        },
+        {
+          "text": "Der Hauptschiedsrichter kann sich leicht entscheiden, ob der Ball in der Strikezone war oder nicht.",
+          "start": 187.9,
+          "end": 194.62
+        },
+        {
+          "text": "Das Spielfeld besteht aus zwei Teilen und wird durch eine Umzäunung begrenzt.",
+          "start": 197.67,
+          "end": 203.39
+        },
+        {
+          "text": "Ein Homerun zählt als Hit.",
+          "start": 206.26,
+          "end": 208.6
+        },
+        {
+          "text": "Ein Baseballspiel besteht im Regelfall aus neun Innings.",
+          "start": 211.65,
+          "end": 215.69
+        },
+        {
+          "text": "Der Fanghandschuh des First Basemans ist etwas größer als jene der anderen.",
+          "start": 218.47,
+          "end": 224.42
+        },
+        {
+          "text": "Der Schiedsrichter zeigte einen Strikeout durch eine Handbewegung an.",
+          "start": 227.55,
+          "end": 232.67
+        },
+        {
+          "text": "Die Heimmannschaft hat schnell den ersten Run erzielt.",
+          "start": 235.6,
+          "end": 239.24
+        },
+        {
+          "text": "Der Schuss verfehlte sein Ziel.",
+          "start": 242.27,
+          "end": 244.41
+        }
       ]
     }
   ]

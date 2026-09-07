@@ -4,74 +4,327 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Wanderung",
-        "Bergfuß",
-        "Bergwand",
-        "Felsen",
-        "Gebirge",
-        "Gipfel",
-        "Hang",
-        "Höhle",
-        "Wald",
-        "Fluss",
-        "Bach",
-        "Quelle",
-        "Strom",
-        "Fließen",
-        "Rauschen",
-        "Springen",
-        "Sprudeln",
-        "Funktionsjacke",
-        "Hängematte",
-        "Kniebandage",
-        "Kompass",
-        "Rucksack",
-        "Regenponcho",
-        "Taschenlampe",
-        "Wanderstock",
-        "Anstrengend",
-        "Breit",
-        "eben",
-        "gefährlich",
-        "hoch",
-        "niedrig",
-        "reißend",
-        "schneebedeckt",
-        "schroff",
-        "steil",
-        "steinig",
-        "aufsteigen",
-        "klettern",
-        "Bergsteiger",
-        "besteigen",
-        "bezwingen",
-        "erfrischen",
-        "frisch",
-        "Luft",
-        "Wanderer"
+        {
+          "text": "Wanderung",
+          "start": 3.26,
+          "end": 4.66
+        },
+        {
+          "text": "Bergfuß",
+          "start": 6.34,
+          "end": 7.74
+        },
+        {
+          "text": "Bergwand",
+          "start": 7.74,
+          "end": 9.12
+        },
+        {
+          "text": "Felsen",
+          "start": 12.09,
+          "end": 13.49
+        },
+        {
+          "text": "Gebirge",
+          "start": 13.49,
+          "end": 15.09
+        },
+        {
+          "text": "Gipfel",
+          "start": 16.34,
+          "end": 17.96
+        },
+        {
+          "text": "Hang",
+          "start": 19.27,
+          "end": 20.01
+        },
+        {
+          "text": "Höhle",
+          "start": 22.63,
+          "end": 23.33
+        },
+        {
+          "text": "Wald",
+          "start": 24.58,
+          "end": 25.48
+        },
+        {
+          "text": "Fluss",
+          "start": 26.86,
+          "end": 29.58
+        },
+        {
+          "text": "Bach",
+          "start": 29.58,
+          "end": 30.82
+        },
+        {
+          "text": "Quelle",
+          "start": 32.26,
+          "end": 33.76
+        },
+        {
+          "text": "Strom",
+          "start": 35.23,
+          "end": 36.15
+        },
+        {
+          "text": "Tal",
+          "start": 37.46,
+          "end": 39.38
+        },
+        {
+          "text": "Wasserfall",
+          "start": 39.38,
+          "end": 41.46
+        },
+        {
+          "text": "Fließen",
+          "start": 44.74,
+          "end": 45.44
+        },
+        {
+          "text": "Rauschen",
+          "start": 46.52,
+          "end": 47.22
+        },
+        {
+          "text": "Springen",
+          "start": 49.42,
+          "end": 50.7
+        },
+        {
+          "text": "Sprudeln",
+          "start": 52.2,
+          "end": 53.8
+        },
+        {
+          "text": "Funktionsjacke",
+          "start": 55.15,
+          "end": 57.45
+        },
+        {
+          "text": "Hängematte",
+          "start": 58.73,
+          "end": 60.43
+        },
+        {
+          "text": "Kniebandage",
+          "start": 61.8,
+          "end": 63.7
+        },
+        {
+          "text": "Kompass",
+          "start": 64.98,
+          "end": 67.12
+        },
+        {
+          "text": "Rucksack",
+          "start": 67.12,
+          "end": 69.46
+        },
+        {
+          "text": "Regenponcho",
+          "start": 70.71,
+          "end": 72.57
+        },
+        {
+          "text": "Taschenlampe",
+          "start": 73.88,
+          "end": 75.68
+        },
+        {
+          "text": "Wanderstock",
+          "start": 77.0,
+          "end": 78.32
+        },
+        {
+          "text": "anstrengend",
+          "start": 81.62,
+          "end": 82.32
+        },
+        {
+          "text": "breit",
+          "start": 84.4,
+          "end": 85.8
+        },
+        {
+          "text": "eben",
+          "start": 85.8,
+          "end": 87.08
+        },
+        {
+          "text": "gefährlich",
+          "start": 88.76,
+          "end": 90.16
+        },
+        {
+          "text": "hoch",
+          "start": 91.47,
+          "end": 92.87
+        },
+        {
+          "text": "niedrig",
+          "start": 94.63,
+          "end": 95.33
+        },
+        {
+          "text": "reißend",
+          "start": 97.13,
+          "end": 98.53
+        },
+        {
+          "text": "schneebedeckt",
+          "start": 99.94,
+          "end": 100.64
+        },
+        {
+          "text": "schroff",
+          "start": 103.04,
+          "end": 104.22
+        },
+        {
+          "text": "steil",
+          "start": 105.78,
+          "end": 107.26
+        },
+        {
+          "text": "steinig",
+          "start": 108.74,
+          "end": 111.18
+        },
+        {
+          "text": "aufsteigen",
+          "start": 111.18,
+          "end": 113.08
+        },
+        {
+          "text": "klettern",
+          "start": 114.42,
+          "end": 116.4
+        },
+        {
+          "text": "Bergsteiger",
+          "start": 116.4,
+          "end": 118.4
+        },
+        {
+          "text": "besteigen",
+          "start": 121.85,
+          "end": 123.21
+        },
+        {
+          "text": "bezwingen",
+          "start": 124.69,
+          "end": 126.05
+        },
+        {
+          "text": "erfrischen",
+          "start": 126.05,
+          "end": 127.73
+        },
+        {
+          "text": "frisch",
+          "start": 129.1,
+          "end": 131.48
+        },
+        {
+          "text": "Luft",
+          "start": 131.48,
+          "end": 132.68
+        },
+        {
+          "text": "Wanderer",
+          "start": 134.64,
+          "end": 135.32
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Zugspitze ist der höchste Berg Deutschlands.",
-        "Der Felsen springt ins Meer vor.",
-        "Der Mount Everest ist der allerhöchste Gipfel der Erde.",
-        "Er lebte zwanzig Jahre im Meer.",
-        "Er lebte zwanzig Jahre lang in einer der Höhlen in der Bergwand.",
-        "Der Jäger wagt sich in die Höhle des Löwen.",
-        "Der Fluss fließt zu Tal.",
-        "Bäche von Schweiß flossen an ihm herunter.",
-        "Die Quelle sprudelt aus dem Felsen.",
-        "Der junge Wissenschaftler redet wie ein Wasserfall.",
-        "Um ihn herum sitzen Männer in Gummistiefeln, karierten Hemden und bunten Funktionsjacken.",
-        "Die Nadel des Kompasses zeigt nach Norden.",
-        "Der Aufstieg auf den Berg war sehr anstrengend.",
-        "Sie hat einen steinigen Weg vor ihr.",
-        "Mein Vater ist in seiner Jugend viel geklettert.",
-        "Die Luft im Wald ist sehr erfrischend.",
-        "In österreichischen Alpen sind zwei deutsche Wanderer tot aufgefunden worden."
+        {
+          "text": "Die Zugspitze ist der höchste Berg Deutschlands.",
+          "start": 146.3,
+          "end": 149.88
+        },
+        {
+          "text": "Der Felsen springt ins Meer vor.",
+          "start": 152.77,
+          "end": 155.53
+        },
+        {
+          "text": "Der Mount Everest ist der allerhöchste Gipfel der Erde.",
+          "start": 157.74,
+          "end": 162.56
+        },
+        {
+          "text": "Er lebte 20 Jahre lang in einer der Höhlen in der Bergwand.",
+          "start": 165.67,
+          "end": 170.27
+        },
+        {
+          "text": "Der Jäger wagt sich in die Höhle des Löwen.",
+          "start": 173.38,
+          "end": 176.46
+        },
+        {
+          "text": "Der Fluss fließt zu Tal.",
+          "start": 179.45,
+          "end": 181.71
+        },
+        {
+          "text": "Bäche von Schweiß flossen an ihm herunter.",
+          "start": 184.78,
+          "end": 188.06
+        },
+        {
+          "text": "Die Quelle sprudelt aus dem Felsen.",
+          "start": 191.15,
+          "end": 194.33
+        },
+        {
+          "text": "Der junge Wissenschaftler redet wie ein Wasserfall.",
+          "start": 197.01,
+          "end": 200.63
+        },
+        {
+          "text": "Um ihn herum sitzen Männer in Gummistiefeln, karierten Hemden und bunten Funktionsjacken.",
+          "start": 202.93,
+          "end": 210.73
+        },
+        {
+          "text": "Die Nadel des Kompasses zeigt nach Norden.",
+          "start": 213.64,
+          "end": 216.96
+        },
+        {
+          "text": "Der Aufstieg auf den Berg war sehr anstrengend.",
+          "start": 219.76,
+          "end": 223.12
+        },
+        {
+          "text": "Sie hat einen steinigen Weg vor ihr.",
+          "start": 226.07,
+          "end": 228.77
+        },
+        {
+          "text": "Mein Vater ist in seiner Jugend viel geklettert.",
+          "start": 231.82,
+          "end": 234.92
+        },
+        {
+          "text": "Die Luft im Wald ist sehr erfrischend.",
+          "start": 238.25,
+          "end": 241.01
+        },
+        {
+          "text": "In den österreichischen Alpen sind zwei deutsche Wanderer tot aufgefunden worden.",
+          "start": 243.22,
+          "end": 249.34
+        }
       ]
     }
   ]

@@ -1,59 +1,59 @@
-Strand
-Badeanzug
-Schwimmanzug
-Badehose
-Bikini
-Sonnenbrille
-Sonnenhut
-Tauchanzug
-Tauchbrille
-Kokospalme
-Meeresschildkröte
-Meeresstille
-Möwe
-Riff
-Sand
-Seesterne
-Welle
-auflaufen
-Dampfer
-Kreuzfahrtschiff
-Motorboot
-Passagierschiff
-Segelschiff
-Yacht
-zurücklegen
-Beachsocker
-Beachvolleyball
-Sandbad
-Sandburg errichten
-Schwimmen
-Segeln
-Surfen
-Tauchen
-Meerenge
-Meeresarm
-Meeresboden
-Meeresgrund
-Meeresspiegel
-Meeresoberfläche
-Meeresströmung
-Meeresufer
-Sprechen Sie bitte die folgenden Sätze.
-Die Möwen kreisen ein Segelschiff um und kreischen.
-Das Schiff ist auf ein Riff aufgelaufen.
-Der Skandal verläuft im Sande.
-Die Heirat der zwei berühmten schlagen hohe Wellen.
-Die Titanic ist ein bekanntes Kreuzfahrtschiff,
-das auf ihrer Jungfernfahrt im Jahr 1912 untergegangen ist.
-Insgesamt hat das Passagierschiff 3240 Seemeilen zurückgelegt.
-Abends machten die Jachten am Kai fest.
-Am Strand liegen die Eltern in der Sonne,
-während die Kinder Sandburgen errichten.
-Ihre Augen schwimmen.
-Heute können vollständige Blinde
-mit Hilfe einer Spezialsoftware im Internet surfen.
-Das Zimmer taucht in die Sonne.
-Alle Flüsse laufen ins Meer.
-Nach der Temperatur kann Meeresströmung
-in kalte und warme Strömung eingeteilt werden.
+[00:00:01.900 --> 00:00:02.920] Strand
+[00:00:04.270 --> 00:00:06.490] Badeanzug
+[00:00:09.560 --> 00:00:10.260] Schwimmanzug
+[00:00:12.260 --> 00:00:13.660] Badehose
+[00:00:14.180 --> 00:00:16.200] Bikini
+[00:00:17.020 --> 00:00:18.740] Sonnenbrille
+[00:00:20.060 --> 00:00:21.680] Sonnenhut
+[00:00:23.020 --> 00:00:25.000] Tauchanzug
+[00:00:26.380 --> 00:00:28.060] Tauchbrille
+[00:00:29.370 --> 00:00:31.470] Kokospalme
+[00:00:34.230 --> 00:00:34.930] Meeresschildkröte
+[00:00:37.090 --> 00:00:38.490] Meeresstille
+[00:00:39.410 --> 00:00:40.430] Möwe
+[00:00:41.950 --> 00:00:43.350] Riff
+[00:00:44.630 --> 00:00:45.910] Sand
+[00:00:49.160 --> 00:00:49.860] Seesterne
+[00:00:50.560 --> 00:00:51.460] Welle
+[00:00:53.410 --> 00:00:55.210] Auflaufen
+[00:00:55.210 --> 00:00:57.570] Dampfer
+[00:00:58.880 --> 00:01:01.020] Kreuzfahrtschiff
+[00:01:02.900 --> 00:01:04.300] Motorboot
+[00:01:05.580 --> 00:01:07.560] Passagierschiff
+[00:01:08.810 --> 00:01:10.550] Segelschiff
+[00:01:11.450 --> 00:01:13.150] Jacht
+[00:01:14.650 --> 00:01:16.530] Zurücklegen
+[00:01:17.050 --> 00:01:19.050] Beachsocker
+[00:01:22.370 --> 00:01:23.770] Beachvolleyball
+[00:01:23.770 --> 00:01:25.050] Sandbad
+[00:01:26.820 --> 00:01:28.680] Sandburg errichten
+[00:01:31.260 --> 00:01:31.960] Schwimmen
+[00:01:33.340 --> 00:01:34.740] Segeln
+[00:01:36.080 --> 00:01:37.580] Surfen
+[00:01:38.890 --> 00:01:40.990] Tauchen
+[00:01:40.990 --> 00:01:43.610] Meerenge
+[00:01:45.370 --> 00:01:46.770] Meeresarm
+[00:01:49.110 --> 00:01:49.810] Meeresboden
+[00:01:51.230 --> 00:01:52.630] Meeresgrund
+[00:01:56.470 --> 00:01:57.690] Meeresspiegel
+[00:02:00.010 --> 00:02:01.230] Meeresoberfläche
+[00:02:03.330 --> 00:02:04.550] Meeresströmung
+[00:02:04.550 --> 00:02:06.070] Meeresufer
+[00:02:11.230 --> 00:02:13.970] Sprechen Sie bitte die folgenden Sätze.
+[00:02:16.960 --> 00:02:20.820] Die Möwen kreisen ein Segelschiff um und kreischen.
+[00:02:23.710 --> 00:02:26.830] Das Schiff ist auf ein Riff aufgelaufen.
+[00:02:29.800 --> 00:02:32.560] Der Skandal verläuft im Sande.
+[00:02:34.800 --> 00:02:39.300] Die Heirat der zwei Berühmten schlagen hohe Wellen.
+[00:02:42.330 --> 00:02:45.570] Die Titanic ist ein bekanntes Kreuzfahrtschiff,
+[00:02:45.870 --> 00:02:51.010] das auf ihrer Jungfernfahrt im Jahr 1912 untergegangen ist.
+[00:02:54.190 --> 00:03:00.910] Insgesamt hat das Passagierschiff 3.240 Seemeilen zurückgelegt.
+[00:03:04.230 --> 00:03:06.990] Abends machten die Jachten am Kai fest.
+[00:03:10.070 --> 00:03:12.910] Am Strand liegen die Eltern in der Sonne,
+[00:03:12.910 --> 00:03:15.450] während die Kinder Sandburgen errichten.
+[00:03:18.770 --> 00:03:20.150] Ihre Augen schwimmen.
+[00:03:23.300 --> 00:03:25.700] Heute können vollständige Blinde
+[00:03:25.700 --> 00:03:30.020] mithilfe einer Spezialsoftware im Internet surfen.
+[00:03:33.190 --> 00:03:35.870] Das Zimmer taucht in die Sonne.
+[00:03:38.560 --> 00:03:40.680] Alle Flüsse laufen ins Meer.
+[00:03:43.850 --> 00:03:46.670] Nach der Temperatur kann Meeresströmung
+[00:03:46.670 --> 00:03:50.010] in kalte und warme Strömung eingeteilt werden.

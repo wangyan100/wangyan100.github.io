@@ -4,46 +4,182 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Accessoires 2 Knie-Strumpf",
-        "Netz-Strumpfhose Nylon-Strumpf",
-        "Socke Strumpf",
-        "Strumpfhose Strumpfsocke",
-        "Filzhut Florentiner",
-        "Hut Kappe",
-        "Mütze Sombrero",
-        "Strickmütze Strohhut",
-        "Federputz Gesteck",
-        "Gutkrempel Schirm",
-        "Schmuckband Stumpen",
-        "Turban Zylinder",
-        "Cape Dreieckstuch",
-        "Halstuch Kopftuch",
-        "Schal Spitze",
-        "Umschlagtuch Bindegürtel",
-        "Gürtel Krawattenhalter",
-        "Krawattennadel Letzchen",
-        "Mantelgürtel Schleier"
+        {
+          "text": "Accessoires 2 Knie-Strumpf",
+          "start": 2.0,
+          "end": 7.98
+        },
+        {
+          "text": "Netz-Strumpfhose Nylon-Strumpf",
+          "start": 9.22,
+          "end": 14.94
+        },
+        {
+          "text": "Socke Strumpf",
+          "start": 16.26,
+          "end": 20.16
+        },
+        {
+          "text": "Strumpfhose Strumpfsocke",
+          "start": 21.72,
+          "end": 26.56
+        },
+        {
+          "text": "Filzhut Florentiner",
+          "start": 27.9,
+          "end": 32.53
+        },
+        {
+          "text": "Hut Kappe",
+          "start": 33.84,
+          "end": 37.8
+        },
+        {
+          "text": "Mütze Sombrero",
+          "start": 39.04,
+          "end": 43.4
+        },
+        {
+          "text": "Strickmütze Strohhut",
+          "start": 44.96,
+          "end": 49.95
+        },
+        {
+          "text": "Federputz Gesteck",
+          "start": 51.33,
+          "end": 57.3
+        },
+        {
+          "text": "Gutkrempel Schirm",
+          "start": 57.3,
+          "end": 61.51
+        },
+        {
+          "text": "Schmuckband Stumpen",
+          "start": 62.95,
+          "end": 67.63
+        },
+        {
+          "text": "Turban Zylinder",
+          "start": 68.98,
+          "end": 73.44
+        },
+        {
+          "text": "Cape Dreieckstuch",
+          "start": 74.78,
+          "end": 79.4
+        },
+        {
+          "text": "Halstuch Kopftuch",
+          "start": 80.71,
+          "end": 85.38
+        },
+        {
+          "text": "Schal Spitze",
+          "start": 86.82,
+          "end": 91.21
+        },
+        {
+          "text": "Umschlagtuch Bindegürtel",
+          "start": 92.56,
+          "end": 97.89
+        },
+        {
+          "text": "Gürtel Krawattenhalter",
+          "start": 99.17,
+          "end": 103.78
+        },
+        {
+          "text": "Krawattennadel Letzchen",
+          "start": 108.5,
+          "end": 110.1
+        },
+        {
+          "text": "Mantelgürtel Schleier",
+          "start": 114.47,
+          "end": 116.07
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Diese beiden Strümpfe gehören nicht zusammen.",
-        "An Ihrem Knie-Strumpf läuft eine Masche.",
-        "Die Polizei fand in ihrer Nähe eine Socke, die der Täter ihr in den Mund gesteckt hatte.",
-        "Die Weiber haben dünne Strumpfhosen und müssen frieren, aber es sieht hübsch aus.",
-        "Ein schwarzer Filzhut des verstorbenen Popgiganten Michael Jackson kommt Ende September in Paris unter den Hammer.",
-        "Das Mädchen hatte einen roten Hut auf und eine weiße Jacke an.",
-        "Man schwitzt mit dieser Kappe im Sommer weniger.",
-        "Jedem Narren gefällt seine Kappe.",
-        "Seit er in Mexico City lebt, trägt er immer diesen dämlichen Sombrero.",
-        "Die schöne Frau hat ihr Haar unter einem schwarzen Turban verborgen.",
-        "Ein Schleier verhüllt ihr Gesicht.",
-        "Warum haben Schornsteinfeger ausgerechnet einen Zylinder auf dem Kopf?",
-        "Sein Gesicht maskierte er mit einem dunklen Dreieckstuch.",
-        "Die Farbe des Gürtels zeigt den Grad des Kämpfers an.",
-        "Nur am Hals trägt er ein weißes Letzchen."
+        {
+          "text": "Diese beiden Strümpfe gehören nicht zusammen.",
+          "start": 126.91,
+          "end": 129.71
+        },
+        {
+          "text": "An Ihrem Knie-Strumpf läuft eine Masche.",
+          "start": 132.79,
+          "end": 135.79
+        },
+        {
+          "text": "Die Polizei fand in ihrer Nähe eine Socke, die der Täter ihr in den Mund gesteckt hatte.",
+          "start": 138.71,
+          "end": 144.35
+        },
+        {
+          "text": "Die Weiber haben dünne Strumpfhosen und müssen frieren, aber es sieht hübsch aus.",
+          "start": 147.24,
+          "end": 153.13
+        },
+        {
+          "text": "Ein schwarzer Filzhut des verstorbenen Popgiganten Michael Jackson kommt Ende September in Paris unter den Hammer.",
+          "start": 156.16,
+          "end": 164.54
+        },
+        {
+          "text": "Das Mädchen hatte einen roten Hut auf und eine weiße Jacke an.",
+          "start": 167.63,
+          "end": 171.85
+        },
+        {
+          "text": "Man schwitzt mit dieser Kappe im Sommer weniger.",
+          "start": 174.79,
+          "end": 177.79
+        },
+        {
+          "text": "Jedem Narren gefällt seine Kappe.",
+          "start": 181.07,
+          "end": 183.83
+        },
+        {
+          "text": "Seit er in Mexico City lebt, trägt er immer diesen dämlichen Sombrero.",
+          "start": 186.3,
+          "end": 191.6
+        },
+        {
+          "text": "Die schöne Frau hat ihr Haar unter einem schwarzen Turban verborgen.",
+          "start": 194.66,
+          "end": 199.34
+        },
+        {
+          "text": "Ein Schleier verhüllt ihr Gesicht.",
+          "start": 199.62,
+          "end": 201.56
+        },
+        {
+          "text": "Warum haben Schornsteinfeger ausgerechnet einen Zylinder auf dem Kopf?",
+          "start": 204.68,
+          "end": 209.44
+        },
+        {
+          "text": "Sein Gesicht maskierte er mit einem dunklen Dreieckstuch.",
+          "start": 212.62,
+          "end": 216.46
+        },
+        {
+          "text": "Die Farbe des Gürtels zeigt den Grad des Kämpfers an.",
+          "start": 219.5,
+          "end": 223.3
+        },
+        {
+          "text": "Nur am Hals trägt er ein weißes Letzchen.",
+          "start": 225.6,
+          "end": 229.24
+        }
       ]
     }
   ]

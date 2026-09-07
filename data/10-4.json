@@ -4,66 +4,287 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Frühlingsfest",
-        "Böller",
-        "Böllern",
-        "Feuerwerk",
-        "Feuerwerkskörper",
-        "Geldgeschenk",
-        "Krach",
-        "Neujahrsbild",
-        "Rote Umschläge",
-        "Spruchband",
-        "Türgott",
-        "Familienfest",
-        "Füllung",
-        "Der Kloß aus Klebreis",
-        "Maultasche",
-        "Reiskuchen",
-        "Silvester",
-        "Silvesterabend",
-        "Zusammenkunft",
-        "Erdzweig",
-        "Mondjahr",
-        "Mondkalender",
-        "Reihenfolge",
-        "Sonnenkalender",
-        "Solarkalender",
-        "Tier",
-        "Zyklus",
-        "Überlieferung",
-        "Drache",
-        "Frühlingsfestgala",
-        "Glückwunsch",
-        "Heimat",
-        "Laterne",
-        "Löwe",
-        "Rätsel",
-        "Tanz",
-        "Aberglaube",
-        "Bambus",
-        "Ernte",
-        "Jahreswechsel",
-        "Pfirsichholz",
-        "Süßigkeit"
+        {
+          "text": "Frühlingsfest",
+          "start": 1.94,
+          "end": 4.0
+        },
+        {
+          "text": "Böller",
+          "start": 5.28,
+          "end": 7.48
+        },
+        {
+          "text": "Böllern",
+          "start": 7.48,
+          "end": 9.22
+        },
+        {
+          "text": "Feuerwerk",
+          "start": 10.62,
+          "end": 12.34
+        },
+        {
+          "text": "Feuerwerkskörper",
+          "start": 13.72,
+          "end": 16.4
+        },
+        {
+          "text": "Geldgeschenk",
+          "start": 16.4,
+          "end": 18.0
+        },
+        {
+          "text": "Krach",
+          "start": 20.48,
+          "end": 21.76
+        },
+        {
+          "text": "Neujahrsbild",
+          "start": 23.04,
+          "end": 24.88
+        },
+        {
+          "text": "Rote Umschläge",
+          "start": 26.2,
+          "end": 27.94
+        },
+        {
+          "text": "Spruchband",
+          "start": 29.96,
+          "end": 31.44
+        },
+        {
+          "text": "Türgott",
+          "start": 32.75,
+          "end": 34.65
+        },
+        {
+          "text": "Familienfest",
+          "start": 36.0,
+          "end": 37.78
+        },
+        {
+          "text": "Füllung",
+          "start": 39.18,
+          "end": 40.9
+        },
+        {
+          "text": "Der Kloß aus Klebreis",
+          "start": 42.13,
+          "end": 44.71
+        },
+        {
+          "text": "Maultasche",
+          "start": 46.85,
+          "end": 48.25
+        },
+        {
+          "text": "Reiskuchen",
+          "start": 49.56,
+          "end": 50.26
+        },
+        {
+          "text": "Silvester",
+          "start": 52.98,
+          "end": 53.68
+        },
+        {
+          "text": "Silvesterabend",
+          "start": 56.4,
+          "end": 57.1
+        },
+        {
+          "text": "Zusammenkunft",
+          "start": 60.36,
+          "end": 61.76
+        },
+        {
+          "text": "Erdzweig",
+          "start": 63.78,
+          "end": 64.48
+        },
+        {
+          "text": "Mondjahr",
+          "start": 65.86,
+          "end": 67.26
+        },
+        {
+          "text": "Mondkalender",
+          "start": 68.51,
+          "end": 69.21
+        },
+        {
+          "text": "Reihenfolge",
+          "start": 72.37,
+          "end": 73.07
+        },
+        {
+          "text": "Sonnenkalender",
+          "start": 75.66,
+          "end": 77.06
+        },
+        {
+          "text": "Solarkalender",
+          "start": 78.31,
+          "end": 79.01
+        },
+        {
+          "text": "Tier",
+          "start": 81.74,
+          "end": 82.56
+        },
+        {
+          "text": "Zyklus",
+          "start": 83.94,
+          "end": 85.64
+        },
+        {
+          "text": "Überlieferung",
+          "start": 87.72,
+          "end": 89.12
+        },
+        {
+          "text": "Drache",
+          "start": 90.37,
+          "end": 91.07
+        },
+        {
+          "text": "Frühlingsfestgala",
+          "start": 94.25,
+          "end": 94.95
+        },
+        {
+          "text": "Glückwunsch",
+          "start": 97.23,
+          "end": 97.93
+        },
+        {
+          "text": "Heimat",
+          "start": 100.49,
+          "end": 101.19
+        },
+        {
+          "text": "Laterne",
+          "start": 103.67,
+          "end": 105.07
+        },
+        {
+          "text": "Löwe",
+          "start": 106.83,
+          "end": 107.53
+        },
+        {
+          "text": "Rätsel",
+          "start": 108.63,
+          "end": 109.33
+        },
+        {
+          "text": "Tanz",
+          "start": 111.31,
+          "end": 112.61
+        },
+        {
+          "text": "Aberglaube",
+          "start": 115.11,
+          "end": 116.51
+        },
+        {
+          "text": "Bambus",
+          "start": 116.51,
+          "end": 118.23
+        },
+        {
+          "text": "Ernte",
+          "start": 119.15,
+          "end": 120.23
+        },
+        {
+          "text": "Jahreswechsel",
+          "start": 123.59,
+          "end": 124.59
+        },
+        {
+          "text": "Pfirsichholz",
+          "start": 127.15,
+          "end": 127.65
+        },
+        {
+          "text": "Süßigkeit",
+          "start": 130.13,
+          "end": 131.13
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Das Frühlingsfest ist in China und vielen anderen asiatischen Ländern das wichtigste Familienfest des Jahres.",
-        "Der Lärm soll Glück bringen und einem alten Aberglauben zufolge böse Geister vertreiben.",
-        "China ist weltweit der größte Exporteur von Feuerwerkskörpern.",
-        "Das gefährliche Fabeltier Nian hatte Angst vor drei Dingen, vor roter Farbe, vor Feuer und vor lautem Krach.",
-        "Die chinesischen Tierkreiszeichen bestehen aus zwölf Tieren, wobei jedem Jahr ein Tier zugeordnet ist.",
-        "Die zwölf Erdzweige mit den zehn Himmelsstemmen ergeben sie den 60-Jahreszyklus des chinesischen Kalenders.",
-        "Die Ankunft des neuen Mondjahres wird auch in den Chinatowns chinesische Einwanderer in vielen Städten der Erde gefeiert.",
-        "Jedes Jahr findet die chinesische Frühlingsfestgala um 20 Uhr am Silvesterabend statt.",
-        "Die Tempel des Erdparks wurden mit roten Laternen dekoriert.",
-        "Auf den Straßen wurden Tänze mit Drachen oder Löwenmasken dargeboten.",
-        "Schwein gilt in Deutschland als Glücksbringer.",
-        "Zum Jahreswechsel um Mitternacht wird meist mit Feuerwerk und Böllern gefeiert."
+        {
+          "text": "Das Frühlingsfest ist in China und vielen anderen asiatischen Ländern das wichtigste Familienfest des Jahres.",
+          "start": 140.68,
+          "end": 149.32
+        },
+        {
+          "text": "Der Lärm soll Glück bringen und einem alten Aberglauben zufolge böse Geister vertreiben.",
+          "start": 152.38,
+          "end": 159.2
+        },
+        {
+          "text": "China ist weltweit der größte Exporteur von Feuerwerkskörpern.",
+          "start": 161.54,
+          "end": 166.54
+        },
+        {
+          "text": "Das gefährliche Fabeltier Nian hatte Angst vor drei Dingen.",
+          "start": 169.87,
+          "end": 174.35
+        },
+        {
+          "text": "Vor roter Farbe, vor Feuer und vor lautem Krach.",
+          "start": 174.81,
+          "end": 178.81
+        },
+        {
+          "text": "Die chinesischen Tierkreiszeichen bestehen aus zwölf Tieren, wobei jedem Jahr ein Tier zugeordnet ist.",
+          "start": 181.76,
+          "end": 189.62
+        },
+        {
+          "text": "Die zwölf Erdzweige mit den zehn Himmelsstemmen ergeben sie den 60-Jahreszyklus des chinesischen Kalenders.",
+          "start": 191.82,
+          "end": 201.08
+        },
+        {
+          "text": "Die Ankunft des neuen Mondjahres wird auch in den Chinatowns chinesischer Einwanderer in vielen Städten der Erde gefeiert.",
+          "start": 204.17,
+          "end": 213.19
+        },
+        {
+          "text": "Jedes Jahr findet die chinesische Frühlingsfestgala um 20 Uhr am Silvesterabend statt.",
+          "start": 216.31,
+          "end": 222.71
+        },
+        {
+          "text": "Die Tempel des Erdparks wurden mit roten Laternen dekoriert.",
+          "start": 224.95,
+          "end": 230.11
+        },
+        {
+          "text": "Auf den Straßen wurden Tänze mit Drachen oder Löwenmasken dargeboten.",
+          "start": 233.63,
+          "end": 238.19
+        },
+        {
+          "text": "Schwein gilt in Deutschland als Glücksbringer.",
+          "start": 241.79,
+          "end": 244.79
+        },
+        {
+          "text": "Zum Jahreswechsel um Mitternacht wird meist mit Feuerwerk und Böllern gefeiert.",
+          "start": 248.0,
+          "end": 253.2
+        }
       ]
     }
   ]

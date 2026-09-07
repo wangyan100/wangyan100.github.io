@@ -4,53 +4,262 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Gesundheitszustand Lebenserwartung",
-        "physiologisch physisch",
-        "körperlich",
-        "psychisch",
-        "seelisch",
-        "wohl",
-        "wohl Wohlbefinden",
-        "anstecken Ansteckungsquelle",
-        "immun Immundefekt",
-        "immunisieren Prävention",
-        "vorbeugen Verhüten",
-        "Bakterie Druck",
-        "Stress",
-        "Erreger Gift",
-        "Infektion",
-        "Karzinogen Lebensweise",
-        "Strahlung Virus",
-        "akut",
-        "chronisch",
-        "bösartig",
-        "gutartig",
-        "allergisch",
-        "atypisch",
-        "epidemisch infektiös",
-        "altern Alterung",
-        "ergraut Falte",
-        "Runzel Osteoporose"
+        {
+          "text": "Gesundheitszustand Lebenserwartung",
+          "start": 5.15,
+          "end": 7.95
+        },
+        {
+          "text": "physiologisch physisch",
+          "start": 9.3,
+          "end": 13.64
+        },
+        {
+          "text": "körperlich",
+          "start": 13.82,
+          "end": 15.0
+        },
+        {
+          "text": "psychisch",
+          "start": 16.87,
+          "end": 17.47
+        },
+        {
+          "text": "seelisch",
+          "start": 17.73,
+          "end": 18.97
+        },
+        {
+          "text": "wohl",
+          "start": 20.25,
+          "end": 21.19
+        },
+        {
+          "text": "wohl Wohlbefinden",
+          "start": 22.74,
+          "end": 27.34
+        },
+        {
+          "text": "anstecken Ansteckungsquelle",
+          "start": 30.5,
+          "end": 33.3
+        },
+        {
+          "text": "immun",
+          "start": 34.3,
+          "end": 35.4
+        },
+        {
+          "text": "Immundefekt",
+          "start": 35.4,
+          "end": 39.3
+        },
+        {
+          "text": "immunisieren",
+          "start": 40.72,
+          "end": 42.12
+        },
+        {
+          "text": "Prävention",
+          "start": 43.99,
+          "end": 44.93
+        },
+        {
+          "text": "Vorbeugen",
+          "start": 47.1,
+          "end": 48.34
+        },
+        {
+          "text": "Verhüten",
+          "start": 50.07,
+          "end": 51.73
+        },
+        {
+          "text": "Bakterie Druck",
+          "start": 53.69,
+          "end": 56.25
+        },
+        {
+          "text": "Stress",
+          "start": 59.86,
+          "end": 59.86
+        },
+        {
+          "text": "Erreger Gift",
+          "start": 59.86,
+          "end": 64.28
+        },
+        {
+          "text": "Infektion",
+          "start": 66.41,
+          "end": 68.57
+        },
+        {
+          "text": "Karzinogen Lebensweise",
+          "start": 68.57,
+          "end": 73.95
+        },
+        {
+          "text": "Strahlung Virus",
+          "start": 75.32,
+          "end": 80.04
+        },
+        {
+          "text": "akut",
+          "start": 80.94,
+          "end": 82.7
+        },
+        {
+          "text": "chronisch",
+          "start": 84.56,
+          "end": 85.42
+        },
+        {
+          "text": "bösartig",
+          "start": 87.01,
+          "end": 89.59
+        },
+        {
+          "text": "gutartig",
+          "start": 90.11,
+          "end": 92.53
+        },
+        {
+          "text": "allergisch",
+          "start": 92.53,
+          "end": 94.79
+        },
+        {
+          "text": "atypisch",
+          "start": 96.09,
+          "end": 97.87
+        },
+        {
+          "text": "epidemisch",
+          "start": 101.75,
+          "end": 103.15
+        },
+        {
+          "text": "infektiös",
+          "start": 103.15,
+          "end": 103.87
+        },
+        {
+          "text": "altern",
+          "start": 104.55,
+          "end": 105.47
+        },
+        {
+          "text": "Alterung",
+          "start": 107.69,
+          "end": 109.25
+        },
+        {
+          "text": "ergraut",
+          "start": 110.15,
+          "end": 111.67
+        },
+        {
+          "text": "Falte",
+          "start": 113.52,
+          "end": 115.12
+        },
+        {
+          "text": "Runzel",
+          "start": 115.12,
+          "end": 117.9
+        },
+        {
+          "text": "Osteoporose",
+          "start": 118.5,
+          "end": 120.4
+        },
+        {
+          "text": "Schwächen",
+          "start": 122.24,
+          "end": 123.02
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Menschen sind gesünder und haben eine längere Lebenserwartung.",
-        "Bei der häuslichen Gewalt wird man sowohl körperlich als auch psychisch verletzt.",
-        "Du siehst wohl aus.",
-        "Lass dich von seiner Grippe nicht anstecken.",
-        "Der Engländer Edward Jenner entdeckte im Jahr 1797, dass man den Pocken mit Kuhpocken impfen und immunisieren kann.",
-        "Die Impfung wird durch regelmäßigen Sport vorgebeugt.",
-        "Infektionskrankheiten können durch Bakterien oder Viren hervorgerufen werden.",
-        "Wann steht ihr zu sehr unter Druck und wie geht ihr damit um?",
-        "Darauf kannst du Gift nehmen.",
-        "Max hat eine gesunde Lebensweise und läuft jeden Morgen.",
-        "Die radioaktive Strahlung ist für Menschen sehr gefährlich.",
-        "Die Krankheit trat akut auf.",
-        "Das infektiöse Material wird in besonderen Containern gesammelt und verbrannt.",
-        "Die Krankheit Osteoporose betrifft zunächst ältere Menschen, vor allem Frauen nach der Menopause."
+        {
+          "text": "Glückliche Menschen sind gesünder und haben eine längere Lebenserwartung.",
+          "start": 132.94,
+          "end": 138.16
+        },
+        {
+          "text": "Bei der häuslichen Gewalt wird man sowohl körperlich als auch psychisch verletzt.",
+          "start": 141.02,
+          "end": 146.33
+        },
+        {
+          "text": "Du siehst wohl aus.",
+          "start": 149.64,
+          "end": 151.18
+        },
+        {
+          "text": "Lass dich von seiner Grippe nicht anstecken.",
+          "start": 154.15,
+          "end": 156.93
+        },
+        {
+          "text": "Der Engländer Edward Jenner entdeckte im Jahr 1797, dass man den Pocken mit Kuhpocken impfen und immunisieren kann.",
+          "start": 159.89,
+          "end": 169.23
+        },
+        {
+          "text": "Der Herzerkrankung wird durch regelmäßigen Sport vorgebeugt.",
+          "start": 171.44,
+          "end": 177.44
+        },
+        {
+          "text": "Infektionskrankheiten können durch Bakterien oder Viren hervorgerufen werden.",
+          "start": 181.13,
+          "end": 185.63
+        },
+        {
+          "text": "Wann steht ihr zu sehr unter Druck und wie geht ihr damit um?",
+          "start": 188.67,
+          "end": 192.71
+        },
+        {
+          "text": "Darauf kannst du Gift nehmen.",
+          "start": 195.78,
+          "end": 197.64
+        },
+        {
+          "text": "Max hat eine gesunde Lebensweise und läuft jeden Morgen.",
+          "start": 200.73,
+          "end": 204.55
+        },
+        {
+          "text": "Ein Virus kann die gesamten Daten auf dem Computer verändern oder sogar löschen.",
+          "start": 206.82,
+          "end": 213.0
+        },
+        {
+          "text": "Die radioaktive Strahlung ist für Menschen sehr gefährlich.",
+          "start": 215.65,
+          "end": 219.71
+        },
+        {
+          "text": "Die Krankheit trat akut auf.",
+          "start": 222.62,
+          "end": 224.94
+        },
+        {
+          "text": "Das infektiöse Material wird in besonderen Containern gesammelt und verbrannt.",
+          "start": 227.96,
+          "end": 233.46
+        },
+        {
+          "text": "Die Krankheit Osteoporose betrifft zunächst ältere Menschen, vor allem Frauen nach der Menopause.",
+          "start": 236.5,
+          "end": 242.96
+        }
       ]
     }
   ]

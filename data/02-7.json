@@ -4,57 +4,242 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Suppen",
-        "Eintopf",
-        "Kaltschale",
-        "Kraftbrühe",
-        "die klare Suppe",
-        "Püreesuppe",
-        "Rahmsuppe",
-        "Cremesuppe",
-        "Schleimsuppe",
-        "die badische Schneckensuppe",
-        "Borst",
-        "Fond",
-        "Ganzsuppe",
-        "Gulaschsuppe",
-        "Hühnersuppe",
-        "Hühnerbrühe",
-        "Leberknödelsuppe",
-        "Ahlsuppe",
-        "die Dreierleisuppe",
-        "Fischsuppe",
-        "Krabbensuppe",
-        "Kuttelsuppe",
-        "Erbsensuppe",
-        "Gazpacho",
-        "Kartoffelsuppe",
-        "Kürbiseintopf",
-        "Salmoreo",
-        "Zwiebelsuppe",
-        "Fruchtsuppe",
-        "Fritatensuppe",
-        "Mehlsuppe",
-        "Miso-Suppe",
-        "Nudelsuppe",
-        "die sauer-scharfe Suppe",
-        "Schwalbennestsuppe"
+        {
+          "text": "Suppen",
+          "start": 2.0,
+          "end": 3.66
+        },
+        {
+          "text": "Eintopf",
+          "start": 5.07,
+          "end": 6.37
+        },
+        {
+          "text": "Kaltschale",
+          "start": 7.74,
+          "end": 9.46
+        },
+        {
+          "text": "Kraftbrühe",
+          "start": 10.81,
+          "end": 12.77
+        },
+        {
+          "text": "die klare Suppe",
+          "start": 14.02,
+          "end": 16.12
+        },
+        {
+          "text": "Püreesuppe",
+          "start": 17.52,
+          "end": 19.34
+        },
+        {
+          "text": "Rahmsuppe",
+          "start": 20.66,
+          "end": 22.4
+        },
+        {
+          "text": "Cremesuppe",
+          "start": 23.77,
+          "end": 25.61
+        },
+        {
+          "text": "Schleimsuppe",
+          "start": 27.15,
+          "end": 29.03
+        },
+        {
+          "text": "die badische Schneckensuppe",
+          "start": 30.37,
+          "end": 33.15
+        },
+        {
+          "text": "Borst",
+          "start": 34.5,
+          "end": 35.68
+        },
+        {
+          "text": "Fond",
+          "start": 37.12,
+          "end": 38.14
+        },
+        {
+          "text": "Ganzsuppe",
+          "start": 40.09,
+          "end": 41.81
+        },
+        {
+          "text": "Gulaschsuppe",
+          "start": 43.12,
+          "end": 44.94
+        },
+        {
+          "text": "Hühnersuppe",
+          "start": 46.35,
+          "end": 48.13
+        },
+        {
+          "text": "Hühnerbrühe",
+          "start": 49.54,
+          "end": 50.88
+        },
+        {
+          "text": "Leberknödelsuppe",
+          "start": 54.68,
+          "end": 56.08
+        },
+        {
+          "text": "Ahlsuppe",
+          "start": 56.08,
+          "end": 57.78
+        },
+        {
+          "text": "die Dreierleisuppe",
+          "start": 59.02,
+          "end": 61.34
+        },
+        {
+          "text": "Fischsuppe",
+          "start": 62.78,
+          "end": 64.52
+        },
+        {
+          "text": "Krabbensuppe",
+          "start": 65.93,
+          "end": 67.75
+        },
+        {
+          "text": "Kuttelsuppe",
+          "start": 69.1,
+          "end": 70.84
+        },
+        {
+          "text": "Erbsensuppe",
+          "start": 72.21,
+          "end": 74.09
+        },
+        {
+          "text": "Gazpacho",
+          "start": 75.89,
+          "end": 76.83
+        },
+        {
+          "text": "Kartoffelsuppe",
+          "start": 79.3,
+          "end": 80.28
+        },
+        {
+          "text": "Kürbiseintopf",
+          "start": 82.59,
+          "end": 83.29
+        },
+        {
+          "text": "Salmoreo",
+          "start": 86.08,
+          "end": 86.82
+        },
+        {
+          "text": "Zwiebelsuppe",
+          "start": 89.52,
+          "end": 90.22
+        },
+        {
+          "text": "Fruchtsuppe",
+          "start": 92.94,
+          "end": 93.64
+        },
+        {
+          "text": "die grüne Bohnencremesuppe",
+          "start": 94.99,
+          "end": 96.99
+        },
+        {
+          "text": "Fritatensuppe",
+          "start": 100.54,
+          "end": 101.58
+        },
+        {
+          "text": "Mehlsuppe",
+          "start": 104.65,
+          "end": 105.69
+        },
+        {
+          "text": "Miso-Suppe",
+          "start": 105.69,
+          "end": 107.71
+        },
+        {
+          "text": "Nudelsuppe",
+          "start": 109.69,
+          "end": 110.21
+        },
+        {
+          "text": "die sauer scharfe Suppe",
+          "start": 112.01,
+          "end": 114.43
+        },
+        {
+          "text": "Schwalbennestsuppe",
+          "start": 116.99,
+          "end": 118.03
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Eine Kaltschale wird vor allem im Sommer gegessen.",
-        "Eine Kraftbrühe ist die Vollendung der Fleischbrühe, wodurch sie besonders reich und kräftig wird.",
-        "Cremesuppen sind bester Begleiter an kalten Tagen.",
-        "Badische Schneckensuppe ist ein traditionelles Gericht der badischen Küche.",
-        "Eigentlich ist Borsch ein ukrainischer Eintopf.",
-        "Für eine Hühnersuppe brauchen Sie ein küchenfertiges Suppenhuhn, Suppengemüse und Gewürze.",
-        "Die ursprüngliche Gazpacho geht auf die Mauren zurück und war eine weiße Knoblauchsuppe aus Gurken, Brot, Knoblauch, Olivenöl, Essig, Salz und Wasser.",
-        "Die Salmoreo ist eine kalte, dickflüssige Suppe aus der Region um Cordoba in Spanien.",
-        "Fritatensuppe ist eine der beliebtesten Suppen in Österreich.",
-        "Miso-Suppe wird in Japan Stäbchen gegessen."
+        {
+          "text": "Eine Kaltschale wird vor allem im Sommer gegessen.",
+          "start": 127.66,
+          "end": 131.84
+        },
+        {
+          "text": "Eine Kraftbrühe ist die Vollendung der Fleischbrühe, wodurch sie besonders reich und kräftig wird.",
+          "start": 134.99,
+          "end": 142.77
+        },
+        {
+          "text": "Cremesuppen sind bester Begleiter an kalten Tagen.",
+          "start": 145.62,
+          "end": 149.22
+        },
+        {
+          "text": "Badische Schneckensuppe ist ein traditionelles Gericht der badischen Küche.",
+          "start": 152.4,
+          "end": 157.96
+        },
+        {
+          "text": "Eigentlich ist Borsch ein ukrainischer Eintopf.",
+          "start": 160.78,
+          "end": 164.56
+        },
+        {
+          "text": "Für eine Hühnersuppe brauchen Sie ein küchenfertiges Suppenhuhn, Suppengemüse und Gewürze.",
+          "start": 167.6,
+          "end": 174.9
+        },
+        {
+          "text": "Die ursprüngliche Gazpacho geht auf die Mauren zurück und war eine weiße Knoblauchsuppe aus Gurken, Brot, Knoblauch, Olivenöl, Essig, Salz und Wasser.",
+          "start": 177.86,
+          "end": 190.94
+        },
+        {
+          "text": "Die Salmoreo ist eine kalte, dickflüssige Suppe aus der Region um Córdoba in Spanien.",
+          "start": 193.97,
+          "end": 202.01
+        },
+        {
+          "text": "Fritatensuppe ist eine der beliebtesten Suppen in Österreich.",
+          "start": 205.33,
+          "end": 209.43
+        },
+        {
+          "text": "Miso-Suppe wird in Japan meistens mit Stäbchen gegessen.",
+          "start": 211.7,
+          "end": 216.68
+        }
       ]
     }
   ]

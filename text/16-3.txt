@@ -1,58 +1,61 @@
-Landformen 2
-Eisfeld
-Firnschicht
-Firn
-Gletscherbach
-Lawine
-schmelzen
-Talgletscher
-vergletschern
-Bergkette
-Bergspitze
-Cliff
-Pass
-Saumfahrt
-Steilwand
-Grotte
-Höhle
-Hochebene
-Höhlenfluss
-Hügel
-Schlucht
-Stalagmit
-Tropfstein
-der aktive Vulkan
-der erloschene Vulkan
-Subvulkan
-Krater
-Lava
-Mar
-Magma
-Schlot
-Tuff
-Vulkanausbruch
-Dürre
-Kaktus
-Luftspiegelung
-Fata Morgana
-Oase
-Sand
-Sandsturm
-Trockenheit
-Sprechen Sie bitte die folgenden Sätze
-Gletscher speichern 70 Prozent des Süßwassers der Erde.
-Die vier Schichten des Gletschers
-pressen sich stetig zu Eis zusammen.
-Beinahe jedes Jahr fallen Skitouristen einer Lawine zum Opfer.
-Als lebendes Cliff wird ein Abschnitt einer Cliffküste bezeichnet,
-der durch das Meer erodiert und rückversetzt wird.
-Wegen Lawinengefahr mussten mehrere Pässe gesperrt werden.
-Natürliche Höhlen galten in der Antike als Aufenthaltsort von Nymphen und anderen Wesen.
-Grundsätzlich befinden sich in allen Höhlen weltweit,
-die in Karst- und Kalkgesteinsregionen liegen, Tropfsteine.
-Die größte Konzentration an Vulkanen kann man am sogenannten Pazifischen Feuerring finden.
-Ein Vulkan, der seit 10.000 Jahren nicht mehr tätig ist,
-wird zu den erloschenen Vulkanen gerechnet.
-In dem Erdmantel existieren Magmen.
-Bei manchen Vulkanausbrüchen wird das Oberflächengestein kilometerweit in die Luft gestoßen.
-Die Oasenwirtschaft ist eine sehr intensive Wirtschaftsform innerhalb der Oasen in den Trockengebieten.
+[00:00:01.780 --> 00:00:06.420] Landformen 2
+[00:00:07.760 --> 00:00:09.160] Eisfeld
+[00:00:10.600 --> 00:00:12.640] Firnschicht
+[00:00:14.080 --> 00:00:16.740] Firn
+[00:00:16.740 --> 00:00:18.260] Gletscherbach
+[00:00:19.510 --> 00:00:21.250] Lawine
+[00:00:22.600 --> 00:00:24.220] schmelzen
+[00:00:25.560 --> 00:00:27.480] Talgletscher
+[00:00:28.790 --> 00:00:30.950] vergletschern
+[00:00:32.490 --> 00:00:33.890] Bergkette
+[00:00:35.290 --> 00:00:36.690] Bergspitze
+[00:00:38.070 --> 00:00:38.890] Cliff
+[00:00:40.200 --> 00:00:42.040] Pass
+[00:00:43.620 --> 00:00:45.020] Saumfahrt
+[00:00:46.490 --> 00:00:48.230] Steilwand
+[00:00:49.510 --> 00:00:51.030] Grotte
+[00:00:52.340 --> 00:00:53.840] Höhle
+[00:00:55.220 --> 00:00:56.980] Hochebene
+[00:00:58.260 --> 00:00:59.920] Höhlenfluss
+[00:01:01.230 --> 00:01:02.730] Hügel
+[00:01:04.200 --> 00:01:05.600] Schlucht
+[00:01:07.010 --> 00:01:08.730] Stalagmit
+[00:01:10.080 --> 00:01:11.800] Tropfstein
+[00:01:13.040 --> 00:01:16.400] der aktive Vulkan
+[00:01:16.680 --> 00:01:19.380] der erloschene Vulkan
+[00:01:20.760 --> 00:01:22.640] Subvulkan
+[00:01:24.020 --> 00:01:25.620] Krater
+[00:01:26.860 --> 00:01:28.400] Lava
+[00:01:29.650 --> 00:01:30.570] Ma
+[00:01:32.610 --> 00:01:33.670] Magma
+[00:01:35.080 --> 00:01:36.800] Schlot
+[00:01:38.080 --> 00:01:39.320] Tuff
+[00:01:40.630 --> 00:01:42.810] Vulkanausbruch
+[00:01:44.060 --> 00:01:45.320] Dürre
+[00:01:46.660 --> 00:01:49.380] Kaktus
+[00:01:49.380 --> 00:01:51.620] Luftspiegelung
+[00:01:52.940 --> 00:01:55.540] Fata Morgana
+[00:01:55.540 --> 00:01:57.480] Oase
+[00:01:58.720 --> 00:02:00.220] Sand
+[00:02:01.500 --> 00:02:03.300] Sandsturm
+[00:02:04.580 --> 00:02:06.000] Trockenheit
+[00:02:10.480 --> 00:02:13.580] Sprechen Sie bitte die folgenden Sätze
+[00:02:15.790 --> 00:02:20.690] Gletscher speichern 70 Prozent des Süßwassers der Erde.
+[00:02:23.490 --> 00:02:26.050] Die vier Schichten des Gletschers
+[00:02:26.050 --> 00:02:28.770] pressen sich stetig zu Eis zusammen.
+[00:02:31.800 --> 00:02:36.620] Beinahe jedes Jahr fallen Skitouristen einer Lawine zum Opfer.
+[00:02:39.500 --> 00:02:43.780] Als lebendes Cliff wird ein Abschnitt einer Cliffküste bezeichnet,
+[00:02:44.260 --> 00:02:47.420] der durch das Meer erodiert und rückversetzt wird.
+[00:02:50.520 --> 00:02:54.740] Wegen Lawinengefahr mussten mehrere Pässe gesperrt werden.
+[00:02:58.000 --> 00:03:04.660] Natürliche Höhlen galten in der Antike als Aufenthaltsort von Nymphen und anderen Wesen.
+[00:03:07.360 --> 00:03:10.900] Grundsätzlich befinden sich in allen Höhlen weltweit,
+[00:03:10.900 --> 00:03:15.300] die in Karst- und Kalkgesteinsregionen liegen, Tropfsteine.
+[00:03:18.280 --> 00:03:21.140] Die größte Konzentration an Vulkanen
+[00:03:21.140 --> 00:03:24.640] kann man am sogenannten Pazifischen Feuerring finden.
+[00:03:27.710 --> 00:03:32.190] Ein Vulkan, der seit 10.000 Jahren nicht mehr tätig ist,
+[00:03:32.190 --> 00:03:35.270] wird zu den erloschenen Vulkanen gerechnet.
+[00:03:38.370 --> 00:03:41.670] In dem Erdmantel existieren Magmen.
+[00:03:44.590 --> 00:03:46.750] Bei manchen Vulkanausbrüchen
+[00:03:46.750 --> 00:03:51.370] wird das Oberflächengestein kilometerweit in die Luft gestoßen.
+[00:03:54.350 --> 00:03:58.410] Die Oasenwirtschaft ist eine sehr intensive Wirtschaftsform
+[00:03:58.410 --> 00:04:01.370] innerhalb der Oasen in den Trockengebieten.

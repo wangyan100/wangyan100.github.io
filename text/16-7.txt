@@ -1,63 +1,67 @@
-Bäume und Gräser
-Ast
-Baumkrone
-Baumstamm
-Borke
-Rinde
-Saat
-Spross
-Wipfel
-Wurzel
-Zweig
-Ahorn
-Birke
-Buche
-Eiche
-Linde
-Pappel
-Platane
-Ulme
-Eibe
-Fichte
-Kiefer
-Lärche
-Pinie
-Wacholder
-Zeder
-Zypresse
-Ackersenf
-Distel
-Espato
-Hexenkraut
-Hirtentäschel
-Nessel
-Quecke
-Busch
-Forsythie
-Holunder
-Oleander
-Schlee
-Spierstrauch
-Stechpalme
-Weigelie
-Sprechen Sie bitte die folgenden Sätze
-Auf einen Hieb fällt kein Baum.
-Der Specht behackt die Rinde des Baumes.
-In den Wipfeln der Bäume rauscht der Wind.
-Dieser Gedanke fasst Wurzel in seinem Hirn.
-Als Holzlieferanten werden in Mitteleuropa vor allem die Birken genutzt.
-Im Sommer toben Kinder unter alten Eichen,
-Turnen auf Holzgerüsten und Spielen verstecken.
-Bei den Germanen und den Slawen galt die Linde als heiliger Baum.
-Diese Ulme ist vielleicht fünf Meter hoch.
-Diese Möbel aus Holz der Fichte sind solide gearbeitet.
-Lärchen werfen im Spätherbst ihre Blätter ab.
-Das natürliche Verbreitungsgebiet der Pinie
-befindet sich im nördlichen Mittelmeerraum
-und erstreckt sich von der iberischen Halbinsel bis nach Anatolien.
-Die Disteln ritzen seine nackten Füße.
-Hirtentäschel ist ein häufig anzutreffendes Unkraut in Gärten oder auf Äckern.
-Der Bahndamm ist voller Nesseln.
-Der Weg war von Quecken bewuchert.
-Der Spierstrauch ist recht pflegeleicht und anspruchslos
-und wird daher gerne in Grün- und Parkanlagen gepflanzt.
+[00:00:01.870 --> 00:00:04.410] Bäume und Gräser
+[00:00:05.760 --> 00:00:06.500] Ast
+[00:00:09.560 --> 00:00:10.960] Baumkrone
+[00:00:10.960 --> 00:00:12.800] Baumstamm
+[00:00:14.080 --> 00:00:16.220] Borke
+[00:00:16.760 --> 00:00:18.200] Rinde
+[00:00:19.550 --> 00:00:20.970] Saat
+[00:00:22.470 --> 00:00:23.810] Spross
+[00:00:25.060 --> 00:00:27.480] Wipfel
+[00:00:27.480 --> 00:00:29.400] Wurzel
+[00:00:30.780 --> 00:00:32.200] Zweig
+[00:00:33.440 --> 00:00:34.880] Ahorn
+[00:00:36.130 --> 00:00:37.630] Birke
+[00:00:39.100 --> 00:00:40.260] Buche
+[00:00:41.540 --> 00:00:43.560] Eiche
+[00:00:44.620 --> 00:00:45.680] Linde
+[00:00:46.930 --> 00:00:48.910] Pappel
+[00:00:50.190 --> 00:00:51.430] Platane
+[00:00:54.260 --> 00:00:55.660] Ulme
+[00:00:55.660 --> 00:00:57.080] Eibe
+[00:00:58.490 --> 00:00:59.810] Fichte
+[00:01:02.640 --> 00:01:04.040] Kiefer
+[00:01:04.040 --> 00:01:05.480] Lärche
+[00:01:06.820 --> 00:01:09.420] Pinie
+[00:01:09.420 --> 00:01:11.400] Wacholder
+[00:01:12.780 --> 00:01:14.100] Zeder
+[00:01:15.440 --> 00:01:17.160] Zypresse
+[00:01:18.440 --> 00:01:19.680] Ackersenf
+[00:01:20.930 --> 00:01:23.610] Distel
+[00:01:23.610 --> 00:01:25.710] Espato
+[00:01:27.020 --> 00:01:28.840] Hexenkraut
+[00:01:32.230 --> 00:01:33.630] Hirtentäschel
+[00:01:33.630 --> 00:01:34.610] Nessel
+[00:01:35.920 --> 00:01:37.600] Quecke
+[00:01:38.920 --> 00:01:40.180] Busch
+[00:01:41.620 --> 00:01:43.280] Forsythie
+[00:01:44.620 --> 00:01:46.520] Holunder
+[00:01:47.500 --> 00:01:49.120] Oleander
+[00:01:50.560 --> 00:01:51.920] Schlee
+[00:01:53.390 --> 00:01:55.210] Spierstrauch
+[00:01:58.310 --> 00:01:59.710] Stechpalme
+[00:01:59.710 --> 00:02:01.330] Weigelie
+[00:02:05.810 --> 00:02:08.570] Sprechen Sie bitte die folgenden Sätze
+[00:02:11.050 --> 00:02:14.050] Auf einen Hieb fällt kein Baum.
+[00:02:16.970 --> 00:02:20.130] Der Specht behackt die Rinde des Baumes.
+[00:02:23.080 --> 00:02:26.120] In den Wipfeln der Bäume rauscht der Wind.
+[00:02:29.390 --> 00:02:32.730] Dieser Gedanke fasst Wurzel in seinem Hirn.
+[00:02:35.310 --> 00:02:37.090] Als Holzlieferanten
+[00:02:37.090 --> 00:02:41.350] werden in Mitteleuropa vor allem die Birken genutzt.
+[00:02:43.930 --> 00:02:47.130] Im Sommer toben Kinder unter alten Eichen,
+[00:02:47.450 --> 00:02:50.430] Turnen auf Holzgerüsten und Spielen verstecken.
+[00:02:53.240 --> 00:02:55.880] Bei den Germanen und den Slaven
+[00:02:55.880 --> 00:02:58.160] galt die Linde als heiliger Baum.
+[00:03:01.270 --> 00:03:04.090] Diese Ulme ist vielleicht fünf Meter hoch.
+[00:03:07.140 --> 00:03:11.040] Diese Möbel aus Holz der Fichte sind solide gearbeitet.
+[00:03:14.250 --> 00:03:17.490] Lärchen werfen im Spätherbst ihre Blätter ab.
+[00:03:20.590 --> 00:03:23.750] Das natürliche Verbreitungsgebiet der Pinie
+[00:03:23.750 --> 00:03:26.530] befindet sich im nördlichen Mittelmeerraum
+[00:03:26.530 --> 00:03:29.830] und erstreckt sich von der iberischen Halbinsel
+[00:03:29.830 --> 00:03:31.330] bis nach Anatolien.
+[00:03:34.340 --> 00:03:37.180] Die Disteln ritzen seine nackten Füße.
+[00:03:40.510 --> 00:03:44.010] Hirtentäschel ist ein häufig anzutreffendes Unkraut
+[00:03:44.010 --> 00:03:45.850] in Gärten oder auf Äckern.
+[00:03:48.790 --> 00:03:51.130] Der Bahndamm ist voller Nesseln.
+[00:03:54.240 --> 00:03:56.660] Der Weg war von Quecken bewuchert.
+[00:03:59.720 --> 00:04:03.820] Der Spierstrauch ist recht pflegeleicht und anspruchslos
+[00:04:03.820 --> 00:04:07.960] und wird daher gerne in Grün- und Parkanlagen gepflanzt.

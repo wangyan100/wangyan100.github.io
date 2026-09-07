@@ -4,63 +4,267 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Erdtrabant",
-        "Halbmond",
-        "Mondfinsternis",
-        "Mondlicht",
-        "Mondschein",
-        "Mondnacht",
-        "Mondphase",
-        "Neumond",
-        "Vollmond",
-        "Ausbrennen",
-        "Bogen",
-        "Bogenschütze",
-        "Elixier",
-        "Entschwinden",
-        "Göttin",
-        "Held",
-        "Herunterschiessen",
-        "Version",
-        "Familie",
-        "Familienkreis",
-        "Feier",
-        "Freund",
-        "genießen",
-        "Veranstaltung",
-        "Zeremonie",
-        "Zusammenführen",
-        "Gebäck",
-        "Leckerbissen",
-        "Eigelb",
-        "Lotus-Samenpaste",
-        "die süße Bohnenpaste",
-        "Pastete",
-        "Eismondkuchen",
-        "Bauerkalender",
-        "Beschenken",
-        "Brauch",
-        "Lorbeer",
-        "Sage",
-        "Sitte",
-        "Volksfest"
+        {
+          "text": "Erdtrabant",
+          "start": 7.59,
+          "end": 8.99
+        },
+        {
+          "text": "Halbmond",
+          "start": 8.99,
+          "end": 10.39
+        },
+        {
+          "text": "Mondfinsternis",
+          "start": 10.39,
+          "end": 14.39
+        },
+        {
+          "text": "Mondlicht",
+          "start": 15.03,
+          "end": 16.43
+        },
+        {
+          "text": "Mondschein",
+          "start": 18.07,
+          "end": 19.35
+        },
+        {
+          "text": "Mondnacht",
+          "start": 21.07,
+          "end": 22.09
+        },
+        {
+          "text": "Mondphase",
+          "start": 24.16,
+          "end": 25.68
+        },
+        {
+          "text": "Neumond",
+          "start": 27.16,
+          "end": 28.56
+        },
+        {
+          "text": "Vollmond",
+          "start": 30.39,
+          "end": 31.33
+        },
+        {
+          "text": "ausbrennen",
+          "start": 33.32,
+          "end": 35.68
+        },
+        {
+          "text": "Bogen",
+          "start": 36.28,
+          "end": 36.94
+        },
+        {
+          "text": "Bogenschütze",
+          "start": 38.99,
+          "end": 40.49
+        },
+        {
+          "text": "Elixier",
+          "start": 42.14,
+          "end": 43.34
+        },
+        {
+          "text": "entschwinden",
+          "start": 43.86,
+          "end": 45.42
+        },
+        {
+          "text": "Göttin",
+          "start": 45.42,
+          "end": 47.98
+        },
+        {
+          "text": "Held",
+          "start": 49.69,
+          "end": 50.33
+        },
+        {
+          "text": "herunterschiessen",
+          "start": 52.23,
+          "end": 53.63
+        },
+        {
+          "text": "Version",
+          "start": 55.64,
+          "end": 56.2
+        },
+        {
+          "text": "Familie",
+          "start": 58.52,
+          "end": 59.04
+        },
+        {
+          "text": "Familienkreis",
+          "start": 61.58,
+          "end": 63.04
+        },
+        {
+          "text": "Feier",
+          "start": 64.85,
+          "end": 65.69
+        },
+        {
+          "text": "Freund",
+          "start": 67.56,
+          "end": 68.06
+        },
+        {
+          "text": "genießen",
+          "start": 70.0,
+          "end": 71.4
+        },
+        {
+          "text": "Veranstaltung",
+          "start": 73.24,
+          "end": 74.5
+        },
+        {
+          "text": "Zeremonie",
+          "start": 76.46,
+          "end": 77.72
+        },
+        {
+          "text": "zusammenführen",
+          "start": 79.49,
+          "end": 81.89
+        },
+        {
+          "text": "Gebäck",
+          "start": 81.89,
+          "end": 83.73
+        },
+        {
+          "text": "leckerbissen",
+          "start": 85.26,
+          "end": 87.4
+        },
+        {
+          "text": "Eigelb",
+          "start": 87.4,
+          "end": 89.52
+        },
+        {
+          "text": "Lotussamenpaste",
+          "start": 91.18,
+          "end": 93.36
+        },
+        {
+          "text": "die süße Bohnenpaste",
+          "start": 93.36,
+          "end": 97.02
+        },
+        {
+          "text": "Pastete",
+          "start": 99.02,
+          "end": 99.9
+        },
+        {
+          "text": "Eismondkuchen",
+          "start": 101.86,
+          "end": 104.2
+        },
+        {
+          "text": "Bauerkalender",
+          "start": 106.78,
+          "end": 107.48
+        },
+        {
+          "text": "beschenken",
+          "start": 108.18,
+          "end": 109.78
+        },
+        {
+          "text": "Brauch",
+          "start": 111.03,
+          "end": 112.55
+        },
+        {
+          "text": "Lorbeer",
+          "start": 114.19,
+          "end": 115.39
+        },
+        {
+          "text": "Sage",
+          "start": 117.1,
+          "end": 118.36
+        },
+        {
+          "text": "Sitte",
+          "start": 118.36,
+          "end": 120.62
+        },
+        {
+          "text": "Volksfest",
+          "start": 122.8,
+          "end": 123.66
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Seit 2008 ist das Mondfest ein dreitägiger gesetzlicher Feiertag auf dem chinesischen Festland.",
-        "Unter allen Traditionen zum Mondfest gibt es drei besonders wichtige, nämlich den Mondschein zu genießen, Mondkuchen zu essen und die Mondfestlaternen anzufertigen.",
-        "Am Mondfest jedes Jahres werden an verschiedenen Orten viele Veranstaltungen zur Bewunderung des Mondes organisiert.",
-        "In der chinesischen Kultur ist der Vollmond ein Symbol des Friedens und des Wohlstands für die ganze Familie.",
-        "Vor etwa 4.000 Jahren haben 10 Sonnen das Land ausgebrannt und die Ernte der Menschen vernichtet.",
-        "Ein Held mit Namen Hou Yi schoss 9 Sonnen ab und somit war die Welt gerettet.",
-        "Die Familien kommen zusammen, um den Mond anzusehen und die Mondkekse zu essen.",
-        "Die Hochzeit fand am Freitag im Familienkreis statt.",
-        "Im Mittelpunkt der Feiern stehen die Löwentänze und natürlich die schmackhaften Mondkuchen.",
-        "Die am häufigsten verwendeten Füllungen von Mondkuchen sind wie folgt Eigelb, Lotus-Samenpaste und süße Bohnenpaste.",
-        "Die Menschen beschenken sich mit Mondkuchen einem Gebäck mit süßer oder salziger Füllung."
+        {
+          "text": "Seit 2008 ist das Mondfest ein dreitägiger gesetzlicher Feiertag auf dem chinesischen Festland.",
+          "start": 133.87,
+          "end": 142.31
+        },
+        {
+          "text": "Unter allen Traditionen zum Mondfest gibt es drei besonders wichtige, nämlich den Mondschein zu genießen, Mondkuchen zu essen und die Mondfestlaternen anzufertigen.",
+          "start": 144.55,
+          "end": 157.67
+        },
+        {
+          "text": "Am Mondfest jedes Jahres werden an verschiedenen Orten viele Veranstaltungen zur Bewunderung des Mondes organisiert.",
+          "start": 160.72,
+          "end": 169.06
+        },
+        {
+          "text": "In der chinesischen Kultur ist der Vollmond ein Symbol des Friedens und des Wohlstands für die ganze Familie.",
+          "start": 171.3,
+          "end": 179.5
+        },
+        {
+          "text": "Vor etwa 4000 Jahren haben 10 Sonnen das Land ausgebrannt und die Ernte der Menschen vernichtet.",
+          "start": 182.69,
+          "end": 190.01
+        },
+        {
+          "text": "Ein Held mit Namen Hou Yi schoss 9 Sonnen ab und somit war die Welt gerettet.",
+          "start": 193.1,
+          "end": 199.34
+        },
+        {
+          "text": "Die Familien kommen zusammen, um den Mond anzusehen und die Mondkekse zu essen.",
+          "start": 201.55,
+          "end": 207.89
+        },
+        {
+          "text": "Die Hochzeit fand am Freitag im Familienkreis statt.",
+          "start": 210.95,
+          "end": 214.99
+        },
+        {
+          "text": "Im Mittelpunkt der Feiern stehen die Löwentänze und natürlich die schmackhaften Mondkuchen.",
+          "start": 218.1,
+          "end": 224.2
+        },
+        {
+          "text": "Die am häufigsten verwendeten Füllungen von Mondkuchen sind wie folgt Eigelb, Lotus-Samenpaste und süße Bohnenpaste.",
+          "start": 227.25,
+          "end": 238.13
+        },
+        {
+          "text": "Die Menschen beschenken sich mit Mondkuchen einem Gebäck mit süßer oder salziger Füllung.",
+          "start": 240.9,
+          "end": 246.58
+        }
       ]
     }
   ]

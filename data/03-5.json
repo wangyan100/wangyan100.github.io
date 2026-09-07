@@ -4,65 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Badezimmer",
-        "Badlüfter",
-        "Föhn",
-        "Haartrockner",
-        "Personenwaage",
-        "Warmwasserbereiter",
-        "Badewanne",
-        "Brause",
-        "Duschkopf",
-        "Dusche",
-        "Handtuchhalter",
-        "Klosett",
-        "Waschbecken",
-        "Wasserhahn",
-        "Badesalz",
-        "Bodylotion",
-        "Duschgel",
-        "Duschhaube",
-        "Haarspülung",
-        "Seife",
-        "Shampoo",
-        "Zahnbürste",
-        "die elektrische Zahnbürste",
-        "Zahncreme",
-        "Zahnpaste",
-        "Rasierapparat",
-        "Rasiercreme",
-        "Badematte",
-        "Badeschwamm",
-        "Duschschwamm",
-        "Badetuch",
-        "Duschvorhang",
-        "Handtuch",
-        "Waschhandschuh",
-        "Abtrocknen",
-        "Abwaschen",
-        "Abwischen",
-        "Duschen",
-        "Putzen",
-        "Rasieren",
-        "Waschen"
+        {
+          "text": "Badezimmer",
+          "start": 1.9,
+          "end": 3.76
+        },
+        {
+          "text": "Badlüfter",
+          "start": 5.65,
+          "end": 6.99
+        },
+        {
+          "text": "Föhn",
+          "start": 8.92,
+          "end": 9.98
+        },
+        {
+          "text": "Haartrockner",
+          "start": 11.79,
+          "end": 13.23
+        },
+        {
+          "text": "Personenwaage",
+          "start": 15.12,
+          "end": 16.78
+        },
+        {
+          "text": "Warmwasserbereiter",
+          "start": 18.76,
+          "end": 20.32
+        },
+        {
+          "text": "Badewanne",
+          "start": 22.54,
+          "end": 23.8
+        },
+        {
+          "text": "Brause",
+          "start": 25.45,
+          "end": 26.45
+        },
+        {
+          "text": "Duschkopf",
+          "start": 28.36,
+          "end": 29.26
+        },
+        {
+          "text": "Dusche",
+          "start": 31.35,
+          "end": 32.37
+        },
+        {
+          "text": "Handtuchhalter",
+          "start": 34.26,
+          "end": 35.58
+        },
+        {
+          "text": "Klosett",
+          "start": 37.52,
+          "end": 38.8
+        },
+        {
+          "text": "Waschbecken",
+          "start": 40.43,
+          "end": 41.43
+        },
+        {
+          "text": "Wasserhahn",
+          "start": 43.5,
+          "end": 44.48
+        },
+        {
+          "text": "Badesalz",
+          "start": 46.58,
+          "end": 47.98
+        },
+        {
+          "text": "Bodylotion",
+          "start": 49.23,
+          "end": 51.07
+        },
+        {
+          "text": "Duschgel",
+          "start": 52.9,
+          "end": 53.84
+        },
+        {
+          "text": "Duschhaube",
+          "start": 55.96,
+          "end": 57.44
+        },
+        {
+          "text": "Haarspülung",
+          "start": 59.19,
+          "end": 60.69
+        },
+        {
+          "text": "Seife",
+          "start": 62.48,
+          "end": 63.32
+        },
+        {
+          "text": "Shampoo",
+          "start": 65.42,
+          "end": 66.5
+        },
+        {
+          "text": "Zahnbürste",
+          "start": 68.29,
+          "end": 69.77
+        },
+        {
+          "text": "die elektrische Zahnbürste",
+          "start": 71.45,
+          "end": 74.11
+        },
+        {
+          "text": "Zahncreme",
+          "start": 75.66,
+          "end": 76.62
+        },
+        {
+          "text": "Zahnpaste",
+          "start": 78.8,
+          "end": 79.98
+        },
+        {
+          "text": "Rasierapparat",
+          "start": 82.15,
+          "end": 83.59
+        },
+        {
+          "text": "Rasiercreme",
+          "start": 85.5,
+          "end": 86.58
+        },
+        {
+          "text": "Badematte",
+          "start": 88.79,
+          "end": 89.63
+        },
+        {
+          "text": "Badeschwamm",
+          "start": 91.76,
+          "end": 92.62
+        },
+        {
+          "text": "Duschschwamm",
+          "start": 94.7,
+          "end": 96.0
+        },
+        {
+          "text": "Badetuch",
+          "start": 97.41,
+          "end": 99.29
+        },
+        {
+          "text": "Duschvorhang",
+          "start": 101.01,
+          "end": 102.47
+        },
+        {
+          "text": "Handtuch",
+          "start": 104.29,
+          "end": 105.59
+        },
+        {
+          "text": "Waschhandschuh",
+          "start": 107.28,
+          "end": 108.92
+        },
+        {
+          "text": "Abtrocknen",
+          "start": 110.38,
+          "end": 111.6
+        },
+        {
+          "text": "Abwaschen",
+          "start": 113.4,
+          "end": 114.7
+        },
+        {
+          "text": "Abwischen",
+          "start": 116.27,
+          "end": 117.31
+        },
+        {
+          "text": "Duschen",
+          "start": 119.37,
+          "end": 120.43
+        },
+        {
+          "text": "Putzen",
+          "start": 122.15,
+          "end": 123.27
+        },
+        {
+          "text": "Rasieren",
+          "start": 125.03,
+          "end": 125.93
+        },
+        {
+          "text": "Waschen.",
+          "start": 128.04,
+          "end": 128.94
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Badewanne läuft über.",
-        "Er möchte unter die Brause gehen.",
-        "Der Misserfolg bei der Prüfung ist für mich wie eine kalte Dusche.",
-        "Handtuchhalter dienen zum Hängen der Handtücher.",
-        "Sie erhebt sich vom Klosett.",
-        "Sie bestreicht die Bodylotion auf ihrem Körper.",
-        "Die Seife reinigt.",
-        "Nachdem das Shampoo ausgewaschen wurde, kann die Haarspülung auf die Haare aufgetragen werden.",
-        "Er nimmt ein Badetuch, um seinen Körper abzutrocknen.",
-        "Reinigungsöl lässt sich nicht leicht abwaschen.",
-        "Bevor man seine Zähne putzt, presst man die Zahncreme auf die Zahnbürste.",
-        "Ich möchte mich nicht mehr rasieren, sondern meinen Bart wachsen lassen."
+        {
+          "text": "Zu heißes Föhnen von Haartrockner kann die Haare schädigen.",
+          "start": 139.66,
+          "end": 144.42
+        },
+        {
+          "text": "Die Badewanne läuft über.",
+          "start": 147.4,
+          "end": 149.28
+        },
+        {
+          "text": "Er möchte unter die Brause gehen.",
+          "start": 152.53,
+          "end": 154.83
+        },
+        {
+          "text": "Der Misserfolg bei der Prüfung ist für mich wie eine kalte Dusche.",
+          "start": 158.02,
+          "end": 163.24
+        },
+        {
+          "text": "Handtuchhalter dienen zum Hängen der Handtücher.",
+          "start": 166.5,
+          "end": 169.76
+        },
+        {
+          "text": "Sie erhebt sich vom Klosett.",
+          "start": 172.88,
+          "end": 175.08
+        },
+        {
+          "text": "Sie bestreicht die Bodylotion auf ihrem Körper.",
+          "start": 178.02,
+          "end": 181.44
+        },
+        {
+          "text": "Die Seife reinigt.",
+          "start": 184.54,
+          "end": 186.88
+        },
+        {
+          "text": "Nachdem das Shampoo ausgewaschen wurde, kann die Haarspülung auf die Haare aufgetragen werden.",
+          "start": 189.34,
+          "end": 195.94
+        },
+        {
+          "text": "Er nimmt ein Badetuch, um seinen Körper abzutrocknen.",
+          "start": 199.06,
+          "end": 203.48
+        },
+        {
+          "text": "Reinigungsöl lässt sich nicht leicht abwaschen.",
+          "start": 206.74,
+          "end": 210.2
+        },
+        {
+          "text": "Bevor man seine Zähne putzt, presst man die Zahncreme auf die Zahnbürste.",
+          "start": 213.12,
+          "end": 218.46
+        },
+        {
+          "text": "Ich möchte mich nicht mehr rasieren, sondern meinen Bart wachsen lassen.",
+          "start": 220.89,
+          "end": 226.17
+        }
       ]
     }
   ]

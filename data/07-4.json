@@ -4,70 +4,317 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "ärger",
-        "erbittern",
-        "Feindschaft",
-        "feindselig",
-        "hassen",
-        "Hassenswert",
-        "Hass erfüllt",
-        "Rache",
-        "Rechen",
-        "Aussöhnung",
-        "sich aussöhnen",
-        "sich mit",
-        "verkrachen",
-        "streiten",
-        "streitbar",
-        "sich zanken",
-        "sich über",
-        "zerstreiten",
-        "Zwietracht",
-        "missmutig",
-        "Missstimmung",
-        "nervös",
-        "Niederdrücken",
-        "Schärerei",
-        "Schlecht gelaunt sein",
-        "verdrieslich",
-        "Verdruss",
-        "beschimpfen",
-        "Schimpferei",
-        "schimpflich",
-        "Tadel",
-        "tadeln",
-        "über",
-        "fluchen",
-        "Vorwurf",
-        "Vorwerfen",
-        "sich über",
-        "aufregen",
-        "ärgerlich",
-        "böse",
-        "wütend",
-        "zornig",
-        "sich über",
-        "ärgern"
+        {
+          "text": "ärger",
+          "start": 1.94,
+          "end": 3.64
+        },
+        {
+          "text": "erbittern",
+          "start": 5.22,
+          "end": 6.62
+        },
+        {
+          "text": "Feindschaft",
+          "start": 8.15,
+          "end": 9.15
+        },
+        {
+          "text": "feindselig",
+          "start": 11.19,
+          "end": 12.59
+        },
+        {
+          "text": "hassen",
+          "start": 14.38,
+          "end": 15.16
+        },
+        {
+          "text": "Hassenswert",
+          "start": 16.87,
+          "end": 17.81
+        },
+        {
+          "text": "Hass erfüllt",
+          "start": 19.81,
+          "end": 20.99
+        },
+        {
+          "text": "Rache",
+          "start": 23.06,
+          "end": 23.84
+        },
+        {
+          "text": "Rechen",
+          "start": 25.65,
+          "end": 26.51
+        },
+        {
+          "text": "Aussöhnung",
+          "start": 28.41,
+          "end": 29.65
+        },
+        {
+          "text": "sich aussöhnen",
+          "start": 31.5,
+          "end": 33.52
+        },
+        {
+          "text": "sich mit",
+          "start": 34.45,
+          "end": 35.68
+        },
+        {
+          "text": "verkrachen",
+          "start": 36.28,
+          "end": 37.34
+        },
+        {
+          "text": "streiten",
+          "start": 39.3,
+          "end": 40.22
+        },
+        {
+          "text": "streitbar",
+          "start": 42.23,
+          "end": 43.19
+        },
+        {
+          "text": "sich zanken",
+          "start": 45.12,
+          "end": 46.16
+        },
+        {
+          "text": "sich über",
+          "start": 48.32,
+          "end": 49.16
+        },
+        {
+          "text": "zerstreiten",
+          "start": 49.82,
+          "end": 50.94
+        },
+        {
+          "text": "Zwietracht",
+          "start": 52.86,
+          "end": 54.9
+        },
+        {
+          "text": "missmutig",
+          "start": 54.9,
+          "end": 57.42
+        },
+        {
+          "text": "Missstimmung",
+          "start": 58.87,
+          "end": 60.15
+        },
+        {
+          "text": "nervös",
+          "start": 61.97,
+          "end": 64.15
+        },
+        {
+          "text": "Niederdrücken",
+          "start": 64.87,
+          "end": 65.91
+        },
+        {
+          "text": "Schärerei",
+          "start": 68.11,
+          "end": 68.95
+        },
+        {
+          "text": "Schlecht gelaunt sein",
+          "start": 71.16,
+          "end": 72.42
+        },
+        {
+          "text": "verdrieslich",
+          "start": 74.58,
+          "end": 75.8
+        },
+        {
+          "text": "Verdruss",
+          "start": 77.77,
+          "end": 79.51
+        },
+        {
+          "text": "beschimpfen",
+          "start": 79.51,
+          "end": 81.65
+        },
+        {
+          "text": "Schimpferei",
+          "start": 83.33,
+          "end": 84.67
+        },
+        {
+          "text": "schimpflich",
+          "start": 86.32,
+          "end": 87.44
+        },
+        {
+          "text": "Tadel",
+          "start": 89.29,
+          "end": 90.29
+        },
+        {
+          "text": "tadeln",
+          "start": 91.87,
+          "end": 93.99
+        },
+        {
+          "text": "über",
+          "start": 48.42,
+          "end": 49.16
+        },
+        {
+          "text": "fluchen",
+          "start": 95.59,
+          "end": 96.29
+        },
+        {
+          "text": "Vorwurf",
+          "start": 98.48,
+          "end": 99.26
+        },
+        {
+          "text": "Vorwerfen",
+          "start": 101.28,
+          "end": 102.58
+        },
+        {
+          "text": "sich über",
+          "start": 48.32,
+          "end": 49.16
+        },
+        {
+          "text": "aufregen",
+          "start": 107.24,
+          "end": 108.98
+        },
+        {
+          "text": "ärgerlich",
+          "start": 110.02,
+          "end": 111.54
+        },
+        {
+          "text": "böse",
+          "start": 111.54,
+          "end": 114.0
+        },
+        {
+          "text": "wütend",
+          "start": 115.64,
+          "end": 116.58
+        },
+        {
+          "text": "zornig",
+          "start": 118.4,
+          "end": 119.58
+        },
+        {
+          "text": "sich über",
+          "start": 48.32,
+          "end": 49.16
+        },
+        {
+          "text": "ärgern",
+          "start": 124.16,
+          "end": 124.84
+        },
+        {
+          "text": "verstimmt",
+          "start": 126.87,
+          "end": 127.89
+        },
+        {
+          "text": "Wut",
+          "start": 129.73,
+          "end": 130.43
+        },
+        {
+          "text": "Zorn",
+          "start": 132.27,
+          "end": 133.21
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Das Ehepaar hat sich wieder ausgesöhnt.",
-        "Wir haben uns verkracht.",
-        "Sie zanken sich den ganzen Tag um nichts und wieder nichts.",
-        "Die zwei Brüder haben sich über das Erbe ihres Vaters zerstritten.",
-        "Der Mann ging uns mit einem missmutigen Zischeln aus dem Weg.",
-        "Er ist während der langen Wartezeit ganz nervös geworden.",
-        "Der Misserfolg bei der Fußball-Weltmeisterschaft hat die deutschen Spieler niedergedrückt.",
-        "Der Misserfolg drückt ihn nieder.",
-        "Das gibt nur unnötige Scherrereien.",
-        "Warum sehen Sie so verdrieslich aus?",
-        "Er findet an allem etwas zu tadeln.",
-        "Er regt sich über seinen Chef fürchterlich auf.",
-        "Seine Ablehnung verstimmt uns aufs Tiefste.",
-        "Er war rot vor Zorn."
+        {
+          "text": "Das Ehepaar hat sich wieder ausgesöhnt.",
+          "start": 164.85,
+          "end": 168.43
+        },
+        {
+          "text": "Wir haben uns verkracht.",
+          "start": 171.28,
+          "end": 172.94
+        },
+        {
+          "text": "Sie zanken sich den ganzen Tag um nichts und wieder nichts.",
+          "start": 176.08,
+          "end": 179.94
+        },
+        {
+          "text": "Die zwei Brüder haben sich über das Erbe ihres Vaters zerstritten.",
+          "start": 183.42,
+          "end": 188.02
+        },
+        {
+          "text": "Der Mann ging uns mit einem missmutigen Zischeln aus dem Weg.",
+          "start": 190.39,
+          "end": 195.07
+        },
+        {
+          "text": "Er ist während der langen Wartezeit ganz nervös geworden.",
+          "start": 198.13,
+          "end": 201.83
+        },
+        {
+          "text": "Der Misserfolg bei der Fußballweltmeisterschaft hat die deutschen Spieler niedergedrückt.",
+          "start": 204.99,
+          "end": 210.67
+        },
+        {
+          "text": "Der Misserfolg drückt ihn nieder.",
+          "start": 212.91,
+          "end": 216.43
+        },
+        {
+          "text": "Das gibt nur unnötige Schärereien.",
+          "start": 218.99,
+          "end": 221.65
+        },
+        {
+          "text": "Warum sehen sie so verdrieslich aus?",
+          "start": 224.64,
+          "end": 227.1
+        },
+        {
+          "text": "Er findet an allem etwas zu tadeln.",
+          "start": 230.11,
+          "end": 232.73
+        },
+        {
+          "text": "Er regt sich über seinen Chef fürchterlich auf.",
+          "start": 235.7,
+          "end": 238.78
+        },
+        {
+          "text": "Seine Ablehnung verstimmt uns aufs Tiefste.",
+          "start": 242.0,
+          "end": 244.96
+        },
+        {
+          "text": "Er war rot vor Zorn.",
+          "start": 247.93,
+          "end": 249.49
+        }
       ]
     }
   ]

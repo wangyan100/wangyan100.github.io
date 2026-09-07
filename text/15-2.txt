@@ -1,62 +1,57 @@
-Meeresfauna
-Dornhai
-Hai
-Katzenhai
-rochen
-Seekatze
-Tigerhai
-Wahlhai
-Klaunfisch
-Hecht
-Hering
-Köhler
-Kugelfisch
-Seepferdchen
-Zackenbarsche
-Delfin
-Meerotter
-Seeotter
-Seebär
-Seehund
-Seekuh
-Seelewe
-Wal
-Walross
-Polyp
-Qualle
-Schwamm
-Seeanimone
-Seestern
-Bartel
-Flosse
-Gräte
-Hauer
-Kieme
-Knorpel
-Schuppe
-Schwimmblase
-Ovipar
-Eierlegen
-Vivipar
-Ovovivipar
-Sprechen Sie bitte die folgenden Sätze.
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-Katzenhaie
-haben. Delfine haben einen sehr guten Gehör und Gesichtssinn. Seehunde sind sehr gute Schwimmer,
-die bis zu 200 Meter tief und 30 Minuten lang tauchen können. Die meisten Wale sind
-vom Aussterben bedroht. In China werden einige nicht giftige Quallen als Speise gegessen.
-Die meisten Fische verfügen über sieben Flossen. Die Gräte blieb ihm im Hals stecken. Die Hauer
-sind das auffälligste Merkmal des Walrosses. Die Schwimmblase ist ein Organ der Knochenfische.
-Viele Haiarten sind Ovovivipar.
+[00:00:01.840 --> 00:00:03.940] Meeresfauna
+[00:00:05.380 --> 00:00:07.060] Dornhai
+[00:00:08.440 --> 00:00:09.340] Hai
+[00:00:10.650 --> 00:00:13.270] Katzenhai
+[00:00:14.970 --> 00:00:15.770] rochen
+[00:00:17.230 --> 00:00:18.630] Seekatze
+[00:00:19.940 --> 00:00:22.120] Tigerhai
+[00:00:22.680 --> 00:00:24.560] Wahlhai
+[00:00:25.900 --> 00:00:27.660] Klaunfisch
+[00:00:28.940 --> 00:00:30.140] Hecht
+[00:00:31.650 --> 00:00:32.650] Hering
+[00:00:33.960 --> 00:00:35.620] Köhler
+[00:00:37.000 --> 00:00:39.100] Kugelfisch
+[00:00:40.700 --> 00:00:42.100] Seepferdchen
+[00:00:43.440 --> 00:00:44.940] Zackenbarsche
+[00:00:46.690 --> 00:00:48.210] Delfin
+[00:00:49.460 --> 00:00:51.360] Meerotter
+[00:00:53.220 --> 00:00:54.520] Seeotter
+[00:00:56.500 --> 00:00:57.460] Seebär
+[00:01:00.220 --> 00:01:01.620] Seehund
+[00:01:01.620 --> 00:01:03.600] Seekuh
+[00:01:04.840 --> 00:01:06.620] Seelewe
+[00:01:08.000 --> 00:01:09.660] Wal
+[00:01:10.400 --> 00:01:12.020] Walross
+[00:01:13.300 --> 00:01:14.780] Polyp
+[00:01:16.750 --> 00:01:17.450] Qualle
+[00:01:20.520 --> 00:01:21.220] Schwamm
+[00:01:22.660 --> 00:01:23.820] Seeanimone
+[00:01:26.030 --> 00:01:26.890] Seestern
+[00:01:28.140 --> 00:01:30.200] Wunderlampe
+[00:01:31.510 --> 00:01:32.890] Bartel
+[00:01:34.830 --> 00:01:35.730] Flosse
+[00:01:37.830 --> 00:01:38.530] Grete
+[00:01:39.900 --> 00:01:41.120] Hauer
+[00:01:42.440 --> 00:01:44.100] Kieme
+[00:01:45.410 --> 00:01:46.910] Knorpel
+[00:01:48.250 --> 00:01:49.750] Schuppe
+[00:01:51.130 --> 00:01:53.010] Schwimmblase
+[00:01:54.260 --> 00:01:55.880] Ovipar
+[00:01:57.190 --> 00:01:58.810] Eierlegen
+[00:02:00.090 --> 00:02:02.090] Vivipar
+[00:02:03.340 --> 00:02:05.300] Ovovivipar
+[00:02:09.740 --> 00:02:12.520] Sprechen Sie bitte die folgenden Sätze.
+[00:02:14.830 --> 00:02:22.570] Beim Baden im Roten Meer ist eine deutsche Touristin von einem Hai angegriffen und getötet worden.
+[00:02:25.960 --> 00:02:30.880] Katzenhaie ernähren sich von größeren Wirbellosen und kleinen Fischen.
+[00:02:34.110 --> 00:02:40.830] Der Hecht wird von der Weltnaturschutzunion in der Roten Liste gefährdeter Arten geführt.
+[00:02:43.880 --> 00:02:48.200] Die Eingeweide vieler Kugelfische sind giftig.
+[00:02:50.530 --> 00:02:58.230] Vor allem in China und Südostasien kommt der Glaube, dass zerstoßene Seepferdchen heilende Wirkung haben.
+[00:03:01.300 --> 00:03:05.540] Delfine haben einen sehr guten Gehör- und Gesichtssinn.
+[00:03:08.740 --> 00:03:16.440] Seehunde sind sehr gute Schwimmer, die bis zu 200 Meter tief und 30 Minuten lang tauchen können.
+[00:03:19.510 --> 00:03:23.530] Die meisten Wale sind vom Aussterben bedroht.
+[00:03:25.770 --> 00:03:30.710] In China werden einige nicht giftige Quallen als Speise gegessen.
+[00:03:33.870 --> 00:03:37.010] Die meisten Fische verfügen über sieben Flossen.
+[00:03:40.070 --> 00:03:42.650] Die Gräte blieb ihm im Hals stecken.
+[00:03:45.810 --> 00:03:50.030] Die Hauer sind das auffälligste Merkmal des Walrosses.
+[00:03:52.820 --> 00:03:56.280] Die Schwimmblase ist ein Organ der Knochenfische.
+[00:03:59.490 --> 00:04:02.410] Viele Haiarten sind Ovovivipar.

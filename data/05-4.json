@@ -4,70 +4,302 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Gericht",
-        "angeklagte",
-        "angeklagter",
-        "beklagte",
-        "beklagter",
-        "Kläger",
-        "Opfer",
-        "Richter",
-        "Schöffe",
-        "Staatsanwalt",
-        "Täter",
-        "Zeuge",
-        "abweisen",
-        "Beweisaufnahme",
-        "Klage",
-        "Rechtsstreit",
-        "Prozessieren",
-        "Verhandlung",
-        "zurückziehen",
-        "Anwalt",
-        "Berufung",
-        "Mandant",
-        "Rechtsfall",
-        "verteidigen",
-        "plädieren",
-        "Vertreter",
-        "begnadigen",
-        "freisprechen",
-        "Geldstrafe",
-        "Gesamtstrafe",
-        "Haft",
-        "Todesstrafe",
-        "verurteilen",
-        "vollstrecken",
-        "betrügen",
-        "Diebstahl",
-        "Fahrlässigkeit",
-        "gesetzwidrig",
-        "rechtswidrig",
-        "kidnappen",
-        "Tatmotiv",
-        "Tatort"
+        {
+          "text": "Gericht",
+          "start": 1.81,
+          "end": 3.47
+        },
+        {
+          "text": "angeklagte",
+          "start": 5.31,
+          "end": 7.77
+        },
+        {
+          "text": "angeklagter",
+          "start": 8.21,
+          "end": 9.97
+        },
+        {
+          "text": "beklagte",
+          "start": 10.77,
+          "end": 12.43
+        },
+        {
+          "text": "beklagter",
+          "start": 14.22,
+          "end": 15.44
+        },
+        {
+          "text": "Kläger",
+          "start": 17.08,
+          "end": 19.02
+        },
+        {
+          "text": "Opfer",
+          "start": 19.02,
+          "end": 21.7
+        },
+        {
+          "text": "Richter",
+          "start": 22.64,
+          "end": 23.42
+        },
+        {
+          "text": "Schöffe",
+          "start": 25.15,
+          "end": 25.81
+        },
+        {
+          "text": "Staatsanwalt",
+          "start": 28.0,
+          "end": 29.16
+        },
+        {
+          "text": "Täter",
+          "start": 31.02,
+          "end": 31.74
+        },
+        {
+          "text": "Zeuge",
+          "start": 33.75,
+          "end": 35.29
+        },
+        {
+          "text": "abweisen",
+          "start": 36.01,
+          "end": 37.51
+        },
+        {
+          "text": "Beweisaufnahme",
+          "start": 39.38,
+          "end": 41.04
+        },
+        {
+          "text": "Klage",
+          "start": 42.95,
+          "end": 44.75
+        },
+        {
+          "text": "Rechtsstreit",
+          "start": 44.75,
+          "end": 47.25
+        },
+        {
+          "text": "Prozessieren",
+          "start": 48.88,
+          "end": 49.94
+        },
+        {
+          "text": "Verhandlung",
+          "start": 52.04,
+          "end": 53.16
+        },
+        {
+          "text": "zurückziehen",
+          "start": 54.97,
+          "end": 56.21
+        },
+        {
+          "text": "Anwalt",
+          "start": 59.67,
+          "end": 61.07
+        },
+        {
+          "text": "Berufung",
+          "start": 61.07,
+          "end": 62.47
+        },
+        {
+          "text": "Mandant",
+          "start": 63.21,
+          "end": 64.49
+        },
+        {
+          "text": "Rechtsfall",
+          "start": 66.58,
+          "end": 67.56
+        },
+        {
+          "text": "verteidigen",
+          "start": 69.61,
+          "end": 70.69
+        },
+        {
+          "text": "plädieren",
+          "start": 72.46,
+          "end": 73.42
+        },
+        {
+          "text": "Vertreter",
+          "start": 76.49,
+          "end": 77.89
+        },
+        {
+          "text": "begnadigen",
+          "start": 78.29,
+          "end": 79.29
+        },
+        {
+          "text": "freisprechen",
+          "start": 81.27,
+          "end": 83.21
+        },
+        {
+          "text": "Geldstrafe",
+          "start": 84.77,
+          "end": 86.17
+        },
+        {
+          "text": "Gesamtstrafe",
+          "start": 87.49,
+          "end": 88.79
+        },
+        {
+          "text": "Haft",
+          "start": 90.71,
+          "end": 91.59
+        },
+        {
+          "text": "Todesstrafe",
+          "start": 93.3,
+          "end": 94.9
+        },
+        {
+          "text": "verurteilen",
+          "start": 96.25,
+          "end": 97.89
+        },
+        {
+          "text": "vollstrecken",
+          "start": 99.8,
+          "end": 100.88
+        },
+        {
+          "text": "betrügen",
+          "start": 102.87,
+          "end": 104.77
+        },
+        {
+          "text": "Diebstahl",
+          "start": 105.35,
+          "end": 106.85
+        },
+        {
+          "text": "Fahrlässigkeit",
+          "start": 108.74,
+          "end": 110.62
+        },
+        {
+          "text": "gesetzwidrig",
+          "start": 114.88,
+          "end": 115.86
+        },
+        {
+          "text": "rechtswidrig",
+          "start": 115.86,
+          "end": 116.84
+        },
+        {
+          "text": "kidnappen",
+          "start": 118.36,
+          "end": 119.64
+        },
+        {
+          "text": "Tatmotiv",
+          "start": 120.96,
+          "end": 122.78
+        },
+        {
+          "text": "Tatort",
+          "start": 124.44,
+          "end": 125.48
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Beklagte wird verurteilt, an den Kläger 1000 Euro zu bezahlen.",
-        "Er ist ein gerechter Richter.",
-        "War der Täter alleine oder hatte er Gehilfen?",
-        "Haben Sie Zeugen, die diese Aussage bestätigen können?",
-        "Das Landgericht Frankfurt am Main hat zu Unrecht die Klage abgewiesen.",
-        "Die Klägerin hat den Rechtsstreit zurückgezogen.",
-        "Der alte Mann prozessierte gegen jeden in der Nachbarschaft.",
-        "Der Verteidiger will Rücksprache mit seinem Mandanten nehmen.",
-        "Die Verhandlung fand unter Ausschluss der Öffentlichkeit statt.",
-        "Der Verteidiger plädierte auf Freispruch.",
-        "Das Gericht hat den Beschuldigten Mangelsbeweises freigesprochen.",
-        "Er wurde zu drei Jahren Haft verurteilt.",
-        "Es ist noch umstritten, ob die Todesstrafe abgeschafft werden soll.",
-        "Die junge Frau weigerte sich, das Urteil zu vollstrecken.",
-        "Eine Verbrecherbande hat seinen Sohn gekidnappt und verlangt ein Lösegeld.",
-        "Der Tatort ist die beliebte Krimireihe der ARD."
+        {
+          "text": "Der Beklagte wird verurteilt, an den Kläger 1000 Euro zu bezahlen.",
+          "start": 135.36,
+          "end": 141.03
+        },
+        {
+          "text": "Er ist ein gerechter Richter.",
+          "start": 143.87,
+          "end": 146.19
+        },
+        {
+          "text": "War der Täter alleine oder hatte er geholfen?",
+          "start": 149.0,
+          "end": 152.36
+        },
+        {
+          "text": "Haben Sie Zeugen, die diese Aussage bestätigen können?",
+          "start": 155.19,
+          "end": 158.87
+        },
+        {
+          "text": "Das Landgericht Frankfurt am Main hat zu Unrecht die Klage abgewiesen.",
+          "start": 161.88,
+          "end": 166.8
+        },
+        {
+          "text": "Die Klägerin hat den Rechtsstreit zurückgezogen.",
+          "start": 169.8,
+          "end": 173.4
+        },
+        {
+          "text": "Der alte Mann prozessierte gegen jeden in der Nachbarschaft.",
+          "start": 176.44,
+          "end": 180.66
+        },
+        {
+          "text": "Der Verteidiger will Rücksprache mit seinem Mandanten nehmen.",
+          "start": 183.68,
+          "end": 187.4
+        },
+        {
+          "text": "Die Verhandlung fand unter Ausschluss der Öffentlichkeit statt.",
+          "start": 190.5,
+          "end": 194.14
+        },
+        {
+          "text": "Der Verteidiger plädierte auf Freispruch.",
+          "start": 196.92,
+          "end": 200.04
+        },
+        {
+          "text": "Das Gericht hat den Beschuldigten mangels Beweises freigesprochen.",
+          "start": 203.02,
+          "end": 207.26
+        },
+        {
+          "text": "Er wurde zu drei Jahren Haft verurteilt.",
+          "start": 210.35,
+          "end": 213.39
+        },
+        {
+          "text": "Es ist noch umstritten, ob die Todesstrafe abgeschafft werden soll.",
+          "start": 216.37,
+          "end": 220.77
+        },
+        {
+          "text": "Die junge Frau weigerte sich, das Urteil zu vollstrecken.",
+          "start": 223.84,
+          "end": 227.74
+        },
+        {
+          "text": "Eine Verbrecherbande hat seinen Sohn gekidnappt und verlangt ein Lösegeld.",
+          "start": 230.74,
+          "end": 235.8
+        },
+        {
+          "text": "Der Tatort ist die beliebte Krimireihe der ARD.",
+          "start": 238.08,
+          "end": 242.74
+        }
       ]
     }
   ]

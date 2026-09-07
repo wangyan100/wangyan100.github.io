@@ -4,69 +4,302 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Schule",
-        "Grundschule",
-        "Hauptschule",
-        "Realschule",
-        "Gymnasium",
-        "Gesamtschule",
-        "Studienkolleg",
-        "Hochschule",
-        "Universität",
-        "Doktor",
-        "Doktoren",
-        "Dozent",
-        "Dozentin",
-        "Hiwi",
-        "Lehrer",
-        "Lehrerin",
-        "Professor",
-        "Professoren",
-        "Schüler",
-        "Schülerin",
-        "Student",
-        "Studentin",
-        "Tutor",
-        "Tutoren",
-        "Kreide",
-        "Interaktive Whiteboards",
-        "IWB",
-        "Multimedia",
-        "Pult",
-        "Stundenplan",
-        "Tafel",
-        "Blogseminar",
-        "Exkursion",
-        "Kolloquium",
-        "Ringvorlesung",
-        "Seminar",
-        "Tutorium",
-        "Vorlesung",
-        "Übung",
-        "Abitur",
-        "Examen",
-        "Hausarbeit",
-        "Klausur",
-        "Die mündliche Prüfung",
-        "Die schriftliche Prüfung",
-        "Zeugnis"
+        {
+          "text": "Schule",
+          "start": 2.03,
+          "end": 3.27
+        },
+        {
+          "text": "Grundschule",
+          "start": 4.55,
+          "end": 6.39
+        },
+        {
+          "text": "Hauptschule",
+          "start": 7.74,
+          "end": 9.48
+        },
+        {
+          "text": "Realschule",
+          "start": 10.76,
+          "end": 12.7
+        },
+        {
+          "text": "Gymnasium",
+          "start": 14.86,
+          "end": 16.26
+        },
+        {
+          "text": "Gesamtschule",
+          "start": 16.86,
+          "end": 18.6
+        },
+        {
+          "text": "Studienkolleg",
+          "start": 20.0,
+          "end": 21.94
+        },
+        {
+          "text": "Hochschule",
+          "start": 23.26,
+          "end": 25.22
+        },
+        {
+          "text": "Universität",
+          "start": 26.64,
+          "end": 28.04
+        },
+        {
+          "text": "Doktor",
+          "start": 29.32,
+          "end": 31.14
+        },
+        {
+          "text": "Doktoren",
+          "start": 32.1,
+          "end": 33.9
+        },
+        {
+          "text": "Dozent",
+          "start": 34.98,
+          "end": 36.56
+        },
+        {
+          "text": "Dozentin",
+          "start": 37.7,
+          "end": 39.34
+        },
+        {
+          "text": "Hiwi",
+          "start": 40.68,
+          "end": 43.16
+        },
+        {
+          "text": "Lehrer",
+          "start": 43.16,
+          "end": 44.64
+        },
+        {
+          "text": "Lehrerin",
+          "start": 46.0,
+          "end": 47.28
+        },
+        {
+          "text": "Professor",
+          "start": 48.56,
+          "end": 49.82
+        },
+        {
+          "text": "Professoren",
+          "start": 51.6,
+          "end": 53.28
+        },
+        {
+          "text": "Schüler",
+          "start": 54.62,
+          "end": 55.54
+        },
+        {
+          "text": "Schülerin",
+          "start": 56.89,
+          "end": 58.73
+        },
+        {
+          "text": "Student",
+          "start": 60.17,
+          "end": 61.07
+        },
+        {
+          "text": "Studentin",
+          "start": 62.48,
+          "end": 64.72
+        },
+        {
+          "text": "Tutor",
+          "start": 66.0,
+          "end": 67.38
+        },
+        {
+          "text": "Tutoren",
+          "start": 68.62,
+          "end": 69.88
+        },
+        {
+          "text": "Kreide",
+          "start": 71.23,
+          "end": 73.57
+        },
+        {
+          "text": "Interaktive Whiteboards",
+          "start": 74.17,
+          "end": 76.89
+        },
+        {
+          "text": "IWB",
+          "start": 79.49,
+          "end": 80.19
+        },
+        {
+          "text": "Magnet",
+          "start": 82.37,
+          "end": 83.07
+        },
+        {
+          "text": "Multimedia",
+          "start": 84.37,
+          "end": 85.77
+        },
+        {
+          "text": "Pult",
+          "start": 87.05,
+          "end": 88.31
+        },
+        {
+          "text": "Stundenplan",
+          "start": 89.75,
+          "end": 91.31
+        },
+        {
+          "text": "Tafel",
+          "start": 92.62,
+          "end": 94.32
+        },
+        {
+          "text": "Blogseminar",
+          "start": 97.19,
+          "end": 97.99
+        },
+        {
+          "text": "Exkursion",
+          "start": 98.59,
+          "end": 99.99
+        },
+        {
+          "text": "Kolloquium",
+          "start": 101.8,
+          "end": 103.46
+        },
+        {
+          "text": "Ringvorlesung",
+          "start": 106.58,
+          "end": 107.98
+        },
+        {
+          "text": "Seminar",
+          "start": 107.98,
+          "end": 109.66
+        },
+        {
+          "text": "Tutorium",
+          "start": 110.9,
+          "end": 112.58
+        },
+        {
+          "text": "Vorlesung",
+          "start": 113.93,
+          "end": 116.03
+        },
+        {
+          "text": "Übung",
+          "start": 116.03,
+          "end": 118.27
+        },
+        {
+          "text": "Abitur",
+          "start": 119.55,
+          "end": 120.99
+        },
+        {
+          "text": "Examen",
+          "start": 122.46,
+          "end": 124.26
+        },
+        {
+          "text": "Hausarbeit",
+          "start": 125.54,
+          "end": 127.14
+        },
+        {
+          "text": "Klausur",
+          "start": 129.02,
+          "end": 130.16
+        },
+        {
+          "text": "Die mündliche Prüfung",
+          "start": 131.41,
+          "end": 134.59
+        },
+        {
+          "text": "Die schriftliche Prüfung",
+          "start": 134.59,
+          "end": 136.42
+        },
+        {
+          "text": "Zeugnis",
+          "start": 138.8,
+          "end": 139.78
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Das Gymnasium ist die höchste Schulart in Deutschland und zielt für die Schüler ab, die in der Zukunft an der Universität studieren möchten.",
-        "In manchen Bundesländern gibt es Gesamtschulen, in denen Hauptschule, Realschule und Gymnasium zusammen sind.",
-        "Im Studienkolleg können sich die ausländischen Studenten auf das Fachstudium an der Universität vorbereiten.",
-        "Sein Vater ist Professor für Maschinenbau.",
-        "Der Lehrer setzt sich zwischen Pult und Tafel.",
-        "Unter der Leitung von dem Lehrer unternehmen alle Teilnehmenden des Seminars eine Exkursion.",
-        "Im Gegensatz zu einem Seminar bedeutet Kolloquium einen fachlichen Gedankenaustausch ohne feste Form.",
-        "Man macht normalerweise am Ende der zwölften Klasse Abitur am Gymnasium.",
-        "Nach dem zehnten Semester hat Hans sein Examen gemacht.",
-        "Ihr habt bei der mündlichen Prüfung gut abgeschnitten.",
-        "Ich habe die schriftliche Prüfung bestanden."
+        {
+          "text": "Das Gymnasium ist die höchste Schulart in Deutschland und zielt für die Schüler ab, die in der Zukunft an der Universität studieren möchten.",
+          "start": 150.01,
+          "end": 159.23
+        },
+        {
+          "text": "In manchen Bundesländern gibt es Gesamtschulen, in denen Hauptschule, Realschule und Gymnasium zusammen sind.",
+          "start": 162.04,
+          "end": 169.9
+        },
+        {
+          "text": "Im Studienkolleg können sich die ausländischen Studenten auf das Fachstudium an der Universität vorbereiten.",
+          "start": 172.95,
+          "end": 181.13
+        },
+        {
+          "text": "Sein Vater ist Professor für Maschinenbau.",
+          "start": 183.85,
+          "end": 186.79
+        },
+        {
+          "text": "Der Lehrer setzt sich zwischen Pult und Tafel.",
+          "start": 189.74,
+          "end": 193.6
+        },
+        {
+          "text": "Unter der Leitung von dem Lehrer unternehmen alle Teilnehmenden des Seminars eine Exkursion.",
+          "start": 195.84,
+          "end": 202.88
+        },
+        {
+          "text": "Im Gegensatz zu einem Seminar bedeutet Kolloquium einen fachlichen Gedankenaustausch ohne feste Form.",
+          "start": 205.45,
+          "end": 213.21
+        },
+        {
+          "text": "Man macht normalerweise am Ende der zwölften Klasse Abitur am Gymnasium.",
+          "start": 216.32,
+          "end": 221.74
+        },
+        {
+          "text": "Nach dem zehnten Semester hat Hans sein Examen gemacht.",
+          "start": 224.7,
+          "end": 228.86
+        },
+        {
+          "text": "Sie hat bei der mündlichen Prüfung gut abgeschnitten.",
+          "start": 231.13,
+          "end": 235.55
+        },
+        {
+          "text": "Ich habe die schriftliche Prüfung bestanden.",
+          "start": 238.38,
+          "end": 241.16
+        }
       ]
     }
   ]

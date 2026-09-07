@@ -4,60 +4,252 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Fleisch",
-        "Eisbein",
-        "Schweinehackse",
-        "Schweinefilet",
-        "Kotelett",
-        "Schinken",
-        "Schulter",
-        "Schweinehackfleisch",
-        "Mett",
-        "Schweineschnitzel",
-        "Speck",
-        "Kalbfleisch",
-        "Rinderbrust",
-        "Rinderfilet",
-        "Rindersteak",
-        "Schabefleisch",
-        "Rinderzunge",
-        "Hühnerbrust",
-        "Hähnchenflügel",
-        "Hühnerschenkel",
-        "Hühnermagen",
-        "Putenfleisch",
-        "Bacon",
-        "Blutwurst",
-        "Currywurst",
-        "Döner",
-        "Leberwurst",
-        "Salami",
-        "Weißwurst",
-        "Wurst",
-        "Entenfleisch",
-        "Hasenfleisch",
-        "Kaninchenfleisch",
-        "Lammfleisch",
-        "Rehfleisch",
-        "Wildbret"
+        {
+          "text": "Fleisch",
+          "start": 1.84,
+          "end": 3.12
+        },
+        {
+          "text": "Eisbein",
+          "start": 5.13,
+          "end": 6.51
+        },
+        {
+          "text": "Schweinehackse",
+          "start": 8.31,
+          "end": 9.81
+        },
+        {
+          "text": "Schweinefilet",
+          "start": 11.61,
+          "end": 13.19
+        },
+        {
+          "text": "Kotelett",
+          "start": 14.84,
+          "end": 15.94
+        },
+        {
+          "text": "Schinken",
+          "start": 17.9,
+          "end": 18.8
+        },
+        {
+          "text": "Schulter",
+          "start": 20.79,
+          "end": 21.67
+        },
+        {
+          "text": "Schweinehackfleisch",
+          "start": 23.65,
+          "end": 26.69
+        },
+        {
+          "text": "Mett",
+          "start": 26.69,
+          "end": 27.81
+        },
+        {
+          "text": "Schweineschnitzel",
+          "start": 29.82,
+          "end": 31.26
+        },
+        {
+          "text": "Speck",
+          "start": 33.11,
+          "end": 33.71
+        },
+        {
+          "text": "Kalbfleisch",
+          "start": 35.74,
+          "end": 37.3
+        },
+        {
+          "text": "Rinderbrust",
+          "start": 38.93,
+          "end": 40.23
+        },
+        {
+          "text": "Rinderfilet",
+          "start": 42.07,
+          "end": 44.33
+        },
+        {
+          "text": "Rindersteak",
+          "start": 44.33,
+          "end": 46.67
+        },
+        {
+          "text": "Schabefleisch",
+          "start": 48.32,
+          "end": 51.28
+        },
+        {
+          "text": "Rinderzunge",
+          "start": 51.58,
+          "end": 52.84
+        },
+        {
+          "text": "Hühnerbrust",
+          "start": 54.75,
+          "end": 56.17
+        },
+        {
+          "text": "Hähnchenflügel",
+          "start": 58.0,
+          "end": 59.56
+        },
+        {
+          "text": "Hühnerschenkel",
+          "start": 61.44,
+          "end": 62.84
+        },
+        {
+          "text": "Hühnermagen",
+          "start": 64.71,
+          "end": 65.91
+        },
+        {
+          "text": "Putenfleisch",
+          "start": 67.22,
+          "end": 69.5
+        },
+        {
+          "text": "Bacon",
+          "start": 70.85,
+          "end": 71.91
+        },
+        {
+          "text": "Blutwurst",
+          "start": 74.04,
+          "end": 75.02
+        },
+        {
+          "text": "Currywurst",
+          "start": 76.9,
+          "end": 78.52
+        },
+        {
+          "text": "Döner",
+          "start": 79.98,
+          "end": 81.5
+        },
+        {
+          "text": "Leberwurst",
+          "start": 82.9,
+          "end": 84.2
+        },
+        {
+          "text": "Salami",
+          "start": 86.18,
+          "end": 87.24
+        },
+        {
+          "text": "Weißwurst",
+          "start": 88.96,
+          "end": 91.04
+        },
+        {
+          "text": "Wurst",
+          "start": 91.04,
+          "end": 92.88
+        },
+        {
+          "text": "Entenfleisch",
+          "start": 94.63,
+          "end": 96.03
+        },
+        {
+          "text": "Hasenfleisch",
+          "start": 97.92,
+          "end": 99.5
+        },
+        {
+          "text": "Kaninchenfleisch",
+          "start": 101.19,
+          "end": 103.11
+        },
+        {
+          "text": "Lammfleisch",
+          "start": 104.78,
+          "end": 107.48
+        },
+        {
+          "text": "Rehfleisch",
+          "start": 107.96,
+          "end": 109.62
+        },
+        {
+          "text": "Wildbret",
+          "start": 111.26,
+          "end": 111.96
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die original bayerische Schweinehackse kann zur Brotzeit mit Bauernbrot gegessen werden.",
-        "Traditionell wird Schinken aus der Hinterkeule des Schweins hergestellt.",
-        "Ich schneide beim Schinken immer den Speck ab.",
-        "Thüringer Mett ist ein gewürztes Hackfleisch vom Schwein.",
-        "Kalbfleisch stammt von jungen Rindern, die bei der Schlachtung wenige Wochen bis wenige Monate alt sind.",
-        "Putenfleisch enthält reichlich B-Vitamine.",
-        "Blutwurst wird in der Regel kalt zum Wesper gegessen.",
-        "Die Currywurst ist in der Zeit nach dem Zweiten Weltkrieg in Berlin entstanden.",
-        "Die Pfälzer Leberwurst ist eine traditionell in der Kurpfalz hergestellte Kochwurst.",
-        "Kaninchenfleisch versorgt den menschlichen Körper mit reichvollen ungesättigten Fettsäuren.",
-        "Ursprünglich wurde für Döner nur Lammfleisch verwendet.",
-        "Inzwischen sind auch Kalb- oder Rindfleisch und Geflügel üblich."
+        {
+          "text": "Die original bayerische Schweinehackse kann zur Brotzeit mit Bauernbrot gegessen werden.",
+          "start": 119.67,
+          "end": 129.64
+        },
+        {
+          "text": "Traditionell wird Schinken aus der Hinterkeule des Schweins hergestellt.",
+          "start": 132.93,
+          "end": 137.46
+        },
+        {
+          "text": "Ich schneide beim Schinken immer den Speck ab.",
+          "start": 140.98,
+          "end": 144.0
+        },
+        {
+          "text": "Thüringer Mett ist ein gewürztes Hackfleisch vom Schwein.",
+          "start": 147.04,
+          "end": 151.03
+        },
+        {
+          "text": "Kalbfleisch stammt von jungen Rindern, die bei der Schlachtung wenige Wochen bis wenige Monate alt sind.",
+          "start": 154.59,
+          "end": 161.67
+        },
+        {
+          "text": "Putenfleisch enthält reichlich B-Vitamine.",
+          "start": 165.16,
+          "end": 168.28
+        },
+        {
+          "text": "Blutwurst wird in der Regel kalt zum Wesper gegessen.",
+          "start": 171.54,
+          "end": 175.68
+        },
+        {
+          "text": "Die Currywurst ist in der Zeit nach dem Zweiten Weltkrieg in Berlin entstanden.",
+          "start": 178.85,
+          "end": 184.05
+        },
+        {
+          "text": "Die Pfälzer Leberwurst ist eine traditionell in der Kurpfalz hergestellte Kochwurst.",
+          "start": 187.27,
+          "end": 194.43
+        },
+        {
+          "text": "Kaninchenfleisch versorgt den menschlichen Körper mit reichvollen ungesättigten Fettsäuren.",
+          "start": 197.48,
+          "end": 203.94
+        },
+        {
+          "text": "Ursprünglich wurde für Döner nur Lammfleisch verwendet.",
+          "start": 206.91,
+          "end": 210.35
+        },
+        {
+          "text": "Inzwischen sind auch Kalb- oder Rindfleisch und Geflügel üblich.",
+          "start": 211.09,
+          "end": 214.55
+        }
       ]
     }
   ]

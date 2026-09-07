@@ -1,51 +1,49 @@
-Gebäcke und Milchprodukte
-Baguette
-Berliner
-Brötchen
-Croissant
-Hörnchen
-Roggenbrot
-Toastbrot
-Vollkornbrot
-Apfelstrudel
-Bienenstich
-Käsekuchen
-Kuchen
-Marmorkuchen
-Mohnkuchen
-Pudding
-Sandkuchen
-Schnecke
-Die Schwarzwälder Kirschtorte
-Streuselkuchen
-Blauschimmelkäse
-Frischkäse
-Gouda
-Hartkäse
-Kochkäse
-Sauermilchkäse
-Schnittkäse
-Schmelzkäse
-Weichkäse
-die mildgesäuerte Butter
-Molkenbutter
-Salzbutter
-Sauerrahmbutter
-Süßrahmbutter
-Sprechen Sie bitte die folgenden Sätze.
-Berliner Pfannkuchen, kurz Berliner oder auch nur Pfannkuchen,
-ist ein etwa faustgroßes Gebäck.
-Heute werden Brötchen auch im Handwerk mit Unterstützung von Maschinen
-überwiegend halbautomatisch gefertigt.
-Croissant gehört heute zu den klassischen Bestandteilen eines französischen Frühstücks.
-Roggenbrot schmeckt sauer.
-Toastbrot ist in der Regel auch nach Ablauf des Mindesthaltbarkeitsdatum genießbar.
-Die Fülle von Apfelstrudel besteht üblicherweise aus süßsauren Äpfeln,
-Rosinen und Semmelbröseln, Zimt und Kristallzucker.
-Mondkuchen ist ein traditioneller Kuchen in Mittel- und Osteuropa.
-Schwarzwälder Kirschtorte ist heute die bekannteste und beliebteste Torte Deutschlands.
-Blauschimmelkäse ist Schimmelkäse, bei dessen Herstellung blau-grünlich erscheinende Edelschimmelpilze eingesetzt werden.
-Gouda ist eine Art von Schnittkäse.
-Aus 100 Liter Milch werde nur 8-9 kg Sauermilchkäse.
-Ihr Wassergehalt in dem fettfreien Weichkäse liegt bei über 67%.
-Zum Frühstück hat sie zwei Scheiben Brot mit Butter und Marmelade gegessen.
+[00:00:01.810 --> 00:00:04.830] Gebäcke und Milchprodukte
+[00:00:07.810 --> 00:00:09.210] Baguette
+[00:00:09.210 --> 00:00:10.410] Berliner
+[00:00:11.780 --> 00:00:13.580] Brötchen
+[00:00:14.960 --> 00:00:16.180] Croissant
+[00:00:17.560 --> 00:00:19.380] Hörnchen
+[00:00:20.720 --> 00:00:22.520] Roggenbrot
+[00:00:23.800 --> 00:00:25.560] Toastbrot
+[00:00:26.970 --> 00:00:28.970] Vollkornbrot
+[00:00:30.280 --> 00:00:32.260] Apfelstrudel
+[00:00:33.510 --> 00:00:35.190] Bienenstich
+[00:00:36.500 --> 00:00:38.420] Käsekuchen
+[00:00:39.730 --> 00:00:41.070] Kuchen
+[00:00:42.380 --> 00:00:44.380] Marmorkuchen
+[00:00:45.660 --> 00:00:47.700] Mohnkuchen
+[00:00:48.980 --> 00:00:50.240] Pudding
+[00:00:51.490 --> 00:00:53.430] Sandkuchen
+[00:00:54.900 --> 00:00:56.140] Schnecke
+[00:00:57.420 --> 00:01:00.200] Die Schwarzwälder Kirschtorte
+[00:01:01.800 --> 00:01:03.860] Streuselkuchen
+[00:01:05.210 --> 00:01:07.350] Blauschimmelkäse
+[00:01:08.820 --> 00:01:10.820] Frischkäse
+[00:01:12.230 --> 00:01:13.630] Gouda
+[00:01:14.970 --> 00:01:16.850] Hartkäse
+[00:01:18.260 --> 00:01:20.240] Kochkäse
+[00:01:21.550 --> 00:01:23.810] Sauermilchkäse
+[00:01:25.280 --> 00:01:27.260] Schnittkäse
+[00:01:28.700 --> 00:01:30.280] Schmelzkäse
+[00:01:32.080 --> 00:01:34.020] Weichkäse
+[00:01:35.370 --> 00:01:37.350] Die mildgesäuerte Butter
+[00:01:40.210 --> 00:01:41.370] Molkenbutter
+[00:01:42.650 --> 00:01:44.670] Salzbutter
+[00:01:45.950 --> 00:01:48.110] Sauerrahmbutter
+[00:01:49.420 --> 00:01:51.480] Süßrahmbutter
+[00:01:55.990 --> 00:01:58.990] Sprechen Sie bitte die folgenden Sätze
+[00:02:01.360 --> 00:02:10.340] Berliner Pfannkuchen, kurz Berliner oder auch nur Pfannkuchen, ist ein etwa faustgroßes Gebäck.
+[00:02:12.990 --> 00:02:20.730] Heute werden Brötchen auch im Handwerk mit Unterstützung von Maschinen überwiegend halbautomatisch gefertigt.
+[00:02:23.100 --> 00:02:29.800] Croissant gehört heute zu den klassischen Bestandteilen eines französischen Frühstücks.
+[00:02:32.880 --> 00:02:35.240] Roggenbrot schmeckt sauer.
+[00:02:38.180 --> 00:02:44.080] Toastbrot ist in der Regel auch nach Ablauf des Mindesthaltbarkeitsdatum genießbar.
+[00:02:47.070 --> 00:02:52.690] Die Fülle von Apfelstrudel besteht üblicherweise aus süß-sauren Äpfeln,
+[00:02:52.990 --> 00:02:56.970] Rosinen und Semmelbröseln, Zimt und Kristallzucker.
+[00:02:59.300 --> 00:03:05.720] Mondkuchen ist ein traditioneller Kuchen in Mittel- und Osteuropa.
+[00:03:08.540 --> 00:03:14.740] Schwarzwälder Kirschtorte ist heute die bekannteste und beliebteste Torte Deutschlands.
+[00:03:18.310 --> 00:03:27.070] Blauschimmelkäse ist Schimmelkäse, bei dessen Herstellung blau-grünlich erscheinende Edelschimmelpilze eingesetzt werden.
+[00:03:30.180 --> 00:03:33.040] Gouda ist eine Art von Schnittkäse.
+[00:03:35.380 --> 00:03:41.960] Aus 100 Liter Milch werde nur 8 bis 9 kg Sauermilchkäse.
+[00:03:44.800 --> 00:03:51.240] Ihr Wassergehalt in dem fettfreien Weichkäse liegt bei über 67%.
+[00:03:54.090 --> 00:03:58.990] Zum Frühstück hat sie zwei Scheiben Brot mit Butter und Marmelade gegessen.

@@ -1,69 +1,50 @@
-Halloween
-aushöhlen
-auslüften
-basteln
-form
-herausdrücken
-Kürbislaterne
-Schaber
-Schablone
-schnitzen
-anmalen
-Hexe
-Look
-Rötung
-Vampir
-Wunde
-Zombie
-Allerheiligen
-Böse Geister vertreiben
-Geistergesicht
-Fratze
-Skelett
-Spinnwebe
-Streich
-Süßes oder Saures
-Verkleidung
-Grusel
-Horrormäßig
-Anlass
-Entstehen
-Feierkultur
-Populärkultur
-Tradition
-Sprechen Sie bitte die folgenden Sätze
-Die Nacht vom Halloween
-gehört den Hexen,
-Geistern und Gruselmonstern.
-Zu Halloween
-sind die Gebäude oft
-mit Kürbisfratzen
-oder Spinnweben dekoriert.
-Zu Halloween
-ist der Gruselook nicht fehlen.
-Kürbisse
-stammen zwar ursprünglich aus Amerika.
-Die Idee,
-sie als Laternen zu verwenden,
-stammt aber aus Europa.
-Man schnitzte
-Kürbislaternen,
-um den Teufel fernzuhalten.
-Im Volksglauben
-übt Hexe mit Hilfe
-von magischen Kräften
-einen meist schädigenden Einfluss
-auf andere Menschen aus.
-Vampir ist unsterblich.
-Alle Heiligen
-ist ein christliches Fest,
-bei dem man der Heiligen gedenkt.
-Sie waren immer
-zu Streichen aufgelegt.
-Die Kinder ziehen
-von Haus zu Haus,
-verlangen nach Süßigkeiten,
-spielen Süßes oder Saures.
-Der Import von Feierkultur
-sei kein Einzelphänomen,
-sagt der Kulturwissenschaftler.
+[00:00:01.840 --> 00:00:03.580] Halloween
+[00:00:06.490 --> 00:00:07.190] aushöhlen
+[00:00:08.950 --> 00:00:09.650] auslüften
+[00:00:10.850 --> 00:00:11.550] basteln
+[00:00:13.620 --> 00:00:14.820] form
+[00:00:16.100 --> 00:00:17.740] herausdrücken
+[00:00:20.490 --> 00:00:21.190] Kürbislaterne
+[00:00:23.260 --> 00:00:24.340] Schaber
+[00:00:25.720 --> 00:00:27.580] Schablone
+[00:00:28.960 --> 00:00:30.420] schnitzen
+[00:00:32.500 --> 00:00:33.480] anmalen
+[00:00:35.280 --> 00:00:35.980] Hexe
+[00:00:37.500 --> 00:00:38.200] Look
+[00:00:40.620 --> 00:00:41.320] Rötung
+[00:00:42.860 --> 00:00:44.280] Strich
+[00:00:46.140 --> 00:00:47.300] Vampir
+[00:00:49.280 --> 00:00:49.980] Wunde
+[00:00:52.120 --> 00:00:52.820] Zombie
+[00:00:54.170 --> 00:00:56.070] Allerheiligen
+[00:00:57.320 --> 00:01:00.020] Böse Geister vertreiben
+[00:01:02.160 --> 00:01:02.860] Geistergesicht
+[00:01:02.860 --> 00:01:04.180] Fratze
+[00:01:05.620 --> 00:01:06.920] Skelett
+[00:01:08.460 --> 00:01:10.060] Spinnwebe
+[00:01:11.630 --> 00:01:13.010] Streich
+[00:01:14.260 --> 00:01:16.760] Süßes oder Saures
+[00:01:18.130 --> 00:01:20.190] Verkleidung
+[00:01:21.440 --> 00:01:22.980] Grusel
+[00:01:24.290 --> 00:01:25.950] Gruselig
+[00:01:27.260 --> 00:01:29.220] Horrormäßig
+[00:01:30.540 --> 00:01:32.000] Grässlich
+[00:01:33.940 --> 00:01:34.620] Horror
+[00:01:35.960 --> 00:01:37.380] Anlass
+[00:01:38.660 --> 00:01:40.500] Entstehen
+[00:01:41.940 --> 00:01:43.920] Feierkultur
+[00:01:45.200 --> 00:01:47.240] Populärkultur
+[00:01:48.590 --> 00:01:50.290] Tradition
+[00:01:54.770 --> 00:01:57.650] Sprechen Sie bitte die folgenden Sätze
+[00:01:59.890 --> 00:02:05.670] Die Nacht vom Halloween gehört den Hexen, Geistern und Gruselmonstern.
+[00:02:05.670 --> 00:02:15.540] Zu Halloween sind die Gebäude oft mit Kürbisfratzen oder Spinnweben dekoriert.
+[00:02:18.670 --> 00:02:22.750] Zu Halloween darf der Gruselook nicht fehlen.
+[00:02:25.290 --> 00:02:28.690] Kürbisse stammen zwar ursprünglich aus Amerika.
+[00:02:31.810 --> 00:02:36.730] Die Idee, sie als Laternen zu verwenden, stammt aber aus Europa.
+[00:02:40.000 --> 00:02:44.580] Man schnitzte Kürbislaternen, um den Teufel fernzuhalten.
+[00:02:46.850 --> 00:02:56.310] Im Volksglauben übt Hexe mithilfe von magischen Kräften einen meist schädigenden Einfluss auf andere Menschen aus.
+[00:02:59.280 --> 00:03:01.540] Der Vampir ist unsterblich.
+[00:03:04.540 --> 00:03:09.560] Alle Heiligen ist ein christliches Fest, bei dem man der Heiligen gedenkt.
+[00:03:12.660 --> 00:03:15.340] Sie waren immer zu Streichen aufgelegt.
+[00:03:18.400 --> 00:03:25.080] Die Kinder ziehen von Haus zu Haus, verlangen nach Süßigkeiten, spielen Süßes oder Saures.
+[00:03:27.380 --> 00:03:34.880] Der Import von Feierkultur sei kein Einzelfenomen, sagt der Kulturwissenschaftler.

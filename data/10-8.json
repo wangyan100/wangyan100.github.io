@@ -4,72 +4,312 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "andere Feiertage",
-        "anzapfen",
-        "Bierzelt",
-        "Brezel",
-        "Dirndl",
-        "Gedränge",
-        "Tracht",
-        "Volksmusik",
-        "Wiesen",
-        "Band",
-        "Karikatur",
-        "Kostüm",
-        "Maskenball",
-        "Motivwagen",
-        "nach",
-        "Rosenmontag",
-        "sich verkleiden",
-        "Umzug",
-        "beginnen",
-        "anfangen",
-        "Bohle",
-        "Fondue",
-        "Glückssträne",
-        "Heimkehr",
-        "Jahresanfang",
-        "Neujahrsansprache",
-        "Rutsch",
-        "Wahrsagen",
-        "Begehen",
-        "Befreien",
-        "Einigung",
-        "Ferien",
-        "Die Goldene Woche",
-        "Parade",
-        "Tourist",
-        "Unabhängigkeit",
-        "Urlaub machen",
-        "Beifußblatt",
-        "Der Beutelsack mit Parfüm",
-        "Dichter",
-        "Drachenboot",
-        "einwickeln",
-        "ertrinken",
-        "Gedenken",
-        "Regatta"
+        {
+          "text": "andere Feiertage",
+          "start": 1.87,
+          "end": 4.15
+        },
+        {
+          "text": "anzapfen",
+          "start": 5.5,
+          "end": 7.36
+        },
+        {
+          "text": "Bierzelt",
+          "start": 8.64,
+          "end": 10.2
+        },
+        {
+          "text": "Brezel",
+          "start": 11.48,
+          "end": 12.86
+        },
+        {
+          "text": "Dirndl",
+          "start": 14.58,
+          "end": 15.28
+        },
+        {
+          "text": "Gedränge",
+          "start": 16.98,
+          "end": 18.22
+        },
+        {
+          "text": "Tracht",
+          "start": 20.23,
+          "end": 20.93
+        },
+        {
+          "text": "Volksmusik",
+          "start": 23.02,
+          "end": 23.94
+        },
+        {
+          "text": "Wiesen",
+          "start": 25.76,
+          "end": 27.16
+        },
+        {
+          "text": "Band",
+          "start": 28.8,
+          "end": 29.3
+        },
+        {
+          "text": "Karikatur",
+          "start": 30.58,
+          "end": 32.56
+        },
+        {
+          "text": "Kostüm",
+          "start": 33.84,
+          "end": 35.46
+        },
+        {
+          "text": "Maskenball",
+          "start": 36.71,
+          "end": 38.91
+        },
+        {
+          "text": "Motivwagen",
+          "start": 40.51,
+          "end": 41.21
+        },
+        {
+          "text": "nach",
+          "start": 42.85,
+          "end": 43.55
+        },
+        {
+          "text": "Rosenmontag",
+          "start": 47.71,
+          "end": 49.11
+        },
+        {
+          "text": "sich verkleiden",
+          "start": 49.11,
+          "end": 50.53
+        },
+        {
+          "text": "Umzug",
+          "start": 52.61,
+          "end": 54.01
+        },
+        {
+          "text": "beginnen",
+          "start": 55.32,
+          "end": 57.02
+        },
+        {
+          "text": "anfangen",
+          "start": 59.42,
+          "end": 60.12
+        },
+        {
+          "text": "Bohle",
+          "start": 60.82,
+          "end": 61.8
+        },
+        {
+          "text": "Fondue",
+          "start": 63.76,
+          "end": 65.26
+        },
+        {
+          "text": "Glückssträhne",
+          "start": 66.51,
+          "end": 68.41
+        },
+        {
+          "text": "Heimkehr",
+          "start": 69.72,
+          "end": 71.44
+        },
+        {
+          "text": "Jahresanfang",
+          "start": 72.69,
+          "end": 75.49
+        },
+        {
+          "text": "Neujahrsansprache",
+          "start": 76.89,
+          "end": 77.59
+        },
+        {
+          "text": "Rutsch",
+          "start": 78.9,
+          "end": 81.3
+        },
+        {
+          "text": "Wahrsagen",
+          "start": 82.55,
+          "end": 84.15
+        },
+        {
+          "text": "Begehen",
+          "start": 86.03,
+          "end": 86.73
+        },
+        {
+          "text": "Befreien",
+          "start": 88.45,
+          "end": 89.85
+        },
+        {
+          "text": "Einigung",
+          "start": 91.1,
+          "end": 91.8
+        },
+        {
+          "text": "Ferien",
+          "start": 94.24,
+          "end": 94.94
+        },
+        {
+          "text": "Die Goldene Woche",
+          "start": 96.88,
+          "end": 98.56
+        },
+        {
+          "text": "Parade",
+          "start": 99.96,
+          "end": 101.74
+        },
+        {
+          "text": "Tourist",
+          "start": 103.02,
+          "end": 104.58
+        },
+        {
+          "text": "Unabhängigkeit",
+          "start": 105.86,
+          "end": 107.74
+        },
+        {
+          "text": "Urlaub machen",
+          "start": 109.02,
+          "end": 111.2
+        },
+        {
+          "text": "Beifußblatt",
+          "start": 113.46,
+          "end": 114.86
+        },
+        {
+          "text": "Der Beutelsack mit Parfüm",
+          "start": 114.86,
+          "end": 117.76
+        },
+        {
+          "text": "Dichter",
+          "start": 121.2,
+          "end": 122.44
+        },
+        {
+          "text": "Drachenboot",
+          "start": 122.44,
+          "end": 123.06
+        },
+        {
+          "text": "Einwickeln",
+          "start": 126.38,
+          "end": 127.62
+        },
+        {
+          "text": "Ertrinken",
+          "start": 129.2,
+          "end": 130.44
+        },
+        {
+          "text": "Gedenken",
+          "start": 130.44,
+          "end": 132.32
+        },
+        {
+          "text": "Regatta",
+          "start": 134.12,
+          "end": 135.4
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Das Oktoberfest zieht in den letzten Jahrzehnten alljährlich Millionen Besucher an.",
-        "Münchens Oberbürgermeister hat das erste Fass Bier und das 185.",
-        "Oktoberfest eröffnet.",
-        "Das Oktoberfest heißt auch Wiesn, weil es auf der Theresienwiese gefeiert wird.",
-        "Der Karneval in Venedig ist weltberühmt für seine Maskenbälle, Gondelparaden und Feuerwerke.",
-        "Der Rosenmontag ist der größte Tag für Karnevalfans.",
-        "Die Bohle ist ein erfrischendes Sommergetränk mit Wein und Sekt, mit Früchten oder Kräutern.",
-        "Bundeskanzlerin Angela Merkel hat in ihrer Neujahrsansprache für ihre Asylpolitik geworben.",
-        "Guten Rutsch ins neue Jahr!",
-        "Am 1.",
-        "Oktober, dem Nationalfeiertag Chinas, beginnt im Reich der Mitte die Goldene Woche.",
-        "Während des Drachenbootfests säubert man das Haus und hängt Beifußblätter an die Türen.",
-        "Das Drachenbootfest findet zu Ehren des Dichters Tzüjön statt, der 278 v.",
-        "Chr. im Milorfluss ertrunken sein soll.",
-        "Die Zungze sind Klöße aus Klebreis eingewickelt in Bambusblätter mit verschiedenen Füllungen."
+        {
+          "text": "Das Oktoberfest zieht in den letzten Jahrzehnten alljährlich Millionen Besucher an.",
+          "start": 145.04,
+          "end": 152.26
+        },
+        {
+          "text": "Münchens Oberbürgermeister hat das erste Fass Bier angezapft und damit das 185.",
+          "start": 155.06,
+          "end": 162.26
+        },
+        {
+          "text": "Oktoberfest eröffnet.",
+          "start": 162.52,
+          "end": 164.18
+        },
+        {
+          "text": "Das Oktoberfest heißt auch Wiesen, weil es auf der Theresienwiese gefeiert wird.",
+          "start": 167.2,
+          "end": 172.92
+        },
+        {
+          "text": "Der Karneval in Venedig ist weltberühmt für seine Maskenbälle, Gondelparaden und Feuerwerke.",
+          "start": 175.93,
+          "end": 183.07
+        },
+        {
+          "text": "Der Rosenmontag ist der größte Tag für Karnevalfans.",
+          "start": 186.07,
+          "end": 189.51
+        },
+        {
+          "text": "Die Bohle ist ein erfrischendes Sommergetränk aus Wein und Sekt mit Früchten oder Kräutern.",
+          "start": 193.18,
+          "end": 200.18
+        },
+        {
+          "text": "Bundeskanzlerin Angela Merkel hat in ihrer Neujahrsansprache für ihre Asylpolitik geworben.",
+          "start": 202.9,
+          "end": 210.24
+        },
+        {
+          "text": "Guten Rutsch ins neue Jahr!",
+          "start": 212.8,
+          "end": 214.58
+        },
+        {
+          "text": "Am 1.",
+          "start": 217.57,
+          "end": 218.19
+        },
+        {
+          "text": "Oktober dem Nationalfeiertag Chinas beginnt im Reich der Mitte die Goldene Woche.",
+          "start": 218.33,
+          "end": 224.33
+        },
+        {
+          "text": "Während des Drachenboot-Fests säubert man das Haus und hängt Beifußblätter an die Türen.",
+          "start": 227.49,
+          "end": 233.65
+        },
+        {
+          "text": "Das Drachenboot-Fest findet zu Ehren des Dichters Tüjön statt, der 278 v.",
+          "start": 235.92,
+          "end": 244.32
+        },
+        {
+          "text": "Chr. im Milorfluss ertrunken sein soll.",
+          "start": 244.44,
+          "end": 247.94
+        },
+        {
+          "text": "Die Zungse sind Klöße aus Klebreis eingewickelt in Bambusblätter mit verschiedenen Füllungen.",
+          "start": 251.0,
+          "end": 257.8
+        }
       ]
     }
   ]

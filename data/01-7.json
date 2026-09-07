@@ -4,59 +4,247 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Gebäcke und Milchprodukte",
-        "Baguette",
-        "Berliner",
-        "Brötchen",
-        "Croissant",
-        "Hörnchen",
-        "Roggenbrot",
-        "Toastbrot",
-        "Vollkornbrot",
-        "Apfelstrudel",
-        "Bienenstich",
-        "Käsekuchen",
-        "Kuchen",
-        "Marmorkuchen",
-        "Mohnkuchen",
-        "Pudding",
-        "Sandkuchen",
-        "Schnecke",
-        "Die Schwarzwälder Kirschtorte",
-        "Streuselkuchen",
-        "Blauschimmelkäse",
-        "Frischkäse",
-        "Gouda",
-        "Hartkäse",
-        "Kochkäse",
-        "Sauermilchkäse",
-        "Schnittkäse",
-        "Schmelzkäse",
-        "Weichkäse",
-        "die mildgesäuerte Butter",
-        "Molkenbutter",
-        "Salzbutter",
-        "Sauerrahmbutter",
-        "Süßrahmbutter"
+        {
+          "text": "Gebäcke und Milchprodukte",
+          "start": 1.81,
+          "end": 4.83
+        },
+        {
+          "text": "Baguette",
+          "start": 7.81,
+          "end": 9.21
+        },
+        {
+          "text": "Berliner",
+          "start": 9.21,
+          "end": 10.41
+        },
+        {
+          "text": "Brötchen",
+          "start": 11.78,
+          "end": 13.58
+        },
+        {
+          "text": "Croissant",
+          "start": 14.96,
+          "end": 16.18
+        },
+        {
+          "text": "Hörnchen",
+          "start": 17.56,
+          "end": 19.38
+        },
+        {
+          "text": "Roggenbrot",
+          "start": 20.72,
+          "end": 22.52
+        },
+        {
+          "text": "Toastbrot",
+          "start": 23.8,
+          "end": 25.56
+        },
+        {
+          "text": "Vollkornbrot",
+          "start": 26.97,
+          "end": 28.97
+        },
+        {
+          "text": "Apfelstrudel",
+          "start": 30.28,
+          "end": 32.26
+        },
+        {
+          "text": "Bienenstich",
+          "start": 33.51,
+          "end": 35.19
+        },
+        {
+          "text": "Käsekuchen",
+          "start": 36.5,
+          "end": 38.42
+        },
+        {
+          "text": "Kuchen",
+          "start": 39.73,
+          "end": 41.07
+        },
+        {
+          "text": "Marmorkuchen",
+          "start": 42.38,
+          "end": 44.38
+        },
+        {
+          "text": "Mohnkuchen",
+          "start": 45.66,
+          "end": 47.7
+        },
+        {
+          "text": "Pudding",
+          "start": 48.98,
+          "end": 50.24
+        },
+        {
+          "text": "Sandkuchen",
+          "start": 51.49,
+          "end": 53.43
+        },
+        {
+          "text": "Schnecke",
+          "start": 54.9,
+          "end": 56.14
+        },
+        {
+          "text": "Die Schwarzwälder Kirschtorte",
+          "start": 57.42,
+          "end": 60.2
+        },
+        {
+          "text": "Streuselkuchen",
+          "start": 61.8,
+          "end": 63.86
+        },
+        {
+          "text": "Blauschimmelkäse",
+          "start": 65.21,
+          "end": 67.35
+        },
+        {
+          "text": "Frischkäse",
+          "start": 68.82,
+          "end": 70.82
+        },
+        {
+          "text": "Gouda",
+          "start": 72.23,
+          "end": 73.63
+        },
+        {
+          "text": "Hartkäse",
+          "start": 74.97,
+          "end": 76.85
+        },
+        {
+          "text": "Kochkäse",
+          "start": 78.26,
+          "end": 80.24
+        },
+        {
+          "text": "Sauermilchkäse",
+          "start": 81.55,
+          "end": 83.81
+        },
+        {
+          "text": "Schnittkäse",
+          "start": 85.28,
+          "end": 87.26
+        },
+        {
+          "text": "Schmelzkäse",
+          "start": 88.7,
+          "end": 90.28
+        },
+        {
+          "text": "Weichkäse",
+          "start": 92.08,
+          "end": 94.02
+        },
+        {
+          "text": "Die mildgesäuerte Butter",
+          "start": 95.37,
+          "end": 97.35
+        },
+        {
+          "text": "Molkenbutter",
+          "start": 100.21,
+          "end": 101.37
+        },
+        {
+          "text": "Salzbutter",
+          "start": 102.65,
+          "end": 104.67
+        },
+        {
+          "text": "Sauerrahmbutter",
+          "start": 105.95,
+          "end": 108.11
+        },
+        {
+          "text": "Süßrahmbutter",
+          "start": 109.42,
+          "end": 111.48
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Berliner Pfannkuchen, kurz Berliner oder auch nur Pfannkuchen, ist ein etwa faustgroßes Gebäck.",
-        "Heute werden Brötchen auch im Handwerk mit Unterstützung von Maschinen überwiegend halbautomatisch gefertigt.",
-        "Croissant gehört heute zu den klassischen Bestandteilen eines französischen Frühstücks.",
-        "Roggenbrot schmeckt sauer.",
-        "Toastbrot ist in der Regel auch nach Ablauf des Mindesthaltbarkeitsdatum genießbar.",
-        "Die Fülle von Apfelstrudel besteht üblicherweise aus süßsauren Äpfeln, Rosinen und Semmelbröseln, Zimt und Kristallzucker.",
-        "Mondkuchen ist ein traditioneller Kuchen in Mittel- und Osteuropa.",
-        "Schwarzwälder Kirschtorte ist heute die bekannteste und beliebteste Torte Deutschlands.",
-        "Blauschimmelkäse ist Schimmelkäse, bei dessen Herstellung blau-grünlich erscheinende Edelschimmelpilze eingesetzt werden.",
-        "Gouda ist eine Art von Schnittkäse.",
-        "Aus 100 Liter Milch werde nur 8-9 kg Sauermilchkäse.",
-        "Ihr Wassergehalt in dem fettfreien Weichkäse liegt bei über 67%.",
-        "Zum Frühstück hat sie zwei Scheiben Brot mit Butter und Marmelade gegessen."
+        {
+          "text": "Berliner Pfannkuchen, kurz Berliner oder auch nur Pfannkuchen, ist ein etwa faustgroßes Gebäck.",
+          "start": 121.36,
+          "end": 130.34
+        },
+        {
+          "text": "Heute werden Brötchen auch im Handwerk mit Unterstützung von Maschinen überwiegend halbautomatisch gefertigt.",
+          "start": 132.99,
+          "end": 140.73
+        },
+        {
+          "text": "Croissant gehört heute zu den klassischen Bestandteilen eines französischen Frühstücks.",
+          "start": 143.1,
+          "end": 149.8
+        },
+        {
+          "text": "Roggenbrot schmeckt sauer.",
+          "start": 152.88,
+          "end": 155.24
+        },
+        {
+          "text": "Toastbrot ist in der Regel auch nach Ablauf des Mindesthaltbarkeitsdatum genießbar.",
+          "start": 158.18,
+          "end": 164.08
+        },
+        {
+          "text": "Die Fülle von Apfelstrudel besteht üblicherweise aus süß-sauren Äpfeln, Rosinen und Semmelbröseln, Zimt und Kristallzucker.",
+          "start": 167.07,
+          "end": 176.97
+        },
+        {
+          "text": "Mondkuchen ist ein traditioneller Kuchen in Mittel- und Osteuropa.",
+          "start": 179.3,
+          "end": 184.32
+        },
+        {
+          "text": "Schwarzwälder Kirschtorte ist heute die bekannteste und beliebteste Torte Deutschlands.",
+          "start": 184.32,
+          "end": 193.88
+        },
+        {
+          "text": "Blauschimmelkäse ist Schimmelkäse, bei dessen Herstellung blau-grünlich erscheinende Edelschimmelpilze eingesetzt werden.",
+          "start": 193.88,
+          "end": 206.51
+        },
+        {
+          "text": "Gouda ist eine Art von Schnittkäse.",
+          "start": 206.51,
+          "end": 212.08
+        },
+        {
+          "text": "Aus 100 Liter Milch werde nur 8 bis 9 kg Sauermilchkäse.",
+          "start": 212.08,
+          "end": 220.28
+        },
+        {
+          "text": "Ihr Wassergehalt in dem fettfreien Weichkäse liegt bei über 67%.",
+          "start": 220.28,
+          "end": 229.56
+        },
+        {
+          "text": "Zum Frühstück hat sie zwei Scheiben Brot mit Butter und Marmelade gegessen.",
+          "start": 229.56,
+          "end": 238.47
+        }
       ]
     }
   ]

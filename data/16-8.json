@@ -4,64 +4,272 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Weltall",
-        "Jupiter",
-        "Mars",
-        "Merkur",
-        "Neptun",
-        "Pluto",
-        "Saturn",
-        "Uranus",
-        "Venus",
-        "Fixstern",
-        "Komet",
-        "Meteor",
-        "Sternschnuppe",
-        "Meteorit",
-        "Planetuit",
-        "Polarstern",
-        "Widder",
-        "Stier",
-        "Zwilling",
-        "Krebs",
-        "Löwe",
-        "Jungfrau",
-        "Waage",
-        "Skorpion",
-        "Schütze",
-        "Steinbock",
-        "Wassermann",
-        "Fisch",
-        "All",
-        "Universum",
-        "Außerirdische",
-        "Außerirdischer",
-        "Galaxie",
-        "Gestirn",
-        "Konkaffspiegel",
-        "Milchstraße",
-        "Planetarium",
-        "UFO",
-        "UFO"
+        {
+          "text": "Weltall",
+          "start": 1.74,
+          "end": 3.68
+        },
+        {
+          "text": "Jupiter",
+          "start": 4.96,
+          "end": 6.06
+        },
+        {
+          "text": "Mars",
+          "start": 7.31,
+          "end": 9.23
+        },
+        {
+          "text": "Merkur",
+          "start": 11.03,
+          "end": 12.43
+        },
+        {
+          "text": "Neptun",
+          "start": 13.27,
+          "end": 14.63
+        },
+        {
+          "text": "Pluto",
+          "start": 15.91,
+          "end": 17.55
+        },
+        {
+          "text": "Saturn",
+          "start": 18.55,
+          "end": 20.29
+        },
+        {
+          "text": "Uranus",
+          "start": 22.61,
+          "end": 24.01
+        },
+        {
+          "text": "Venus",
+          "start": 24.55,
+          "end": 26.03
+        },
+        {
+          "text": "Fixstern",
+          "start": 27.93,
+          "end": 29.41
+        },
+        {
+          "text": "Komet",
+          "start": 30.69,
+          "end": 32.11
+        },
+        {
+          "text": "Meteor",
+          "start": 33.93,
+          "end": 35.33
+        },
+        {
+          "text": "Sternschnuppe",
+          "start": 38.44,
+          "end": 39.84
+        },
+        {
+          "text": "Meteorit",
+          "start": 39.84,
+          "end": 41.24
+        },
+        {
+          "text": "Planituid",
+          "start": 43.08,
+          "end": 44.56
+        },
+        {
+          "text": "Polarstern",
+          "start": 46.36,
+          "end": 47.78
+        },
+        {
+          "text": "Wider",
+          "start": 49.54,
+          "end": 50.24
+        },
+        {
+          "text": "Stier",
+          "start": 51.71,
+          "end": 53.05
+        },
+        {
+          "text": "Zwilling",
+          "start": 54.46,
+          "end": 55.76
+        },
+        {
+          "text": "Krebs",
+          "start": 57.14,
+          "end": 59.54
+        },
+        {
+          "text": "Löwe",
+          "start": 59.54,
+          "end": 61.64
+        },
+        {
+          "text": "Jungfrau",
+          "start": 62.92,
+          "end": 64.58
+        },
+        {
+          "text": "Waage",
+          "start": 66.42,
+          "end": 67.3
+        },
+        {
+          "text": "Skorpion",
+          "start": 68.74,
+          "end": 70.24
+        },
+        {
+          "text": "Schütze",
+          "start": 72.27,
+          "end": 73.13
+        },
+        {
+          "text": "Steinbock",
+          "start": 74.57,
+          "end": 76.25
+        },
+        {
+          "text": "Wassermann",
+          "start": 77.5,
+          "end": 79.24
+        },
+        {
+          "text": "Fisch",
+          "start": 81.14,
+          "end": 81.84
+        },
+        {
+          "text": "All",
+          "start": 83.32,
+          "end": 84.42
+        },
+        {
+          "text": "Universum",
+          "start": 85.7,
+          "end": 87.78
+        },
+        {
+          "text": "Außerirdische",
+          "start": 90.56,
+          "end": 91.96
+        },
+        {
+          "text": "Außerirdischer",
+          "start": 91.96,
+          "end": 93.68
+        },
+        {
+          "text": "Galaxie",
+          "start": 94.92,
+          "end": 96.22
+        },
+        {
+          "text": "Gestirn",
+          "start": 98.03,
+          "end": 99.73
+        },
+        {
+          "text": "Konkarfspiegel",
+          "start": 102.68,
+          "end": 104.08
+        },
+        {
+          "text": "Milchstraße",
+          "start": 104.08,
+          "end": 106.22
+        },
+        {
+          "text": "Planetarium",
+          "start": 107.54,
+          "end": 109.38
+        },
+        {
+          "text": "UFO",
+          "start": 110.66,
+          "end": 112.1
+        },
+        {
+          "text": "UFO",
+          "start": 110.66,
+          "end": 112.1
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Jupiter ist der massereichste Planet im Sonnensystem.",
-        "Der Merkur hat keine natürlichen Satelliten.",
-        "In der chinesischen und japanischen Kultur nach der Fünf-Elemente-Lehre steht der Saturn für die Erde.",
-        "Nach dem Mond ist die Venus das hellste Gestirn am nächtlichen Himmel.",
-        "Mit bloßem Auge können am Himmel etwa 3000 bis 6000 Fixsterne wahrgenommen werden.",
-        "Die meisten Meteoriten sind Bruchstücke von Asteroiden und stammen aus dem Asteroidengürtel zwischen Mars und Jupiter. 160 Lichtjahre von der Erde entfernt, im Sternbild Wasserschlange, gibt es eine Ansammlung glitzernder Sterne.",
-        "Ich bin Widder und meine Frau ist Schütze.",
-        "Der beste Beobachtungszeitraum für das Sternbild Zwilling ist im Winter.",
-        "Vom 10.",
-        "August bis zum 16.",
-        "September wandert die Sonne durch das Sternbild Löwe.",
-        "Das Sternbild Waage ist ein kleines und eher unscheinbares Sternbild.",
-        "In der Astronomie bezeichnet Galaxie eine Ansammlung von einigen hundert Milliarden Sternen."
+        {
+          "text": "Jupiter ist der massereichste Planet im Sonnensystem.",
+          "start": 124.61,
+          "end": 129.19
+        },
+        {
+          "text": "Der Merkur hat keine natürlichen Satelliten.",
+          "start": 131.56,
+          "end": 135.66
+        },
+        {
+          "text": "In der chinesischen und japanischen Kultur nach der Fünf-Elemente-Lehre steht der Saturn für die Erde.",
+          "start": 138.77,
+          "end": 146.35
+        },
+        {
+          "text": "Nach dem Mond ist die Venus das hellste Gestirn am nächtlichen Himmel.",
+          "start": 149.44,
+          "end": 154.3
+        },
+        {
+          "text": "Mit bloßem Auge können am Himmel etwa 3000 bis 6000 Fixsterne wahrgenommen werden.",
+          "start": 157.08,
+          "end": 163.96
+        },
+        {
+          "text": "Die meisten Meteoriten sind Bruchstücke von Asteroiden und stammen aus dem Asteroidengürtel zwischen Mars und Jupiter. 160 Lichtjahre von der Erde entfernt, im Sternbild Wasserschlange, gibt es eine Ansammlung glitzernder Sterne.",
+          "start": 166.23,
+          "end": 187.62
+        },
+        {
+          "text": "Ich bin Wider und meine Frau ist Schütze.",
+          "start": 190.74,
+          "end": 193.82
+        },
+        {
+          "text": "Der beste Beobachtungszeitraum für das Sternbild Zwilling ist im Winter.",
+          "start": 196.77,
+          "end": 201.59
+        },
+        {
+          "text": "Vom 10.",
+          "start": 203.92,
+          "end": 205.42
+        },
+        {
+          "text": "August bis zum 16.",
+          "start": 205.62,
+          "end": 207.24
+        },
+        {
+          "text": "September wandert die Sonne durch das Sternbild Löwe.",
+          "start": 207.44,
+          "end": 211.24
+        },
+        {
+          "text": "Das Sternbild Vage ist ein kleines und eher unscheinbares Sternbild.",
+          "start": 214.26,
+          "end": 219.26
+        },
+        {
+          "text": "In der Astronomie bezeichnet Galaxie eine Ansammlung von einigen hundert Milliarden Sternen.",
+          "start": 222.34,
+          "end": 228.64
+        }
       ]
     }
   ]

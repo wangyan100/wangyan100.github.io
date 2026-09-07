@@ -4,67 +4,287 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Kino",
-        "ausverkauft",
-        "bezahlen",
-        "erhältlich",
-        "Ermäßigung",
-        "Rabatt",
-        "Gültigkeit",
-        "Ticket",
-        "Vorverkauf",
-        "in der Schlange stehen",
-        "Altersbeschränkung",
-        "Erwachsene",
-        "Erwachsener",
-        "freigeben",
-        "in Begleitung eines Elternteils",
-        "Jugendliche",
-        "Jugendlicher",
-        "keine Jugendfreigabe",
-        "Kind",
-        "Drehbuchautor",
-        "Fotograf",
-        "Hauptrolle",
-        "Produzent",
-        "Regisseur",
-        "Schauspieler",
-        "Darsteller",
-        "Actionfilm",
-        "Animations- und Zeichentrickfilm",
-        "Drama",
-        "Erotikfilm",
-        "Horrorfilm",
-        "Komödie",
-        "Science-Fiction-Film",
-        "Thriller",
-        "Abspann",
-        "Leinwand",
-        "Originalfassung",
-        "Projektor",
-        "Synchronisierung",
-        "Untertitel",
-        "Zuschauer"
+        {
+          "text": "Kino",
+          "start": 1.74,
+          "end": 4.44
+        },
+        {
+          "text": "ausverkauft",
+          "start": 6.2,
+          "end": 7.6
+        },
+        {
+          "text": "bezahlen",
+          "start": 7.6,
+          "end": 9.8
+        },
+        {
+          "text": "erhältlich",
+          "start": 11.3,
+          "end": 12.7
+        },
+        {
+          "text": "Ermäßigung",
+          "start": 14.38,
+          "end": 15.78
+        },
+        {
+          "text": "Rabatt",
+          "start": 16.5,
+          "end": 18.1
+        },
+        {
+          "text": "Gültigkeit",
+          "start": 19.38,
+          "end": 21.1
+        },
+        {
+          "text": "Ticket",
+          "start": 22.38,
+          "end": 23.7
+        },
+        {
+          "text": "Vorverkauf",
+          "start": 25.08,
+          "end": 26.7
+        },
+        {
+          "text": "in der Schlange stehen",
+          "start": 27.95,
+          "end": 30.23
+        },
+        {
+          "text": "Altersbeschränkung",
+          "start": 31.48,
+          "end": 34.04
+        },
+        {
+          "text": "Erwachsene",
+          "start": 35.28,
+          "end": 37.14
+        },
+        {
+          "text": "Erwachsener",
+          "start": 38.42,
+          "end": 40.0
+        },
+        {
+          "text": "freigeben",
+          "start": 42.96,
+          "end": 44.36
+        },
+        {
+          "text": "in Begleitung eines Elternteils",
+          "start": 44.36,
+          "end": 49.26
+        },
+        {
+          "text": "Jugendliche",
+          "start": 49.26,
+          "end": 51.7
+        },
+        {
+          "text": "Jugendlicher",
+          "start": 52.38,
+          "end": 53.7
+        },
+        {
+          "text": "keine Jugendfreigabe",
+          "start": 55.41,
+          "end": 58.03
+        },
+        {
+          "text": "Kind",
+          "start": 59.28,
+          "end": 60.22
+        },
+        {
+          "text": "Drehbuchautor",
+          "start": 62.19,
+          "end": 64.07
+        },
+        {
+          "text": "Fotograf",
+          "start": 65.44,
+          "end": 66.98
+        },
+        {
+          "text": "Hauptrolle",
+          "start": 68.88,
+          "end": 70.02
+        },
+        {
+          "text": "Produzent",
+          "start": 72.19,
+          "end": 73.09
+        },
+        {
+          "text": "Regisseur",
+          "start": 75.44,
+          "end": 76.44
+        },
+        {
+          "text": "Filmmacher",
+          "start": 77.84,
+          "end": 79.56
+        },
+        {
+          "text": "Schauspieler",
+          "start": 82.62,
+          "end": 83.32
+        },
+        {
+          "text": "Darsteller",
+          "start": 84.02,
+          "end": 85.22
+        },
+        {
+          "text": "Actionfilm",
+          "start": 86.99,
+          "end": 88.79
+        },
+        {
+          "text": "Animations- und Zeichentrickfilm",
+          "start": 90.07,
+          "end": 92.19
+        },
+        {
+          "text": "Drama",
+          "start": 92.19,
+          "end": 94.17
+        },
+        {
+          "text": "Erotikfilm",
+          "start": 95.63,
+          "end": 97.03
+        },
+        {
+          "text": "Horrorfilm",
+          "start": 98.71,
+          "end": 100.11
+        },
+        {
+          "text": "Komödie",
+          "start": 101.45,
+          "end": 103.39
+        },
+        {
+          "text": "Science-Fiction-Film",
+          "start": 104.64,
+          "end": 109.08
+        },
+        {
+          "text": "Thriller",
+          "start": 109.08,
+          "end": 109.78
+        },
+        {
+          "text": "Abspann",
+          "start": 111.72,
+          "end": 112.72
+        },
+        {
+          "text": "Leinwand",
+          "start": 114.36,
+          "end": 116.98
+        },
+        {
+          "text": "Originalfassung",
+          "start": 118.78,
+          "end": 120.14
+        },
+        {
+          "text": "Projektor",
+          "start": 120.14,
+          "end": 122.34
+        },
+        {
+          "text": "Synchronisierung",
+          "start": 123.65,
+          "end": 125.43
+        },
+        {
+          "text": "Untertitel",
+          "start": 128.3,
+          "end": 129.66
+        },
+        {
+          "text": "Zuschauer",
+          "start": 129.66,
+          "end": 132.06
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Computer ist nicht mehr zu bezahlen.",
-        "Das Medikament ist nur gegen Rezept erhältlich.",
-        "Darf ich mal fragen?",
-        "Gibt es Rabatt für Studenten?",
-        "Gekaufte Tickets behalten ihre Gültigkeit.",
-        "Der Vorverkauf läuft.",
-        "Der Film ist für Jugendliche nicht freigegeben.",
-        "Die Kinofilme, die von der FSK ab 12 Jahren freigegeben werden, sollen die Kinder ab 6 Jahren in Begleitung eines Elternteils sehen.",
-        "Seine Frau spielt die Hauptrolle in seinem Leben.",
-        "Der Regisseur Ang Li geht nach Berlin und stellt seinen neuen Film persönlich vor.",
-        "Deutsche Komödien können nicht den Geschmack aller Zuschauer treffen.",
-        "Dieser Film wird im nächsten Jahr über die Leinwand laufen.",
-        "Das ist ein Film in chinesischer Originalfassung mit deutschen Untertiteln.",
-        "Die Zuschauer strömen in die Kinos."
+        {
+          "text": "Der Computer ist nicht mehr zu bezahlen.",
+          "start": 141.36,
+          "end": 147.16
+        },
+        {
+          "text": "Das Medikament ist nur gegen Rezept erhältlich.",
+          "start": 147.16,
+          "end": 153.97
+        },
+        {
+          "text": "Darf ich mal fragen, gibt es Rabatt für Studenten?",
+          "start": 153.97,
+          "end": 160.96
+        },
+        {
+          "text": "Gekaufte Tickets behalten ihre Gültigkeit.",
+          "start": 160.96,
+          "end": 166.92
+        },
+        {
+          "text": "Der Vorverkauf läuft.",
+          "start": 166.92,
+          "end": 172.2
+        },
+        {
+          "text": "Der Film ist für Jugendliche nicht freigegeben.",
+          "start": 172.2,
+          "end": 178.36
+        },
+        {
+          "text": "Die Kinofilme, die von der FSK ab 12 Jahren freigegeben werden, sollen die Kinder ab 6 Jahren in Begleitung eines Elternteils sehen.",
+          "start": 178.36,
+          "end": 192.22
+        },
+        {
+          "text": "Seine Frau spielt die Hauptrolle in seinem Leben.",
+          "start": 192.22,
+          "end": 198.32
+        },
+        {
+          "text": "Der Regisseur Ang Li geht nach Berlin und stellt seinen neuen Film persönlich vor.",
+          "start": 198.32,
+          "end": 207.54
+        },
+        {
+          "text": "Deutsche Komödien können nicht den Geschmack aller Zuschauer treffen.",
+          "start": 207.54,
+          "end": 214.87
+        },
+        {
+          "text": "Dieser Film wird im nächsten Jahr über die Leinwand laufen.",
+          "start": 214.87,
+          "end": 221.67
+        },
+        {
+          "text": "Das ist ein Film in chinesischer Originalfassung mit deutschen Untertiteln.",
+          "start": 221.67,
+          "end": 229.5
+        },
+        {
+          "text": "Die Zuschauer strömen in die Kinos.",
+          "start": 229.5,
+          "end": 235.64
+        }
       ]
     }
   ]

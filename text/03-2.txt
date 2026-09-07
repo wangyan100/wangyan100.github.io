@@ -1,54 +1,54 @@
-Schlafzimmer
-Bett
-Doppelbett
-Einzelbett
-Massivholzbett
-Metallbett
-Polterbett
-Kommode
-Nachttisch
-Nachtschrank
-Bettdecke
-Betttuch
-Bettlaken
-Heizdecke
-Kopfkissen
-Kopfkissenbezug
-Matratze
-Zudeck
-Zudecke
-Frisierspiegel
-Schminkspiegel
-Kamm
-Parfum
-Schmuckkästchen
-Standspiegel
-Wandspiegel
-Wattestäbchen
-Mottenkugel
-Kleiderbügel
-Kleiderständer
-Kleiderstange
-Vakuumbeutel
-Alptraum
-Mittagsschlaf
-Schlaflosigkeit
-Schlafstörung
-Traum
-Sprechen Sie bitte die folgenden Sätze.
-Du sollst dich ins Bett legen und dich ausruhen.
-Das neue Doppelbett ist ungeeignet und das Ehepaar wollte es zurückgeben.
-Er erwacht auf einem Einzelbett in einem leeren Raum.
-Meine Freunde haben mir eine Kommode geschenkt.
-Auf dem Nachttisch liegt eine Bettlampe.
-Im Winter brauche ich eine dicke Bettdecke.
-Feilchenblätter waren ihre Matratze und ein Rosenblatt ihr Deckblatt.
-Däumelinchen
-Mein Vater deckt meine junge Schwester sorgsam mit einer Zudecke zu.
-Sie kämmt ihre langen schwarzen Haare mit diesem Kamm.
-Diese Frau trägt so viel Parfüm auf, dass es stark und herb riecht.
-Der Mann hilft seiner Frau, den Mantel auf den Kleiderbügel zu hängen.
-Auf dem Kleiderständer im Flur trappierte der Designer verschiedene Kopfdeckungen.
-Wenn uns Alpträume jede Nacht quälen, kann es zu Schlafstörungen kommen.
-Er leidet schwer unter Schlaflosigkeit.
-Der Traum ist ausgeträumt.
+[00:00:01.940 --> 00:00:03.880] Schlafzimmer
+[00:00:05.190 --> 00:00:06.090] Bett
+[00:00:07.340 --> 00:00:09.040] Doppelbett
+[00:00:10.510 --> 00:00:13.270] Einzelbett
+[00:00:15.490 --> 00:00:16.890] Massivholzbett
+[00:00:16.890 --> 00:00:18.810] Metallbett
+[00:00:20.090 --> 00:00:21.890] Polterbett
+[00:00:23.170 --> 00:00:24.690] Kommode
+[00:00:25.970 --> 00:00:27.670] Nachttisch
+[00:00:28.950 --> 00:00:30.750] Nachtschrank
+[00:00:32.000 --> 00:00:33.720] Bettdecke
+[00:00:35.060 --> 00:00:36.580] Betttuch
+[00:00:37.890 --> 00:00:39.450] Bettlaken
+[00:00:40.730 --> 00:00:42.610] Heizdecke
+[00:00:43.990 --> 00:00:45.590] Kopfkissen
+[00:00:46.930 --> 00:00:49.190] Kopfkissenbezug
+[00:00:50.440 --> 00:00:52.200] Matratze
+[00:00:53.610 --> 00:00:55.310] Zudeck
+[00:00:55.310 --> 00:00:56.730] Zudecke
+[00:00:58.260 --> 00:01:00.200] Frisierspiegel
+[00:01:00.200 --> 00:01:02.140] Schminkspiegel
+[00:01:03.520 --> 00:01:04.520] Kamm
+[00:01:05.930 --> 00:01:07.290] Parfum
+[00:01:10.720 --> 00:01:12.120] Schmuckkästchen
+[00:01:13.560 --> 00:01:15.440] Standspiegel
+[00:01:16.690 --> 00:01:18.690] Wandspiegel
+[00:01:21.490 --> 00:01:22.890] Wattestäbchen
+[00:01:22.890 --> 00:01:25.110] Mottenkugel
+[00:01:26.520 --> 00:01:28.380] Kleiderbügel
+[00:01:29.660 --> 00:01:31.160] Kleiderständer
+[00:01:33.840 --> 00:01:34.880] Kleiderstange
+[00:01:37.510 --> 00:01:38.550] Vakuumbeutel
+[00:01:43.400 --> 00:01:44.440] Alptraum
+[00:01:45.820 --> 00:01:47.900] Mittagsschlaf
+[00:01:49.270 --> 00:01:51.310] Schlaflosigkeit
+[00:01:52.620 --> 00:01:54.600] Schlafstörung
+[00:01:55.980 --> 00:01:57.480] Traum
+[00:02:02.020 --> 00:02:04.720] Sprechen Sie bitte die folgenden Sätze
+[00:02:07.190 --> 00:02:11.090] Du sollst dich ins Bett legen und dich ausruhen.
+[00:02:13.880 --> 00:02:19.460] Das neue Doppelbett ist ungeeignet und das Ehepaar wollte es zurückgeben.
+[00:02:22.320 --> 00:02:26.300] Er erwacht auf einem Einzelbett in einem leeren Raum.
+[00:02:29.500 --> 00:02:32.780] Meine Freunde haben mir eine Kommode geschenkt.
+[00:02:35.560 --> 00:02:38.300] Auf dem Nachtisch liegt eine Bettlampe.
+[00:02:41.310 --> 00:02:44.230] Im Winter brauche ich eine dicke Bettdecke.
+[00:02:47.520 --> 00:02:52.560] Feichenblätter waren ihre Matratze und ein Rosenblatt ihr Deckblatt.
+[00:02:52.980 --> 00:02:53.900] Däumelinchen
+[00:02:56.670 --> 00:03:01.790] Mein Vater deckt meine junge Schwester sorgsam mit einer Zudecke zu.
+[00:03:04.670 --> 00:03:08.550] Sie kämmt ihre langen schwarzen Haare mit diesem Kamm.
+[00:03:11.720 --> 00:03:17.220] Diese Frau trägt so viel Parfüm auf, dass es stark und herb riecht.
+[00:03:19.810 --> 00:03:24.890] Der Mann hilft seiner Frau, den Mantel auf den Kleiderbügel zu hängen.
+[00:03:27.690 --> 00:03:33.410] Auf dem Kleiderständer im Flur trappierte der Designer verschiedene Kopfdeckungen.
+[00:03:36.460 --> 00:03:41.780] Wenn uns Alpträume jede Nacht quälen, kann es zu Schlafstörungen kommen.
+[00:03:44.570 --> 00:03:47.710] Er leidet schwer unter Schlaflosigkeit.
+[00:03:50.810 --> 00:03:52.910] Der Traum ist ausgeträumt.

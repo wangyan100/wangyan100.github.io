@@ -1,18 +1,30 @@
-Wetter, Blitz, blitzen, Donner, donnern, Regenbogen, sich bewölken
-Wolke, Wetterbericht, Wettervorhersage, Zirrus, Feuchtigkeit, Gewitter
-Nebel, Niederschlag, Nieseln, Regnen, Schauer, Sprühregen, Tröpfeln, Frieren, Frost
-Graupeln, Hagel, Reif, Schneefall, Schneesturm, Schneien
-bedeckt, bewölkt, halb bedeckt, Heiter
-wolkenlos, wolkig, Brise, Hurikan
-Monsun, Orkan, Sturm, Typhoon, Tornado, Wirbelsturm
-Sprechen Sie bitte die folgenden Sätze
-Der Blitz hat in den Baum eingeschlagen. Es blitzt und donnert. Der Donner grollt.
-Der Regenbogen ist allmählich verschwunden. Wolken stehen am Himmel.
-Der Wetterbericht hat gewittrige Schauer vorhergesagt. Im Wetterbericht stand, es bleibe jetzt eine ganze Weile sonnig und warm.
-Nach dem Gewitter war die Luft erquickend. Ein leichter Nebel lagert über dem See. Es hat gestern nur getröpfelt.
-Es regnet in Strömen. Sprühregen kommt vor allem in den Subtropen, in den Tropen und in den gemäßigten Breiten vor.
-Es friert Stein und Bein. Der Frost steckt noch im Boden.
-Einer der schwersten Schneestürme seit vielen Jahren hat die US-Ostküste getroffen.
-Es hat aufgehört zu schneien. Der Himmel bedeckte sich mit Wolken. Vom Meer her wehte eine Brise.
-Ein Hurikan ist ein tropischer Wirbelsturm. Monsune ändern alle halben Jahre ihre Richtung.
-Vor allem im Herbst und Winter brausen Orkane über West- und Mitteleuropa. Am Nordpol gibt es keinen Typhoon.
+[00:00:01.870 --> 00:00:21.290] Wetter, Blitz, blitzen, Donner, donnern, Regenbogen, sich bewölken
+[00:00:21.290 --> 00:00:39.400] Wolke, Wetterbericht, Wettervorhersage, Zirrus, Feuchtigkeit, Gewitter
+[00:00:41.300 --> 00:01:05.550] Nebel, Niederschlag, nieseln, Regnen, Schauer, Sprühregen, Tröpfeln, Frieren, Frost
+[00:01:05.550 --> 00:01:25.600] Graupeln, Hagel, Reif, Schneefall, Schneesturm, Schneien
+[00:01:25.600 --> 00:01:37.800] bedeckt, bewölkt, halb bedeckt, Heiter
+[00:01:39.800 --> 00:01:49.430] Wolkenlos, Wolkig, Brise, Hurikan
+[00:01:49.430 --> 00:02:06.370] Monsun, Orkan, Sturm, Typhoon, Tornado, Wirbelsturm
+[00:02:10.850 --> 00:02:13.590] Sprechen Sie bitte die folgenden Sätze.
+[00:02:16.630 --> 00:02:19.230] Der Blitz hat in den Baum eingeschlagen.
+[00:02:22.330 --> 00:02:24.670] Es blitzt und donnert.
+[00:02:27.120 --> 00:02:28.680] Der Donner rollt.
+[00:02:31.460 --> 00:02:34.860] Der Regenbogen ist allmählich verschwunden.
+[00:02:37.640 --> 00:02:39.480] Wolken stehen am Himmel.
+[00:02:42.280 --> 00:02:46.100] Der Wetterbericht hat gewittrige Schauer vorhergesagt.
+[00:02:49.100 --> 00:02:54.040] Im Wetterbericht stand, es bleibe jetzt eine ganze Weile sonnig und warm.
+[00:02:56.280 --> 00:02:59.590] Nach dem Gewitter war die Luft erquickend.
+[00:03:03.170 --> 00:03:05.970] Ein leichter Nebel lagert über dem See.
+[00:03:08.990 --> 00:03:11.050] Es hat gestern nur getröpfelt.
+[00:03:14.070 --> 00:03:16.190] Es regnet in Strömen.
+[00:03:19.390 --> 00:03:26.130] Sprühregen kommt vor allem in den Subtropen, in den Tropen und in den gemäßigten Breiten vor.
+[00:03:29.040 --> 00:03:31.210] Es friert Stein und Bein.
+[00:03:34.200 --> 00:03:36.420] Der Frost steckt noch im Boden.
+[00:03:38.750 --> 00:03:45.570] Einer der schwersten Schneestürme seit vielen Jahren hat die US-Ostküste getroffen.
+[00:03:48.690 --> 00:03:50.730] Es hat aufgehört zu schneien.
+[00:03:53.640 --> 00:03:56.400] Der Himmel bedeckte sich mit Wolken.
+[00:03:59.140 --> 00:04:01.420] Vom Meer her wehte eine Brise.
+[00:04:04.470 --> 00:04:07.890] Ein Hurikan ist ein tropischer Wirbelsturm.
+[00:04:10.680 --> 00:04:13.840] Monsune ändern alle halben Jahre ihre Richtung.
+[00:04:16.210 --> 00:04:22.570] Vor allem im Herbst und Winter brausen Orkane über West- und Mitteleuropa.
+[00:04:25.160 --> 00:04:27.740] Am Nordpol gibt es keinen Typhoon.

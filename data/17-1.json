@@ -4,47 +4,187 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Eigenschaften anmaßend",
-        "besserwisserisch eignützig",
-        "egozentrisch geizig",
-        "launisch selbstsüchtig",
-        "unempfindlich gescheit",
-        "humorvoll klug",
-        "lebhaft munter",
-        "positiv selbstbewusst",
-        "witzig heuchlerisch hinterlistig",
-        "listig raffiniert",
-        "schamlos unbeständig",
-        "unehrlich verschlagen",
-        "arrogant eingebildet",
-        "eigensinnig eigenwillig",
-        "hartnäckig hochmütig",
-        "starköpfig starsinnig",
-        "anständig ehrlich",
-        "gnädig gutmütig",
-        "gründlich sorgfältig",
-        "vorsichtig zuverlässig"
+        {
+          "text": "Eigenschaften anmaßend",
+          "start": 2.03,
+          "end": 8.37
+        },
+        {
+          "text": "besserwisserisch eignützig",
+          "start": 8.37,
+          "end": 14.4
+        },
+        {
+          "text": "egozentrisch geizig",
+          "start": 14.4,
+          "end": 20.4
+        },
+        {
+          "text": "launisch selbstsüchtig",
+          "start": 20.4,
+          "end": 26.33
+        },
+        {
+          "text": "unempfindlich gescheit",
+          "start": 26.33,
+          "end": 31.42
+        },
+        {
+          "text": "humorvoll klug",
+          "start": 32.76,
+          "end": 37.11
+        },
+        {
+          "text": "lebhaft munter",
+          "start": 38.36,
+          "end": 42.83
+        },
+        {
+          "text": "positiv selbstbewusst",
+          "start": 44.17,
+          "end": 49.12
+        },
+        {
+          "text": "witzig heuchlerisch hinterlistig",
+          "start": 50.37,
+          "end": 59.33
+        },
+        {
+          "text": "listig raffiniert",
+          "start": 59.33,
+          "end": 63.79
+        },
+        {
+          "text": "schamlos unbeständig",
+          "start": 65.17,
+          "end": 70.07
+        },
+        {
+          "text": "unehrlich verschlagen",
+          "start": 71.33,
+          "end": 75.66
+        },
+        {
+          "text": "arrogant eingebildet",
+          "start": 76.94,
+          "end": 81.98
+        },
+        {
+          "text": "eigensinnig eigenwillig",
+          "start": 83.23,
+          "end": 88.22
+        },
+        {
+          "text": "hartnäckig hochmütig",
+          "start": 89.56,
+          "end": 94.43
+        },
+        {
+          "text": "starköpfig starsinnig",
+          "start": 95.9,
+          "end": 100.68
+        },
+        {
+          "text": "anständig ehrlich",
+          "start": 101.99,
+          "end": 105.86
+        },
+        {
+          "text": "gnädig gutmütig",
+          "start": 110.32,
+          "end": 113.12
+        },
+        {
+          "text": "gründlich sorgfältig",
+          "start": 113.12,
+          "end": 117.99
+        },
+        {
+          "text": "vorsichtig zuverlässig",
+          "start": 119.36,
+          "end": 124.13
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Sein anmaßendes Verhalten bringt ihm keine Freunde.",
-        "Der Bürgermeister wird als egoistisch kritisiert.",
-        "In ganz Europa erleben immer mehr Wähler die traditionellen politischen Parteien als eignützig und machthungrig.",
-        "Meine Tante war ein böser Mensch und sie war sehr geizig.",
-        "Heute war meine Lehrerin wieder launisch.",
-        "Er war sehr professionell bei der Verwaltung der Firma und auch sehr humorvoll.",
-        "Meine jüngere Schwester hat ein lebhaftes Wesen.",
-        "Wenn jemand schlau, listig und zugleich ein bisschen hinterhältig ist, wird er oft Schlitzohr genannt.",
-        "So ein raffiniertes Aas.",
-        "Er nahm den roten Bogen, brachte die weißen Pfeile und schoss nach den arroganten Sonnen.",
-        "Er war ein störrischer, eigensinniger Junge.",
-        "Du fliegst gleich raus, wenn du dich nicht anständig benimmst.",
-        "Ihm kannst du vertrauen, er ist ein ehrlicher Mann.",
-        "Er führt jeden Auftrag gewissenhaft aus.",
-        "Man kann gar nicht vorsichtig genug sein."
+        {
+          "text": "Sein anmaßendes Verhalten bringt ihm keine Freunde.",
+          "start": 134.04,
+          "end": 137.78
+        },
+        {
+          "text": "Der Bürgermeister wird als egoistisch kritisiert.",
+          "start": 140.91,
+          "end": 144.25
+        },
+        {
+          "text": "In ganz Europa erleben immer mehr Wähler die traditionellen politischen Parteien als eignützig und machthungrig.",
+          "start": 147.3,
+          "end": 155.68
+        },
+        {
+          "text": "Meine Tante war ein böser Mensch und sie war sehr geizig.",
+          "start": 158.73,
+          "end": 162.69
+        },
+        {
+          "text": "Heute war meine Lehrerin wieder launisch.",
+          "start": 165.69,
+          "end": 168.21
+        },
+        {
+          "text": "Er war sehr professionell bei der Verwaltung der Firma und auch sehr humorvoll.",
+          "start": 171.18,
+          "end": 176.28
+        },
+        {
+          "text": "Meine jüngere Schwester hat ein lebhaftes Wesen.",
+          "start": 179.27,
+          "end": 182.41
+        },
+        {
+          "text": "Wenn jemand schlau, listig und zugleich ein bisschen hinterhältig ist, wird er oft Schlitzohr genannt.",
+          "start": 185.48,
+          "end": 192.76
+        },
+        {
+          "text": "So ein raffiniertes Aas!",
+          "start": 195.7,
+          "end": 198.06
+        },
+        {
+          "text": "Er nahm den roten Bogen, brachte die weißen Pfeile und schoss nach den arroganten Sonnen.",
+          "start": 200.76,
+          "end": 207.1
+        },
+        {
+          "text": "Er war ein störrischer, eigensinniger Junge.",
+          "start": 209.84,
+          "end": 212.82
+        },
+        {
+          "text": "Du fliegst gleich raus, wenn du dich nicht anständig benimmst.",
+          "start": 215.6,
+          "end": 219.79
+        },
+        {
+          "text": "Ihm kannst du vertrauen, er ist ein ehrlicher Mann.",
+          "start": 222.68,
+          "end": 225.56
+        },
+        {
+          "text": "Er führt jeden Auftrag gewissenhaft aus.",
+          "start": 228.65,
+          "end": 231.49
+        },
+        {
+          "text": "Man kann gar nicht vorsichtig genug sein.",
+          "start": 234.58,
+          "end": 236.96
+        }
       ]
     }
   ]

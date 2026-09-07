@@ -4,55 +4,267 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "aussehen charmant",
-        "gut aussehend hübsch",
-        "niedlich reizend schön",
-        "Schönheit sexy dick",
-        "dicklich fett",
-        "fleischig mollig",
-        "rundlich stemmig",
-        "vollschlank groß",
-        "klein mittelgroß",
-        "dünn knochig",
-        "mager schlank",
-        "sportlich stark",
-        "Dauerwelle",
-        "glatt Haarknoten",
-        "kahl kurzhaarig",
-        "kraus",
-        "langhaarig Pferdeschwanz",
-        "Zopf",
-        "Akne",
-        "empfindlich",
-        "falte",
-        "gestraft",
-        "Sonnensprosse",
-        "tätowieren",
-        "abstoßend",
-        "missgestaltet",
-        "unansehnlich",
-        "unschön"
+        {
+          "text": "aussehen charmant",
+          "start": 1.9,
+          "end": 7.72
+        },
+        {
+          "text": "gut aussehend hübsch",
+          "start": 7.72,
+          "end": 13.66
+        },
+        {
+          "text": "niedlich reizend schön",
+          "start": 13.66,
+          "end": 20.46
+        },
+        {
+          "text": "Schönheit sexy dick",
+          "start": 21.86,
+          "end": 28.72
+        },
+        {
+          "text": "dicklich fett",
+          "start": 30.26,
+          "end": 34.4
+        },
+        {
+          "text": "fleischig mollig",
+          "start": 35.74,
+          "end": 39.92
+        },
+        {
+          "text": "rundlich stemmig",
+          "start": 41.33,
+          "end": 45.61
+        },
+        {
+          "text": "voll schlank",
+          "start": 47.18,
+          "end": 48.56
+        },
+        {
+          "text": "groß",
+          "start": 50.55,
+          "end": 50.91
+        },
+        {
+          "text": "klein",
+          "start": 53.29,
+          "end": 53.77
+        },
+        {
+          "text": "mittelgroß",
+          "start": 55.94,
+          "end": 57.3
+        },
+        {
+          "text": "dünn",
+          "start": 58.91,
+          "end": 59.93
+        },
+        {
+          "text": "knochig",
+          "start": 61.58,
+          "end": 62.52
+        },
+        {
+          "text": "mager",
+          "start": 64.49,
+          "end": 65.35
+        },
+        {
+          "text": "schlank",
+          "start": 47.62,
+          "end": 48.56
+        },
+        {
+          "text": "sportlich",
+          "start": 70.1,
+          "end": 71.16
+        },
+        {
+          "text": "stark",
+          "start": 73.14,
+          "end": 73.66
+        },
+        {
+          "text": "Dauerwelle",
+          "start": 75.77,
+          "end": 78.05
+        },
+        {
+          "text": "glatt",
+          "start": 78.05,
+          "end": 79.55
+        },
+        {
+          "text": "Haarknoten",
+          "start": 81.34,
+          "end": 82.84
+        },
+        {
+          "text": "kahl",
+          "start": 84.43,
+          "end": 85.19
+        },
+        {
+          "text": "kurzhaarig",
+          "start": 87.04,
+          "end": 88.26
+        },
+        {
+          "text": "kraus",
+          "start": 90.07,
+          "end": 91.77
+        },
+        {
+          "text": "langhaarig",
+          "start": 92.33,
+          "end": 94.37
+        },
+        {
+          "text": "Pferdeschwanz",
+          "start": 95.9,
+          "end": 97.34
+        },
+        {
+          "text": "Zopf",
+          "start": 99.11,
+          "end": 99.61
+        },
+        {
+          "text": "Akne",
+          "start": 101.64,
+          "end": 103.32
+        },
+        {
+          "text": "empfindlich",
+          "start": 103.86,
+          "end": 105.52
+        },
+        {
+          "text": "Falte",
+          "start": 107.46,
+          "end": 108.42
+        },
+        {
+          "text": "gestrafft",
+          "start": 110.28,
+          "end": 112.92
+        },
+        {
+          "text": "Sonnensprosse",
+          "start": 112.92,
+          "end": 114.44
+        },
+        {
+          "text": "tätowieren",
+          "start": 116.26,
+          "end": 117.38
+        },
+        {
+          "text": "abstoßend",
+          "start": 119.38,
+          "end": 121.58
+        },
+        {
+          "text": "missgestaltet",
+          "start": 123.06,
+          "end": 124.46
+        },
+        {
+          "text": "unansehnlich",
+          "start": 126.58,
+          "end": 127.98
+        },
+        {
+          "text": "unschön",
+          "start": 129.3,
+          "end": 130.16
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Ich finde diesen Mann charmant und intelligent.",
-        "Gut aussehende Männer sind leider oft schlechte Liebhaber.",
-        "Das ist nicht hübsch von ihnen.",
-        "Er geht mit seiner Frau durch dick und dünn.",
-        "Ich habe heute fleischige Kirschen gekauft.",
-        "Im Barock galten mollige Frauen als besonders schön.",
-        "Das ist ein kleiner stemmiger Kerl.",
-        "Durch die lange Krankheit ist sie sehr knochig geworden.",
-        "Mein Freund hat eine sportliche Figur.",
-        "Mein Vater wird allmählich kahl.",
-        "Meine Mutter hilft mir dabei, meine Haare in den Zopf zu flechten.",
-        "Das milde Gesichtswasser ist geeignet für die empfindliche Haut.",
-        "Tausend Falten durchziehen das Gesicht dieser alten Frau.",
-        "Mein Bruder hat einen Tiger in seinem Arm tätowiert.",
-        "Das ist so hässlich wie die Sünde."
+        {
+          "text": "Ich finde diesen Mann charmant und intelligent.",
+          "start": 140.52,
+          "end": 143.62
+        },
+        {
+          "text": "Gut aussehende Männer sind leider oft schlechte Liebhaber.",
+          "start": 146.86,
+          "end": 150.7
+        },
+        {
+          "text": "Das ist nicht hübsch von Ihnen.",
+          "start": 153.42,
+          "end": 155.32
+        },
+        {
+          "text": "Er geht mit seiner Frau durch dick und dünn.",
+          "start": 158.3,
+          "end": 161.64
+        },
+        {
+          "text": "Ich habe heute fleischige Kirschen gekauft.",
+          "start": 164.02,
+          "end": 166.94
+        },
+        {
+          "text": "Im Barock galten mollige Frauen als besonders schön.",
+          "start": 169.96,
+          "end": 173.68
+        },
+        {
+          "text": "Das ist ein kleiner, stämmiger Kerl.",
+          "start": 176.49,
+          "end": 179.7
+        },
+        {
+          "text": "Durch die lange Krankheit ist sie sehr knochig geworden.",
+          "start": 182.16,
+          "end": 185.68
+        },
+        {
+          "text": "Mein Freund hat eine sportliche Figur.",
+          "start": 188.82,
+          "end": 191.52
+        },
+        {
+          "text": "Mein Vater wird allmählich kahl.",
+          "start": 194.46,
+          "end": 197.22
+        },
+        {
+          "text": "Meine Mutter hilft mir dabei, meine Haare in den Zopf zu flechten.",
+          "start": 200.05,
+          "end": 204.11
+        },
+        {
+          "text": "Das milde Gesichtswasser ist geeignet für die empfindliche Haut.",
+          "start": 207.35,
+          "end": 211.51
+        },
+        {
+          "text": "Tausend Falten durchziehen das Gesicht dieser alten Frau.",
+          "start": 214.74,
+          "end": 218.54
+        },
+        {
+          "text": "Mein Bruder hat einen Tiger in seinem Arm tätowiert.",
+          "start": 221.61,
+          "end": 225.04
+        },
+        {
+          "text": "Das ist so hässlich wie die Sünde.",
+          "start": 228.14,
+          "end": 230.18
+        }
       ]
     }
   ]

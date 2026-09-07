@@ -4,41 +4,162 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "andere Gebäudeteile auf ab Druckknopf Erdgeschoss",
-        "Notruf Untergeschoss",
-        "Überwachungskamera Blumentopf",
-        "Gartenzwerg Gießkanne",
-        "Hundehütte Schlauch",
-        "Sprinkler Zaun",
-        "Antenne Dachgarten",
-        "Dachrinne Ziegel",
-        "Dachzimmer Leiter",
-        "Schornstein Solardach",
-        "Terrasse Balkonblende",
-        "Sonnenschirm Blumenkasten",
-        "Fliegenfenster Lichterkette",
-        "Pflanzenwand Wäscheleine",
-        "Auto Carport",
-        "Lastkraftwagen Rasenmäher",
-        "Geländer Treppe"
+        {
+          "text": "andere Gebäudeteile auf ab Druckknopf Erdgeschoss",
+          "start": 1.74,
+          "end": 16.72
+        },
+        {
+          "text": "Notruf Untergeschoss",
+          "start": 16.72,
+          "end": 21.9
+        },
+        {
+          "text": "Überwachungskamera Blumentopf",
+          "start": 23.18,
+          "end": 28.56
+        },
+        {
+          "text": "Gartenzwerg Gießkanne",
+          "start": 29.91,
+          "end": 34.82
+        },
+        {
+          "text": "Hundehütte Schlauch",
+          "start": 36.16,
+          "end": 40.65
+        },
+        {
+          "text": "Sprinkler Zaun",
+          "start": 42.28,
+          "end": 46.61
+        },
+        {
+          "text": "Antenne Dachgarten",
+          "start": 47.96,
+          "end": 52.6
+        },
+        {
+          "text": "Dachrinne Ziegel",
+          "start": 53.88,
+          "end": 58.5
+        },
+        {
+          "text": "Dachzimmer Leiter",
+          "start": 59.82,
+          "end": 64.24
+        },
+        {
+          "text": "Schornstein Solardach",
+          "start": 65.68,
+          "end": 70.62
+        },
+        {
+          "text": "Terrasse Balkonblende",
+          "start": 72.0,
+          "end": 76.89
+        },
+        {
+          "text": "Sonnenschirm Blumenkasten",
+          "start": 78.24,
+          "end": 83.22
+        },
+        {
+          "text": "Fliegenfenster Lichterkette",
+          "start": 84.6,
+          "end": 89.92
+        },
+        {
+          "text": "Pflanzenwand Wäscheleine",
+          "start": 91.39,
+          "end": 96.37
+        },
+        {
+          "text": "Auto Carport",
+          "start": 97.84,
+          "end": 103.41
+        },
+        {
+          "text": "Lastkraftwagen Rasenmäher",
+          "start": 106.87,
+          "end": 108.49
+        },
+        {
+          "text": "Geländer Treppe",
+          "start": 110.4,
+          "end": 114.53
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Möchtest du den Aufzug nehmen oder die Treppe?",
-        "Ein Gartenzwerg wird verwendet, um Gärten auszustatten und Wohnraum zu dekorieren.",
-        "Und völlig verwirrt hatte der kleine Prinz eine Gießkanne mit frischem Wasser geholt und die Blumen begossen.",
-        "Der kleine Prinz Mit einem Schlauch bewässert man große Grünflächen in Parks.",
-        "Laut Polizei brach ein Mann mit seinem Auto durch den Zaun, als das Paar in der Küche kochte.",
-        "Die Antenne wurde auf dem Dach angebracht.",
-        "Die Bauarbeiter decken ein Dach mit Ziegeln.",
-        "Er hat seine Frau angeherrscht, das Dachzimmer sofort zu verlassen.",
-        "Er ist endlich die Leiter des Erfolgs empor gestiegen.",
-        "Der Schornstein raucht wieder.",
-        "Wir können eine Kaffeepause auf der Terrasse machen.",
-        "Mein Freund hat ein gebrauchtes Auto gekauft."
+        {
+          "text": "Möchtest du den Aufzug nehmen oder die Treppe?",
+          "start": 125.18,
+          "end": 128.48
+        },
+        {
+          "text": "Ein Gartenzwerg wird verwendet, um Gärten auszustatten und Wohnraum zu dekorieren.",
+          "start": 131.61,
+          "end": 137.49
+        },
+        {
+          "text": "Und völlig verwirrt hatte der kleine Prinz eine Gießkanne mit frischem Wasser geholt und die Blumen begossen.",
+          "start": 139.8,
+          "end": 148.14
+        },
+        {
+          "text": "Der kleine Prinz Mit einem Schlauch bewässert man große Grünflächen in Parks.",
+          "start": 148.88,
+          "end": 157.58
+        },
+        {
+          "text": "Laut Polizei brach ein Mann mit seinem Auto durch den Zaun, als das Paar in der Küche kochte.",
+          "start": 160.76,
+          "end": 167.74
+        },
+        {
+          "text": "Die Antenne wurde auf dem Dach angebracht.",
+          "start": 170.96,
+          "end": 173.76
+        },
+        {
+          "text": "Die Bauarbeiter decken ein Dach mit Ziegeln.",
+          "start": 176.13,
+          "end": 180.23
+        },
+        {
+          "text": "Er hat seine Frau angeherrscht, das Dachzimmer sofort zu verlassen.",
+          "start": 183.36,
+          "end": 188.32
+        },
+        {
+          "text": "Er ist endlich die Leiter des Erfolgs emporgestiegen.",
+          "start": 191.45,
+          "end": 195.17
+        },
+        {
+          "text": "Der Schornstein raucht wieder.",
+          "start": 198.3,
+          "end": 200.22
+        },
+        {
+          "text": "Wir können eine Kaffeepause auf der Terrasse machen.",
+          "start": 203.32,
+          "end": 206.6
+        },
+        {
+          "text": "Mein Freund hat ein gebrauchtes Auto gekauft.",
+          "start": 209.92,
+          "end": 213.02
+        },
+        {
+          "text": "Vielen Dank für's Zuschauen.",
+          "start": 213.02,
+          "end": 213.1
+        }
       ]
     }
   ]

@@ -1,61 +1,60 @@
-andere Bestandteile des menschlichen Körpers
-Chromosom
-Gen
-sich vererben
-Stammzelle
-Zellkern
-Zellmembran
-Zytoplasma
-Band
-Beuger
-Brustmuskel
-Lendenmuskel
-Muskelgewebe
-Sehne
-Strecker
-Bandscheibe
-Gelenk
-Halswirbel
-Jochbein
-Knorpel
-Rippe
-Schlüsselbein
-Schädel
-Steißbein
-Blutader
-Vene
-Blutgefäß
-Ader
-Blutplättchen
-Blutserum
-Globin
-Haargefäß
-Plasma
-Schlagader
-Gehirn
-Hirn
-Hirnanhang
-Kleinhirn
-Nervenendigungen
-Nervenknoten
-Nervenzentrum
-Rückenmark
-Sprechen Sie bitte die folgenden Sätze
-Chromosomen enthalten Erbinformationen.
-Genau wie der Mensch besitzen auch Tiere oder Pflanzen bestimmte Gene.
-Diese Krankheit hat sich vom Vater auf den Sohn vererbt.
-Die Mediziner isolierten aus dem Knochenmark die Stammzellen.
-Meistens sind die Zellkerne kugelförmig oder oval.
-Denn in der Nahrung stecken Fett, Eiweiß und Zucker
-und die sind wichtige Energiequellen für Muskeln, Organe und vor allem unser Gehirn.
-Zusammen mit den Knochen, Muskeln und Gelenken
-bilden Sehnen und Bänder den Stütz- und Bewegungsapparat des Menschen.
-Während die Sehnen Knochen mit Muskeln verbinden
-benötigen wir Bänder um unsere Gelenke zu sichern.
-Das Jochbein im Gesicht ist eine Schwachstelle
-und bricht sehr häufig nach Unfällen.
-Mithilfe eines MRT's bekommt er ein Bild von seinem Schädel.
-Die Blutplättchen spielen eine wichtige Rolle bei der Blutstillung.
-An den großen Arterien ist der Herzschlag gut tastbar,
-deshalb werden sie auch als Schlagadern bezeichnet.
-Hinten im Schädel, unterhalb des Großhirns und hinter dem Hirnstamm liegt das Kleinhirn.
+[00:00:01.780 --> 00:00:05.680] andere Bestandteile des menschlichen Körpers
+[00:00:06.920 --> 00:00:09.360] Chromosom
+[00:00:09.360 --> 00:00:10.960] Gen
+[00:00:10.960 --> 00:00:14.200] sich vererben
+[00:00:15.580 --> 00:00:17.300] Stammzelle
+[00:00:18.580 --> 00:00:20.200] Zellkern
+[00:00:21.510 --> 00:00:23.350] Zellmembran
+[00:00:25.270 --> 00:00:26.970] Zytoplasma
+[00:00:26.970 --> 00:00:28.650] Band
+[00:00:29.270 --> 00:00:31.210] Beuger
+[00:00:34.320 --> 00:00:35.020] Brustmuskel
+[00:00:36.520 --> 00:00:37.920] Lendenmuskel
+[00:00:40.960 --> 00:00:42.360] Muskelgewebe
+[00:00:42.360 --> 00:00:43.840] Sehne
+[00:00:45.280 --> 00:00:47.460] Strecker
+[00:00:48.880 --> 00:00:50.280] Bandscheibe
+[00:00:50.280 --> 00:00:52.320] Gelenk
+[00:00:53.630 --> 00:00:55.910] Halswirbel
+[00:00:56.670 --> 00:00:58.250] Jochbein
+[00:00:59.530 --> 00:01:01.950] Knorpel
+[00:01:01.950 --> 00:01:03.790] Rippe
+[00:01:05.140 --> 00:01:06.660] Schlüsselbein
+[00:01:08.620 --> 00:01:09.320] Schädel
+[00:01:12.080 --> 00:01:13.520] Steißbein
+[00:01:13.520 --> 00:01:15.060] Blutader
+[00:01:16.370 --> 00:01:19.170] Vene
+[00:01:20.790 --> 00:01:22.190] Blutgefäß
+[00:01:22.190 --> 00:01:24.690] Ader
+[00:01:24.690 --> 00:01:27.390] Blutplättchen
+[00:01:28.950 --> 00:01:30.350] Blutserum
+[00:01:30.350 --> 00:01:32.370] Globin
+[00:01:33.680 --> 00:01:35.720] Haargefäß
+[00:01:36.970 --> 00:01:38.210] Plasma
+[00:01:40.740 --> 00:01:42.040] Schlagader
+[00:01:42.740 --> 00:01:44.440] Gehirn
+[00:01:45.680 --> 00:01:46.900] Hirn
+[00:01:48.930 --> 00:01:49.750] Hirnanhang
+[00:01:51.960 --> 00:01:52.660] Hirnstamm
+[00:01:55.700 --> 00:01:57.100] Kleinhirn
+[00:01:57.100 --> 00:01:59.860] Nervenendigungen
+[00:02:02.380 --> 00:02:03.780] Nervenknoten
+[00:02:03.780 --> 00:02:05.640] Nervenzentrum
+[00:02:06.890 --> 00:02:08.110] Rückenmark
+[00:02:12.840 --> 00:02:15.880] Sprechen Sie bitte die folgenden Sätze
+[00:02:18.180 --> 00:02:22.520] Chromosomen enthalten Erbinformationen.
+[00:02:24.730 --> 00:02:29.190] Genau wie der Mensch besitzen auch Tiere oder Pflanzen bestimmte Gene.
+[00:02:32.280 --> 00:02:35.680] Diese Krankheit hat sich vom Vater auf den Sohn vererbt.
+[00:02:38.700 --> 00:02:42.680] Die Mediziner isolierten aus dem Knochenmark die Stammzellen.
+[00:02:45.750 --> 00:02:49.330] Meistens sind die Zellkerne kugelförmig oder oval.
+[00:02:52.360 --> 00:02:55.620] Denn in der Nahrung stecken Fett, Eiweiß und Zucker.
+[00:02:56.080 --> 00:03:01.560] Und die sind wichtige Energiequellen für Muskeln, Organe und vor allem unser Gehirn.
+[00:03:03.830 --> 00:03:07.850] Zusammen mit den Knochen, Muskeln und Gelenken
+[00:03:07.850 --> 00:03:12.610] bilden Sehnen und Bänder den Stütz- und Bewegungsapparat des Menschen.
+[00:03:15.700 --> 00:03:19.260] Während die Sehnen Knochen mit Muskeln verbinden,
+[00:03:19.600 --> 00:03:22.880] benötigen wir Bänder um unsere Gelenke zu sichern.
+[00:03:25.860 --> 00:03:31.220] Das Jochbein im Gesicht ist eine Schwachstelle und bricht sehr häufig nach Unfällen.
+[00:03:34.660 --> 00:03:39.300] Mit Hilfe eines MRTs bekommt er ein Bild von seinem Schädel.
+[00:03:41.500 --> 00:03:46.380] Die Blutplättchen spielen eine wichtige Rolle bei der Blutstillung.
+[00:03:49.320 --> 00:03:56.860] An den großen Arterien ist der Herzschlag gut tastbar, deshalb werden sie auch als Schlagadern bezeichnet.
+[00:03:59.710 --> 00:04:06.130] Hinten im Schädel, unterhalb des Großhirns und hinter dem Hirnstamm liegt das Kleinhirn.

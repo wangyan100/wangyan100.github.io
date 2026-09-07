@@ -4,48 +4,177 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Weihnachten Ast",
-        "erstrahlen hängen",
-        "Kranz Kugel",
-        "Lametta schmücken",
-        "Tanne bescheren",
-        "Geschenk Gabe",
-        "Gewand Nikolaus",
-        "Rauschebad Rentier",
-        "Route schlitten",
-        "Wunschzettel",
-        "anzünden",
-        "Dekoration Holz",
-        "Kaminfeuer Kerze Schornstein",
-        "warm Advent Christkind",
-        "Engel Geburt",
-        "Heiligabend Krippe",
-        "Krippenspiel Weihnachtslied",
-        "Adventskalender Glühwein",
-        "Lebkuchen Punsch",
-        "Spekulatius",
-        "Stand",
-        "Stolle"
+        {
+          "text": "Weihnachten Ast",
+          "start": 1.68,
+          "end": 5.78
+        },
+        {
+          "text": "erstrahlen hängen",
+          "start": 7.16,
+          "end": 11.42
+        },
+        {
+          "text": "Kranz Kugel",
+          "start": 12.73,
+          "end": 18.24
+        },
+        {
+          "text": "Lametta schmücken",
+          "start": 18.24,
+          "end": 22.39
+        },
+        {
+          "text": "Tanne bescheren",
+          "start": 23.7,
+          "end": 27.96
+        },
+        {
+          "text": "Geschenk Gabe",
+          "start": 30.36,
+          "end": 33.16
+        },
+        {
+          "text": "Gewand Nikolaus",
+          "start": 36.06,
+          "end": 38.86
+        },
+        {
+          "text": "Rauschebad Rentier",
+          "start": 39.82,
+          "end": 45.95
+        },
+        {
+          "text": "Route schlitten",
+          "start": 45.95,
+          "end": 50.7
+        },
+        {
+          "text": "Wunschzettel anzünden",
+          "start": 53.68,
+          "end": 56.48
+        },
+        {
+          "text": "Dekoration Holz",
+          "start": 57.06,
+          "end": 61.72
+        },
+        {
+          "text": "Kaminfeuer Kerze Schornstein",
+          "start": 63.48,
+          "end": 70.51
+        },
+        {
+          "text": "Warm Advent Christkind",
+          "start": 71.51,
+          "end": 79.29
+        },
+        {
+          "text": "Engel Geburt",
+          "start": 81.35,
+          "end": 84.15
+        },
+        {
+          "text": "Heiligabend Krippe Krippenspiel",
+          "start": 85.43,
+          "end": 92.97
+        },
+        {
+          "text": "Weihnachtslied Adventskalender",
+          "start": 97.45,
+          "end": 100.25
+        },
+        {
+          "text": "Glühwein Lebkuchen",
+          "start": 102.21,
+          "end": 105.01
+        },
+        {
+          "text": "Punsch Spekulatius",
+          "start": 106.42,
+          "end": 111.1
+        },
+        {
+          "text": "Stand Stolle",
+          "start": 112.5,
+          "end": 116.72
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Weihnachten ist ein wichtiges christliches Fest und Christen feiern die Geburt Jesu Christi.",
-        "In Dortmund erstrahlt auf dem Weihnachtsmarkt der weltgrößte Weihnachtsbaum.",
-        "Während Weihnachten schmücken Lichterketten, Lametta, Adventskranz und Christbaum die Häuser.",
-        "Der Weihnachtsmann fährt Jahr für Jahr mit seinem Schlitten durch die Dörfer und Städte.",
-        "Aufgrund seiner roten Nase wird Rudolf jedoch von den anderen Rentieren verspottet.",
-        "Die Wunschzettel sind gelesen, die Geschenke verpackt.",
-        "Der Weihnachtsmann hat sich auf den Weg gemacht.",
-        "Im Kamin brennt ein herrliches Feuer.",
-        "Der 24.",
-        "Dezember wird in Deutschland Heiligabend genannt und in vielen Familien findet an diesem Abend die Bescherung statt.",
-        "Im Krippenspiel wird die Weihnachtsgeschichte dargestellt, die von der Geburt Jesu handelt.",
-        "Im bekannten Weihnachtslied Morgen kommt der Weihnachtsmann lauten die ersten beiden Zeilen Morgen kommt der Weihnachtsmann kommt mit seinen Gaben.",
-        "Auf dem Weihnachtsmarkt gibt es Glühwein, Lebkuchen und andere Süßigkeiten ohne Ende.",
-        "Je nach Region werden unterschiedliche Weine für Glühwein verwendet."
+        {
+          "text": "Weihnachten ist ein wichtiges christliches Fest und Christen feiern die Geburt Jesu Christi.",
+          "start": 126.33,
+          "end": 132.69
+        },
+        {
+          "text": "In Dortmund erstrahlt auf dem Weihnachtsmarkt der weltgrößte Weihnachtsbaum.",
+          "start": 135.54,
+          "end": 140.96
+        },
+        {
+          "text": "Während Weihnachten schmücken Lichterketten, Lametta, Adventskranz und Christbaum die Häuser.",
+          "start": 143.92,
+          "end": 149.88
+        },
+        {
+          "text": "Der Weihnachtsmann fährt Jahr für Jahr mit seinem Schlitten durch die Dörfer und Städte.",
+          "start": 152.08,
+          "end": 158.4
+        },
+        {
+          "text": "Aufgrund seiner roten Nase wird Rudolf jedoch von den anderen Rentieren verspottet.",
+          "start": 160.75,
+          "end": 166.15
+        },
+        {
+          "text": "Die Wunschzettel sind gelesen, die Geschenke verpackt.",
+          "start": 169.13,
+          "end": 172.45
+        },
+        {
+          "text": "Der Weihnachtsmann hat sich auf den Weg gemacht.",
+          "start": 172.79,
+          "end": 175.29
+        },
+        {
+          "text": "Im Kamin brennt ein herrliches Feuer.",
+          "start": 178.35,
+          "end": 180.61
+        },
+        {
+          "text": "Der 24.",
+          "start": 183.66,
+          "end": 184.7
+        },
+        {
+          "text": "Dezember wird in Deutschland Heiligabend genannt und in vielen Familien findet an diesem Abend die Bescherung statt.",
+          "start": 184.94,
+          "end": 192.28
+        },
+        {
+          "text": "Im Krippenspiel wird die Weihnachtsgeschichte dargestellt, die von der Geburt Jesu handelt.",
+          "start": 195.28,
+          "end": 200.74
+        },
+        {
+          "text": "Im bekannten Weihnachtslied Morgen kommt der Weihnachtsmann lauten die ersten beiden Zeilen Morgen kommt der Weihnachtsmann, kommt mit seinen Gaben.",
+          "start": 203.68,
+          "end": 214.3
+        },
+        {
+          "text": "Auf dem Weihnachtsmarkt gibt es Glühwein, Lebkuchen und andere Süßigkeiten ohne Ende.",
+          "start": 216.76,
+          "end": 222.82
+        },
+        {
+          "text": "Je nach Region werden unterschiedliche Weine für Glühwein verwendet.",
+          "start": 225.03,
+          "end": 230.07
+        }
       ]
     }
   ]

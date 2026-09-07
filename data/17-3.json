@@ -4,67 +4,287 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Hobbys",
-        "Bingo",
-        "Go",
-        "Halmar",
-        "Mühle",
-        "Puzzle",
-        "Schach",
-        "Schachfigur",
-        "Spielbrett",
-        "Bridge",
-        "Herz",
-        "Karo",
-        "Kreuz",
-        "Joker",
-        "Piek",
-        "Poker",
-        "Spielkarte",
-        "Backen",
-        "braten",
-        "dämpfen",
-        "grillen",
-        "köcheln",
-        "schmoren",
-        "würzen",
-        "zubereiten",
-        "Camper",
-        "Campingzelt",
-        "Grill",
-        "Hängematte",
-        "Holzkohle",
-        "Lager",
-        "Lagerfeuer",
-        "Schlafsack",
-        "Ballonfahrt",
-        "Eislaufen",
-        "Fallschirmspringen",
-        "Rafting",
-        "Reiten",
-        "Skifahren",
-        "Wellenreiten"
+        {
+          "text": "Hobbys",
+          "start": 1.39,
+          "end": 3.39
+        },
+        {
+          "text": "Bingo",
+          "start": 4.01,
+          "end": 5.59
+        },
+        {
+          "text": "Go",
+          "start": 6.84,
+          "end": 7.94
+        },
+        {
+          "text": "Halmar",
+          "start": 10.74,
+          "end": 11.44
+        },
+        {
+          "text": "Mühle",
+          "start": 12.14,
+          "end": 13.7
+        },
+        {
+          "text": "Puzzle",
+          "start": 15.02,
+          "end": 16.46
+        },
+        {
+          "text": "Schach",
+          "start": 17.83,
+          "end": 19.11
+        },
+        {
+          "text": "Schachfigur",
+          "start": 20.52,
+          "end": 22.14
+        },
+        {
+          "text": "Spielbrett",
+          "start": 23.58,
+          "end": 25.6
+        },
+        {
+          "text": "Bridge",
+          "start": 26.24,
+          "end": 27.36
+        },
+        {
+          "text": "Herz",
+          "start": 28.7,
+          "end": 30.04
+        },
+        {
+          "text": "Karo",
+          "start": 31.36,
+          "end": 33.0
+        },
+        {
+          "text": "Kreuz",
+          "start": 34.31,
+          "end": 35.81
+        },
+        {
+          "text": "Joker",
+          "start": 37.06,
+          "end": 38.08
+        },
+        {
+          "text": "Piek",
+          "start": 39.32,
+          "end": 41.24
+        },
+        {
+          "text": "Poker",
+          "start": 42.56,
+          "end": 44.02
+        },
+        {
+          "text": "Spielkarte",
+          "start": 45.46,
+          "end": 47.0
+        },
+        {
+          "text": "Backen",
+          "start": 48.28,
+          "end": 49.32
+        },
+        {
+          "text": "braten",
+          "start": 52.26,
+          "end": 52.96
+        },
+        {
+          "text": "dämpfen",
+          "start": 53.92,
+          "end": 55.32
+        },
+        {
+          "text": "grillen",
+          "start": 56.56,
+          "end": 58.22
+        },
+        {
+          "text": "köcheln",
+          "start": 59.5,
+          "end": 60.82
+        },
+        {
+          "text": "schmoren",
+          "start": 62.2,
+          "end": 63.54
+        },
+        {
+          "text": "würzen",
+          "start": 65.37,
+          "end": 66.47
+        },
+        {
+          "text": "zubereiten",
+          "start": 67.81,
+          "end": 69.83
+        },
+        {
+          "text": "Camper",
+          "start": 71.18,
+          "end": 72.56
+        },
+        {
+          "text": "Campingzelt",
+          "start": 73.87,
+          "end": 75.69
+        },
+        {
+          "text": "Grill",
+          "start": 77.0,
+          "end": 77.7
+        },
+        {
+          "text": "Hängematte",
+          "start": 78.98,
+          "end": 81.24
+        },
+        {
+          "text": "Holzkohle",
+          "start": 82.55,
+          "end": 83.89
+        },
+        {
+          "text": "Lager",
+          "start": 85.63,
+          "end": 87.03
+        },
+        {
+          "text": "Lagerfeuer",
+          "start": 88.28,
+          "end": 89.82
+        },
+        {
+          "text": "Schlafsack",
+          "start": 91.2,
+          "end": 93.66
+        },
+        {
+          "text": "Ballonfahrt",
+          "start": 95.1,
+          "end": 96.22
+        },
+        {
+          "text": "Eislaufen",
+          "start": 97.46,
+          "end": 99.0
+        },
+        {
+          "text": "Fallschirmspringen",
+          "start": 102.46,
+          "end": 103.02
+        },
+        {
+          "text": "Rafting",
+          "start": 104.14,
+          "end": 105.26
+        },
+        {
+          "text": "Reiten",
+          "start": 106.57,
+          "end": 108.09
+        },
+        {
+          "text": "Skifahren",
+          "start": 111.18,
+          "end": 111.74
+        },
+        {
+          "text": "Wellenreiten",
+          "start": 113.28,
+          "end": 114.4
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Er gewann 50 Euro beim Bingo.",
-        "Das Spiel Go besaß in China im Lauf der Geschichte verschiedene Bezeichnungen.",
-        "Das Puzzle ist ein altes Spiel.",
-        "Seit 1953 gilt Schach in Deutschland als Sportart.",
-        "Bridge ist ein Kartenspiel für vier Personen.",
-        "Der Joker wird meist als wilde Karte eingesetzt, also als Ersatz für eine beliebige Karte.",
-        "Poker wird weit übergehend zu den Glücksspielen gezählt.",
-        "Meine Schwester kann sehr gut kochen und backen.",
-        "Grillst du das Gemüse auf diesem Grill?",
-        "Je länger das Fleisch schmort, desto zarter wird es.",
-        "Manche Brotsorten sind stark gewürzt, zum Beispiel mit Kümmel.",
-        "Heute wird Holzkohle meist nur noch zum Grillen im Garten gebraucht.",
-        "Die Sonne ist bereits untergegangen, nur das Lagerfeuer flackert vor sich hin.",
-        "Fallschirmspringen ist in Deutschland nur mit einer gültigen Lizenz oder in der Ausbildung erlaubt.",
-        "Bist du schon mal auf einem Pony geritten?"
+        {
+          "text": "Er gewann 50 Euro beim Bingo.",
+          "start": 124.6,
+          "end": 127.32
+        },
+        {
+          "text": "Das Spiel Go besaß in China im Lauf der Geschichte verschiedene Bezeichnungen.",
+          "start": 130.34,
+          "end": 135.68
+        },
+        {
+          "text": "Das Puzzle ist ein altes Spiel.",
+          "start": 137.92,
+          "end": 140.9
+        },
+        {
+          "text": "Seit 1953 gilt Schach in Deutschland als Sportart.",
+          "start": 143.99,
+          "end": 148.81
+        },
+        {
+          "text": "Bridge ist ein Kartenspiel für vier Personen.",
+          "start": 152.01,
+          "end": 154.69
+        },
+        {
+          "text": "Der Joker wird meist als wilde Karte eingesetzt, also als Ersatz für eine beliebige Karte.",
+          "start": 157.77,
+          "end": 165.13
+        },
+        {
+          "text": "Poker wird weit übergehend zu den Glücksspielen gezählt.",
+          "start": 167.79,
+          "end": 171.57
+        },
+        {
+          "text": "Meine Schwester kann sehr gut kochen und backen.",
+          "start": 174.73,
+          "end": 178.05
+        },
+        {
+          "text": "Grillst du das Gemüse auf diesem Grill?",
+          "start": 179.9,
+          "end": 182.64
+        },
+        {
+          "text": "Je länger das Fleisch schmort, desto zarter wird es.",
+          "start": 183.8,
+          "end": 188.1
+        },
+        {
+          "text": "Manche Brotsorten sind stark gewürzt, zum Beispiel mit Kümmel.",
+          "start": 190.94,
+          "end": 195.72
+        },
+        {
+          "text": "Heute wird Holzkohle meist nur noch zum Grillen im Garten gebraucht.",
+          "start": 199.08,
+          "end": 203.36
+        },
+        {
+          "text": "Die Sonne ist bereits untergegangen, nur das Lagerfeuer flackert vor sich hin.",
+          "start": 206.38,
+          "end": 211.42
+        },
+        {
+          "text": "Fallschirmspringen ist in Deutschland nur mit einer gültigen Lizenz oder in der Ausbildung erlaubt.",
+          "start": 215.04,
+          "end": 221.02
+        },
+        {
+          "text": "Bist du schon mal auf einem Pony geritten?",
+          "start": 223.52,
+          "end": 225.56
+        }
       ]
     }
   ]

@@ -4,59 +4,242 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Beschreibung bitter",
-        "herb",
-        "mild",
-        "schwach",
-        "stark",
-        "süffig",
-        "vollmundig",
-        "süß",
-        "weich",
-        "dunkel",
-        "farblos",
-        "hell",
-        "klar",
-        "destillieren",
-        "erhitzen",
-        "filtern",
-        "lagern",
-        "rühren",
-        "schroten",
-        "vergehren",
-        "vermischen",
-        "ausschenken",
-        "ausgießen",
-        "austrinken",
-        "einschenken",
-        "in kleinen Schlucken",
-        "mit kleinen Schlucken",
-        "in großen Zügen",
-        "saufen",
-        "trinken",
-        "zechen"
+        {
+          "text": "Beschreibung bitter",
+          "start": 1.81,
+          "end": 5.97
+        },
+        {
+          "text": "herb",
+          "start": 8.16,
+          "end": 8.7
+        },
+        {
+          "text": "mild",
+          "start": 10.99,
+          "end": 11.47
+        },
+        {
+          "text": "schwach",
+          "start": 13.76,
+          "end": 14.52
+        },
+        {
+          "text": "stark",
+          "start": 16.65,
+          "end": 17.17
+        },
+        {
+          "text": "süffig",
+          "start": 19.38,
+          "end": 20.28
+        },
+        {
+          "text": "vollmundig",
+          "start": 22.2,
+          "end": 23.34
+        },
+        {
+          "text": "süß",
+          "start": 25.3,
+          "end": 27.46
+        },
+        {
+          "text": "weich",
+          "start": 27.46,
+          "end": 28.76
+        },
+        {
+          "text": "dunkel",
+          "start": 30.72,
+          "end": 31.64
+        },
+        {
+          "text": "farblos",
+          "start": 33.59,
+          "end": 34.75
+        },
+        {
+          "text": "hell",
+          "start": 36.65,
+          "end": 37.05
+        },
+        {
+          "text": "klar",
+          "start": 39.29,
+          "end": 39.85
+        },
+        {
+          "text": "destillieren",
+          "start": 41.19,
+          "end": 43.21
+        },
+        {
+          "text": "erhitzen",
+          "start": 45.12,
+          "end": 46.26
+        },
+        {
+          "text": "filtern",
+          "start": 48.34,
+          "end": 49.06
+        },
+        {
+          "text": "lagern",
+          "start": 51.29,
+          "end": 52.81
+        },
+        {
+          "text": "rühren",
+          "start": 52.81,
+          "end": 54.97
+        },
+        {
+          "text": "schroten",
+          "start": 56.97,
+          "end": 58.29
+        },
+        {
+          "text": "vergehren",
+          "start": 59.89,
+          "end": 61.13
+        },
+        {
+          "text": "vermischen",
+          "start": 63.02,
+          "end": 64.06
+        },
+        {
+          "text": "ausschenken",
+          "start": 65.8,
+          "end": 67.28
+        },
+        {
+          "text": "ausgießen",
+          "start": 68.85,
+          "end": 70.13
+        },
+        {
+          "text": "austrinken",
+          "start": 71.92,
+          "end": 73.16
+        },
+        {
+          "text": "einschenken",
+          "start": 75.03,
+          "end": 76.37
+        },
+        {
+          "text": "in kleinen Schlucken",
+          "start": 77.65,
+          "end": 79.85
+        },
+        {
+          "text": "mit kleinen Schlucken",
+          "start": 80.63,
+          "end": 82.71
+        },
+        {
+          "text": "in großen Zügen",
+          "start": 83.59,
+          "end": 86.47
+        },
+        {
+          "text": "saufen",
+          "start": 88.26,
+          "end": 88.96
+        },
+        {
+          "text": "trinken",
+          "start": 91.08,
+          "end": 91.88
+        },
+        {
+          "text": "zechen",
+          "start": 93.89,
+          "end": 94.61
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Was bitter dem Mund ist dem Magen gesund.",
-        "Dieser Wein ist um eine Nuance herber.",
-        "Das Gericht ist mild gewürzt.",
-        "Die Speise schmeckt süß.",
-        "Nachdem Sie die Stoffe vermischt haben, erhitzen Sie sie auf 70 Grad und warten die chemische Reaktion ab.",
-        "Weinbrand soll in alten Holzfässern lagern.",
-        "Der Koch gibt Milch, Eier und Mehl in eine Schüssel und rührt sie kräftig.",
-        "Der Saft ist zu Most vergoren.",
-        "Er hilft seiner Mutter, den Wein auszuschenken.",
-        "Darf ich Ihnen noch eine Tasse Tee einschenken?",
-        "Er trinkt mit kleinen Schlucken das heiße Wasser.",
-        "Er hat ein Glas Wein in großen Zügen ausgetrunken.",
-        "Weißt du was?",
-        "Der alte Schmidt säuft.",
-        "Gestern habe ich zu viel getrunken.",
-        "Die ganze Nacht hindurch zechten wir in der Bar."
+        {
+          "text": "Dieser Wein ist um eine Nuance herber.",
+          "start": 111.71,
+          "end": 114.57
+        },
+        {
+          "text": "Das Gericht ist mild gewürzt.",
+          "start": 117.7,
+          "end": 120.16
+        },
+        {
+          "text": "Die Speise schmeckt süß.",
+          "start": 123.2,
+          "end": 125.8
+        },
+        {
+          "text": "Nachdem Sie die Stoffe vermischt haben, erhitzen Sie sie auf 70 Grad und warten die chemische Reaktion ab.",
+          "start": 128.3,
+          "end": 136.62
+        },
+        {
+          "text": "Weinbrand soll in alten Holzfässern lagern.",
+          "start": 139.18,
+          "end": 143.52
+        },
+        {
+          "text": "Der Koch gibt Milch, Eier und Mehl in eine Schüssel und rührt sie kräftig.",
+          "start": 146.2,
+          "end": 151.58
+        },
+        {
+          "text": "Der Saft ist zu Most vergoren.",
+          "start": 154.65,
+          "end": 157.15
+        },
+        {
+          "text": "Er hilft seiner Mutter, den Wein auszuschenken.",
+          "start": 160.22,
+          "end": 163.84
+        },
+        {
+          "text": "Darf ich Ihnen noch eine Tasse Tee einschenken?",
+          "start": 166.77,
+          "end": 169.65
+        },
+        {
+          "text": "Er trinkt mit kleinen Schlucken das heiße Wasser.",
+          "start": 172.5,
+          "end": 175.68
+        },
+        {
+          "text": "Er hat ein Glas Wein in großen Zügen ausgetrunken.",
+          "start": 175.68,
+          "end": 183.18
+        },
+        {
+          "text": "Weißt du was?",
+          "start": 185.98,
+          "end": 186.7
+        },
+        {
+          "text": "Der alte Schmidt säuft.",
+          "start": 187.12,
+          "end": 188.96
+        },
+        {
+          "text": "Gestern habe ich zu viel getrunken.",
+          "start": 191.88,
+          "end": 194.54
+        },
+        {
+          "text": "Die ganze Nacht hindurch zechten wir in der Bar.",
+          "start": 197.29,
+          "end": 200.25
+        }
       ]
     }
   ]

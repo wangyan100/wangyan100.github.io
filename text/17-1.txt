@@ -1,40 +1,40 @@
-Eigenschaften anmaßend
-besserwisserisch eignützig
-egozentrisch geizig
-launisch selbstsüchtig
-unempfindlich gescheit
-humorvoll klug
-lebhaft munter
-positiv selbstbewusst
-witzig heuchlerisch hinterlistig
-listig raffiniert
-schamlos unbeständig
-unehrlich verschlagen
-arrogant eingebildet
-eigensinnig eigenwillig
-hartnäckig hochmütig
-starköpfig starsinnig
-anständig ehrlich
-gnädig gutmütig
-gründlich sorgfältig
-vorsichtig zuverlässig
-Sprechen Sie bitte die folgenden Sätze
-Sein anmaßendes Verhalten bringt ihm keine Freunde.
-Der Bürgermeister wird als egoistisch kritisiert.
-In ganz Europa erleben immer mehr Wähler die traditionellen politischen Parteien
-als eignützig und machthungrig.
-Meine Tante war ein böser Mensch und sie war sehr geizig.
-Heute war meine Lehrerin wieder launisch.
-Er war sehr professionell bei der Verwaltung der Firma
-und auch sehr humorvoll.
-Meine jüngere Schwester hat ein lebhaftes Wesen.
-Wenn jemand schlau, listig und zugleich ein bisschen hinterhältig ist,
-wird er oft Schlitzohr genannt.
-So ein raffiniertes Aas.
-Er nahm den roten Bogen, brachte die weißen Pfeile
-und schoss nach den arroganten Sonnen.
-Er war ein störrischer, eigensinniger Junge.
-Du fliegst gleich raus, wenn du dich nicht anständig benimmst.
-Ihm kannst du vertrauen, er ist ein ehrlicher Mann.
-Er führt jeden Auftrag gewissenhaft aus.
-Man kann gar nicht vorsichtig genug sein.
+[00:00:02.030 --> 00:00:08.370] Eigenschaften anmaßend
+[00:00:08.370 --> 00:00:14.400] besserwisserisch eignützig
+[00:00:14.400 --> 00:00:20.400] egozentrisch geizig
+[00:00:20.400 --> 00:00:26.330] launisch selbstsüchtig
+[00:00:26.330 --> 00:00:31.420] unempfindlich gescheit
+[00:00:32.760 --> 00:00:37.110] humorvoll klug
+[00:00:38.360 --> 00:00:42.830] lebhaft munter
+[00:00:44.170 --> 00:00:49.120] positiv selbstbewusst
+[00:00:50.370 --> 00:00:59.330] witzig heuchlerisch hinterlistig
+[00:00:59.330 --> 00:01:03.790] listig raffiniert
+[00:01:05.170 --> 00:01:10.070] schamlos unbeständig
+[00:01:11.330 --> 00:01:15.660] unehrlich verschlagen
+[00:01:16.940 --> 00:01:21.980] arrogant eingebildet
+[00:01:23.230 --> 00:01:28.220] eigensinnig eigenwillig
+[00:01:29.560 --> 00:01:34.430] hartnäckig hochmütig
+[00:01:35.900 --> 00:01:40.680] starköpfig starsinnig
+[00:01:41.990 --> 00:01:45.860] anständig ehrlich
+[00:01:50.320 --> 00:01:53.120] gnädig gutmütig
+[00:01:53.120 --> 00:01:57.990] gründlich sorgfältig
+[00:01:59.360 --> 00:02:04.130] vorsichtig zuverlässig
+[00:02:08.610 --> 00:02:11.070] Sprechen Sie bitte die folgenden Sätze!
+[00:02:14.040 --> 00:02:17.780] Sein anmaßendes Verhalten bringt ihm keine Freunde.
+[00:02:20.910 --> 00:02:24.250] Der Bürgermeister wird als egoistisch kritisiert.
+[00:02:27.300 --> 00:02:33.280] In ganz Europa erleben immer mehr Wähler die traditionellen politischen Parteien
+[00:02:33.280 --> 00:02:35.680] als eignützig und machthungrig.
+[00:02:38.730 --> 00:02:42.690] Meine Tante war ein böser Mensch und sie war sehr geizig.
+[00:02:45.690 --> 00:02:48.210] Heute war meine Lehrerin wieder launisch.
+[00:02:51.180 --> 00:02:54.400] Er war sehr professionell bei der Verwaltung der Firma
+[00:02:54.400 --> 00:02:56.280] und auch sehr humorvoll.
+[00:02:59.270 --> 00:03:02.410] Meine jüngere Schwester hat ein lebhaftes Wesen.
+[00:03:05.480 --> 00:03:10.500] Wenn jemand schlau, listig und zugleich ein bisschen hinterhältig ist,
+[00:03:10.720 --> 00:03:12.760] wird er oft Schlitzohr genannt.
+[00:03:15.700 --> 00:03:18.060] So ein raffiniertes Aas!
+[00:03:20.760 --> 00:03:24.500] Er nahm den roten Bogen, brachte die weißen Pfeile
+[00:03:24.500 --> 00:03:27.100] und schoss nach den arroganten Sonnen.
+[00:03:29.840 --> 00:03:32.820] Er war ein störrischer, eigensinniger Junge.
+[00:03:35.600 --> 00:03:39.790] Du fliegst gleich raus, wenn du dich nicht anständig benimmst.
+[00:03:42.680 --> 00:03:45.560] Ihm kannst du vertrauen, er ist ein ehrlicher Mann.
+[00:03:48.650 --> 00:03:51.490] Er führt jeden Auftrag gewissenhaft aus.
+[00:03:54.580 --> 00:03:56.960] Man kann gar nicht vorsichtig genug sein.

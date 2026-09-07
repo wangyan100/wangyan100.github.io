@@ -4,48 +4,197 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Familienangehörige elternlos",
-        "weise Elternteil",
-        "Mutter Mutti",
-        "Mama Vater",
-        "Vati Papa",
-        "Stiefmutter Stiefvater",
-        "Enkel Enkelin",
-        "Enkelkind Großmutter",
-        "Großvater Urgroßeltern",
-        "Urgroßmutter Urgroßvater",
-        "Bruder Brüderchen",
-        "Geschwister Schwester",
-        "Stiefsohn Stieftochter",
-        "Sohn Tochter",
-        "Blutverwandte",
-        "Blutverwandter Cousine",
-        "Neffe Nichte",
-        "Onkel Tante",
-        "Vetter Cousin",
-        "adoptieren Adoptivkind",
-        "Pflegemutter Pflegevater",
-        "Pflegeeltern Schwiegervater"
+        {
+          "text": "Familienangehörige elternlos",
+          "start": 2.06,
+          "end": 8.43
+        },
+        {
+          "text": "weise Elternteil",
+          "start": 11.79,
+          "end": 14.59
+        },
+        {
+          "text": "Mutter Mutti",
+          "start": 14.59,
+          "end": 20.07
+        },
+        {
+          "text": "Mama Vater",
+          "start": 20.07,
+          "end": 24.1
+        },
+        {
+          "text": "Vati Papa",
+          "start": 25.54,
+          "end": 29.51
+        },
+        {
+          "text": "Stiefmutter Stiefvater",
+          "start": 30.95,
+          "end": 36.26
+        },
+        {
+          "text": "Enkel Enkelin",
+          "start": 37.54,
+          "end": 41.2
+        },
+        {
+          "text": "Enkelkind Großmutter",
+          "start": 42.44,
+          "end": 47.76
+        },
+        {
+          "text": "Großvater Urgroßeltern",
+          "start": 49.04,
+          "end": 54.28
+        },
+        {
+          "text": "Urgroßmutter Urgroßvater",
+          "start": 55.59,
+          "end": 61.15
+        },
+        {
+          "text": "Bruder Brüderchen",
+          "start": 62.43,
+          "end": 67.03
+        },
+        {
+          "text": "Geschwister Schwester",
+          "start": 68.31,
+          "end": 72.62
+        },
+        {
+          "text": "Stiefsohn Stieftochter",
+          "start": 74.09,
+          "end": 78.89
+        },
+        {
+          "text": "Sohn Tochter",
+          "start": 80.2,
+          "end": 84.5
+        },
+        {
+          "text": "Blutverwandte",
+          "start": 87.38,
+          "end": 88.78
+        },
+        {
+          "text": "Blutverwandter Cousine",
+          "start": 88.78,
+          "end": 93.77
+        },
+        {
+          "text": "Neffe Nichte",
+          "start": 95.02,
+          "end": 98.96
+        },
+        {
+          "text": "Onkel Tante",
+          "start": 100.27,
+          "end": 104.4
+        },
+        {
+          "text": "Vetter Cousin",
+          "start": 105.81,
+          "end": 111.36
+        },
+        {
+          "text": "adoptieren Adoptivkind",
+          "start": 111.36,
+          "end": 116.37
+        },
+        {
+          "text": "Pflegemutter Pflegevater",
+          "start": 117.74,
+          "end": 123.11
+        },
+        {
+          "text": "Pflegeeltern Schwiegervater",
+          "start": 124.55,
+          "end": 129.97
+        },
+        {
+          "text": "Schwiegermutter",
+          "start": 132.28,
+          "end": 133.16
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Seine Eltern und eine Tante starben in Konzentrationslagern.",
-        "Die Kinder hängen der Mutter immer am Rockzipfel.",
-        "Tag der Väter wird als Pendant zum Muttertag gesehen und hat sich erst später etabliert.",
-        "Das Motiv der Stiefmutter wird in Märchen häufig verwendet.",
-        "Die Großmütter verbringen fast ihre gesamte Zeit mit den Enkeln.",
-        "Sie hatte den Großvater sehr gerne und war stolz auf ihn.",
-        "Wie hat sich die sportliche Mode seit der Zeit unserer Urgroßeltern bis in die Gegenwart entwickelt?",
-        "Zuvor spielte er gern Fußball wie sein älterer Bruder.",
-        "Sehr herzlich grüße ich alle Brüder und Schwestern aus dem deutschen Sprachraum.",
-        "Die Polizei fahndet nach einem Mann, der seinen achtjährigen Stiefsohn schwer misshandelt haben soll.",
-        "Busches Tochter heiratet Anfang Mai.",
-        "Die Neffen sind Söhne von eigenen Geschwisterteilen.",
-        "Nach den eigenen Zwillingen möchte die Schauspielerin weder einen Sohn oder ein Töchterchen adoptieren.",
-        "Ich bin bei Pflegeeltern aufgewachsen."
+        {
+          "text": "Seine Eltern und eine Tante starben in Konzentrationslagern.",
+          "start": 143.6,
+          "end": 148.2
+        },
+        {
+          "text": "Die Kinder hängen der Mutter immer am Rockzipfel.",
+          "start": 151.18,
+          "end": 154.32
+        },
+        {
+          "text": "Tag der Väter wird als Pendant zum Muttertag gesehen und hat sich erst später etabliert.",
+          "start": 157.31,
+          "end": 164.15
+        },
+        {
+          "text": "Das Motiv der Stiefmutter wird in Märchen häufig verwendet.",
+          "start": 167.12,
+          "end": 171.68
+        },
+        {
+          "text": "Die Großmütter verbringen fast ihre gesamte Zeit mit den Enkeln.",
+          "start": 173.98,
+          "end": 179.02
+        },
+        {
+          "text": "Sie hatte den Großvater sehr gerne und war stolz auf ihn.",
+          "start": 182.1,
+          "end": 185.84
+        },
+        {
+          "text": "Wie hat sich die sportliche Mode seit der Zeit unserer Urgroßeltern bis in die Gegenwart entwickelt?",
+          "start": 188.86,
+          "end": 195.28
+        },
+        {
+          "text": "Zuvor spielte er gern Fußball wie sein älterer Bruder.",
+          "start": 198.52,
+          "end": 202.2
+        },
+        {
+          "text": "Sehr herzlich grüße ich alle Brüder und Schwestern aus dem deutschen Sprachraum.",
+          "start": 205.31,
+          "end": 210.31
+        },
+        {
+          "text": "Die Polizei fahndet nach einem Mann, der seinen achtjährigen Stiefsohn schwer misshandelt haben soll.",
+          "start": 213.13,
+          "end": 220.27
+        },
+        {
+          "text": "Busches Tochter heiratet Anfang Mai.",
+          "start": 223.44,
+          "end": 226.14
+        },
+        {
+          "text": "Die Neffen sind Söhne von eigenen Geschwisterteilen.",
+          "start": 229.22,
+          "end": 232.86
+        },
+        {
+          "text": "Nach den eigenen Zwillingen möchte die Schauspielerin weder einen Sohn oder ein Töchterchen adoptieren.",
+          "start": 235.9,
+          "end": 242.4
+        },
+        {
+          "text": "Ich bin bei Pflegeeltern aufgewachsen.",
+          "start": 245.44,
+          "end": 248.12
+        }
       ]
     }
   ]

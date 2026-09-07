@@ -4,55 +4,292 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "religiöse Orte",
-        "Buddhismus",
-        "Christentum",
-        "Islam",
-        "Judentum",
-        "Katholizismus",
-        "Orthodoxie",
-        "Protestantismus",
-        "Schamanismus",
-        "Bischof",
-        "Erzbischof",
-        "Mönch",
-        "Nonne",
-        "Schwester",
-        "Papst",
-        "Pfarrer",
-        "Priester",
-        "Dom",
-        "Kathedrale",
-        "Kapelle",
-        "Kirche",
-        "Kloster",
-        "Moschee",
-        "Synagoge",
-        "Christen",
-        "Gläubige",
-        "Gläubiger",
-        "Gottesdienst",
-        "das Kirchenlied singen",
-        "Pilgern",
-        "Predigen",
-        "Spenden",
-        "Taufen",
-        "Bibel",
-        "Bibelauslegung",
-        "das alte Testament",
-        "das neue Testament",
-        "Gebot",
-        "Gesangbuch",
-        "Gott",
-        "Koran",
-        "Überlieferung"
+        {
+          "text": "religiöse Orte",
+          "start": 2.13,
+          "end": 4.53
+        },
+        {
+          "text": "Buddhismus",
+          "start": 5.84,
+          "end": 7.48
+        },
+        {
+          "text": "Christentum",
+          "start": 8.76,
+          "end": 11.08
+        },
+        {
+          "text": "Islam",
+          "start": 11.08,
+          "end": 12.72
+        },
+        {
+          "text": "Judentum",
+          "start": 15.02,
+          "end": 16.42
+        },
+        {
+          "text": "Katholizismus",
+          "start": 17.7,
+          "end": 19.96
+        },
+        {
+          "text": "Orthodoxie",
+          "start": 21.5,
+          "end": 22.2
+        },
+        {
+          "text": "Protestantismus",
+          "start": 24.15,
+          "end": 25.25
+        },
+        {
+          "text": "Schamanismus",
+          "start": 27.34,
+          "end": 28.62
+        },
+        {
+          "text": "Bischof",
+          "start": 31.14,
+          "end": 32.54
+        },
+        {
+          "text": "Erzbischof",
+          "start": 34.46,
+          "end": 35.16
+        },
+        {
+          "text": "Mönch",
+          "start": 37.76,
+          "end": 39.16
+        },
+        {
+          "text": "Nonne",
+          "start": 39.16,
+          "end": 40.42
+        },
+        {
+          "text": "Schwester",
+          "start": 41.8,
+          "end": 42.54
+        },
+        {
+          "text": "Papst",
+          "start": 44.5,
+          "end": 45.84
+        },
+        {
+          "text": "Pfarrer",
+          "start": 47.12,
+          "end": 48.78
+        },
+        {
+          "text": "Priester",
+          "start": 50.09,
+          "end": 51.35
+        },
+        {
+          "text": "Dom",
+          "start": 52.41,
+          "end": 53.49
+        },
+        {
+          "text": "Kathedrale",
+          "start": 55.66,
+          "end": 56.7
+        },
+        {
+          "text": "Kapelle",
+          "start": 58.9,
+          "end": 59.6
+        },
+        {
+          "text": "Kirche",
+          "start": 61.67,
+          "end": 62.37
+        },
+        {
+          "text": "Kloster",
+          "start": 64.85,
+          "end": 65.55
+        },
+        {
+          "text": "Moschee",
+          "start": 67.27,
+          "end": 67.97
+        },
+        {
+          "text": "Synagoge",
+          "start": 70.2,
+          "end": 70.9
+        },
+        {
+          "text": "Tempel",
+          "start": 72.21,
+          "end": 73.45
+        },
+        {
+          "text": "Beten",
+          "start": 74.7,
+          "end": 76.36
+        },
+        {
+          "text": "Fasten",
+          "start": 77.7,
+          "end": 80.34
+        },
+        {
+          "text": "Gläubige",
+          "start": 80.34,
+          "end": 82.04
+        },
+        {
+          "text": "Gläubiger",
+          "start": 82.64,
+          "end": 84.46
+        },
+        {
+          "text": "Gottesdienst",
+          "start": 85.74,
+          "end": 87.32
+        },
+        {
+          "text": "Das Kirchenlied singen",
+          "start": 88.96,
+          "end": 91.44
+        },
+        {
+          "text": "Pilgern",
+          "start": 92.76,
+          "end": 94.06
+        },
+        {
+          "text": "Predigen",
+          "start": 95.95,
+          "end": 96.65
+        },
+        {
+          "text": "Spenden",
+          "start": 98.9,
+          "end": 99.6
+        },
+        {
+          "text": "Taufen",
+          "start": 100.91,
+          "end": 102.55
+        },
+        {
+          "text": "Bibel",
+          "start": 105.65,
+          "end": 106.35
+        },
+        {
+          "text": "Bibelauslegung",
+          "start": 107.71,
+          "end": 108.41
+        },
+        {
+          "text": "Das Alte Testament",
+          "start": 109.69,
+          "end": 111.67
+        },
+        {
+          "text": "Das Neue Testament",
+          "start": 111.67,
+          "end": 115.93
+        },
+        {
+          "text": "Gebot",
+          "start": 117.95,
+          "end": 119.31
+        },
+        {
+          "text": "Gesangbuch",
+          "start": 119.31,
+          "end": 119.99
+        },
+        {
+          "text": "Gott",
+          "start": 122.69,
+          "end": 123.37
+        },
+        {
+          "text": "Koran",
+          "start": 126.96,
+          "end": 128.32
+        },
+        {
+          "text": "Überlieferung",
+          "start": 128.32,
+          "end": 129.0
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Religion kann Trost spenden und Ruhe stiften Das Christentum ist die weltweit größte Religion Wegen unterschiedlicher Kalender begehen die Kirchen der Orthodoxie Ostern In diesem Jahr eine Woche später Die Demonstranten darunter viele Geistliche versammelten sich vor dem Parlament und hielten Plakate und den Koran in die Höhe Der Papst betet für Anschlagsopfer Nach dem verheerenden Brand in Notre-Dame rückt die Frage nach dem Brandschutz in Deutschlands großen Domen in den Fokus Jeden Sonntag findet in der Kirche der Gottesdienst statt In Kalifornien hat ein fanatischer Antisemit in einer Synagoge das Feuer eröffnet, als Gläubige ein wichtiges jüdisches Fest feierten Immer mehr Kirchengemeinden laden im Sommer zu Gottesdiensten oder taufen unter freiem Himmel ein Große deutsche Unternehmen spenden insgesamt 5 Millionen Euro und helfen den Bau einer Holocaust-Gedenkstätte in Jerusalem Martin Luther hat die Bibel ins Deutsche übersetzt In einem Brief von 1954 hat Einstein seine Gedanken über Gott und die Welt beschrieben"
+        {
+          "text": "Religion kann Trost spenden und Ruhe stiften.",
+          "start": 139.77,
+          "end": 144.23
+        },
+        {
+          "text": "Das Christentum ist die weltweit größte Religion.",
+          "start": 147.15,
+          "end": 150.89
+        },
+        {
+          "text": "Wegen unterschiedlicher Kale, Die Kirchen der Orthodoxie Osten in diesem Jahr eine Woche später.",
+          "start": 153.96,
+          "end": 161.48
+        },
+        {
+          "text": "Die Demonstranten, darunter viele Geistliche, versammelten sich vor dem Parlament und hielten Plakate und den Koran in die Höhe.",
+          "start": 164.38,
+          "end": 173.96
+        },
+        {
+          "text": "Der Papst betet für Anschlagsopfer.",
+          "start": 176.81,
+          "end": 179.71
+        },
+        {
+          "text": "Nach dem verheerenden Brand in Notre-Dame rückt die Frage nach dem Brandschutz in Deutschlands großen Domen in den Fokus.",
+          "start": 182.7,
+          "end": 190.92
+        },
+        {
+          "text": "Jeden Sonntag findet in der Kirche der Gottesdienst statt.",
+          "start": 193.12,
+          "end": 197.86
+        },
+        {
+          "text": "In Kalifornien hat ein fanatischer Antisemit in einer Synagoge das Feuer eröffnet, als Gläubige ein wichtiges jüdisches Fest feierten.",
+          "start": 200.92,
+          "end": 211.06
+        },
+        {
+          "text": "Immer mehr Kirchengemeinden laden im Sommer zu Gottesdiensten oder Taufen unter freiem Himmel ein.",
+          "start": 214.16,
+          "end": 221.36
+        },
+        {
+          "text": "Große deutsche Unternehmen spenden insgesamt 5 Millionen Euro und helfen beim Bau einer Holocaust-Gedenkstätte in Jerusalem.",
+          "start": 224.38,
+          "end": 234.7
+        },
+        {
+          "text": "Martin Luther hat die Bibel ins Deutsche übersetzt.",
+          "start": 237.85,
+          "end": 241.11
+        },
+        {
+          "text": "In einem Brief von 1954 hat Einstein seine Gedanken über Gott und die Welt beschrieben.",
+          "start": 244.22,
+          "end": 251.18
+        }
       ]
     }
   ]

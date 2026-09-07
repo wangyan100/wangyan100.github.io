@@ -1,75 +1,75 @@
-Kaffee
-Arabica Kaffee
-Java Kaffee
-Berg Kaffee
-Blue Mountain Kaffee
-Brasilien Kaffee
-Kilimanjaro Kaffee
-Colombien Kaffee
-Robusta Kaffee
-Americano
-Café Latte
-Cappuccino
-Espresso
-Caramel Macchiato
-Mocha
-Eiskaffee
-Instant Kaffee
-Schnell Kaffee
-Malz Kaffee
-Marocchino
-Milch Kaffee
-Der türkische Kaffee
-Filter Kaffee
-Kaffeepresse
-Kaffeepulver
-Kaffeepad
-Kaffeekapsel
-Die helle Röstung
-Die starke Röstung
-Die mittlere Röstung
-Die amerikanische Röstung
-Die doppelte Röstung
-Die französische Röstung
-Die italienische Röstung
-Sprechen Sie bitte die folgenden Sätze
-Arabica Kaffee
-hat einen besonders feinen Geschmack
-denn in den Kaffeebohnen
-stecken mehr Fette,
-mehr Zucker und mehr Kaffeeöle drin.
-Der Jamaica Blue Mountain Kaffee
-zeichnet sich durch seinen
-sehr milden Geschmack aus.
-Robuster Kaffee
-kann wegen seiner
-mehr Koffein
-bitterer, schärfer schmecken.
-Americano ist ein doppelter
-Espresso, der mit
-heißem Wasser verdünnt wird.
-Das wichtigste beim
-Cappuccino ist nicht der
-Schaum, sondern das Verhältnis
-zwischen Espresso und Milch.
-Der Eiskaffee
-kann mit Rum versetzt sein.
-Die Vorteile von
-Instant Kaffee liegen auf der Hand.
-Er ist im Handumdrehen
-zubereitet und besonders lange
-haltbar. Über
-Lieferungen zufolge, stammt
-der Marocchino ursprünglich
-aus dem Norden Italiens.
-Das Mischverhältnis
-von Kaffee und Milch liegt
-in Milchkaffee bei etwa 1 zu 1.
-Früher hat man
-in Deutschland hauptsächlich
-schwarzen Filterkaffee getrunken.
-Kaffeepulver entsteht
-durch das Mahlen von gerösteten
-Kaffeebohnen.
-Die Geröstung ist das wichtigste
-Merkmal für ein gutes Kaffeprodukt.
+[00:00:01.840 --> 00:00:03.480] Kaffee
+[00:00:04.820 --> 00:00:07.180] Arabica Kaffee
+[00:00:08.200 --> 00:00:09.500] Java Kaffee
+[00:00:11.510 --> 00:00:12.730] Berg Kaffee
+[00:00:14.700 --> 00:00:16.360] Blue Mountain Kaffee
+[00:00:18.270 --> 00:00:20.450] Brasilien Kaffee
+[00:00:21.760 --> 00:00:24.180] Kilimanjaro Kaffee
+[00:00:25.460 --> 00:00:27.560] Colombien Kaffee
+[00:00:28.900 --> 00:00:31.020] Robusta Kaffee
+[00:00:32.300 --> 00:00:34.020] Americano
+[00:00:35.370 --> 00:00:37.070] Café Latte
+[00:00:38.410 --> 00:00:39.110] Cappuccino
+[00:00:41.700 --> 00:00:42.400] Espresso
+[00:00:44.510 --> 00:00:46.030] Caramel Macchiato
+[00:00:47.310 --> 00:00:49.530] Mocha
+[00:00:50.940 --> 00:00:52.640] Eiskaffee
+[00:00:53.950 --> 00:00:56.090] Instant Kaffee
+[00:00:57.560 --> 00:00:59.420] Schnell Kaffee
+[00:01:00.700 --> 00:01:02.700] Malz Kaffee
+[00:01:04.050 --> 00:01:05.750] Marocchino
+[00:01:07.060 --> 00:01:09.040] Milch Kaffee
+[00:01:10.320 --> 00:01:12.360] Der türkische Kaffee
+[00:01:13.800 --> 00:01:15.780] Filter Kaffee
+[00:01:17.160 --> 00:01:18.540] Kaffeepresse
+[00:01:20.850 --> 00:01:21.970] Kaffeepulver
+[00:01:24.160 --> 00:01:24.880] Kaffeepad
+[00:01:27.470 --> 00:01:28.730] Kaffeekapsel
+[00:01:29.250 --> 00:01:31.530] Die helle Röstung
+[00:01:32.810 --> 00:01:35.050] Die starke Röstung
+[00:01:36.300 --> 00:01:38.500] Die mittlere Röstung
+[00:01:39.750 --> 00:01:41.860] Die amerikanische Röstung
+[00:01:43.170 --> 00:01:45.320] Die doppelte Röstung
+[00:01:46.780 --> 00:01:49.590] Die französische Röstung
+[00:01:49.590 --> 00:01:53.070] Die italienische Röstung
+[00:01:57.580 --> 00:02:00.370] Sprechen Sie bitte die folgenden Sätze
+[00:02:02.840 --> 00:02:05.100] Arabica Kaffee
+[00:02:05.100 --> 00:02:07.840] hat einen besonders feinen Geschmack
+[00:02:07.840 --> 00:02:09.620] denn in den Kaffeebohnen
+[00:02:09.620 --> 00:02:10.920] stecken mehr Fette
+[00:02:10.920 --> 00:02:14.000] mehr Zucker und mehr Kaffeeöle drin
+[00:02:16.780 --> 00:02:19.500] Der Jamaica Blue Mountain Kaffee
+[00:02:20.070 --> 00:02:21.430] zeichnet sich durch seinen
+[00:02:21.430 --> 00:02:23.530] sehr milden Geschmack aus
+[00:02:25.840 --> 00:02:27.730] Robuster Kaffee
+[00:02:28.180 --> 00:02:29.080] kann wegen seiner
+[00:02:29.080 --> 00:02:31.440] mehr Koffein bitterer
+[00:02:31.440 --> 00:02:33.220] schärfer schmecken
+[00:02:35.550 --> 00:02:37.710] Americano ist ein doppelter
+[00:02:37.710 --> 00:02:39.610] Espresso, der mit heißem
+[00:02:39.610 --> 00:02:41.090] Wasser verdünnt wird
+[00:02:43.870 --> 00:02:46.180] Das wichtigste beim Cappuccino
+[00:02:46.180 --> 00:02:47.880] ist nicht der Schaum,
+[00:02:47.880 --> 00:02:49.780] sondern das Verhältnis zwischen
+[00:02:49.780 --> 00:02:51.880] Espresso und Milch
+[00:02:54.160 --> 00:02:56.200] Der Eiskaffee kann mit Rum
+[00:02:56.200 --> 00:02:57.480] versetzt sein
+[00:03:00.250 --> 00:03:02.250] Die Vorteile von Instant
+[00:03:02.250 --> 00:03:04.270] Kaffee liegen auf der Hand
+[00:03:04.270 --> 00:03:06.670] Er ist im Handumdrehen zubereitet
+[00:03:06.670 --> 00:03:08.590] und besonders lange haltbar
+[00:03:11.370 --> 00:03:13.050] Über Lieferungen zufolge
+[00:03:13.590 --> 00:03:14.990] stammt der Maruccino
+[00:03:14.990 --> 00:03:16.870] ursprünglich aus dem Norden
+[00:03:16.870 --> 00:03:18.170] Italiens
+[00:03:20.570 --> 00:03:22.310] Das Mischverhältnis
+[00:03:22.310 --> 00:03:25.230] von Kaffee und Milch
+[00:03:25.230 --> 00:03:27.170] ist bei etwa 1 zu 1
+[00:03:29.660 --> 00:03:31.620] Früher hat man in Deutschland
+[00:03:31.620 --> 00:03:33.100] hauptsächlich schwarzen
+[00:03:33.450 --> 00:03:35.200] Filterkaffee getrunken
+[00:03:38.060 --> 00:03:39.120] Kaffeepulver entsteht
+[00:03:39.120 --> 00:03:41.140] durch das Mahlen von gerösteten
+[00:03:42.060 --> 00:03:42.700] Kaffeebohnen
+[00:03:44.970 --> 00:03:47.030] Die Geröstung ist das wichtigste
+[00:03:47.030 --> 00:03:49.530] Merkmal für ein gutes Kaffeeprodukt

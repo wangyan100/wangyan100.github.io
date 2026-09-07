@@ -1,88 +1,94 @@
-Kopf
-Augapfel
-Augenbraue
-Augenhöhle
-Augenwinkel
-Hornhaut
-Lid
-Pupille
-Wimper
-Nasenflügel
-Nasenhaare
-Nasenloch
-Nasenrücken
-Nasenschleim
-Nasenspitze
-Filtrum
-Popel
-Gehörgang
-Gehörschnecke
-Ohrenschmalz
-Ohrkanal
-Ohrläppchen
-Ohrmuschel
-Trommelfell
-Tympanum
-Kiefer
-Lippe
-Mandel
-Mundwinkel
-Uvula
-Stirn
-Wange
-Backe
-Bart
-Haar
-Herrchen
-Kinnbart
-Sprechen Sie bitte die folgenden Sätze.
-Auge um Auge, Zahn um Zahn
-Auge, damit sich die Pupille erweiterte.
-Er hütet seine jüngste Tochter wie seinen Augapfel.
-Aus den Augenwinkeln beobachtet er die schöne Kellnerin.
-Sie möchte nach ihrem Tod ihre Hornhaut spenden.
-Nur am Zucken ihrer Lieder konnte man ihre Aufregung erkennen.
-Mir wurden die Lieder schwer vor Müdigkeit.
-Die Pupillen der Katze weiten sich im Dunkeln.
-Die Inspektion der Pupillen gehört zu einer gründlichen körperlichen Untersuchung.
-Mir ist eine Wimper ins Auge geraten.
-Ich habe mir beim Ankleben der falschen Wimpern an die Augenbraue geklebt.
-Er hat die richtige Nase dafür.
-Seine Nase ist verstopft vor Schnupfen.
-Der Rächer hat eine Narbe am rechten Nasenflügel.
-Nasenhaare übernehmen wichtige Schutzfunktionen und dienen als Luftfilter.
-Sie machte freundliche Nasenlöcher.
-Der Nasenschleim läuft aus der Nase.
-Mir lief der Schweiß schon von der Nasenspitze.
-Putz dir den Popel von der Nase.
-Während des Vortrags ist er ganz ohr.
-Die laute Musik schalte mir noch lange in den Ohren.
-Man unterscheidet einen äußeren und einen inneren Gehörgang.
-Ein Tumor in der Gehörschnecke führt bei Lukas zur Taubheit.
-Ohrenschmalz dient zur Reinigung des äußeren Gehörganges von Schmutz und Staub.
-Die Blutabnahme über das Ohrläppchen wird bei Kindern angewandt,
-wodurch der Schmerz des Einstiches gemindert wird.
-Die Ohrmusche leitet alle Geräusche wie durch einen Trichter ins Innere des Ohres.
-Ich weiß es aus ihrem eigenen Mund.
-Er küsste den Mund seiner Freundin.
-Die Weisheitszähne bleiben mitunter einfach im Kiefer stecken.
-Er legt den Zeigefinger auf die Lippen, um die Kinder zum Stillsein aufzufordern.
-Seine Mandeln sind geschwollen.
-Die Verkäuferin zieht die Mundwinkel missmutig nach unten.
-Das sogenannte Zäpfchen-R wird durch Vibration der Uvula gebildet.
-Vor Kälte klapperten ihr die Zähne.
-Darf ich mir deine Zähne jetzt mal anschauen?
-Mein Arzt hat gestern zu mir gemeint, mein Zahnfleisch sehe nicht gut aus.
-Die Nervosität lähmt mir die Zunge.
-Das Wort lag mir auf der Zunge.
-Ich habe hier viele neue Gesichter gesehen.
-Der Mann rieb sich nachdenklich das Kinn.
-Obwohl er sich morgens rasierte, war sein Kinn abends stoppelig.
-Die Adern an Hals und Schläfen schwollen ihm vor Zorn.
-Wenn man Kopfschmerzen bekommt, kann man seine Stirn und Schläfen mit einem kalten Waschlappen oder mit Pfefferminzöl kühlen.
-Er wischte ihm den Schweiß von der Stirn.
-Die Tränen liefen ihr die Wangen herunter.
-Typisch für den Lupus sind schmetterlingsförmige Rötungen auf den Wangen und dem Nasenrücken.
-Zum Abschied küsste er seine Freundin flüchtig auf die Wange.
-Ob er einen langen weißen Bart hatte oder nicht, weiß keiner so genau.
-Die Zwillinge gleichen einander aufs Haar.
+[00:00:01.200 --> 00:00:02.200] Kopf
+[00:00:05.300 --> 00:00:06.700] Augapfel
+[00:00:08.260 --> 00:00:09.660] Augenbraue
+[00:00:11.240 --> 00:00:12.640] Augenhöhle
+[00:00:12.640 --> 00:00:14.920] Augenwinkel
+[00:00:16.170 --> 00:00:18.810] Hornhaut
+[00:00:18.810 --> 00:00:20.310] Lid
+[00:00:21.590 --> 00:00:23.410] Pupille
+[00:00:24.330 --> 00:00:26.170] Wimper
+[00:00:28.250 --> 00:00:29.650] Nasenflügel
+[00:00:31.870 --> 00:00:33.270] Nasenhaare
+[00:00:35.170 --> 00:00:36.570] Nasenloch
+[00:00:38.150 --> 00:00:39.550] Nasenrücken
+[00:00:41.410 --> 00:00:42.270] Nasenschleim
+[00:00:42.810 --> 00:00:44.990] Nasenspitze
+[00:00:46.300 --> 00:00:47.620] Filtrum
+[00:00:50.490 --> 00:00:51.190] Popel
+[00:00:51.890 --> 00:00:53.750] Gehörgang
+[00:00:55.670 --> 00:00:57.070] Gehörschnecke
+[00:00:59.310 --> 00:01:00.710] Ohrenschmalz
+[00:01:00.710 --> 00:01:03.170] Ohrkanal
+[00:01:05.290 --> 00:01:06.170] Ohrläppchen
+[00:01:06.690 --> 00:01:08.670] Ohrmuschel
+[00:01:09.950 --> 00:01:11.870] Trommelfell
+[00:01:13.450 --> 00:01:14.350] Tympanum
+[00:01:15.660 --> 00:01:17.700] Kiefer
+[00:01:20.280 --> 00:01:20.980] Lippe
+[00:01:23.140 --> 00:01:23.840] Mandel
+[00:01:23.840 --> 00:01:25.620] Mundwinkel
+[00:01:27.030 --> 00:01:28.230] Uvula
+[00:01:29.580 --> 00:01:31.280] Zahn
+[00:01:33.650 --> 00:01:34.350] Zahnfleisch
+[00:01:35.660 --> 00:01:36.780] Zunge
+[00:01:38.060 --> 00:01:39.400] Kinn
+[00:01:40.780 --> 00:01:42.180] Schläfe
+[00:01:45.020 --> 00:01:46.420] Stirn
+[00:01:46.420 --> 00:01:48.220] Wange
+[00:01:50.120 --> 00:01:51.520] Backe
+[00:01:51.520 --> 00:01:52.260] Bart
+[00:01:53.700 --> 00:01:56.180] Drei-Tage-Bart
+[00:01:57.490 --> 00:01:58.950] Haar
+[00:02:00.230 --> 00:02:01.550] Härchen
+[00:02:02.800 --> 00:02:04.240] Kinnbart
+[00:02:07.690 --> 00:02:11.170] Sprechen Sie bitte die folgenden Sätze.
+[00:02:13.580 --> 00:02:16.120] Auge um Auge, Zahn um Zahn
+[00:02:18.360 --> 00:02:25.920] Der Arzt träufelte dem Patienten ein Medikament ins Auge, damit sich die Pupille erweiterte.
+[00:02:28.960 --> 00:02:32.720] Er hütet seine jüngste Tochter wie seinen Augapfel.
+[00:02:34.960 --> 00:02:39.640] Aus den Augenwinkeln beobachtet er die schöne Kellnerin.
+[00:02:42.560 --> 00:02:45.880] Sie möchte nach ihrem Tod ihre Hornhaut spenden.
+[00:02:48.930 --> 00:02:53.090] Nur am Zucken ihrer Lieder konnte man ihre Aufregung erkennen.
+[00:02:56.280 --> 00:02:59.180] Mir wurden die Lieder schwer vor Müdigkeit.
+[00:03:02.210 --> 00:03:05.310] Die Pupillen der Katze weiten sich im Dunkeln.
+[00:03:08.300 --> 00:03:13.800] Die Inspektion der Pupillen gehört zu einer gründlichen körperlichen Untersuchung.
+[00:03:16.040 --> 00:03:19.280] Mir ist eine Wimper ins Auge geraten.
+[00:03:22.240 --> 00:03:27.540] Ich habe mir beim Ankleben der falschen Wimpern an die Augenbraue geklebt.
+[00:03:30.490 --> 00:03:32.710] Er hat die richtige Nase dafür.
+[00:03:35.850 --> 00:03:38.570] Seine Nase ist verstopft vor Schnupfen.
+[00:03:41.590 --> 00:03:45.470] Der Rächer hat eine Narbe am rechten Nasenflügel.
+[00:03:48.340 --> 00:03:53.880] Nasenhaare übernehmen wichtige Schutzfunktionen und dienen als Luftfilter.
+[00:03:56.180 --> 00:03:59.580] Sie machte freundliche Nasenlöcher.
+[00:04:02.310 --> 00:04:04.650] Der Nasenschleim läuft aus der Nase.
+[00:04:07.960 --> 00:04:10.660] Mir lief der Schweiß schon von der Nasenspitze.
+[00:04:14.200 --> 00:04:16.200] Putz dir den Popel von der Nase.
+[00:04:19.490 --> 00:04:22.690] Während des Vortrags ist er ganz ohr.
+[00:04:25.230 --> 00:04:28.650] Die laute Musik schallte mir noch lange in den Ohren.
+[00:04:31.590 --> 00:04:35.590] Man unterscheidet einen äußeren und einen inneren Gehörgang.
+[00:04:37.860 --> 00:04:43.040] Ein Tumor in der Gehörschnecke führt bei Lukas zur Taubheit.
+[00:04:46.340 --> 00:04:51.660] Ohrenschmalz dient zur Reinigung des äußeren Gehörganges von Schmutz und Staub.
+[00:04:54.630 --> 00:04:59.710] Die Blutabnahme über das Ohrläppchen wird bei Kindern angewandt,
+[00:04:59.850 --> 00:05:02.950] wodurch der Schmerz des Einstiches gemindert wird.
+[00:05:05.930 --> 00:05:11.130] Die Ohrmusche leitet alle Geräusche wie durch einen Trichter ins Innere des Ohres.
+[00:05:13.960 --> 00:05:16.420] Ich weiß es aus ihrem eigenen Mund.
+[00:05:18.690 --> 00:05:22.090] Er küsste den Mund seiner Freundin.
+[00:05:24.910 --> 00:05:29.430] Die Weisheitszähne bleiben mitunter einfach im Kiefer stecken.
+[00:05:32.490 --> 00:05:37.470] Er legt den Zeigefinger auf die Lippen, um die Kinder zum Stillsein aufzufordern.
+[00:05:41.200 --> 00:05:43.120] Seine Mandeln sind geschwollen.
+[00:05:46.170 --> 00:05:49.890] Die Verkäuferin zieht die Mundwinkel missmutig nach unten.
+[00:05:52.970 --> 00:05:58.130] Das sogenannte Zäpfchen-R wird durch Vibration der Uvula gebildet.
+[00:06:01.250 --> 00:06:04.530] Vor Kälte klapperten ihr die Zähne.
+[00:06:07.020 --> 00:06:09.760] Darf ich mir deine Zähne jetzt mal anschauen?
+[00:06:12.800 --> 00:06:17.580] Mein Arzt hat gestern zu mir gemeint, mein Zahnfleisch sehe nicht gut aus.
+[00:06:20.550 --> 00:06:23.010] Die Nervosität lähmt mir die Zunge.
+[00:06:26.020 --> 00:06:28.100] Das Wort lag mir auf der Zunge.
+[00:06:31.020 --> 00:06:33.760] Ich habe hier viele neue Gesichter gesehen.
+[00:06:36.800 --> 00:06:39.980] Der Mann rieb sich nachdenklich das Kinn.
+[00:06:42.190 --> 00:06:46.750] Obwohl er sich morgens rasierte, war sein Kinn abends stoppelig.
+[00:06:49.710 --> 00:06:53.610] Die Adern an Hals und Schläfen schwollen ihm verzorn.
+[00:06:56.740 --> 00:07:05.400] Wenn man Kopfschmerzen bekommt, kann man seine Stirn und Schläfen mit einem kalten Waschlappen oder mit Pfefferminzöl kühlen.
+[00:07:08.460 --> 00:07:11.080] Er wischte ihm den Schweiß von der Stirn.
+[00:07:13.810 --> 00:07:16.390] Die Tränen liefen ihr die Wangen herunter.
+[00:07:18.700 --> 00:07:25.580] Typisch für den Lupus sind schmetterlingsförmige Rötungen auf den Wangen und dem Nasenrücken.
+[00:07:29.250 --> 00:07:33.090] Zum Abschied küsste er seine Freundin flüchtig auf die Wange.
+[00:07:37.420 --> 00:07:42.120] Ob er einen langen weißen Bart hatte oder nicht, weiß keiner so genau.
+[00:07:46.330 --> 00:07:49.190] Die Zwillinge gleichen einander aufs Haar.

@@ -1,18 +1,20 @@
-Hafen, beladen, Boje, Container, entladen, Fähre, Leuchtturm, Rede, Speicher, Ablader
-Befrachter, Hafenarbeiter, Kapitän, Lotse, Matrose, Seemann, Steuermann, Anker, Bug, Bord, Propeller, Schiffsschraube, Rehling, Schiffskörper, Schiffsraum, Segel, Casino, Fernglas
-Glücksspiel, luxuriös, Rettungsboot, Rettungsring, Seekrank, Speisesaal, Ankern, am Ruder sitzen, das Ruder führen, auslaufen, einlaufen, Fahrrinne, Probefahrt, Seemeile
-Sprechen Sie bitte die folgenden Sätze.
-An vielen Hafen wurden spezielle Container-Terminals zum Be- und Entladen gebaut.
-Nach der Ankunft am Kai der Insel musste man zu Fuß weiter zum Leuchtturm laufen.
-Der Container wird vom Absender beladen.
-Das einzige Fahrzeug, das wir noch benutzen können, ist die Fähre.
-Das Schiff liegt auf der Rede.
-Dort ist der Speicher für unsere Ernte.
-Der Kapitän muss die Disziplin seines Schiffes aufrechterhalten.
-Wir lichteten den Anker und segelten mit unserem Boot los.
-Der Mann verfolgt durch das Fernglas das Fußballspiel.
-Wenn Sie schnell seekrank werden, sollten Sie auf gute Ernährung und ausreichend Schlaf achten.
-Das Kreuzfahrtschiff läuft heute Nachmittag aus dem Hafen aus.
-Ich interessiere mich für diesen Wagen.
-Kann ich bitte eine Probefahrt unternehmen?
-Die Fahrrinne ist mit Bojen markiert.
+[00:00:01.900 --> 00:00:30.580] Hafen, beladen, Boje, Container, entladen, Fähre, Leuchtturm, Rede, Speicher, Ablader
+[00:00:30.580 --> 00:00:38.900] Befrachter, Hafenarbeiter, Kapitän
+[00:00:40.720 --> 00:01:25.240] Lotse, Matrose, Seemann, Steuermann, Anker, Bug, Bord, Propeller, Schiffsschraube, Rehling, Schiffskörper, Schiffsraum, Segel, Casino, Fernglas
+[00:01:29.350 --> 00:01:38.540] Glücksspiel, luxuriös, Rettungsboot, Rettungsring
+[00:01:42.460 --> 00:02:09.840] Seekrank, Speisesaal, Ankern, am Ruder sitzen, das Ruder führen, auslaufen, einlaufen, Fahrrinne, Probefahrt, Seemeile
+[00:02:14.610 --> 00:02:17.530] Sprechen Sie bitte die folgenden Sätze.
+[00:02:20.560 --> 00:02:27.000] An vielen Hafen wurden spezielle Container-Terminals zum Be- und Entladen gebaut.
+[00:02:30.150 --> 00:02:36.190] Nach der Ankunft am Kai der Insel musste man zu Fuß weiter zum Leuchtturm laufen.
+[00:02:39.330 --> 00:02:42.070] Der Container wird vom Absender beladen.
+[00:02:45.230 --> 00:02:49.830] Das einzige Fahrzeug, das wir noch benutzen können, ist die Fähre.
+[00:02:52.840 --> 00:02:54.940] Das Schiff liegt auf der Rede.
+[00:02:58.010 --> 00:03:00.750] Dort ist der Speicher für unsere Ernte.
+[00:03:03.800 --> 00:03:08.040] Der Kapitän muss die Disziplin seines Schiffes aufrechterhalten.
+[00:03:11.260 --> 00:03:15.100] Wir lichteten den Anker und segelten mit unserem Boot los.
+[00:03:18.160 --> 00:03:21.900] Der Mann verfolgt durch das Fernglas das Fußballspiel.
+[00:03:24.970 --> 00:03:31.310] Wenn Sie schnell seekrank werden, sollten Sie auf gute Ernährung und ausreichend Schlaf achten.
+[00:03:34.340 --> 00:03:38.300] Das Kreuzfahrtschiff läuft heute Nachmittag aus dem Hafen aus.
+[00:03:41.060 --> 00:03:43.640] Ich interessiere mich für diesen Wagen.
+[00:03:44.240 --> 00:03:46.480] Kann ich bitte eine Probefahrt unternehmen?
+[00:03:49.580 --> 00:03:52.240] Die Fahrrinne ist mit Bojen markiert.

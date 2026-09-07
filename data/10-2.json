@@ -4,63 +4,267 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Ostern",
-        "Aschermittwoch",
-        "Fastenzeit",
-        "Gründonnerstag",
-        "Karfreitag",
-        "Karsamstag",
-        "Ostersonntag",
-        "Palmsonntag",
-        "Pfingsten",
-        "bemalen",
-        "färben",
-        "dekorieren",
-        "Eierfarbe",
-        "Eierschale",
-        "bunt",
-        "Osterstrauß",
-        "sorbische Ostereier",
-        "Fruchtbarkeit",
-        "Hase",
-        "Kaninchen",
-        "Symbol",
-        "Überbringer",
-        "Verstecken",
-        "Fasten",
-        "Osterbrunch",
-        "Ostereiersuche",
-        "Osterfeuer",
-        "Osterlamm",
-        "Ostermarkt",
-        "Ostermarsch",
-        "Ostereiten",
-        "Abendmahl",
-        "Auferstehung",
-        "Auferwecken",
-        "Ausgießung",
-        "Kreuz",
-        "Kreuzigen",
-        "Kreuzigung",
-        "Opfertod",
-        "Sterben"
+        {
+          "text": "Ostern",
+          "start": 1.68,
+          "end": 3.0
+        },
+        {
+          "text": "Aschermittwoch",
+          "start": 5.32,
+          "end": 6.02
+        },
+        {
+          "text": "Fastenzeit",
+          "start": 8.98,
+          "end": 9.68
+        },
+        {
+          "text": "Gründonnerstag",
+          "start": 11.52,
+          "end": 12.92
+        },
+        {
+          "text": "Karfreitag",
+          "start": 14.23,
+          "end": 16.19
+        },
+        {
+          "text": "Karsamstag",
+          "start": 17.47,
+          "end": 18.87
+        },
+        {
+          "text": "Ostersonntag",
+          "start": 21.01,
+          "end": 22.41
+        },
+        {
+          "text": "Palmsonntag",
+          "start": 23.69,
+          "end": 25.55
+        },
+        {
+          "text": "Pfingsten",
+          "start": 26.83,
+          "end": 27.95
+        },
+        {
+          "text": "bemalen",
+          "start": 29.61,
+          "end": 31.01
+        },
+        {
+          "text": "färben",
+          "start": 32.32,
+          "end": 33.34
+        },
+        {
+          "text": "dekorieren",
+          "start": 35.68,
+          "end": 36.38
+        },
+        {
+          "text": "Eierfarbe",
+          "start": 37.66,
+          "end": 39.06
+        },
+        {
+          "text": "Eierschale",
+          "start": 42.16,
+          "end": 43.56
+        },
+        {
+          "text": "bunt",
+          "start": 43.56,
+          "end": 44.5
+        },
+        {
+          "text": "Osterstrauß",
+          "start": 47.52,
+          "end": 48.22
+        },
+        {
+          "text": "sorbische Ostereier",
+          "start": 48.92,
+          "end": 51.74
+        },
+        {
+          "text": "Fruchtbarkeit",
+          "start": 53.09,
+          "end": 54.85
+        },
+        {
+          "text": "Hase",
+          "start": 56.13,
+          "end": 57.45
+        },
+        {
+          "text": "Kaninchen",
+          "start": 58.73,
+          "end": 60.05
+        },
+        {
+          "text": "Symbol",
+          "start": 62.11,
+          "end": 62.81
+        },
+        {
+          "text": "Überbringer",
+          "start": 64.39,
+          "end": 65.79
+        },
+        {
+          "text": "Verstecken",
+          "start": 67.1,
+          "end": 68.76
+        },
+        {
+          "text": "Fasten",
+          "start": 70.07,
+          "end": 71.39
+        },
+        {
+          "text": "Osterbrunch",
+          "start": 74.09,
+          "end": 74.79
+        },
+        {
+          "text": "Ostereiersuche",
+          "start": 77.67,
+          "end": 78.37
+        },
+        {
+          "text": "Osterfeuer",
+          "start": 80.69,
+          "end": 81.39
+        },
+        {
+          "text": "Osterlamm",
+          "start": 84.33,
+          "end": 85.73
+        },
+        {
+          "text": "Ostermarkt",
+          "start": 87.43,
+          "end": 88.83
+        },
+        {
+          "text": "Ostermarsch",
+          "start": 88.83,
+          "end": 89.79
+        },
+        {
+          "text": "Ostereiten",
+          "start": 91.99,
+          "end": 92.83
+        },
+        {
+          "text": "Abendmahl",
+          "start": 95.95,
+          "end": 97.35
+        },
+        {
+          "text": "Auferstehung",
+          "start": 97.35,
+          "end": 98.89
+        },
+        {
+          "text": "Auferwecken",
+          "start": 101.41,
+          "end": 102.11
+        },
+        {
+          "text": "Ausgießung",
+          "start": 104.05,
+          "end": 104.81
+        },
+        {
+          "text": "Kreuz",
+          "start": 107.19,
+          "end": 108.23
+        },
+        {
+          "text": "Kreuzigen",
+          "start": 109.48,
+          "end": 110.84
+        },
+        {
+          "text": "Kreuzigung",
+          "start": 113.58,
+          "end": 114.62
+        },
+        {
+          "text": "Opfertod",
+          "start": 115.22,
+          "end": 116.66
+        },
+        {
+          "text": "Sterben",
+          "start": 118.04,
+          "end": 119.48
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Kirche hat im vierten Jahrhundert festgelegt, dass Ostern den ersten Sonntag nach dem ersten Vollmond nach Frühlingsanfang fällt.",
-        "Am Aschermittwoch beginnt die Fastenzeit.",
-        "An Gründanastag wird an das letzte Mal Jesu mit seinen Jüngern vor seiner Verhaftung erinnert.",
-        "Am Ostersonntag wird die Auferweckung Jesu von den Toten gefeiert.",
-        "An Pfingsten wird die Ausgießung des Heiligen Geistes gefeiert.",
-        "Das klassische Osterei schenkte man traditionell am Ostermorgen als Zeichen der Auferstehung.",
-        "Eierschale besteht hauptsächlich aus Kalk.",
-        "Der Osterhase gilt als Überbringer der Ostereier.",
-        "Beim Abendmahl kommen Christinnen und Christen zusammen und teilen miteinander Brot und Wein.",
-        "Das Kreuz ist eines der Hauptsinnzeichen des Christentums.",
-        "Im römischen Reich wurden die Kreuzigungen nur bei schweren Verbrechen oder an Nichtrömern und Sklaven angewandt."
+        {
+          "text": "Die Kirche hat im vierten Jahrhundert festgelegt, dass Ostern den ersten Sonntag nach dem ersten Vollmond nach Frühlingsanfang fällt.",
+          "start": 129.53,
+          "end": 138.59
+        },
+        {
+          "text": "Am Aschermittwoch beginnt die Fastenzeit.",
+          "start": 141.66,
+          "end": 144.68
+        },
+        {
+          "text": "An Gründanastag wird an das letzte Mal Jesu mit seinen Jüngern vor seiner Verhaftung erinnert.",
+          "start": 147.53,
+          "end": 154.38
+        },
+        {
+          "text": "Am Ostersonntag wird die Auferweckung Jesu von den Toten gefeiert.",
+          "start": 157.4,
+          "end": 162.6
+        },
+        {
+          "text": "An Pfingsten wird die Ausgießung des Heiligen Geistes gefeiert.",
+          "start": 165.69,
+          "end": 170.13
+        },
+        {
+          "text": "Das klassische Osterei schenkte man traditionell am Ostermorgen als Zeichen der Auferstehung.",
+          "start": 173.26,
+          "end": 180.04
+        },
+        {
+          "text": "Eierschale besteht hauptsächlich aus Kalk.",
+          "start": 183.02,
+          "end": 186.66
+        },
+        {
+          "text": "Der Osterhase gilt als Überbringer der Ostereier.",
+          "start": 189.65,
+          "end": 193.53
+        },
+        {
+          "text": "Beim Abendmahl kommen Christinnen und Christen zusammen und teilen miteinander Brot und Wein.",
+          "start": 196.47,
+          "end": 203.05
+        },
+        {
+          "text": "Das Kreuz ist eines der Hauptsinnzeichen des Christentums.",
+          "start": 206.11,
+          "end": 210.43
+        },
+        {
+          "text": "Im römischen Reich wurden die Kreuzigungen nur bei schweren Verbrechen oder an Nichtrömern und Sklaven angewandt.",
+          "start": 213.49,
+          "end": 221.35
+        }
       ]
     }
   ]

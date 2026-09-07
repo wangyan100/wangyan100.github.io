@@ -1,33 +1,33 @@
-überraschen aufdrehen
-begeistern sich begeistern
-anregen angeregt
-Erregung schockieren
-bestürzen Bestürzung
-erschüttern erschüttert
-Erschütterung verblüffen erstaunen frappieren
-wundern verwundern sich verwundern Verwunderung überraschen
-überraschend überraschenderweise
-unerwartet unverhofft
-undenkbar unglaublich
-unglaubwürdig
-unvorstellbar bizarr
-merkwürdig
-seltsam sonderbar
-Sprechen Sie bitte die folgenden Sätze
-Der Sportler war heute mächtig aufgedreht.
-Das Publikum hat dem Künstler begeistert Beifall gespendet.
-Aperitiv regt den Appetit an.
-Er konnte seine Erregung nicht mehr verbergen.
-Ihre Art zu reden hat uns alle schockiert.
-Der tödliche Unfall löste große Bestürzung aus.
-Sie war so verblüfft, dass sie nichts zu sagen wusste.
-Ich staunte über den Reichtum seiner Kenntnisse.
-Der Krieg in Syrien hat die ganze Welt erschüttert.
-Er erstaunte mich durch seine Leistungen.
-Sein schlechtes Benehmen wundert seine Eltern sehr.
-Auf wunderbare Weise wurde er wieder gesund.
-Das ist aber eine Überraschung.
-Das Problem wurde auf überraschende Weise gelöst.
-Der Urlaub war unglaublich schnell vorbei.
-Heute verhält er sich merkwürdig.
-Was ist daran so sonderbar?
+[00:00:01.650 --> 00:00:07.640] überraschen aufdrehen
+[00:00:12.160 --> 00:00:15.960] begeistern sich begeistern
+[00:00:21.760 --> 00:00:24.560] anregen angeregt
+[00:00:25.810 --> 00:00:31.330] Erregung schockieren
+[00:00:34.030 --> 00:00:36.830] bestürzen Bestürzung
+[00:00:37.550 --> 00:00:43.410] erschüttern erschüttert
+[00:00:43.410 --> 00:00:54.620] Erschütterung verblüffen erstaunen frappieren
+[00:00:54.620 --> 00:01:09.520] wundern verwundern sich verwundern Verwunderung überraschen
+[00:01:10.080 --> 00:01:15.200] überraschend überraschenderweise
+[00:01:16.480 --> 00:01:21.330] unerwartet unverhofft
+[00:01:22.610 --> 00:01:27.140] undenkbar unglaublich
+[00:01:30.140 --> 00:01:31.540] unglaubwürdig
+[00:01:31.540 --> 00:01:36.540] unvorstellbar bizarr
+[00:01:37.820 --> 00:01:40.600] merkwürdig
+[00:01:40.600 --> 00:01:45.200] seltsam sonderbar
+[00:01:49.650 --> 00:01:52.390] Sprechen Sie bitte die folgenden Sätze.
+[00:01:55.120 --> 00:01:58.680] Der Sportler war heute mächtig aufgedreht.
+[00:02:01.260 --> 00:02:05.460] Das Publikum hat dem Künstler begeistert Beifall gespendet.
+[00:02:08.600 --> 00:02:11.440] Aperitiv regt den Appetit an.
+[00:02:14.320 --> 00:02:17.360] Er konnte seine Erregung nicht mehr verbergen.
+[00:02:20.490 --> 00:02:23.470] Ihre Art zu reden hat uns alle schockiert.
+[00:02:26.460 --> 00:02:30.460] Der tödliche Unfall löste große Bestürzung aus.
+[00:02:33.500 --> 00:02:37.100] Sie war so verblüfft, dass sie nichts zu sagen wusste.
+[00:02:39.900 --> 00:02:43.280] Ich staunte über den Reichtum seiner Kenntnisse.
+[00:02:46.400 --> 00:02:49.580] Der Krieg in Syrien hat die ganze Welt erschüttert.
+[00:02:52.490 --> 00:02:54.910] Er erstaunte mich durch seine Leistungen.
+[00:02:58.020 --> 00:03:01.060] Sein schlechtes Benehmen wundert seine Eltern sehr.
+[00:03:04.060 --> 00:03:06.920] Auf wunderbare Weise wurde er wieder gesund.
+[00:03:09.950 --> 00:03:11.690] Das ist aber eine Überraschung.
+[00:03:14.770 --> 00:03:17.850] Das Problem wurde auf überraschende Weise gelöst.
+[00:03:20.870 --> 00:03:23.410] Der Urlaub war unglaublich schnell vorbei.
+[00:03:25.750 --> 00:03:28.710] Heute verhält er sich merkwürdig.
+[00:03:31.660 --> 00:03:33.320] Was ist daran so sonderbar?

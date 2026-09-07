@@ -1,29 +1,30 @@
-Gericht, angeklagte, angeklagter
-beklagte, beklagter, Kläger
-Opfer, Richter, Schöffe, Staatsanwalt, Täter, Zeuge
-abweisen, Beweisaufnahme, Klage
-Rechtsstreit, Prozessieren, Verhandlung, zurückziehen
-Anwalt, Berufung
-Mandant, Rechtsfall, verteidigen, plädieren
-Vertreter, begnadigen, freisprechen
-Geldstrafe, Gesamtstrafe, Haft, Todesstrafe
-verurteilen, vollstrecken, betrügen
-Diebstahl, Fahrlässigkeit
-gesetzwidrig, rechtswidrig, kidnappen
-Tatmotiv, Tatort
-Sprechen Sie bitte die folgenden Sätze
-Der Beklagte wird verurteilt, an den Kläger 1000 Euro zu bezahlen.
-Er ist ein gerechter Richter. War der Täter alleine oder hatte er Gehilfen?
-Haben Sie Zeugen, die diese Aussage bestätigen können?
-Das Landgericht Frankfurt am Main hat zu Unrecht die Klage abgewiesen.
-Die Klägerin hat den Rechtsstreit zurückgezogen.
-Der alte Mann prozessierte gegen jeden in der Nachbarschaft.
-Der Verteidiger will Rücksprache mit seinem Mandanten nehmen.
-Die Verhandlung fand unter Ausschluss der Öffentlichkeit statt.
-Der Verteidiger plädierte auf Freispruch.
-Das Gericht hat den Beschuldigten Mangelsbeweises freigesprochen.
-Er wurde zu drei Jahren Haft verurteilt.
-Es ist noch umstritten, ob die Todesstrafe abgeschafft werden soll.
-Die junge Frau weigerte sich, das Urteil zu vollstrecken.
-Eine Verbrecherbande hat seinen Sohn gekidnappt und verlangt ein Lösegeld.
-Der Tatort ist die beliebte Krimireihe der ARD.
+[00:00:01.810 --> 00:00:09.970] Gericht, angeklagte, angeklagter
+[00:00:10.770 --> 00:00:19.020] beklagte, beklagter, Kläger
+[00:00:19.020 --> 00:00:35.290] Opfer, Richter, Schöffe, Staatsanwalt, Täter, Zeuge
+[00:00:36.010 --> 00:00:44.750] abweisen, Beweisaufnahme, Klage
+[00:00:44.750 --> 00:00:56.210] Rechtsstreit, Prozessieren, Verhandlung, zurückziehen
+[00:00:59.670 --> 00:01:02.470] Anwalt, Berufung
+[00:01:03.210 --> 00:01:13.420] Mandant, Rechtsfall, verteidigen, plädieren
+[00:01:16.490 --> 00:01:23.210] Vertreter, begnadigen, freisprechen
+[00:01:24.770 --> 00:01:34.900] Geldstrafe, Gesamtstrafe, Haft, Todesstrafe
+[00:01:36.250 --> 00:01:44.770] verurteilen, vollstrecken, betrügen
+[00:01:45.350 --> 00:01:50.620] Diebstahl, Fahrlässigkeit
+[00:01:54.880 --> 00:01:59.640] gesetzwidrig, rechtswidrig, kidnappen
+[00:02:00.960 --> 00:02:05.480] Tatmotiv, Tatort
+[00:02:09.870 --> 00:02:12.650] Sprechen Sie bitte die folgenden Sätze
+[00:02:15.360 --> 00:02:21.030] Der Beklagte wird verurteilt, an den Kläger 1000 Euro zu bezahlen.
+[00:02:23.870 --> 00:02:26.190] Er ist ein gerechter Richter.
+[00:02:29.000 --> 00:02:32.360] War der Täter alleine oder hatte er geholfen?
+[00:02:35.190 --> 00:02:38.870] Haben Sie Zeugen, die diese Aussage bestätigen können?
+[00:02:41.880 --> 00:02:46.800] Das Landgericht Frankfurt am Main hat zu Unrecht die Klage abgewiesen.
+[00:02:49.800 --> 00:02:53.400] Die Klägerin hat den Rechtsstreit zurückgezogen.
+[00:02:56.440 --> 00:03:00.660] Der alte Mann prozessierte gegen jeden in der Nachbarschaft.
+[00:03:03.680 --> 00:03:07.400] Der Verteidiger will Rücksprache mit seinem Mandanten nehmen.
+[00:03:10.500 --> 00:03:14.140] Die Verhandlung fand unter Ausschluss der Öffentlichkeit statt.
+[00:03:16.920 --> 00:03:20.040] Der Verteidiger plädierte auf Freispruch.
+[00:03:23.020 --> 00:03:27.260] Das Gericht hat den Beschuldigten mangels Beweises freigesprochen.
+[00:03:30.350 --> 00:03:33.390] Er wurde zu drei Jahren Haft verurteilt.
+[00:03:36.370 --> 00:03:40.770] Es ist noch umstritten, ob die Todesstrafe abgeschafft werden soll.
+[00:03:43.840 --> 00:03:47.740] Die junge Frau weigerte sich, das Urteil zu vollstrecken.
+[00:03:50.740 --> 00:03:55.800] Eine Verbrecherbande hat seinen Sohn gekidnappt und verlangt ein Lösegeld.
+[00:03:58.080 --> 00:04:02.740] Der Tatort ist die beliebte Krimireihe der ARD.

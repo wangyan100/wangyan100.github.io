@@ -4,65 +4,297 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Weg",
-        "Allee",
-        "Boulevard",
-        "Einbahnstraße",
-        "Fahrbahn",
-        "Gasse",
-        "Hauptstraße",
-        "Landstraße",
-        "Querstraße",
-        "Radweg",
-        "Bürgersteig",
-        "Fußgänger",
-        "Fußgängerin",
-        "Fußgängerübergang",
-        "Fahrweg",
-        "Kreuzung",
-        "Verkehrsinsel",
-        "Überqueren",
-        "Brückenbahn",
-        "Brückenpfeiler",
-        "Steg",
-        "Unterführung",
-        "Viadukt",
-        "Widerlager",
-        "Zugbrücke",
-        "Überführung",
-        "Ampel",
-        "Tempolimit",
-        "Verkehrspolizei",
-        "Verkehrsregel",
-        "Verkehrsschild",
-        "Verkehrswiedrig",
-        "Parkgebühr",
-        "Parkplatz",
-        "Parkschein",
-        "Parkverbot",
-        "Stau",
-        "Verkehrschaos",
-        "Verkehrsreich",
-        "Verkehrsstark"
+        {
+          "text": "Weg",
+          "start": 1.9,
+          "end": 3.16
+        },
+        {
+          "text": "Allee",
+          "start": 5.25,
+          "end": 6.03
+        },
+        {
+          "text": "Boulevard",
+          "start": 6.75,
+          "end": 7.45
+        },
+        {
+          "text": "Einbahnstraße",
+          "start": 10.16,
+          "end": 10.86
+        },
+        {
+          "text": "Fahrbahn",
+          "start": 12.23,
+          "end": 13.59
+        },
+        {
+          "text": "Gasse",
+          "start": 14.87,
+          "end": 16.29
+        },
+        {
+          "text": "Hauptstraße",
+          "start": 17.6,
+          "end": 19.56
+        },
+        {
+          "text": "Landstraße",
+          "start": 20.84,
+          "end": 22.66
+        },
+        {
+          "text": "Querstraße",
+          "start": 24.07,
+          "end": 25.99
+        },
+        {
+          "text": "Radweg",
+          "start": 27.27,
+          "end": 28.59
+        },
+        {
+          "text": "Bürgersteig",
+          "start": 29.87,
+          "end": 31.91
+        },
+        {
+          "text": "Fußgänger",
+          "start": 33.29,
+          "end": 34.71
+        },
+        {
+          "text": "Fußgängerin",
+          "start": 36.12,
+          "end": 37.92
+        },
+        {
+          "text": "Fußgängerübergang",
+          "start": 39.29,
+          "end": 41.45
+        },
+        {
+          "text": "Zebrastreifen",
+          "start": 42.76,
+          "end": 44.72
+        },
+        {
+          "text": "Fußgängerzone",
+          "start": 46.07,
+          "end": 47.87
+        },
+        {
+          "text": "Gehweg",
+          "start": 49.18,
+          "end": 50.94
+        },
+        {
+          "text": "Kreuzung",
+          "start": 52.25,
+          "end": 53.73
+        },
+        {
+          "text": "Verkehrsinsel",
+          "start": 56.11,
+          "end": 57.23
+        },
+        {
+          "text": "Überqueren",
+          "start": 59.36,
+          "end": 60.22
+        },
+        {
+          "text": "Brückenbahn",
+          "start": 62.53,
+          "end": 63.23
+        },
+        {
+          "text": "Brückenpfeiler",
+          "start": 65.55,
+          "end": 66.25
+        },
+        {
+          "text": "Steg",
+          "start": 67.78,
+          "end": 69.24
+        },
+        {
+          "text": "Unterführung",
+          "start": 72.58,
+          "end": 73.28
+        },
+        {
+          "text": "Viadukt",
+          "start": 74.7,
+          "end": 75.4
+        },
+        {
+          "text": "Widerlager",
+          "start": 77.73,
+          "end": 78.43
+        },
+        {
+          "text": "Zugbrücke",
+          "start": 80.92,
+          "end": 81.62
+        },
+        {
+          "text": "Überführung",
+          "start": 82.86,
+          "end": 84.76
+        },
+        {
+          "text": "Ampel",
+          "start": 86.04,
+          "end": 87.42
+        },
+        {
+          "text": "Tempolimit",
+          "start": 89.32,
+          "end": 90.7
+        },
+        {
+          "text": "Ladehöhe",
+          "start": 92.57,
+          "end": 93.79
+        },
+        {
+          "text": "Umleitung",
+          "start": 95.85,
+          "end": 96.71
+        },
+        {
+          "text": "Verkehrspolizei",
+          "start": 99.26,
+          "end": 100.64
+        },
+        {
+          "text": "Verkehrsregel",
+          "start": 102.67,
+          "end": 103.93
+        },
+        {
+          "text": "Verkehrsschild",
+          "start": 106.01,
+          "end": 107.17
+        },
+        {
+          "text": "Verkehrswiedrig",
+          "start": 109.36,
+          "end": 110.7
+        },
+        {
+          "text": "Parkgebühr",
+          "start": 112.67,
+          "end": 113.87
+        },
+        {
+          "text": "Parkplatz",
+          "start": 115.98,
+          "end": 116.68
+        },
+        {
+          "text": "Parkschein",
+          "start": 119.0,
+          "end": 119.7
+        },
+        {
+          "text": "Parkverbot",
+          "start": 122.09,
+          "end": 122.79
+        },
+        {
+          "text": "Stau",
+          "start": 124.26,
+          "end": 125.62
+        },
+        {
+          "text": "Verkehrschaos",
+          "start": 127.03,
+          "end": 129.13
+        },
+        {
+          "text": "Verkehrsreich",
+          "start": 130.57,
+          "end": 132.15
+        },
+        {
+          "text": "Verkehrsstark",
+          "start": 134.98,
+          "end": 135.88
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Karl-Marx-Allee in Berlin In Berlin war ein Prachtboulevard mit luxuriösem Wohnraum, der in den 1950er Jahren errichtet worden war.",
-        "Ab dem 1.",
-        "Juli soll auf französischen Landstraßen das Tempolimit auf 80 kmh gesenkt werden.",
-        "Fahren sollen die neuen Tretroller in der Regel auf Radwegen oder Fahrbahnen.",
-        "Ein Autofahrer war am Freitagabend mit hoher Geschwindigkeit eine Gruppe Passanten auf einem Bürgersteig zugerasst.",
-        "Eine Fußgängerin hat in Rostock ein totes Baby auf einer Straße entdeckt.",
-        "Bis zum 8.",
-        "Lebensjahr dürfen Kinder mit ihrem Fahrrad auf dem Gehweg fahren.",
-        "Bitte überqueren Sie nicht die Straße, wenn die Ampel noch rot ist.",
-        "Der Parkplatz dient ausschließlich Kunden des Kaufhauses.",
-        "Auf welchem Parkplatz Sie Ihren Pkw abgestellt haben, sowie das Datum und die Uhrzeit Ihres Parkbeginns.",
-        "Wir sollen eine andere Straße nehmen, um Staus zu vermeiden.",
-        "Mit seiner über 30-jährigen Erfahrung steuert der Busfahrer souveräne durch das Verkehrschaos."
+        {
+          "text": "Die Karl-Marx-Allee in Berlin war ein Prachtboulevard mit luxuriösem Wohnraum, der in den 1950er Jahren errichtet worden war.",
+          "start": 146.37,
+          "end": 156.51
+        },
+        {
+          "text": "Ab dem 1.",
+          "start": 159.72,
+          "end": 160.76
+        },
+        {
+          "text": "Juli soll auf französischen Landstraßen das Tempolimit auf 80 kmh gesenkt werden.",
+          "start": 160.98,
+          "end": 167.26
+        },
+        {
+          "text": "Fahren sollen die neuen Tretroller in der Regel auf Radwegen oder Fahrbahnen.",
+          "start": 169.66,
+          "end": 175.86
+        },
+        {
+          "text": "Ein Autofahrer war am Freitagabend mit hoher Geschwindigkeit auf eine Gruppe Passanten auf einem Bürgersteig zugerast.",
+          "start": 178.73,
+          "end": 185.93
+        },
+        {
+          "text": "Eine Fußgängerin hat in Rostock ein totes Baby auf einer Straße entdeckt.",
+          "start": 189.51,
+          "end": 194.57
+        },
+        {
+          "text": "Bis zum 8.",
+          "start": 197.54,
+          "end": 198.46
+        },
+        {
+          "text": "Lebensjahr dürfen Kinder mit ihrem Fahrrad auf dem Gehweg fahren.",
+          "start": 198.78,
+          "end": 202.8
+        },
+        {
+          "text": "Bitte überqueren Sie nicht die Straße, wenn die Ampel noch rot ist.",
+          "start": 205.04,
+          "end": 210.42
+        },
+        {
+          "text": "Der Parkplatz dient ausschließlich Kunden des Kaufhauses.",
+          "start": 213.47,
+          "end": 217.55
+        },
+        {
+          "text": "Der Parkschein zeigt Ihnen, auf welchem Parkplatz Sie Ihren Pkw abgestellt haben, so wie das Datum und die Uhrzeit Ihres Parkbeginns.",
+          "start": 220.55,
+          "end": 229.59
+        },
+        {
+          "text": "Wir sollen eine andere Straße nehmen, um Staus zu vermeiden.",
+          "start": 233.16,
+          "end": 237.3
+        },
+        {
+          "text": "Mit seiner über 30-jährigen Erfahrung steuert der Busfahrer souverän durch das Verkehrschaos.",
+          "start": 239.7,
+          "end": 247.34
+        }
       ]
     }
   ]

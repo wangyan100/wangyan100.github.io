@@ -1,18 +1,17 @@
-wohnen, Miete, Kaltmiete, Warmmiete, Kaution
-Mieter, Mietvertrag, Nebenkosten, Vermieter, einziehen, ausziehen, umziehen
-Mieten, Vermieten, Nachmieten, Untervermieten, Apartment, Einzelapartment, Wohngemeinschaft
-bungalow, Wohnhochhaus, Villa, Wohnung, Einliegerwohnung
-Schloss, Burg, Hütte, Wohnheim, Kaiserpalast, Ferienhaus, Ferienwohnung
-Hotel, Tor, Hof, Fensterladen, Jalousette, Dachvorsprung, Zimmerdecke, Fußboden, Gästezimmer
-Sprechen Sie bitte die folgenden Sätze. Wir zahlen monatlich 1000 Euro Miete.
-In der Warmmiete sind die Kosten für Strom, Gas und Wasser einbezogen.
-In Deutschland werden normalerweise drei Monatsmieten als Kaution verlangt.
-Der Mieter hat sein Zimmer an eine Frau untervermietet.
-Soll ich auf dem Mietvertrag unterschreiben? Ich möchte ein Zimmer möbliert mieten.
-Nach dem Studium bin ich von Berlin nach Heidelberg umgezogen.
-Wenn ich durch das Wohnviertel fahre, sehe ich viele leerstehende Apartments.
-Um Geld zu sparen, suchen viele Studenten die Wohnungen im Wohnheim.
-Schloss Neuschwanstein ist sehenswert. Hier lasst uns Hütten bauen.
-Der Kaiserpalast befindet sich im Zentrum Pekings.
-Das Brandenburger Tor ist das Symbol für Deutschland.
-Der Sturm rappelte an den Fensterläden und das Kind weinte vor Angst.
+[00:00:01.870 --> 00:00:16.980] wohnen, Miete, Kaltmiete, Warmmiete, Kaution
+[00:00:16.980 --> 00:00:38.730] Mieter, Mietvertrag, Nebenkosten, Vermieter, einziehen, ausziehen, umziehen
+[00:00:38.730 --> 00:01:07.190] Mieten, Vermieten, Nachmieten, Untervermieten, Apartment, Einzelapartment, Wohngemeinschaft, Bungalow, Wohnhochhaus
+[00:01:08.190 --> 00:01:38.140] Villa, Wohnung, Einliegerwohnung, Schloss, Burg, Hütte, Wohnheim, Kaiserpalast, Ferienhaus, Ferienwohnung
+[00:01:39.420 --> 00:02:05.640] Hotel, Tor, Hof, Fensterladen, Jalousette, Dachvorsprung, Zimmerdecke, Fußboden, Gästezimmer
+[00:02:10.180 --> 00:02:20.150] Sprechen Sie bitte die folgenden Sätze. Wir zahlen monatlich 1000 Euro Miete.
+[00:02:23.330 --> 00:02:29.430] In der Warmmiete sind die Kosten für Strom, Gas und Wasser einbezogen.
+[00:02:32.520 --> 00:02:38.180] In Deutschland werden normalerweise drei Monatsmieten als Kaution verlangt.
+[00:02:41.060 --> 00:02:44.880] Der Mieter hat sein Zimmer an eine Frau untervermietet.
+[00:02:47.830 --> 00:02:56.960] Soll ich auf dem Mietvertrag unterschreiben? Ich möchte ein Zimmer möbliert mieten.
+[00:02:59.940 --> 00:03:04.180] Nach dem Studium bin ich von Berlin nach Heidelberg umgezogen.
+[00:03:07.260 --> 00:03:12.720] Wenn ich durch das Wohnviertel fahre, sehe ich viele leerstehende Apartments.
+[00:03:15.820 --> 00:03:21.280] Um Geld zu sparen, suchen viele Studenten die Wohnungen im Wohnheim.
+[00:03:24.440 --> 00:03:27.380] Schloss Neuschwanstein ist sehenswert.
+[00:03:29.810 --> 00:03:39.450] Hier lasst uns Hütten bauen. Der Kaiserpalast befindet sich im Zentrum Pekings.
+[00:03:42.620 --> 00:03:46.220] Das Brandenburger Tor ist das Symbol für Deutschland.
+[00:03:49.400 --> 00:03:54.400] Der Sturm rappelte an den Fensterläden und das Kind weinte vor Angst.

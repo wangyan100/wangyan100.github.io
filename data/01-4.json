@@ -4,63 +4,262 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Meeresfrüchte",
-        "Aal",
-        "Barsch",
-        "Forelle",
-        "Graskarpfen",
-        "Karpfen",
-        "Stint",
-        "Stör",
-        "Wels",
-        "Kabeljau",
-        "Lachs",
-        "Makrele",
-        "Meerbrassen",
-        "Sardine",
-        "Scholle",
-        "Schwertfisch",
-        "Thunfisch",
-        "Fangschreckenkrebs",
-        "Flusskrebs",
-        "Garnel",
-        "Hummer",
-        "Krebs",
-        "Krill",
-        "Languste",
-        "Krake",
-        "Qualle",
-        "Tintenfisch",
-        "Seegurke",
-        "Seewalze",
-        "Auster",
-        "Jakobsmuschel",
-        "Pilgermuschel",
-        "Miesmuschel",
-        "Muschel",
-        "Scheidenmuschel",
-        "Kaviar",
-        "Seegel"
+        {
+          "text": "Meeresfrüchte",
+          "start": 1.71,
+          "end": 3.79
+        },
+        {
+          "text": "Aal",
+          "start": 5.36,
+          "end": 6.62
+        },
+        {
+          "text": "Barsch",
+          "start": 8.25,
+          "end": 9.31
+        },
+        {
+          "text": "Forelle",
+          "start": 11.03,
+          "end": 11.87
+        },
+        {
+          "text": "Graskarpfen",
+          "start": 13.89,
+          "end": 15.35
+        },
+        {
+          "text": "Karpfen",
+          "start": 17.09,
+          "end": 17.85
+        },
+        {
+          "text": "Stint",
+          "start": 20.06,
+          "end": 20.78
+        },
+        {
+          "text": "Stör",
+          "start": 22.8,
+          "end": 23.82
+        },
+        {
+          "text": "Wels",
+          "start": 25.5,
+          "end": 26.0
+        },
+        {
+          "text": "Kabeljau",
+          "start": 28.24,
+          "end": 29.14
+        },
+        {
+          "text": "Lachs",
+          "start": 31.22,
+          "end": 32.06
+        },
+        {
+          "text": "Makrele",
+          "start": 34.14,
+          "end": 35.26
+        },
+        {
+          "text": "Meerbrassen",
+          "start": 37.2,
+          "end": 38.46
+        },
+        {
+          "text": "Sardine",
+          "start": 40.0,
+          "end": 41.4
+        },
+        {
+          "text": "Scholle",
+          "start": 43.66,
+          "end": 44.7
+        },
+        {
+          "text": "Schwertfisch",
+          "start": 46.54,
+          "end": 47.86
+        },
+        {
+          "text": "Thunfisch",
+          "start": 49.59,
+          "end": 50.81
+        },
+        {
+          "text": "Fangschreckenkrebs",
+          "start": 52.66,
+          "end": 54.56
+        },
+        {
+          "text": "Flusskrebs",
+          "start": 56.46,
+          "end": 57.86
+        },
+        {
+          "text": "Garnel",
+          "start": 57.86,
+          "end": 60.16
+        },
+        {
+          "text": "Hummer",
+          "start": 62.48,
+          "end": 63.56
+        },
+        {
+          "text": "Krebs",
+          "start": 65.24,
+          "end": 66.2
+        },
+        {
+          "text": "Krill",
+          "start": 68.02,
+          "end": 68.96
+        },
+        {
+          "text": "Languste",
+          "start": 70.72,
+          "end": 71.72
+        },
+        {
+          "text": "Krake",
+          "start": 73.88,
+          "end": 74.82
+        },
+        {
+          "text": "Qualle",
+          "start": 76.67,
+          "end": 77.39
+        },
+        {
+          "text": "Tintenfisch",
+          "start": 79.4,
+          "end": 80.78
+        },
+        {
+          "text": "Seegurke",
+          "start": 82.54,
+          "end": 83.92
+        },
+        {
+          "text": "Seewalze",
+          "start": 85.75,
+          "end": 86.99
+        },
+        {
+          "text": "Auster",
+          "start": 88.86,
+          "end": 89.8
+        },
+        {
+          "text": "Jakobsmuschel",
+          "start": 91.69,
+          "end": 93.23
+        },
+        {
+          "text": "Pilgermuschel",
+          "start": 94.98,
+          "end": 96.52
+        },
+        {
+          "text": "Miesmuschel",
+          "start": 98.35,
+          "end": 99.73
+        },
+        {
+          "text": "Muschel",
+          "start": 101.56,
+          "end": 102.64
+        },
+        {
+          "text": "Scheidenmuschel",
+          "start": 104.42,
+          "end": 105.9
+        },
+        {
+          "text": "Kaviar",
+          "start": 107.73,
+          "end": 108.67
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Er ist glatt wie ein Aal.",
-        "In Australien ist das Züchten und Aussetzen von Karpfen gesetzlich verboten.",
-        "In den letzten Jahrzehnten war der Stint kommerziell kaum von Bedeutung.",
-        "Der Lachs kommt zum Leichen zurück in die Süßgewässer.",
-        "Sardinen erstrecken sich vom nordöstlichen Atlantik und der Nordsee bis zum Senegal.",
-        "Thunfische gehören wegen ihres roten, fetten Fleisches zu den wichtigsten Speisefischen.",
-        "Garnelen sind durch eine Schale geschützt.",
-        "Ein Tintenfisch hat drei Herzen.",
-        "Zwei versorgen seine Arme, das dritte versorgt seinen Körper.",
-        "In Meerestiefen von acht bis neun Kilometern bilden Seegurken rund 90 Prozent der Biomasse.",
-        "Die Auster filtert große Wassermengen, um sich von dem darin enthaltenen Plankton zu ernähren.",
-        "Die Muscheln sind eine Klasse der Weichtiere.",
-        "Kaviar sollte mit Kunststoff oder Perlmutlöffeln gegessen werden, um den Geschmack nicht zu beeinflussen.",
-        "Der Seegel ist getrenntgeschlechtig."
+        {
+          "text": "Er ist glatt wie ein Aal.",
+          "start": 118.6,
+          "end": 124.93
+        },
+        {
+          "text": "In Australien ist das Züchten und Aussetzen von Karpfen gesetzlich verboten.",
+          "start": 127.86,
+          "end": 133.36
+        },
+        {
+          "text": "In den letzten Jahrzehnten war der Stint kommerziell kaum von Bedeutung.",
+          "start": 136.33,
+          "end": 141.81
+        },
+        {
+          "text": "Der Lachs kommt zum Leichen zurück in die Süßgewässer.",
+          "start": 144.05,
+          "end": 149.15
+        },
+        {
+          "text": "Sardinen erstrecken sich vom nordöstlichen Atlantik und der Nordsee bis zum Senegal.",
+          "start": 151.75,
+          "end": 158.49
+        },
+        {
+          "text": "Thunfische gehören wegen ihres roten, fetten Fleisches zu den wichtigsten Speisefischen.",
+          "start": 161.23,
+          "end": 167.75
+        },
+        {
+          "text": "Garnelen sind durch eine Schale geschützt.",
+          "start": 170.88,
+          "end": 173.74
+        },
+        {
+          "text": "Ein Tintenfisch hat drei Herzen.",
+          "start": 176.04,
+          "end": 179.54
+        },
+        {
+          "text": "Zwei versorgen seine Arme, das dritte versorgt seinen Körper.",
+          "start": 179.74,
+          "end": 184.14
+        },
+        {
+          "text": "In Meerestiefen von acht bis neun Kilometern bilden Seegurken rund 90 Prozent der Biomasse.",
+          "start": 187.3,
+          "end": 195.86
+        },
+        {
+          "text": "Die Auster filtert große Wassermengen, um sich von dem darin enthaltenen Plankton zu ernähren.",
+          "start": 198.62,
+          "end": 205.64
+        },
+        {
+          "text": "Die Muscheln sind eine Klasse der Weichtiere.",
+          "start": 208.45,
+          "end": 211.51
+        },
+        {
+          "text": "Kaviar sollte mit Kunststoff oder Perlmuttlöffeln gegessen werden, um den Geschmack nicht zu beeinflussen.",
+          "start": 214.04,
+          "end": 222.18
+        },
+        {
+          "text": "Der Seegel ist getrenntgeschlechtig.",
+          "start": 225.79,
+          "end": 228.63
+        }
       ]
     }
   ]

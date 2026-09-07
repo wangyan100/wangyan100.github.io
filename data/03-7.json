@@ -4,57 +4,247 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "andere Räume",
-        "Trockner",
-        "Waschmaschine",
-        "Waschmittel",
-        "Waschpulver",
-        "Wäschekorb",
-        "Wäsche",
-        "Weichspüler",
-        "Türklingel",
-        "Türklinke",
-        "Türklopfer",
-        "Schloss",
-        "Fliegengitter",
-        "Fußmatte",
-        "Kleiderhaken",
-        "Lagerregal",
-        "Abstellraum",
-        "Bohrmaschine",
-        "Lagerregal",
-        "Nagel",
-        "Säge",
-        "Schraubenschlüssel",
-        "Zange",
-        "Babybett",
-        "Babyfeuchtuch",
-        "Babykost",
-        "Babyflasche",
-        "Flaschenbürste",
-        "Milchpulver",
-        "Milchpumpe",
-        "Sauger",
-        "Säugling",
-        "Windel"
+        {
+          "text": "andere Räume",
+          "start": 1.78,
+          "end": 3.88
+        },
+        {
+          "text": "Trockner",
+          "start": 5.41,
+          "end": 6.89
+        },
+        {
+          "text": "Waschmaschine",
+          "start": 8.3,
+          "end": 10.08
+        },
+        {
+          "text": "Waschmittel",
+          "start": 11.49,
+          "end": 12.83
+        },
+        {
+          "text": "Waschpulver",
+          "start": 15.06,
+          "end": 16.54
+        },
+        {
+          "text": "Wäschekorb",
+          "start": 18.37,
+          "end": 19.31
+        },
+        {
+          "text": "Wäsche",
+          "start": 22.04,
+          "end": 23.44
+        },
+        {
+          "text": "Weichspüler",
+          "start": 23.44,
+          "end": 25.2
+        },
+        {
+          "text": "Türklingel",
+          "start": 26.64,
+          "end": 28.36
+        },
+        {
+          "text": "Türklinke",
+          "start": 30.53,
+          "end": 31.55
+        },
+        {
+          "text": "Türklopfer",
+          "start": 33.9,
+          "end": 34.6
+        },
+        {
+          "text": "Schloss",
+          "start": 36.72,
+          "end": 37.42
+        },
+        {
+          "text": "Fliegengitter",
+          "start": 38.82,
+          "end": 40.6
+        },
+        {
+          "text": "Fußmatte",
+          "start": 42.11,
+          "end": 44.01
+        },
+        {
+          "text": "Kleiderhaken",
+          "start": 45.42,
+          "end": 47.26
+        },
+        {
+          "text": "Schuhlöffel",
+          "start": 48.7,
+          "end": 50.44
+        },
+        {
+          "text": "Schuregal",
+          "start": 51.91,
+          "end": 53.53
+        },
+        {
+          "text": "Abstellraum",
+          "start": 55.51,
+          "end": 56.71
+        },
+        {
+          "text": "Bohrmaschine",
+          "start": 58.86,
+          "end": 60.08
+        },
+        {
+          "text": "Lagerregal",
+          "start": 62.14,
+          "end": 63.48
+        },
+        {
+          "text": "Nagel",
+          "start": 65.42,
+          "end": 66.34
+        },
+        {
+          "text": "Säge",
+          "start": 68.28,
+          "end": 68.98
+        },
+        {
+          "text": "Schraubenschlüssel",
+          "start": 71.65,
+          "end": 72.35
+        },
+        {
+          "text": "Zange",
+          "start": 73.69,
+          "end": 74.93
+        },
+        {
+          "text": "Babybett",
+          "start": 78.42,
+          "end": 79.12
+        },
+        {
+          "text": "Babyfeuchtuch",
+          "start": 80.56,
+          "end": 81.96
+        },
+        {
+          "text": "Babykost",
+          "start": 83.46,
+          "end": 84.86
+        },
+        {
+          "text": "Babyflasche",
+          "start": 86.44,
+          "end": 87.14
+        },
+        {
+          "text": "Flaschenbürste",
+          "start": 89.84,
+          "end": 90.54
+        },
+        {
+          "text": "Milchpulver",
+          "start": 93.55,
+          "end": 94.07
+        },
+        {
+          "text": "Milchpumpe",
+          "start": 96.87,
+          "end": 97.39
+        },
+        {
+          "text": "Sauger",
+          "start": 99.78,
+          "end": 100.82
+        },
+        {
+          "text": "Säugling",
+          "start": 102.26,
+          "end": 103.88
+        },
+        {
+          "text": "Windel",
+          "start": 105.22,
+          "end": 106.64
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Dieses Waschmittel beschädigt die Wäsche nicht.",
-        "Er wirft die Wäsche in den Wäschekorb.",
-        "Die Türklingel des Hauses ist defekt.",
-        "Das 3-jährige Kind kann die Türklinke noch nicht erreichen.",
-        "Der Schuhlöffel hat eine längliche Form und ein gebogenes Ende.",
-        "Diese Flasche Rotwein hat 5 Jahre im Keller gelagert.",
-        "Mit einer Bohrmaschine hat er ein Loch in die Wand gebohrt.",
-        "Du triffst den Nagel auf den Kopf.",
-        "Die Säge schreit.",
-        "Der Säugling saugt Milch mit Sauger in die Flasche.",
-        "Der Säugling saugt an der Mutterbrust.",
-        "Damals lag er noch in den Windeln."
+        {
+          "text": "Dieses Waschmittel beschädigt die Wäsche nicht.",
+          "start": 117.31,
+          "end": 120.21
+        },
+        {
+          "text": "Er wirft die Wäsche in den Wäschekorb.",
+          "start": 123.26,
+          "end": 126.14
+        },
+        {
+          "text": "Die Türklingel des Hauses ist defekt.",
+          "start": 129.38,
+          "end": 132.32
+        },
+        {
+          "text": "Das 3-jährige Kind kann die Türklinke noch nicht erreichen.",
+          "start": 135.45,
+          "end": 140.05
+        },
+        {
+          "text": "Er reibt seine Schuhe auf der Fußmatte.",
+          "start": 143.13,
+          "end": 146.45
+        },
+        {
+          "text": "Der Schuhlöffel hat eine längliche Form und ein gebogenes Ende.",
+          "start": 149.22,
+          "end": 154.28
+        },
+        {
+          "text": "Diese Flasche Rotwein hat 5 Jahre im Keller gelagert.",
+          "start": 157.56,
+          "end": 162.48
+        },
+        {
+          "text": "Mit einer Bohrmaschine hat er ein Loch in die Wand gebohrt.",
+          "start": 165.08,
+          "end": 169.14
+        },
+        {
+          "text": "Du triffst den Nagel auf den Kopf.",
+          "start": 172.16,
+          "end": 174.6
+        },
+        {
+          "text": "Die Säge schreit.",
+          "start": 177.71,
+          "end": 179.53
+        },
+        {
+          "text": "Der Säugling saugt Milch mit Sauger von der Babyflasche.",
+          "start": 182.14,
+          "end": 186.94
+        },
+        {
+          "text": "Der Säugling saugt an der Mutterbrust.",
+          "start": 189.66,
+          "end": 192.94
+        },
+        {
+          "text": "Damals lag er noch in den Windeln.",
+          "start": 196.05,
+          "end": 198.29
+        }
       ]
     }
   ]

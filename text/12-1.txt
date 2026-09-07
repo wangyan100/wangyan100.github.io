@@ -1,22 +1,20 @@
-Liebesbeziehung, Büroliebe, Liebe am Arbeitsplatz, Fernbeziehung, Fernliebende, Fernliebender
-Internetliebe, Liebesglück, Liebesheirat, heiß, heimlich, herzlich, innig, körperlich
-leidenschaftlich, romantisch, treu, unglücklich, an jemandem hängen, liebeln
-Liebe für jemanden empfinden, in Liebe zu jemandem entbrannt sein, mögen, sich verlieben, sich verknallen, verliebt sein
-die einseitige Liebe, die heimliche Liebe, die versteckte Liebe, Jugendliebe, Liebesabenteuer, Liebesaffäre, Liebe auf den ersten Blick, Verliebtheit
-Liebesbrief, Liebeserklärung, Liebesgedicht, Liebeskrank, Liebeskummer
-Liebeslied
-Sprechen Sie bitte die folgenden Sätze
-Alte Liebe rostet nicht
-Liebe und Verliebtheit entstehen durch Nähe und Vertrauen
-Liebe am Arbeitsplatz ist Alltag in Deutschland
-Langzeitstudien zeigen, nach zwei bis drei Jahren ist meistens Schluss mit der Fernbeziehung
-Fernliebende müssen ihre Ansprüche herunterschrauben
-Seine Internetliebe wurde zum Albtraum
-Fast jeder träumt von der romantischen Liebe und hofft, eines Tages den Partner fürs Leben zu finden
-Er verliebt sich leidenschaftlich in sie
-Ich habe mich in meinen Kollegen verknallt
-Die Jugendliebe ist brüchig
-Bei der Liebesaffäre spielt die körperliche Liebe eine wichtige Rolle
-Klassische Liebesbriefe werden heute eher weniger geschrieben
-Auf kunstvolle Art und Weise wurden Liebesgedichte mit viel Mühe gestaltet und dann lieber an den Empfänger übermittelt
-In den USA ist Liebeskranksein als Krankheit anerkannt
+[00:00:01.840 --> 00:00:21.000] Liebesbeziehung, Büroliebe, Liebe am Arbeitsplatz, Fernbeziehung, Fernliebende, Fernliebender
+[00:00:24.740 --> 00:00:44.150] Internetliebe, Liebesglück, Liebesheirat, heiß, heimlich, herzlich, innig, körperlich
+[00:00:46.730 --> 00:01:02.740] leidenschaftlich, romantisch, treu, unglücklich, an jemandem hängen, liebeln
+[00:01:04.060 --> 00:01:23.480] Liebe für jemanden empfinden, in Liebe zu jemandem entbrannt sein, mögen, sich verlieben, sich verknallen, verliebt sein
+[00:01:24.480 --> 00:01:51.160] die einseitige Liebe, die heimliche Liebe, die versteckte Liebe, Jugendliebe, Liebesabenteuer, Liebesaffäre, Liebe auf den ersten Blick, Verliebtheit
+[00:01:55.440 --> 00:02:07.060] Liebesbrief, Liebeserklärung, Liebesgedicht, Liebeskrank, Liebeskummer
+[00:02:09.720 --> 00:02:17.610] Liebeslied, sprechen Sie bitte die folgenden Sätze
+[00:02:20.520 --> 00:02:30.560] Alte Liebe rostet nicht, Liebe und Verliebtheit entstehen durch Nähe und Vertrauen
+[00:02:32.770 --> 00:02:36.750] Liebe am Arbeitsplatz ist Alltag in Deutschland
+[00:02:40.160 --> 00:02:46.900] Langzeitstudien zeigen, nach zwei bis drei Jahren ist meistens Schluss mit der Fernbeziehung
+[00:02:49.270 --> 00:02:53.750] Fernliebende müssen ihre Ansprüche herunterschrauben
+[00:02:56.080 --> 00:03:00.000] Seine Internetliebe wurde zum Albtraum
+[00:03:02.340 --> 00:03:09.600] Fast jeder träumt von der romantischen Liebe und hofft, eines Tages den Partner fürs Leben zu finden
+[00:03:11.940 --> 00:03:15.680] Er verliebt sich leidenschaftlich in sie
+[00:03:17.920 --> 00:03:20.720] Ich habe mich in meinen Kollegen verknallt
+[00:03:23.940 --> 00:03:26.040] Die Jugendliebe ist brüchig
+[00:03:28.280 --> 00:03:34.180] Bei der Liebesaffäre spielt die körperliche Liebe eine wichtige Rolle
+[00:03:36.480 --> 00:03:41.740] Klassische Liebesbriefe werden heute eher weniger geschrieben
+[00:03:43.980 --> 00:03:53.140] Auf kunstvolle Art und Weise wurden Liebesgedichte mit viel Mühe gestaltet und dann lieber an den Empfänger übermittelt
+[00:03:55.440 --> 00:04:00.820] In den USA ist Liebeskranksein als Krankheit anerkannt

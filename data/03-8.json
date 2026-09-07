@@ -4,65 +4,277 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "wohnen",
-        "Miete",
-        "Kaltmiete",
-        "Warmmiete",
-        "Kaution",
-        "Mieter",
-        "Mietvertrag",
-        "Nebenkosten",
-        "Vermieter",
-        "einziehen",
-        "ausziehen",
-        "umziehen",
-        "Mieten",
-        "Vermieten",
-        "Nachmieten",
-        "Untervermieten",
-        "Apartment",
-        "Einzelapartment",
-        "Wohngemeinschaft",
-        "bungalow",
-        "Wohnhochhaus",
-        "Villa",
-        "Wohnung",
-        "Einliegerwohnung",
-        "Schloss",
-        "Burg",
-        "Hütte",
-        "Wohnheim",
-        "Kaiserpalast",
-        "Ferienhaus",
-        "Ferienwohnung",
-        "Hotel",
-        "Tor",
-        "Hof",
-        "Fensterladen",
-        "Jalousette",
-        "Dachvorsprung",
-        "Zimmerdecke",
-        "Fußboden",
-        "Gästezimmer"
+        {
+          "text": "wohnen",
+          "start": 1.87,
+          "end": 3.87
+        },
+        {
+          "text": "Miete",
+          "start": 5.49,
+          "end": 6.25
+        },
+        {
+          "text": "Kaltmiete",
+          "start": 8.21,
+          "end": 9.69
+        },
+        {
+          "text": "Warmmiete",
+          "start": 11.51,
+          "end": 12.57
+        },
+        {
+          "text": "Kaution",
+          "start": 14.52,
+          "end": 16.98
+        },
+        {
+          "text": "Mieter",
+          "start": 16.98,
+          "end": 18.84
+        },
+        {
+          "text": "Mietvertrag",
+          "start": 20.56,
+          "end": 22.12
+        },
+        {
+          "text": "Nebenkosten",
+          "start": 23.99,
+          "end": 25.23
+        },
+        {
+          "text": "Vermieter",
+          "start": 27.35,
+          "end": 28.65
+        },
+        {
+          "text": "einziehen",
+          "start": 30.22,
+          "end": 31.14
+        },
+        {
+          "text": "ausziehen",
+          "start": 33.2,
+          "end": 34.1
+        },
+        {
+          "text": "umziehen",
+          "start": 36.35,
+          "end": 38.73
+        },
+        {
+          "text": "Mieten",
+          "start": 38.73,
+          "end": 40.47
+        },
+        {
+          "text": "Vermieten",
+          "start": 42.37,
+          "end": 44.67
+        },
+        {
+          "text": "Nachmieten",
+          "start": 45.75,
+          "end": 46.93
+        },
+        {
+          "text": "Untervermieten",
+          "start": 48.54,
+          "end": 50.44
+        },
+        {
+          "text": "Apartment",
+          "start": 52.2,
+          "end": 53.38
+        },
+        {
+          "text": "Einzelapartment",
+          "start": 55.17,
+          "end": 57.19
+        },
+        {
+          "text": "Wohngemeinschaft",
+          "start": 59.04,
+          "end": 60.74
+        },
+        {
+          "text": "Bungalow",
+          "start": 62.48,
+          "end": 63.68
+        },
+        {
+          "text": "Wohnhochhaus",
+          "start": 65.77,
+          "end": 67.19
+        },
+        {
+          "text": "Villa",
+          "start": 68.19,
+          "end": 69.55
+        },
+        {
+          "text": "Wohnung",
+          "start": 72.24,
+          "end": 72.6
+        },
+        {
+          "text": "Einliegerwohnung",
+          "start": 75.01,
+          "end": 76.71
+        },
+        {
+          "text": "Schloss",
+          "start": 78.55,
+          "end": 79.65
+        },
+        {
+          "text": "Burg",
+          "start": 81.42,
+          "end": 81.88
+        },
+        {
+          "text": "Hütte",
+          "start": 83.9,
+          "end": 85.08
+        },
+        {
+          "text": "Wohnheim",
+          "start": 86.86,
+          "end": 87.9
+        },
+        {
+          "text": "Kaiserpalast",
+          "start": 89.86,
+          "end": 91.34
+        },
+        {
+          "text": "Ferienhaus",
+          "start": 93.34,
+          "end": 94.4
+        },
+        {
+          "text": "Ferienwohnung",
+          "start": 96.68,
+          "end": 98.14
+        },
+        {
+          "text": "Hotel",
+          "start": 99.42,
+          "end": 100.64
+        },
+        {
+          "text": "Tor",
+          "start": 102.74,
+          "end": 103.22
+        },
+        {
+          "text": "Hof",
+          "start": 105.44,
+          "end": 106.08
+        },
+        {
+          "text": "Fensterladen",
+          "start": 108.33,
+          "end": 109.91
+        },
+        {
+          "text": "Jalousette",
+          "start": 111.49,
+          "end": 112.77
+        },
+        {
+          "text": "Dachvorsprung",
+          "start": 114.57,
+          "end": 116.23
+        },
+        {
+          "text": "Zimmerdecke",
+          "start": 118.06,
+          "end": 119.26
+        },
+        {
+          "text": "Fußboden",
+          "start": 121.29,
+          "end": 122.59
+        },
+        {
+          "text": "Gästezimmer",
+          "start": 124.42,
+          "end": 125.64
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "In der Warmmiete sind die Kosten für Strom, Gas und Wasser einbezogen.",
-        "In Deutschland werden normalerweise drei Monatsmieten als Kaution verlangt.",
-        "Der Mieter hat sein Zimmer an eine Frau untervermietet.",
-        "Soll ich auf dem Mietvertrag unterschreiben?",
-        "Ich möchte ein Zimmer möbliert mieten.",
-        "Nach dem Studium bin ich von Berlin nach Heidelberg umgezogen.",
-        "Wenn ich durch das Wohnviertel fahre, sehe ich viele leerstehende Apartments.",
-        "Um Geld zu sparen, suchen viele Studenten die Wohnungen im Wohnheim.",
-        "Schloss Neuschwanstein ist sehenswert.",
-        "Hier lasst uns Hütten bauen.",
-        "Der Kaiserpalast befindet sich im Zentrum Pekings.",
-        "Das Brandenburger Tor ist das Symbol für Deutschland.",
-        "Der Sturm rappelte an den Fensterläden und das Kind weinte vor Angst."
+        {
+          "text": "In der Warmmiete sind die Kosten für Strom, Gas und Wasser einbezogen.",
+          "start": 143.33,
+          "end": 149.43
+        },
+        {
+          "text": "In Deutschland werden normalerweise drei Monatsmieten als Kaution verlangt.",
+          "start": 152.52,
+          "end": 158.18
+        },
+        {
+          "text": "Der Mieter hat sein Zimmer an eine Frau untervermietet.",
+          "start": 161.06,
+          "end": 164.88
+        },
+        {
+          "text": "Soll ich auf dem Mietvertrag unterschreiben?",
+          "start": 167.83,
+          "end": 170.74
+        },
+        {
+          "text": "Ich möchte ein Zimmer möbliert mieten.",
+          "start": 173.9,
+          "end": 176.96
+        },
+        {
+          "text": "Nach dem Studium bin ich von Berlin nach Heidelberg umgezogen.",
+          "start": 179.94,
+          "end": 184.18
+        },
+        {
+          "text": "Wenn ich durch das Wohnviertel fahre, sehe ich viele leerstehende Apartments.",
+          "start": 187.26,
+          "end": 192.72
+        },
+        {
+          "text": "Um Geld zu sparen, suchen viele Studenten die Wohnungen im Wohnheim.",
+          "start": 195.82,
+          "end": 201.28
+        },
+        {
+          "text": "Schloss Neuschwanstein ist sehenswert.",
+          "start": 204.44,
+          "end": 207.38
+        },
+        {
+          "text": "Hier lasst uns Hütten bauen.",
+          "start": 209.81,
+          "end": 212.45
+        },
+        {
+          "text": "Der Kaiserpalast befindet sich im Zentrum Pekings.",
+          "start": 215.71,
+          "end": 219.45
+        },
+        {
+          "text": "Das Brandenburger Tor ist das Symbol für Deutschland.",
+          "start": 222.62,
+          "end": 226.22
+        },
+        {
+          "text": "Der Sturm rappelte an den Fensterläden und das Kind weinte vor Angst.",
+          "start": 229.4,
+          "end": 234.4
+        }
       ]
     }
   ]

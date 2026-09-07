@@ -4,66 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Getränke",
-        "Leitungswasser",
-        "Mineralwasser",
-        "Sodawasser",
-        "Sprudelwasser",
-        "das stille Wasser",
-        "Tafelwasser",
-        "Trinkwasser",
-        "das Wasser mit Kohlensäure",
-        "das Wasser ohne Kohlensäure",
-        "Brause",
-        "Energydrink",
-        "Cola",
-        "Limonade",
-        "Schorle",
-        "Sprite",
-        "Fruchtsaft",
-        "Obstsaft",
-        "Ananasaft",
-        "Apfelsaft",
-        "Orangensaft",
-        "Traubensaft",
-        "Gemüsesaft",
-        "Karottensaft",
-        "Tomatensaft",
-        "Eistee",
-        "Früchtetee",
-        "der grüne Tee",
-        "Kräutertee",
-        "Mate",
-        "Milchtee",
-        "Oolongtee",
-        "Pfefferminztee",
-        "der schwarze Tee",
-        "der weiße Tee",
-        "Buttermilch",
-        "Dickmilch",
-        "Sauermilch",
-        "die fettarme Milch",
-        "Frischmilch",
-        "Joghurt",
-        "Vollmilch"
+        {
+          "text": "Getränke",
+          "start": 1.94,
+          "end": 3.9
+        },
+        {
+          "text": "Leitungswasser",
+          "start": 5.62,
+          "end": 6.8
+        },
+        {
+          "text": "Mineralwasser",
+          "start": 9.08,
+          "end": 10.32
+        },
+        {
+          "text": "Sodawasser",
+          "start": 12.36,
+          "end": 13.46
+        },
+        {
+          "text": "Sprudelwasser",
+          "start": 15.52,
+          "end": 17.58
+        },
+        {
+          "text": "das stille Wasser",
+          "start": 18.18,
+          "end": 20.04
+        },
+        {
+          "text": "Tafelwasser",
+          "start": 22.05,
+          "end": 23.19
+        },
+        {
+          "text": "Trinkwasser",
+          "start": 25.19,
+          "end": 26.21
+        },
+        {
+          "text": "das Wasser mit Kohlensäure",
+          "start": 27.49,
+          "end": 30.61
+        },
+        {
+          "text": "das Wasser ohne Kohlensäure",
+          "start": 31.19,
+          "end": 33.95
+        },
+        {
+          "text": "Brause",
+          "start": 35.23,
+          "end": 36.45
+        },
+        {
+          "text": "Energydrink",
+          "start": 38.56,
+          "end": 40.0
+        },
+        {
+          "text": "Cola",
+          "start": 41.9,
+          "end": 42.7
+        },
+        {
+          "text": "Limonade",
+          "start": 44.28,
+          "end": 45.68
+        },
+        {
+          "text": "Schorle",
+          "start": 47.46,
+          "end": 48.46
+        },
+        {
+          "text": "Sprite",
+          "start": 50.41,
+          "end": 51.47
+        },
+        {
+          "text": "Fruchtsaft",
+          "start": 53.35,
+          "end": 55.47
+        },
+        {
+          "text": "Obstsaft",
+          "start": 55.47,
+          "end": 57.77
+        },
+        {
+          "text": "Ananasaft",
+          "start": 59.55,
+          "end": 61.99
+        },
+        {
+          "text": "Apfelsaft",
+          "start": 62.69,
+          "end": 65.19
+        },
+        {
+          "text": "Orangensaft",
+          "start": 65.19,
+          "end": 67.31
+        },
+        {
+          "text": "Traubensaft",
+          "start": 69.09,
+          "end": 71.37
+        },
+        {
+          "text": "Gemüsesaft",
+          "start": 71.37,
+          "end": 73.73
+        },
+        {
+          "text": "Karottensaft",
+          "start": 75.65,
+          "end": 77.15
+        },
+        {
+          "text": "Tomatensaft",
+          "start": 78.97,
+          "end": 80.29
+        },
+        {
+          "text": "Eistee",
+          "start": 81.83,
+          "end": 83.39
+        },
+        {
+          "text": "Früchtetee",
+          "start": 85.32,
+          "end": 86.56
+        },
+        {
+          "text": "der grüne Tee",
+          "start": 88.31,
+          "end": 90.01
+        },
+        {
+          "text": "Kräutertee",
+          "start": 91.61,
+          "end": 93.23
+        },
+        {
+          "text": "Mate",
+          "start": 94.88,
+          "end": 95.92
+        },
+        {
+          "text": "Milchtee",
+          "start": 98.14,
+          "end": 99.46
+        },
+        {
+          "text": "Oolongtee",
+          "start": 100.77,
+          "end": 102.09
+        },
+        {
+          "text": "Pfefferminztee",
+          "start": 103.91,
+          "end": 105.29
+        },
+        {
+          "text": "der schwarze Tee",
+          "start": 107.33,
+          "end": 108.99
+        },
+        {
+          "text": "der weiße Tee",
+          "start": 110.6,
+          "end": 112.44
+        },
+        {
+          "text": "Buttermilch",
+          "start": 113.68,
+          "end": 115.92
+        },
+        {
+          "text": "Dickmilch",
+          "start": 116.88,
+          "end": 118.84
+        },
+        {
+          "text": "Sauermilch",
+          "start": 120.16,
+          "end": 121.32
+        },
+        {
+          "text": "die fettarme Milch",
+          "start": 122.96,
+          "end": 125.08
+        },
+        {
+          "text": "Frischmilch",
+          "start": 126.52,
+          "end": 128.42
+        },
+        {
+          "text": "Joghurt",
+          "start": 130.29,
+          "end": 131.17
+        },
+        {
+          "text": "Vollmilch",
+          "start": 133.17,
+          "end": 134.45
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Kohlensäure verleiht dem Wasser einen gewissen Geschmack.",
-        "Mineralwasser wird direkt am Gewinnungsort abgefüllt und benötigt eine amtliche Anerkennung.",
-        "Wasser ohne Kohlensäure schmeckt immer wie Leitungswasser.",
-        "Brausen werden nicht nur aus natürlichen Stoffen hergestellt, sondern können auch künstliche Aroma und Farbstoffe enthalten.",
-        "Schorle hat weniger Kalorien, ist nicht so süß, leichter verträglich und erfrischender als purer Saft.",
-        "Möchtest du den Saft gespritzt?",
-        "In Deutschland werden jährlich ca. 6,6 Millionen Hektoliter Eistee abgesetzt.",
-        "Der Hongkonger bevorzugt Milchtee oder Zitronenlimo mit Salz.",
-        "Buttermilch enthält maximal 1% Fett.",
-        "Sauermilch schlägt durch.",
-        "Im Unterschied zu Joghurt werden bei der Herstellung von Dickmilch Laktokokken beigefügt.",
-        "Vollmilch enthält mindestens 3,5% Fett."
+        {
+          "text": "Die Kohlensäure verleiht dem Wasser einen gewissen Geschmack.",
+          "start": 144.57,
+          "end": 149.61
+        },
+        {
+          "text": "Mineralwasser wird direkt am Gewinnungsort abgefüllt und benötigt eine amtliche Anerkennung.",
+          "start": 152.4,
+          "end": 159.38
+        },
+        {
+          "text": "Wasser ohne Kohlensäure schmeckt immer wie Leitungswasser.",
+          "start": 161.75,
+          "end": 166.43
+        },
+        {
+          "text": "Brausen werden nicht nur aus natürlichen Stoffen hergestellt, sondern können auch künstliche Aroma und Farbstoffe enthalten.",
+          "start": 169.41,
+          "end": 178.33
+        },
+        {
+          "text": "Schorle hat weniger Kalorien, ist nicht so süß, leichter verträglich und erfrischender als purer Saft.",
+          "start": 181.63,
+          "end": 190.47
+        },
+        {
+          "text": "Möchtest du den Saft gespritzt?",
+          "start": 193.3,
+          "end": 195.42
+        },
+        {
+          "text": "In Deutschland werden jährlich ca. 6,6 Millionen Hektoliter Eistee abgesetzt.",
+          "start": 197.95,
+          "end": 205.12
+        },
+        {
+          "text": "Der Hongkonger bevorzugt Milchtee oder Zitronenlimo mit Salz.",
+          "start": 208.33,
+          "end": 213.45
+        },
+        {
+          "text": "Buttermilch enthält maximal 1% Fett.",
+          "start": 216.58,
+          "end": 219.9
+        },
+        {
+          "text": "Sauermilch schlägt durch.",
+          "start": 219.9,
+          "end": 225.02
+        },
+        {
+          "text": "Im Unterschied zu Joghurt werden bei der Herstellung von Dickmilch Laktokokken beigefügt.",
+          "start": 225.02,
+          "end": 234.37
+        },
+        {
+          "text": "Vollmilch enthält mindestens 3,5% Fett.",
+          "start": 234.37,
+          "end": 241.65
+        }
       ]
     }
   ]

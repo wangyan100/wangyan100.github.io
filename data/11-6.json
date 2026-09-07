@@ -4,54 +4,222 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Algebra 1 Bruchstrich",
-        "Doppelbruch",
-        "der echte Bruch",
-        "der eigentliche Bruch",
-        "der unechte Bruch",
-        "der uneigentliche Bruch",
-        "Zähler",
-        "Nenner",
-        "Hauptnenner",
-        "der endliche Dezimalbruch",
-        "der unendliche Dezimalbruch",
-        "der unendliche periodische Dezimalbruch",
-        "der unendliche unperiodische Dezimalbruch",
-        "Dezimalsystem",
-        "Komma",
-        "die algebraische Formel",
-        "Teiler",
-        "der gemeinsame Teiler",
-        "der größte gemeinsame Teiler",
-        "Primfaktor",
-        "Primfaktorzerlegung",
-        "imaginäre Zahlen",
-        "irrationale Zahlen",
-        "komplexe Zahlen",
-        "natürliche Zahlen",
-        "rationale Zahlen",
-        "proportional",
-        "Rate",
-        "Verhältnis",
-        "Proportion"
+        {
+          "text": "Algebra 1 Bruchstrich",
+          "start": 1.71,
+          "end": 7.45
+        },
+        {
+          "text": "Doppelbruch",
+          "start": 9.0,
+          "end": 11.34
+        },
+        {
+          "text": "der echte Bruch",
+          "start": 11.34,
+          "end": 13.64
+        },
+        {
+          "text": "der eigentliche Bruch",
+          "start": 15.01,
+          "end": 18.23
+        },
+        {
+          "text": "der unechte Bruch",
+          "start": 18.23,
+          "end": 20.71
+        },
+        {
+          "text": "der uneigentliche Bruch",
+          "start": 21.96,
+          "end": 24.36
+        },
+        {
+          "text": "Zähler",
+          "start": 25.73,
+          "end": 27.11
+        },
+        {
+          "text": "Nenner",
+          "start": 28.88,
+          "end": 29.72
+        },
+        {
+          "text": "Hauptnenner",
+          "start": 31.52,
+          "end": 32.72
+        },
+        {
+          "text": "der endliche Dezimalbruch",
+          "start": 33.97,
+          "end": 37.33
+        },
+        {
+          "text": "der unendliche Dezimalbruch",
+          "start": 38.13,
+          "end": 41.45
+        },
+        {
+          "text": "der unendliche periodische Dezimalbruch",
+          "start": 42.7,
+          "end": 46.66
+        },
+        {
+          "text": "der unendliche unperiodische Dezimalbruch",
+          "start": 47.94,
+          "end": 52.02
+        },
+        {
+          "text": "Dezimalsystem",
+          "start": 53.27,
+          "end": 55.41
+        },
+        {
+          "text": "Komma",
+          "start": 56.72,
+          "end": 58.0
+        },
+        {
+          "text": "die algebraische Formel",
+          "start": 59.28,
+          "end": 61.88
+        },
+        {
+          "text": "Teiler",
+          "start": 63.19,
+          "end": 64.29
+        },
+        {
+          "text": "der gemeinsame Teiler",
+          "start": 65.54,
+          "end": 69.18
+        },
+        {
+          "text": "der größte gemeinsame Teiler",
+          "start": 69.18,
+          "end": 72.32
+        },
+        {
+          "text": "Primfaktor",
+          "start": 73.7,
+          "end": 75.5
+        },
+        {
+          "text": "Primfaktorszerlegung",
+          "start": 76.78,
+          "end": 79.26
+        },
+        {
+          "text": "imaginäre Zahlen",
+          "start": 80.5,
+          "end": 82.7
+        },
+        {
+          "text": "irrationale Zahlen",
+          "start": 83.98,
+          "end": 86.34
+        },
+        {
+          "text": "komplexe Zahlen",
+          "start": 89.62,
+          "end": 91.02
+        },
+        {
+          "text": "natürliche Zahlen",
+          "start": 91.02,
+          "end": 93.42
+        },
+        {
+          "text": "rationale Zahlen",
+          "start": 94.74,
+          "end": 96.88
+        },
+        {
+          "text": "proportional",
+          "start": 98.19,
+          "end": 100.01
+        },
+        {
+          "text": "Rate",
+          "start": 101.45,
+          "end": 102.37
+        },
+        {
+          "text": "Verhältnis",
+          "start": 104.31,
+          "end": 106.03
+        },
+        {
+          "text": "Proportion",
+          "start": 107.31,
+          "end": 108.69
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Wenn bei einer Bruchzahl der Betrag des Zählers kleiner als der des Nenners ist, dann spricht man von einem echten oder eigentlichen Bruch.",
-        "In manchen Fällen wird der Bruchstrich auch schräg geschrieben.",
-        "Wenn der Zähler der Bruchzahl größer als der Nenner ist, bezeichnet man solche Bruchzahl als den unechten Bruch.",
-        "Doppelbrüche lassen sich durch Erweitern mit einem geeigneten Faktor vereinfachen.",
-        "Zähler und Nenner eines Bruches sind ganze Zahlen.",
-        "Bei einem Bruch darf der Nenner nicht Null sein.",
-        "Unter einem endlichen Dezimalbruch versteht man einen Dezimalbruch, der bis auf die letzte Stelle berechenbar ist.",
-        "Pi ist ein typischer unendlicher unperiodischer Dezimalbruch.",
-        "Die gemeinsamen Teiler von 12 und 18 sind also 1, 2, 3, 6 und der größte gemeinsame Teiler von diesen ist 6.",
-        "Die reellen Zahlen beinhalten die rationalen Zahlen und die irrationalen Zahlen.",
-        "Irrationale Zahl ist auch der unendliche unperiodische Dezimalbruch.",
-        "Die kleinste natürliche Zahl ist die Null. 20 steht im Verhältnis zu 100 wie 1 zu 5."
+        {
+          "text": "Wenn bei einer Bruchzahl der Betrag des Zählers kleiner als der des Nenners ist, dann spricht man von einem echten oder eigentlichen Bruch.",
+          "start": 119.13,
+          "end": 129.23
+        },
+        {
+          "text": "In manchen Fällen wird der Bruchstrich auch schräg geschrieben.",
+          "start": 132.2,
+          "end": 136.64
+        },
+        {
+          "text": "Wenn der Zähler der Bruchzahl größer als der Nenner ist, bezeichnet man solche Bruchzahl als den unechten Bruch.",
+          "start": 139.7,
+          "end": 148.06
+        },
+        {
+          "text": "Doppelbrüche lassen sich durch Erweitern mit einem geeigneten Faktor vereinfachen.",
+          "start": 151.44,
+          "end": 157.26
+        },
+        {
+          "text": "Zähler und Nenner eines Bruches sind ganze Zahlen.",
+          "start": 159.83,
+          "end": 163.27
+        },
+        {
+          "text": "Bei einem Bruch darf der Nenner nicht Null sein.",
+          "start": 166.3,
+          "end": 169.52
+        },
+        {
+          "text": "Unter einem endlichen Dezimalbruch versteht man einen Dezimalbruch, der bis auf die letzte Stelle berechenbar ist.",
+          "start": 172.64,
+          "end": 180.52
+        },
+        {
+          "text": "Pi ist ein typischer unendlicher unperiodischer Dezimalbruch.",
+          "start": 183.56,
+          "end": 188.3
+        },
+        {
+          "text": "Die gemeinsamen Teiler von 12 und 18 sind also 1, 2, 3, 6 und der größte gemeinsame Teiler von diesen ist 6.",
+          "start": 190.96,
+          "end": 203.58
+        },
+        {
+          "text": "Die reellen Zahlen beinhalten die rationalen Zahlen und die irrationalen Zahlen.",
+          "start": 206.53,
+          "end": 212.55
+        },
+        {
+          "text": "Irrationale Zahl ist auch der unendliche unperiodische Dezimalbruch.",
+          "start": 215.64,
+          "end": 221.5
+        },
+        {
+          "text": "Die kleinste natürliche Zahl ist die Null. 20 steht im Verhältnis zu 100 wie 1 zu 5.",
+          "start": 223.74,
+          "end": 235.0
+        }
       ]
     }
   ]

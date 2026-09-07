@@ -1,8 +1,9 @@
-ärger, erbittern, Feindschaft, feindselig, hassen, Hassenswert, Hass erfüllt, Rache, Rechen, Aussöhnung, sich aussöhnen
-sich mit, verkrachen, streiten, streitbar, sich zanken, sich über, zerstreiten, Zwietracht
-missmutig, Missstimmung, nervös, Niederdrücken, Schärerei, Schlecht gelaunt sein, verdrieslich, Verdruss
-beschimpfen, Schimpferei, schimpflich, Tadel, tadeln, über, fluchen, Vorwurf, Vorwerfen, sich über, aufregen, ärgerlich, böse, wütend, zornig, sich über, ärgern
-verstimmt, Wut, Zorn, sprechen Sie bitte die folgenden Sätze. Seine Misserfolge erbittern Ihnen sehr. Zwischen Ihnen herrscht Feindschaft. Sie hassen sich tödlich. Es wird sich rächen, dass Du so leichtsinnig bist.
-Das Ehepaar hat sich wieder ausgesöhnt. Wir haben uns verkracht. Sie zanken sich den ganzen Tag um nichts und wieder nichts. Die zwei Brüder haben sich über das Erbe ihres Vaters zerstritten.
-Der Mann ging uns mit einem missmutigen Zischeln aus dem Weg. Er ist während der langen Wartezeit ganz nervös geworden. Der Misserfolg bei der Fußball-Weltmeisterschaft hat die deutschen Spieler niedergedrückt. Der Misserfolg drückt ihn nieder.
-Das gibt nur unnötige Scherrereien. Warum sehen Sie so verdrieslich aus? Er findet an allem etwas zu tadeln. Er regt sich über seinen Chef fürchterlich auf. Seine Ablehnung verstimmt uns aufs Tiefste. Er war rot vor Zorn.
+[00:00:01.940 --> 00:00:33.520] ärger, erbittern, Feindschaft, feindselig, hassen, Hassenswert, Hass erfüllt, Rache, Rechen, Aussöhnung, sich aussöhnen
+[00:00:34.450 --> 00:00:54.900] sich mit, verkrachen, streiten, streitbar, sich zanken, sich über, zerstreiten, Zwietracht
+[00:00:54.900 --> 00:01:19.510] missmutig, Missstimmung, nervös, Niederdrücken, Schärerei, Schlecht gelaunt sein, verdrieslich, Verdruss
+[00:01:19.510 --> 00:01:51.540] beschimpfen, Schimpferei, schimpflich, Tadel, tadeln, über, fluchen, Vorwurf, Vorwerfen, sich über, aufregen, ärgerlich
+[00:01:51.540 --> 00:02:13.210] böse, wütend, zornig, sich über, ärgern, verstimmt, Wut, Zorn
+[00:02:17.630 --> 00:02:42.480] Sprechen sie bitte die folgenden Sätze. Seine Misserfolge erbittern ihn sehr. Zwischen ihnen herrscht Feindschaft. Sie hassen sich tödlich. Es wird sich rächen, dass du so leichtsinnig bist.
+[00:02:44.850 --> 00:03:08.020] Das Ehepaar hat sich wieder ausgesöhnt. Wir haben uns verkracht. Sie zanken sich den ganzen Tag um nichts und wieder nichts. Die zwei Brüder haben sich über das Erbe ihres Vaters zerstritten.
+[00:03:10.390 --> 00:03:30.670] Der Mann ging uns mit einem missmutigen Zischeln aus dem Weg. Er ist während der langen Wartezeit ganz nervös geworden. Der Misserfolg bei der Fußballweltmeisterschaft hat die deutschen Spieler niedergedrückt.
+[00:03:32.910 --> 00:04:09.490] Der Misserfolg drückt ihn nieder. Das gibt nur unnötige Schärereien. Warum sehen sie so verdrieslich aus? Er findet an allem etwas zu tadeln. Er regt sich über seinen Chef fürchterlich auf. Seine Ablehnung verstimmt uns aufs Tiefste. Er war rot vor Zorn.

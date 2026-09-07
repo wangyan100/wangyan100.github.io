@@ -4,68 +4,312 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Säugetiere",
-        "zwei",
-        "Dachs",
-        "Fuchs",
-        "Hyäne",
-        "Marderhund",
-        "Polarfuchs",
-        "Schakal",
-        "Wiesel",
-        "Wolf",
-        "Bengalkatze",
-        "Gepard",
-        "Leopard",
-        "Löwe",
-        "Luchs",
-        "Puma",
-        "Silberlöwe",
-        "Tiger",
-        "Affe",
-        "Gibbon",
-        "Gorilla",
-        "Makak",
-        "Mandrill",
-        "Pavian",
-        "Schimpanse",
-        "Stumpfnasenaffe",
-        "Beuteldachs",
-        "Beutelmarder",
-        "Beutelratte",
-        "Koala",
-        "Wombat",
-        "Beutel",
-        "Zitze",
-        "Fledermaus",
-        "Flughund",
-        "Rosettenflughund",
-        "Vampirfledermaus",
-        "Elefant",
-        "Mammut",
-        "Rüssel",
-        "Stoßzahn"
+        {
+          "text": "Säugetiere",
+          "start": 1.68,
+          "end": 3.38
+        },
+        {
+          "text": "zwei",
+          "start": 3.44,
+          "end": 4.64
+        },
+        {
+          "text": "Dachs",
+          "start": 5.95,
+          "end": 7.11
+        },
+        {
+          "text": "Fuchs",
+          "start": 8.84,
+          "end": 9.86
+        },
+        {
+          "text": "Hyäne",
+          "start": 11.2,
+          "end": 12.78
+        },
+        {
+          "text": "Marderhund",
+          "start": 14.06,
+          "end": 15.84
+        },
+        {
+          "text": "Polarfuchs",
+          "start": 17.09,
+          "end": 18.73
+        },
+        {
+          "text": "Schakal",
+          "start": 20.74,
+          "end": 21.88
+        },
+        {
+          "text": "Wiesel",
+          "start": 24.66,
+          "end": 26.06
+        },
+        {
+          "text": "Wolf",
+          "start": 26.06,
+          "end": 27.42
+        },
+        {
+          "text": "Bengalkatze",
+          "start": 30.72,
+          "end": 32.12
+        },
+        {
+          "text": "Gepard",
+          "start": 32.12,
+          "end": 33.5
+        },
+        {
+          "text": "Leopard",
+          "start": 35.27,
+          "end": 36.87
+        },
+        {
+          "text": "Löwe",
+          "start": 38.49,
+          "end": 39.27
+        },
+        {
+          "text": "Luchs",
+          "start": 39.89,
+          "end": 41.73
+        },
+        {
+          "text": "Puma",
+          "start": 43.14,
+          "end": 44.98
+        },
+        {
+          "text": "Silberlöwe",
+          "start": 46.26,
+          "end": 48.2
+        },
+        {
+          "text": "Tiger",
+          "start": 49.51,
+          "end": 50.55
+        },
+        {
+          "text": "Affe",
+          "start": 53.01,
+          "end": 53.71
+        },
+        {
+          "text": "Gibbon",
+          "start": 54.96,
+          "end": 56.26
+        },
+        {
+          "text": "Gorilla",
+          "start": 57.5,
+          "end": 59.14
+        },
+        {
+          "text": "Makak",
+          "start": 60.42,
+          "end": 61.96
+        },
+        {
+          "text": "Mandrill",
+          "start": 63.24,
+          "end": 64.74
+        },
+        {
+          "text": "Pavian",
+          "start": 66.18,
+          "end": 67.84
+        },
+        {
+          "text": "Schimpanse",
+          "start": 69.22,
+          "end": 70.94
+        },
+        {
+          "text": "Stumpfnasenaffe",
+          "start": 72.48,
+          "end": 74.44
+        },
+        {
+          "text": "Beuteldax",
+          "start": 75.75,
+          "end": 78.05
+        },
+        {
+          "text": "Beutelmarder",
+          "start": 79.39,
+          "end": 81.31
+        },
+        {
+          "text": "Beutelratte",
+          "start": 82.56,
+          "end": 84.62
+        },
+        {
+          "text": "Beutelwolf",
+          "start": 85.9,
+          "end": 87.2
+        },
+        {
+          "text": "Känguru",
+          "start": 89.21,
+          "end": 90.49
+        },
+        {
+          "text": "Koala",
+          "start": 92.52,
+          "end": 93.4
+        },
+        {
+          "text": "Wombat",
+          "start": 95.53,
+          "end": 96.23
+        },
+        {
+          "text": "Beutel",
+          "start": 98.47,
+          "end": 99.17
+        },
+        {
+          "text": "Zitze",
+          "start": 100.51,
+          "end": 101.83
+        },
+        {
+          "text": "Fledermaus",
+          "start": 103.24,
+          "end": 104.98
+        },
+        {
+          "text": "Flughund",
+          "start": 106.39,
+          "end": 108.09
+        },
+        {
+          "text": "Rosettenflughund",
+          "start": 109.4,
+          "end": 111.74
+        },
+        {
+          "text": "Vampirfledermaus",
+          "start": 115.3,
+          "end": 116.0
+        },
+        {
+          "text": "Elefant",
+          "start": 117.8,
+          "end": 119.2
+        },
+        {
+          "text": "Mammut",
+          "start": 119.9,
+          "end": 121.08
+        },
+        {
+          "text": "Rüssel",
+          "start": 122.8,
+          "end": 123.5
+        },
+        {
+          "text": "Stoßzahn",
+          "start": 125.16,
+          "end": 126.8
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Junge ist schlau wie ein Fuchs.",
-        "Der Polarfuchs ist der einzige Wildhund, der die Farbe seines Pelzes den Jahreszeiten entsprechend wechselt.",
-        "Die Bengalkatze wird wegen ihres Fels gejagt.",
-        "Nach dem Mahl bedeckt Leopard seine Beutereste mit Gras, Zweigen oder Laub.",
-        "Pumas sind sehr beweglich und kräftig.",
-        "In Malaysia, Indonesien und Thailand werden Makaken zur Kokosnussernte eingesetzt.",
-        "Beuteldachs sind Allesfresser.",
-        "Ihr Speiseplan reicht von Insekten über kleine Wirbeltiere bis zu pflanzlichem Material.",
-        "Weibliche Beutelwölfe hatten einen geöffneten Beutel, der vier Zitzen enthielt.",
-        "Kängurus springen mit den Hinterbeinen, der Schwanz bleibt in der Luft und dient der Balance.",
-        "Als nachtaktive Tiere besitzen Koalas ein gutes Hörvermögen.",
-        "Erwachsene Wombats haben wenige natürliche Gegner, ihr größter Fressfeind ist der Dingo.",
-        "Natürliche Feinde der Fledermäuse sind vor allem Katzen und Greifvögel.",
-        "Die Touristin setzte sich auf den Elefanten.",
-        "Der Rüssel ist ein Multifunktionsorgan."
+        {
+          "text": "Der Junge ist schlau wie ein Fuchs.",
+          "start": 137.14,
+          "end": 139.62
+        },
+        {
+          "text": "Der Polarfuchs ist der einzige Wildhund, der die Farbe seines Pelzes den Jahreszeiten entsprechend wechselt.",
+          "start": 142.64,
+          "end": 150.68
+        },
+        {
+          "text": "Die Bengalkatze wird wegen ihres Fels gejagt.",
+          "start": 153.37,
+          "end": 156.91
+        },
+        {
+          "text": "Nach dem Mahl bedeckt Leopard seine Beutereste mit Gras, Zweigen oder Laub.",
+          "start": 160.01,
+          "end": 165.95
+        },
+        {
+          "text": "Pumas sind sehr beweglich und kräftig.",
+          "start": 168.32,
+          "end": 172.12
+        },
+        {
+          "text": "In Malaysia, Indonesien und Thailand werden Makaken zur Kokosnussernte eingesetzt.",
+          "start": 174.94,
+          "end": 181.56
+        },
+        {
+          "text": "Beuteldax sind Allesfresser.",
+          "start": 184.82,
+          "end": 186.92
+        },
+        {
+          "text": "Ihr Speiseplan reicht von Insekten über kleine Wirbeltiere bis zu pflanzlichem Material.",
+          "start": 187.4,
+          "end": 194.4
+        },
+        {
+          "text": "Weibliche Beutelwölfe hatten einen geöffneten Beutel, der vier Zitzen enthielt.",
+          "start": 197.63,
+          "end": 203.41
+        },
+        {
+          "text": "Kängurus springen mit den Hinterbeinen.",
+          "start": 205.78,
+          "end": 209.04
+        },
+        {
+          "text": "Der Schwanz bleibt in der Luft und dient der Balance.",
+          "start": 209.16,
+          "end": 212.34
+        },
+        {
+          "text": "Als nachtaktive Tiere besitzen Koalas ein gutes Hörvermögen.",
+          "start": 215.72,
+          "end": 220.14
+        },
+        {
+          "text": "Erwachsene Wombats haben wenige natürliche Gegner.",
+          "start": 223.58,
+          "end": 227.54
+        },
+        {
+          "text": "Ihr größter Fressfeind ist der Dingo.",
+          "start": 228.0,
+          "end": 230.72
+        },
+        {
+          "text": "Natürliche Feinde der Fledermäuse sind vor allem Katzen und Greifvögel.",
+          "start": 233.92,
+          "end": 238.66
+        },
+        {
+          "text": "Die Touristin setzte sich auf den Elefanten.",
+          "start": 241.9,
+          "end": 245.12
+        },
+        {
+          "text": "Der Rüssel ist ein Multifunktionsorgan.",
+          "start": 248.16,
+          "end": 250.14
+        }
       ]
     }
   ]

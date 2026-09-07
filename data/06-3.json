@@ -4,67 +4,287 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Basketball",
-        "Akteur",
-        "Auswechselspieler",
-        "Bankspieler",
-        "Feldspieler",
-        "Center",
-        "Forward",
-        "Guard",
-        "Auslinie",
-        "die begrenzte Zone",
-        "Drei-Punkte-Linie",
-        "Endlinie",
-        "Freivorflinie",
-        "Korb",
-        "Vorfeld",
-        "Rückfeld",
-        "Zielbrett",
-        "Dunking",
-        "Faul",
-        "Freivorf",
-        "Halbzeit",
-        "Korbwurf",
-        "Nahwurf",
-        "Treffer",
-        "Viertel",
-        "Weitwurf",
-        "abwehren",
-        "abdrängen",
-        "blockieren",
-        "dribbeln",
-        "in den Korb legen",
-        "rempeln",
-        "springen",
-        "auswärts",
-        "Gastmannschaft",
-        "Heimmannschaft",
-        "Platzmannschaft",
-        "Heimspiel",
-        "Heimvorteil",
-        "startende 5",
-        "Erste 5"
+        {
+          "text": "Basketball",
+          "start": 1.46,
+          "end": 3.32
+        },
+        {
+          "text": "Akteur",
+          "start": 5.0,
+          "end": 7.32
+        },
+        {
+          "text": "Auswechselspieler",
+          "start": 7.82,
+          "end": 10.66
+        },
+        {
+          "text": "Bankspieler",
+          "start": 10.98,
+          "end": 12.22
+        },
+        {
+          "text": "Feldspieler",
+          "start": 13.99,
+          "end": 15.49
+        },
+        {
+          "text": "Center",
+          "start": 16.89,
+          "end": 17.53
+        },
+        {
+          "text": "Forward",
+          "start": 19.74,
+          "end": 20.22
+        },
+        {
+          "text": "Guard",
+          "start": 22.42,
+          "end": 23.08
+        },
+        {
+          "text": "Auslinie",
+          "start": 24.86,
+          "end": 26.4
+        },
+        {
+          "text": "die begrenzte Zone",
+          "start": 27.02,
+          "end": 29.2
+        },
+        {
+          "text": "3-Punkte-Linie",
+          "start": 30.48,
+          "end": 32.84
+        },
+        {
+          "text": "Endlinie",
+          "start": 34.12,
+          "end": 35.82
+        },
+        {
+          "text": "Freivorflinie",
+          "start": 37.23,
+          "end": 39.19
+        },
+        {
+          "text": "Korb",
+          "start": 40.47,
+          "end": 41.55
+        },
+        {
+          "text": "Vorfeld",
+          "start": 42.93,
+          "end": 44.93
+        },
+        {
+          "text": "Rückfeld",
+          "start": 44.93,
+          "end": 47.15
+        },
+        {
+          "text": "Zielbrett",
+          "start": 48.46,
+          "end": 50.1
+        },
+        {
+          "text": "Dunking",
+          "start": 51.41,
+          "end": 52.87
+        },
+        {
+          "text": "Faul",
+          "start": 54.25,
+          "end": 55.39
+        },
+        {
+          "text": "Freivurf",
+          "start": 56.83,
+          "end": 58.55
+        },
+        {
+          "text": "Halbzeit",
+          "start": 59.86,
+          "end": 61.38
+        },
+        {
+          "text": "Korbwurf",
+          "start": 61.38,
+          "end": 64.04
+        },
+        {
+          "text": "Nahwurf",
+          "start": 64.78,
+          "end": 66.32
+        },
+        {
+          "text": "Treffer",
+          "start": 67.66,
+          "end": 69.06
+        },
+        {
+          "text": "Viertel",
+          "start": 70.34,
+          "end": 72.34
+        },
+        {
+          "text": "Weitwurf",
+          "start": 74.6,
+          "end": 75.34
+        },
+        {
+          "text": "abwehren",
+          "start": 76.0,
+          "end": 77.74
+        },
+        {
+          "text": "abdrängen",
+          "start": 78.99,
+          "end": 81.45
+        },
+        {
+          "text": "blockieren",
+          "start": 81.45,
+          "end": 84.03
+        },
+        {
+          "text": "dribbeln",
+          "start": 85.47,
+          "end": 86.87
+        },
+        {
+          "text": "in den Korb legen",
+          "start": 87.21,
+          "end": 89.93
+        },
+        {
+          "text": "rempeln",
+          "start": 90.59,
+          "end": 92.25
+        },
+        {
+          "text": "springen",
+          "start": 94.3,
+          "end": 96.4
+        },
+        {
+          "text": "auswärts",
+          "start": 98.08,
+          "end": 99.48
+        },
+        {
+          "text": "Gastmannschaft",
+          "start": 99.48,
+          "end": 101.16
+        },
+        {
+          "text": "Heimmannschaft",
+          "start": 102.47,
+          "end": 104.57
+        },
+        {
+          "text": "Platzmannschaft",
+          "start": 105.82,
+          "end": 107.72
+        },
+        {
+          "text": "Heimspiel",
+          "start": 109.06,
+          "end": 110.62
+        },
+        {
+          "text": "Heimvorteil",
+          "start": 111.96,
+          "end": 113.9
+        },
+        {
+          "text": "Startende 5",
+          "start": 115.31,
+          "end": 118.13
+        },
+        {
+          "text": "Erste 5",
+          "start": 118.13,
+          "end": 119.97
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Startaufstellung der Feldspieler besteht aus einem Center, zwei Forwards und zwei Guards.",
-        "Der Center ist meist der größte und körperlich stärkste Spieler einer Mannschaft.",
-        "Der Guard gibt den Ball zum Power Forward ab.",
-        "Der Ball hat die Auslinie überschritten.",
-        "Immer wenn Nowitzki zum Korbwurf ansetzte, erhoben sich die Fans von ihren Sitzen.",
-        "Der Schiedsrichter stellt wegen Faul den Feldspieler vom Platz.",
-        "Der ballführende Spieler begeht ein Faul durch rempeln.",
-        "In der zweiten Halbzeit hat die Mannschaft noch einmal aufgedreht.",
-        "Der Treffer in den Korb zählt nach Entfernung zwei oder drei Punkte.",
-        "Ein Basketballspiel besteht aus Vierteln und jedes Viertel hat eine Dauer von 10 Minuten.",
-        "Gute Verteidiger können den Angreifer schnell abdrängen.",
-        "Dieser Spieler kann zwei Meter hoch springen.",
-        "Der 40 Jahre alte Profi kündigte nach dem letzten Heimspiel an, seine Karriere zu beenden.",
-        "Einen Heimvorteil haben Mannschaften an die örtlichen Gegebenheiten besser angepasst zu sein als der Gegner."
+        {
+          "text": "Die Startaufstellung der Feldspieler besteht aus einem Center, zwei Forwards und zwei Guards.",
+          "start": 130.23,
+          "end": 137.11
+        },
+        {
+          "text": "Der Center ist meist der größte und körperlich stärkste Spieler einer Mannschaft.",
+          "start": 139.32,
+          "end": 145.52
+        },
+        {
+          "text": "Der Guard gibt den Ball zum Power Forward ab.",
+          "start": 148.92,
+          "end": 152.6
+        },
+        {
+          "text": "Der Ball hat die Auslinie überschritten.",
+          "start": 155.58,
+          "end": 157.8
+        },
+        {
+          "text": "Immer wenn Nowitzki zum Korbwurf ansetzte, erhoben sich die Fans von ihren Sitzen.",
+          "start": 161.16,
+          "end": 167.22
+        },
+        {
+          "text": "Der Schiedsrichter stellt wegen Faul den Feldspieler vom Platz.",
+          "start": 170.22,
+          "end": 174.48
+        },
+        {
+          "text": "Der Ballführende Spieler begeht ein Faul durch rempeln.",
+          "start": 174.48,
+          "end": 181.61
+        },
+        {
+          "text": "In der zweiten Halbzeit hat die Mannschaft noch einmal aufgedreht.",
+          "start": 184.61,
+          "end": 189.19
+        },
+        {
+          "text": "Der Treffer in den Korb zählt nach Entfernung 2 oder 3 Punkte.",
+          "start": 191.62,
+          "end": 196.26
+        },
+        {
+          "text": "Ein Basketballspiel besteht aus Vierteln und jedes Viertel hat eine Dauer von 10 Minuten.",
+          "start": 199.32,
+          "end": 205.8
+        },
+        {
+          "text": "Gute Verteidiger können den Angreifer schnell abdrängen.",
+          "start": 208.86,
+          "end": 212.88
+        },
+        {
+          "text": "Dieser Spieler kann 2 Meter hoch springen.",
+          "start": 215.16,
+          "end": 219.16
+        },
+        {
+          "text": "Der 40 Jahre alte Profi kündigte nach dem letzten Heimspiel an, seine Karriere zu beenden.",
+          "start": 221.82,
+          "end": 228.82
+        },
+        {
+          "text": "Einen Heimvorteil haben Mannschaften an die örtlichen Gegebenheiten besser angepasst zu sein als der Gegner.",
+          "start": 232.0,
+          "end": 239.68
+        }
       ]
     }
   ]

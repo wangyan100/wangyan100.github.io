@@ -1,58 +1,59 @@
-Schule
-Grundschule
-Hauptschule
-Realschule
-Gymnasium
-Gesamtschule
-Studienkolleg
-Hochschule
-Universität
-Doktor
-Doktoren
-Dozent
-Dozentin
-Hiwi
-Lehrer
-Lehrerin
-Professor
-Professoren
-Schüler
-Schülerin
-Student
-Studentin
-Tutor
-Tutoren
-Kreide
-Interaktive Whiteboards
-IWB
-Multimedia
-Pult
-Stundenplan
-Tafel
-Blogseminar
-Exkursion
-Kolloquium
-Ringvorlesung
-Seminar
-Tutorium
-Vorlesung
-Übung
-Abitur
-Examen
-Hausarbeit
-Klausur
-Die mündliche Prüfung
-Die schriftliche Prüfung
-Zeugnis
-Sprechen Sie bitte die folgenden Sätze
-Das Gymnasium ist die höchste Schulart in Deutschland und zielt für die Schüler ab, die in der Zukunft an der Universität studieren möchten.
-In manchen Bundesländern gibt es Gesamtschulen, in denen Hauptschule, Realschule und Gymnasium zusammen sind.
-Im Studienkolleg können sich die ausländischen Studenten auf das Fachstudium an der Universität vorbereiten.
-Sein Vater ist Professor für Maschinenbau.
-Der Lehrer setzt sich zwischen Pult und Tafel.
-Unter der Leitung von dem Lehrer unternehmen alle Teilnehmenden des Seminars eine Exkursion.
-Im Gegensatz zu einem Seminar bedeutet Kolloquium einen fachlichen Gedankenaustausch ohne feste Form.
-Man macht normalerweise am Ende der zwölften Klasse Abitur am Gymnasium.
-Nach dem zehnten Semester hat Hans sein Examen gemacht.
-Ihr habt bei der mündlichen Prüfung gut abgeschnitten.
-Ich habe die schriftliche Prüfung bestanden.
+[00:00:02.030 --> 00:00:03.270] Schule
+[00:00:04.550 --> 00:00:06.390] Grundschule
+[00:00:07.740 --> 00:00:09.480] Hauptschule
+[00:00:10.760 --> 00:00:12.700] Realschule
+[00:00:14.860 --> 00:00:16.260] Gymnasium
+[00:00:16.860 --> 00:00:18.600] Gesamtschule
+[00:00:20.000 --> 00:00:21.940] Studienkolleg
+[00:00:23.260 --> 00:00:25.220] Hochschule
+[00:00:26.640 --> 00:00:28.040] Universität
+[00:00:29.320 --> 00:00:31.140] Doktor
+[00:00:32.100 --> 00:00:33.900] Doktoren
+[00:00:34.980 --> 00:00:36.560] Dozent
+[00:00:37.700 --> 00:00:39.340] Dozentin
+[00:00:40.680 --> 00:00:43.160] Hiwi
+[00:00:43.160 --> 00:00:44.640] Lehrer
+[00:00:46.000 --> 00:00:47.280] Lehrerin
+[00:00:48.560 --> 00:00:49.820] Professor
+[00:00:51.600 --> 00:00:53.280] Professoren
+[00:00:54.620 --> 00:00:55.540] Schüler
+[00:00:56.890 --> 00:00:58.730] Schülerin
+[00:01:00.170 --> 00:01:01.070] Student
+[00:01:02.480 --> 00:01:04.720] Studentin
+[00:01:06.000 --> 00:01:07.380] Tutor
+[00:01:08.620 --> 00:01:09.880] Tutoren
+[00:01:11.230 --> 00:01:13.570] Kreide
+[00:01:14.170 --> 00:01:16.890] Interaktive Whiteboards
+[00:01:19.490 --> 00:01:20.190] IWB
+[00:01:22.370 --> 00:01:23.070] Magnet
+[00:01:24.370 --> 00:01:25.770] Multimedia
+[00:01:27.050 --> 00:01:28.310] Pult
+[00:01:29.750 --> 00:01:31.310] Stundenplan
+[00:01:32.620 --> 00:01:34.320] Tafel
+[00:01:37.190 --> 00:01:37.990] Blogseminar
+[00:01:38.590 --> 00:01:39.990] Exkursion
+[00:01:41.800 --> 00:01:43.460] Kolloquium
+[00:01:46.580 --> 00:01:47.980] Ringvorlesung
+[00:01:47.980 --> 00:01:49.660] Seminar
+[00:01:50.900 --> 00:01:52.580] Tutorium
+[00:01:53.930 --> 00:01:56.030] Vorlesung
+[00:01:56.030 --> 00:01:58.270] Übung
+[00:01:59.550 --> 00:02:00.990] Abitur
+[00:02:02.460 --> 00:02:04.260] Examen
+[00:02:05.540 --> 00:02:07.140] Hausarbeit
+[00:02:09.020 --> 00:02:10.160] Klausur
+[00:02:11.410 --> 00:02:14.590] Die mündliche Prüfung
+[00:02:14.590 --> 00:02:16.420] Die schriftliche Prüfung
+[00:02:18.800 --> 00:02:19.780] Zeugnis
+[00:02:24.290 --> 00:02:27.050] Sprechen Sie bitte die folgenden Sätze.
+[00:02:30.010 --> 00:02:39.230] Das Gymnasium ist die höchste Schulart in Deutschland und zielt für die Schüler ab, die in der Zukunft an der Universität studieren möchten.
+[00:02:42.040 --> 00:02:49.900] In manchen Bundesländern gibt es Gesamtschulen, in denen Hauptschule, Realschule und Gymnasium zusammen sind.
+[00:02:52.950 --> 00:03:01.130] Im Studienkolleg können sich die ausländischen Studenten auf das Fachstudium an der Universität vorbereiten.
+[00:03:03.850 --> 00:03:06.790] Sein Vater ist Professor für Maschinenbau.
+[00:03:09.740 --> 00:03:13.600] Der Lehrer setzt sich zwischen Pult und Tafel.
+[00:03:15.840 --> 00:03:22.880] Unter der Leitung von dem Lehrer unternehmen alle Teilnehmenden des Seminars eine Exkursion.
+[00:03:25.450 --> 00:03:33.210] Im Gegensatz zu einem Seminar bedeutet Kolloquium einen fachlichen Gedankenaustausch ohne feste Form.
+[00:03:36.320 --> 00:03:41.740] Man macht normalerweise am Ende der zwölften Klasse Abitur am Gymnasium.
+[00:03:44.700 --> 00:03:48.860] Nach dem zehnten Semester hat Hans sein Examen gemacht.
+[00:03:51.130 --> 00:03:55.550] Sie hat bei der mündlichen Prüfung gut abgeschnitten.
+[00:03:58.380 --> 00:04:01.160] Ich habe die schriftliche Prüfung bestanden.

@@ -1,53 +1,55 @@
-Gewürze
-Honig
-Kandis
-Kandiszucker
-Karamell
-Puderzucker
-Streuzucker
-Würfelzucker
-Zucker
-Meersalz
-Salz
-Sojasoße
-Essig
-Obstessig
-Reisessig
-Weinessig
-Chilisoße
-Curry
-Paprikapulver
-Chili-Pulver
-Pfeffer
-Senf
-Basilikum
-Minze
-Nelke
-Pfefferminze
-Petersilie
-Rosmarin
-Salbei
-Thymian
-Zimt
-Béchamelsoße
-Dressing
-Ketchup
-Mayonnaise
-Erdnussöl
-Olivenöl
-Rapsöl
-Sesamöl
-Sprechen Sie bitte die folgenden Sätze.
-Die Bienen saugen den Honig aus den Blüten.
-Puderzucker wird durch Mahlen von raffiniertem weißem Zucker gewonnen.
-Ich trinke meinen Kaffee immer mit Zucker.
-Salz lässt unsere Speisen weniger fadisch schmecken und wird als das weiße Gold bezeichnet.
-Sojasoße ist eine asiatische Würzsoße.
-Sie richtet Salat mit Essig und Olivenöl an.
-Pfeffer schmeckt scharf.
-Viele italienische Gerichte, wie zum Beispiel Tomatensauce, Pasta, Pesto oder Pizza, sind ohne Basilikum kaum vorstellbar.
-Minzen sind aromatische und ausdauernde krautige Pflanzen.
-Die Petersilie ist eine gebräuchliche Zutat.
-Der Salbei ist eines der ältesten Heilkräuter.
-Im Europa des 16. bis 18. Jahrhunderts galt Zimt als eines der besonders teuren Gewürze.
-Béchamelsoße ist eine helle Soße aus Milch, Butter und Mehl, die bei der Zubereitung vieler Gerichte verwendet wird.
+[00:00:01.710 --> 00:00:03.530] Gewürze
+[00:00:04.840 --> 00:00:06.200] Honig
+[00:00:07.480 --> 00:00:08.940] Kandis
+[00:00:10.290 --> 00:00:12.030] Kandiszucker
+[00:00:13.340 --> 00:00:15.120] Karamell
+[00:00:16.460 --> 00:00:17.880] Puderzucker
+[00:00:19.450 --> 00:00:21.290] Streuzucker
+[00:00:22.700 --> 00:00:24.620] Würfelzucker
+[00:00:25.960 --> 00:00:27.140] Zucker
+[00:00:30.460 --> 00:00:31.860] Meersalz
+[00:00:31.860 --> 00:00:33.300] Salz
+[00:00:35.020 --> 00:00:36.420] Sojasoße
+[00:00:37.700 --> 00:00:40.020] Essig
+[00:00:41.820 --> 00:00:43.220] Obstessig
+[00:00:43.220 --> 00:00:45.320] Reisessig
+[00:00:46.640 --> 00:00:48.460] Weinessig
+[00:00:49.900 --> 00:00:51.660] Chilisoße
+[00:00:53.160 --> 00:00:54.160] Curry
+[00:00:55.470 --> 00:00:57.810] Paprikapulver
+[00:00:59.220 --> 00:01:01.220] Chili-Pulver
+[00:01:02.530 --> 00:01:03.790] Pfeffer
+[00:01:05.230 --> 00:01:06.750] Senf
+[00:01:08.030 --> 00:01:10.370] Basilikum
+[00:01:11.070 --> 00:01:12.670] Minze
+[00:01:13.950 --> 00:01:15.510] Nelke
+[00:01:16.890 --> 00:01:18.650] Pfefferminze
+[00:01:19.960 --> 00:01:21.800] Petersilie
+[00:01:23.270 --> 00:01:25.130] Rosmarin
+[00:01:26.380 --> 00:01:27.880] Salbei
+[00:01:29.220 --> 00:01:30.800] Thymian
+[00:01:33.740 --> 00:01:35.140] Zimt
+[00:01:35.140 --> 00:01:37.140] Béchamelsoße
+[00:01:38.540 --> 00:01:39.720] Dressing
+[00:01:41.100 --> 00:01:42.540] Ketchup
+[00:01:43.980 --> 00:01:45.560] Mayonnaise
+[00:01:47.100 --> 00:01:49.780] Erdnussöl
+[00:01:49.780 --> 00:01:52.420] Olivenöl
+[00:01:53.360 --> 00:01:54.760] Rapsöl
+[00:01:56.100 --> 00:01:57.940] Sesamöl
+[00:02:02.520 --> 00:02:05.460] Sprechen Sie bitte die folgenden Sätze.
+[00:02:08.560 --> 00:02:12.040] Die Bienen saugen den Honig aus den Blüten.
+[00:02:14.350 --> 00:02:20.690] Puderzucker wird durch Mahlen von raffiniertem weißem Zucker gewonnen.
+[00:02:23.320 --> 00:02:26.120] Ich trinke meinen Kaffee immer mit Zucker.
+[00:02:29.320 --> 00:02:36.180] Salz lässt unsere Speisen weniger fadisch schmecken und wird als das weiße Gold bezeichnet.
+[00:02:39.390 --> 00:02:43.070] Sojasoße ist eine asiatische Würzsoße.
+[00:02:46.040 --> 00:02:50.040] Sie richtet Salat mit Essig und Olivenöl an.
+[00:02:52.890 --> 00:02:54.810] Pfeffer schmeckt scharf.
+[00:02:57.430 --> 00:03:05.950] Viele italienische Gerichte, wie zum Beispiel Tomatensauce, Pasta, Pesto oder Pizza,
+[00:03:06.670 --> 00:03:09.490] sind ohne Basilikum kaum vorstellbar.
+[00:03:12.650 --> 00:03:17.070] Minzen sind aromatische und ausdauernde krautige Pflanzen.
+[00:03:20.300 --> 00:03:23.860] Die Petersilie ist eine gebräuchliche Zutat.
+[00:03:26.740 --> 00:03:30.280] Der Salbei ist eines der ältesten Heilkräuter.
+[00:03:33.140 --> 00:03:41.260] Im Europa des 16. bis 18. Jahrhunderts galt Zimt als eines der besonders teuren Gewürze.
+[00:03:44.940 --> 00:03:49.700] Béchamelsoße ist eine helle Soße aus Milch, Butter und Mehl,
+[00:03:49.920 --> 00:03:53.100] die bei der Zubereitung vieler Gerichte verwendet wird.

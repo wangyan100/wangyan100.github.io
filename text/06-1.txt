@@ -1,24 +1,46 @@
-schwimmen badelustige
-badelustiger bademeister
-Rettungsschwimmer, Rettungsschwimmerin, Schwimmer, Schwimmerin
-Schwimmtrainer, Schwimmtrainerin Schwimmlehrer, Schwimmlehrerin
-Wasserratte, Beckengrund, Beckenrand, Korkleine, Kurzbahn
-Langbahn, Schwimmbahn, Sprungturm, Tiefe, Brustschwimmen, Freistil
-Kraulschwimmen, Kunstschwimmen, Rückenschwimmen, Schmetterling, Staffelschwimmen
-Ohrstöpsel, Schwimmbrille, Schwimmflosse, Schwimmgürtel, Schwimmkissen, Schwimmring, Schwimmweste
-Rettungsweste
-Sprechen Sie bitte die folgenden Sätze.
-Viele Faktoren führen heute dazu, dass immer mehr deutsche Kinder nicht schwimmen können.
-Der Beruf des Bademeisters scheint längst nicht attraktiv zu sein.
-Die Rettungsschwimmer sind 10 Meter in die Tiefe getaucht.
-Ein deutscher Schwimmer hat bei der WM in Budapest eine Silbermedaille geholt.
-Er ist keine Wasserratte und scheut vor Wasser.
-Bei den Olympischen Spielen gibt es 10 Schwimmbahnen im Schwimmbecken.
-Im Leben herrscht immer Höhen und Tiefen.
-Die heutigen bekanntesten Schwimmstile im Schwimmsport sind Brustschwimmen,
-Kraulschwimmen, Rückenkraulen und Schmetterlingsschwimmen.
-Er holt sich seine Goldmedaille über 1500 Meter Freistil ab.
-Sie hat das Finale über 200 Meter Schmetterling als 6. seines Halbfinales verpasst.
-Eine Schwimmbrile kann verhindern, dass Wasser die Augen erreicht.
-Der Schwimmring kann beim Schwimmen helfen.
-Das Tauchen an Riffen ist bedenklich, nur unter Aufsicht und mit Schwimmwesten.
+[00:00:02.000 --> 00:00:07.660] schwimmen badelustige
+[00:00:07.660 --> 00:00:12.400] badelustiger bademeister
+[00:00:13.650 --> 00:00:24.280] Rettungsschwimmer, Rettungsschwimmerin, Schwimmer, Schwimmerin
+[00:00:25.630 --> 00:00:36.510] Schwimmtrainer, Schwimmtrainerin Schwimmlehrer, Schwimmlehrerin
+[00:00:39.940 --> 00:00:41.340] Wasserratte
+[00:00:41.340 --> 00:00:43.080] Beckengrund
+[00:00:43.960 --> 00:00:45.380] Beckenrand
+[00:00:46.660 --> 00:00:48.580] Korkleine
+[00:00:49.860 --> 00:00:52.180] Kurzbahn
+[00:00:52.760 --> 00:00:54.160] Langbahn
+[00:00:55.500 --> 00:00:57.080] Schwimmbahn
+[00:00:58.620 --> 00:01:00.520] Sprungturm
+[00:01:01.830 --> 00:01:03.050] Tiefe
+[00:01:04.330 --> 00:01:05.990] Brustschwimmen
+[00:01:07.460 --> 00:01:09.240] Freistiel
+[00:01:10.590 --> 00:01:12.370] Kraulschwimmen
+[00:01:15.160 --> 00:01:16.560] Kunstschwimmen
+[00:01:16.560 --> 00:01:18.600] Rückenschwimmen
+[00:01:19.980 --> 00:01:21.480] Schmetterling
+[00:01:22.920 --> 00:01:24.780] Staffelschwimmen
+[00:01:26.060 --> 00:01:27.680] Ohrstöpsel
+[00:01:29.120 --> 00:01:30.700] Schwimmbrile
+[00:01:32.100 --> 00:01:33.720] Schwimmflosse
+[00:01:35.070 --> 00:01:36.910] Schwimmgürtel
+[00:01:38.320 --> 00:01:39.880] Schwimmkissen
+[00:01:41.250 --> 00:01:42.470] Schwimmring
+[00:01:46.000 --> 00:01:47.200] Schwimmweste
+[00:01:47.200 --> 00:01:48.860] Rettungsweste
+[00:01:53.270 --> 00:01:55.950] Sprechen Sie bitte die folgenden Sätze.
+[00:01:58.930 --> 00:02:05.170] Viele Faktoren führen heute dazu, dass immer mehr deutsche Kinder nicht schwimmen können.
+[00:02:07.960 --> 00:02:12.920] Der Beruf des Bademeisters scheint längst nicht attraktiv zu sein.
+[00:02:15.960 --> 00:02:19.700] Die Rettungsschwimmer sind 10 Meter in die Tiefe getaucht.
+[00:02:22.770 --> 00:02:27.850] Ein deutscher Schwimmer hat bei der WM in Budapest eine Silbermedaille geholt.
+[00:02:30.930 --> 00:02:33.910] Er ist keine Wasserratte und scheut vor Wasser.
+[00:02:36.890 --> 00:02:41.270] Bei den Olympischen Spielen gibt es 10 Schwimmbahnen im Schwimmbäcken.
+[00:02:44.300 --> 00:02:47.080] Im Leben herrscht immer Höhen und Tiefen.
+[00:02:49.650 --> 00:02:54.810] Die heutigen bekanntesten Schwimmstile im Schwimmsport sind Brustschwimmen,
+[00:02:55.210 --> 00:02:56.050] Kraulschwimmen,
+[00:02:56.430 --> 00:02:57.350] Rückenkraulen
+[00:02:57.350 --> 00:02:59.270] und Schmetterlingsschwimmen.
+[00:03:02.220 --> 00:03:07.340] Er holt sich seine Goldmedaille über 1500 Meter Freistil ab.
+[00:03:10.400 --> 00:03:17.200] Sie hat das Finale über 200 Meter Schmetterling als sechster seines Halbfinales verpasst.
+[00:03:19.670 --> 00:03:23.390] Eine Schwimmbrile kann verhindern, dass Wasser die Augen erreicht.
+[00:03:26.310 --> 00:03:28.830] Der Schwimmring kann beim Schwimmen helfen.
+[00:03:32.160 --> 00:03:34.580] Das Tauchen an Riffen ist bedenklich.
+[00:03:35.000 --> 00:03:37.700] Nur unter Aufsicht und mit Schwimmwesten.

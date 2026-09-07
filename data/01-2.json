@@ -4,63 +4,267 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Gemüse",
-        "Bärlauch",
-        "Chinakohl",
-        "Eisbergsalat",
-        "Feldsalat",
-        "Kopfsalat",
-        "Rucola",
-        "Salat",
-        "Spinat",
-        "Weißkohl",
-        "Ingwer",
-        "Knoblauch",
-        "Lauchzwiebel",
-        "Lauch",
-        "Spargel",
-        "Staudensellerie",
-        "Zwiebel",
-        "Kartoffel",
-        "Radieschen",
-        "Süßkartoffel",
-        "Karotte",
-        "Möhre",
-        "Blumenkohl",
-        "Brokkoli",
-        "Rosenkohl",
-        "Rotkohl",
-        "Aubergine",
-        "Erbse",
-        "Gartenbohne",
-        "Gurke",
-        "Kürbis",
-        "Paprika",
-        "Tomate",
-        "Zucchini",
-        "Austernpilz",
-        "Champignon",
-        "Pfifferling",
-        "Steinpilz"
+        {
+          "text": "Gemüse",
+          "start": 1.74,
+          "end": 3.6
+        },
+        {
+          "text": "Bärlauch",
+          "start": 4.92,
+          "end": 6.34
+        },
+        {
+          "text": "Chinakohl",
+          "start": 7.81,
+          "end": 9.69
+        },
+        {
+          "text": "Eisbergsalat",
+          "start": 11.0,
+          "end": 13.32
+        },
+        {
+          "text": "Feldsalat",
+          "start": 14.7,
+          "end": 16.7
+        },
+        {
+          "text": "Kopfsalat",
+          "start": 19.69,
+          "end": 21.09
+        },
+        {
+          "text": "Rucola",
+          "start": 21.09,
+          "end": 22.83
+        },
+        {
+          "text": "Salat",
+          "start": 24.14,
+          "end": 25.6
+        },
+        {
+          "text": "Spinat",
+          "start": 27.07,
+          "end": 28.77
+        },
+        {
+          "text": "Weißkohl",
+          "start": 30.08,
+          "end": 31.74
+        },
+        {
+          "text": "Ingwer",
+          "start": 33.09,
+          "end": 34.47
+        },
+        {
+          "text": "Knoblauch",
+          "start": 35.84,
+          "end": 37.7
+        },
+        {
+          "text": "Lauchzwiebel",
+          "start": 39.05,
+          "end": 41.15
+        },
+        {
+          "text": "Lauch",
+          "start": 42.43,
+          "end": 43.65
+        },
+        {
+          "text": "Spargel",
+          "start": 45.22,
+          "end": 46.7
+        },
+        {
+          "text": "Staudensellerie",
+          "start": 48.26,
+          "end": 50.32
+        },
+        {
+          "text": "Zwiebel",
+          "start": 51.8,
+          "end": 53.26
+        },
+        {
+          "text": "Kartoffel",
+          "start": 54.6,
+          "end": 56.42
+        },
+        {
+          "text": "Radieschen",
+          "start": 57.83,
+          "end": 59.53
+        },
+        {
+          "text": "Süßkartoffel",
+          "start": 60.9,
+          "end": 63.0
+        },
+        {
+          "text": "Karotte",
+          "start": 64.32,
+          "end": 65.64
+        },
+        {
+          "text": "Möhre",
+          "start": 66.95,
+          "end": 68.53
+        },
+        {
+          "text": "Blumenkohl",
+          "start": 69.94,
+          "end": 71.54
+        },
+        {
+          "text": "Brokkoli",
+          "start": 72.85,
+          "end": 74.73
+        },
+        {
+          "text": "Rosenkohl",
+          "start": 76.6,
+          "end": 78.0
+        },
+        {
+          "text": "Rotkohl",
+          "start": 79.88,
+          "end": 81.94
+        },
+        {
+          "text": "Aubergine",
+          "start": 81.94,
+          "end": 83.88
+        },
+        {
+          "text": "Erbse",
+          "start": 85.19,
+          "end": 86.81
+        },
+        {
+          "text": "Gartenbohne",
+          "start": 88.12,
+          "end": 90.12
+        },
+        {
+          "text": "Gurke",
+          "start": 91.5,
+          "end": 92.92
+        },
+        {
+          "text": "Kürbis",
+          "start": 95.21,
+          "end": 95.91
+        },
+        {
+          "text": "Paprika",
+          "start": 97.22,
+          "end": 98.68
+        },
+        {
+          "text": "Tomate",
+          "start": 100.55,
+          "end": 101.67
+        },
+        {
+          "text": "Zucchini",
+          "start": 103.99,
+          "end": 104.69
+        },
+        {
+          "text": "Austernpilz",
+          "start": 107.22,
+          "end": 107.89
+        },
+        {
+          "text": "Champignon",
+          "start": 110.25,
+          "end": 110.92
+        },
+        {
+          "text": "Pfifferling",
+          "start": 112.29,
+          "end": 113.77
+        },
+        {
+          "text": "Steinpilz",
+          "start": 115.24,
+          "end": 117.16
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der Chinakohl stammt ursprünglich aus China.",
-        "Seit der Steinzeit nutzen Menschen den Feldsalat als Nahrungspflanze.",
-        "Spinat dient zur Behandlung von Nierensteinen.",
-        "Der alte Ingwer ist der Schärfste.",
-        "Knoblauch diente den ägyptischen Sklaven für den Pyramidenbau als wichtige Nahrung.",
-        "Das Speicherorgan des Spargels liegt unter der Erde.",
-        "Im alten Ägypten war die Zwiebel ein Symbol für das ewige Leben.",
-        "Die dümmsten Bauern ernten die dicksten Kartoffeln.",
-        "Nach den Tomaten kommen Karotten an zweiter Stelle auf der Gemüse-Beliebtheitsskala in Deutschland.",
-        "Brokkoli kann man sowohl roh als auch gegart genießen.",
-        "Auberginen werden meist gegrillt, gebraten, gedünstet oder geschmort.",
-        "Bitterschmeckende Kürbisse sind giftig und sollen nicht verzehrt werden.",
-        "Sie hat ein Pfund Paprika gekauft."
+        {
+          "text": "Der Chinakohl stammt ursprünglich aus China.",
+          "start": 126.94,
+          "end": 131.44
+        },
+        {
+          "text": "Seit der Steinzeit nutzen Menschen den Feldsalat als Nahrungspflanze.",
+          "start": 134.62,
+          "end": 140.62
+        },
+        {
+          "text": "Spinat dient zur Behandlung von Nierensteinen.",
+          "start": 143.11,
+          "end": 147.37
+        },
+        {
+          "text": "Der alte Ingwer ist der schärfste.",
+          "start": 150.32,
+          "end": 152.88
+        },
+        {
+          "text": "Knoblauch diente den ägyptischen Sklaven für den Pyramidenbau als wichtige Nahrung.",
+          "start": 155.98,
+          "end": 162.4
+        },
+        {
+          "text": "Das Speicherorgan des Spargels liegt unter der Erde.",
+          "start": 165.46,
+          "end": 169.46
+        },
+        {
+          "text": "Im alten Ägypten war die Zwiebel ein Symbol für das ewige Leben.",
+          "start": 172.63,
+          "end": 177.47
+        },
+        {
+          "text": "Die dümmsten Bauern ernten die dicksten Kartoffeln.",
+          "start": 179.74,
+          "end": 183.92
+        },
+        {
+          "text": "Nach den Tomaten kommen Karotten an zweiter Stelle auf der Gemüse-Beliebtheitsskala in Deutschland.",
+          "start": 187.29,
+          "end": 194.85
+        },
+        {
+          "text": "Brokkoli kann man sowohl roh als auch gegart genießen.",
+          "start": 198.1,
+          "end": 202.38
+        },
+        {
+          "text": "Auberginen werden meist gegrillt, gebraten, gedünstet oder geschmort.",
+          "start": 205.54,
+          "end": 211.76
+        },
+        {
+          "text": "Bitter schmeckende Kürbisse sind giftig und sollen nicht verzehrt werden.",
+          "start": 214.83,
+          "end": 219.83
+        },
+        {
+          "text": "Sie hat ein Pfund Paprika gekauft.",
+          "start": 222.93,
+          "end": 225.69
+        }
       ]
     }
   ]

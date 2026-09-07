@@ -4,63 +4,267 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Küche",
-        "Backofen",
-        "Reiskocher",
-        "Elektroherd",
-        "Gasherd",
-        "Kühlschrank",
-        "Mikrowellenherd",
-        "Spülmaschine",
-        "Toaster",
-        "Wasserkocher",
-        "Pfanne",
-        "Schnellkochtopf",
-        "Wok",
-        "Essstäbchen",
-        "Gabel",
-        "Löffel",
-        "Messer",
-        "Blech",
-        "Kanne",
-        "Krug",
-        "Schale",
-        "Schüssel",
-        "Teller",
-        "Becher",
-        "Seidel",
-        "Glas",
-        "Henkelbecher",
-        "Kelch",
-        "Sektglas",
-        "Tasse",
-        "Allzweckmesser",
-        "Ausbeinmesser",
-        "Brotmesser",
-        "Fleischmesser",
-        "Gemüsemesser",
-        "Hackmesser",
-        "Messerblock",
-        "Schälmesser"
+        {
+          "text": "Küche",
+          "start": 1.84,
+          "end": 3.34
+        },
+        {
+          "text": "Backofen",
+          "start": 4.68,
+          "end": 6.28
+        },
+        {
+          "text": "Reiskocher",
+          "start": 7.56,
+          "end": 9.36
+        },
+        {
+          "text": "Elektroherd",
+          "start": 10.61,
+          "end": 12.65
+        },
+        {
+          "text": "Gasherd",
+          "start": 13.9,
+          "end": 15.64
+        },
+        {
+          "text": "Kühlschrank",
+          "start": 16.92,
+          "end": 18.54
+        },
+        {
+          "text": "Mikrowellenherd",
+          "start": 19.82,
+          "end": 22.04
+        },
+        {
+          "text": "Spülmaschine",
+          "start": 23.42,
+          "end": 25.02
+        },
+        {
+          "text": "Toaster",
+          "start": 26.33,
+          "end": 27.95
+        },
+        {
+          "text": "Wasserkocher",
+          "start": 29.23,
+          "end": 30.89
+        },
+        {
+          "text": "Pfanne",
+          "start": 32.39,
+          "end": 33.61
+        },
+        {
+          "text": "Schnellkochtopf",
+          "start": 37.68,
+          "end": 39.36
+        },
+        {
+          "text": "Wok",
+          "start": 40.99,
+          "end": 42.01
+        },
+        {
+          "text": "Essstäbchen",
+          "start": 43.61,
+          "end": 45.49
+        },
+        {
+          "text": "Gabel",
+          "start": 46.77,
+          "end": 48.33
+        },
+        {
+          "text": "Löffel",
+          "start": 49.64,
+          "end": 51.08
+        },
+        {
+          "text": "Messer",
+          "start": 52.36,
+          "end": 53.82
+        },
+        {
+          "text": "Blech",
+          "start": 55.23,
+          "end": 56.71
+        },
+        {
+          "text": "Kanne",
+          "start": 58.08,
+          "end": 59.1
+        },
+        {
+          "text": "Krug",
+          "start": 60.51,
+          "end": 61.73
+        },
+        {
+          "text": "Schale",
+          "start": 63.2,
+          "end": 64.56
+        },
+        {
+          "text": "Schüssel",
+          "start": 66.0,
+          "end": 67.22
+        },
+        {
+          "text": "Teller",
+          "start": 68.63,
+          "end": 70.19
+        },
+        {
+          "text": "Becher",
+          "start": 71.6,
+          "end": 72.88
+        },
+        {
+          "text": "Seidel",
+          "start": 74.22,
+          "end": 75.66
+        },
+        {
+          "text": "Glas",
+          "start": 76.98,
+          "end": 78.18
+        },
+        {
+          "text": "Henkelbecher",
+          "start": 79.52,
+          "end": 81.7
+        },
+        {
+          "text": "Kelch",
+          "start": 83.08,
+          "end": 85.66
+        },
+        {
+          "text": "Sektglas",
+          "start": 85.66,
+          "end": 87.6
+        },
+        {
+          "text": "Tasse",
+          "start": 88.88,
+          "end": 90.1
+        },
+        {
+          "text": "Allzweckmesser",
+          "start": 91.6,
+          "end": 93.7
+        },
+        {
+          "text": "Ausbeinmesser",
+          "start": 95.01,
+          "end": 97.03
+        },
+        {
+          "text": "Brotmesser",
+          "start": 98.31,
+          "end": 100.21
+        },
+        {
+          "text": "Fleischmesser",
+          "start": 101.68,
+          "end": 103.64
+        },
+        {
+          "text": "Gemüsemesser",
+          "start": 104.96,
+          "end": 106.98
+        },
+        {
+          "text": "Hackmesser",
+          "start": 108.38,
+          "end": 110.16
+        },
+        {
+          "text": "Messerblock",
+          "start": 111.48,
+          "end": 112.88
+        },
+        {
+          "text": "Schälmesser",
+          "start": 115.46,
+          "end": 116.24
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Backofen und Herd sind in Deutschland wichtige Bestandteile jeder Küche.",
-        "Man kann Eier in der Pfanne braten.",
-        "Jeder Topf findet seinen Deckel.",
-        "Wenn man Essstäbchen gekreuzt ablegt, wird es Unglück bringen.",
-        "Wenn ein Deutscher Besteck sagt, meint er Gabel, Löffel und Messer.",
-        "Er hat die Suppe mit dem Löffel gegessen.",
-        "Das Messer schneidet sehr scharf.",
-        "Bereite bitte das Blech für den Kuchen vor.",
-        "In diese Kanne passen 1,8 Liter.",
-        "Der Krug geht so lange zum Wasser, bis er bricht.",
-        "Marie schabte den Reis aus der Schüssel.",
-        "Könnten Sie mir bitte einen der Becher da rüberreichen?",
-        "Mein Kollege hat ein Glas über den Durst getrunken und ist in den Tiefschlaf geraten."
+        {
+          "text": "Backofen und Herd sind in Deutschland wichtige Bestandteile jeder Küche.",
+          "start": 126.76,
+          "end": 132.68
+        },
+        {
+          "text": "Man kann Eier in der Pfanne braten.",
+          "start": 135.33,
+          "end": 138.55
+        },
+        {
+          "text": "Jeder Topf findet seinen Deckel.",
+          "start": 141.15,
+          "end": 143.83
+        },
+        {
+          "text": "Wenn man Essstäbchen gekreuzt ablegt, wird es Unglück bringen.",
+          "start": 146.56,
+          "end": 151.56
+        },
+        {
+          "text": "Wenn ein Deutscher Besteck sagt, meint er Gabel, Löffel und Messer.",
+          "start": 153.86,
+          "end": 159.94
+        },
+        {
+          "text": "Er hat die Suppe mit dem Löffel gegessen.",
+          "start": 162.96,
+          "end": 165.64
+        },
+        {
+          "text": "Das Messer schneidet sehr scharf.",
+          "start": 168.82,
+          "end": 170.97
+        },
+        {
+          "text": "Bereite bitte das Blech für den Kuchen vor.",
+          "start": 174.35,
+          "end": 177.11
+        },
+        {
+          "text": "In diese Kanne passen 1,8 Liter.",
+          "start": 180.2,
+          "end": 183.1
+        },
+        {
+          "text": "Der Krug geht so lange zum Wasser, bis er bricht.",
+          "start": 186.31,
+          "end": 190.25
+        },
+        {
+          "text": "Marie schabte den Reis aus der Schüssel.",
+          "start": 193.03,
+          "end": 195.65
+        },
+        {
+          "text": "Könnten Sie mir bitte einen der Becher da rüberreichen?",
+          "start": 198.02,
+          "end": 201.82
+        },
+        {
+          "text": "Mein Kollege hat ein Glas über den Durst getrunken und ist in den Tiefschlaf geraten.",
+          "start": 204.98,
+          "end": 210.84
+        }
       ]
     }
   ]

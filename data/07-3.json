@@ -4,100 +4,472 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Angst",
-        "Angst erfüllt",
-        "ängstigen",
-        "erschrecken",
-        "erschreckend",
-        "erschrecklich",
-        "furcht",
-        "schreckensvoll",
-        "schreck erfüllt",
-        "Schreckschuss",
-        "Angstschweiß",
-        "Fliehen",
-        "Gänsehaut",
-        "Schreckensblass",
-        "Start",
-        "Zittern",
-        "Zurückschrecken",
-        "Beherzt",
-        "Courage",
-        "Couragiert",
-        "Mutig",
-        "Furchtlos",
-        "Heldenhaft",
-        "Kühn",
-        "Tapfer",
-        "Waagehalsig",
-        "Angsthase",
-        "Ängstlich",
-        "Schüchtern",
-        "Waschlappen",
-        "Wie auf glühenden Kohlen sitzen",
-        "auf glühenden Kohlen sitzen",
-        "Angstgefühl",
-        "besorgt",
-        "Besorgnis",
-        "fürchten",
-        "sich um",
-        "sorgen",
-        "sich Sorge um",
-        "machen",
-        "Unruhig"
+        {
+          "text": "Angst",
+          "start": 1.74,
+          "end": 3.04
+        },
+        {
+          "text": "Angst erfüllt",
+          "start": 4.54,
+          "end": 6.24
+        },
+        {
+          "text": "ängstigen",
+          "start": 9.05,
+          "end": 10.45
+        },
+        {
+          "text": "erschrecken",
+          "start": 10.45,
+          "end": 12.07
+        },
+        {
+          "text": "erschreckend",
+          "start": 13.9,
+          "end": 15.96
+        },
+        {
+          "text": "erschrecklich",
+          "start": 15.96,
+          "end": 17.8
+        },
+        {
+          "text": "furcht",
+          "start": 19.18,
+          "end": 20.9
+        },
+        {
+          "text": "schreckensvoll",
+          "start": 22.37,
+          "end": 23.79
+        },
+        {
+          "text": "schreck erfüllt",
+          "start": 25.26,
+          "end": 27.0
+        },
+        {
+          "text": "Schreckschuss",
+          "start": 29.08,
+          "end": 29.78
+        },
+        {
+          "text": "Angstschweiß",
+          "start": 32.48,
+          "end": 33.18
+        },
+        {
+          "text": "Fliehen",
+          "start": 34.62,
+          "end": 36.08
+        },
+        {
+          "text": "Gänsehaut",
+          "start": 37.46,
+          "end": 38.94
+        },
+        {
+          "text": "Schreckensblass",
+          "start": 40.41,
+          "end": 42.33
+        },
+        {
+          "text": "Schreckensbleich",
+          "start": 43.74,
+          "end": 45.76
+        },
+        {
+          "text": "Schreckerstarrt",
+          "start": 47.14,
+          "end": 49.22
+        },
+        {
+          "text": "Zittern",
+          "start": 50.59,
+          "end": 51.75
+        },
+        {
+          "text": "Zurückschrecken",
+          "start": 53.8,
+          "end": 54.9
+        },
+        {
+          "text": "Beherzt",
+          "start": 57.21,
+          "end": 57.91
+        },
+        {
+          "text": "Courage",
+          "start": 60.09,
+          "end": 60.79
+        },
+        {
+          "text": "Mutig",
+          "start": 65.22,
+          "end": 66.62
+        },
+        {
+          "text": "Furchtlos",
+          "start": 68.59,
+          "end": 69.65
+        },
+        {
+          "text": "Heldenhaft",
+          "start": 71.9,
+          "end": 72.68
+        },
+        {
+          "text": "Kühn",
+          "start": 74.76,
+          "end": 75.46
+        },
+        {
+          "text": "Tapfer",
+          "start": 76.77,
+          "end": 78.23
+        },
+        {
+          "text": "Waagehalsig",
+          "start": 79.48,
+          "end": 81.42
+        },
+        {
+          "text": "Angsthase",
+          "start": 82.67,
+          "end": 84.31
+        },
+        {
+          "text": "Ängstlich",
+          "start": 85.62,
+          "end": 87.3
+        },
+        {
+          "text": "Duckmäuser",
+          "start": 88.58,
+          "end": 90.14
+        },
+        {
+          "text": "Feig",
+          "start": 91.52,
+          "end": 92.98
+        },
+        {
+          "text": "Feigling",
+          "start": 94.89,
+          "end": 95.59
+        },
+        {
+          "text": "Scheu",
+          "start": 97.0,
+          "end": 98.4
+        },
+        {
+          "text": "Schüchtern",
+          "start": 99.78,
+          "end": 101.32
+        },
+        {
+          "text": "Waschlappen",
+          "start": 102.56,
+          "end": 105.22
+        },
+        {
+          "text": "Wie auf glühenden Kohlen sitzen",
+          "start": 105.22,
+          "end": 109.32
+        },
+        {
+          "text": "Auf glühenden Kohlen sitzen",
+          "start": 106.04,
+          "end": 109.32
+        },
+        {
+          "text": "Angstgefühl",
+          "start": 115.24,
+          "end": 116.64
+        },
+        {
+          "text": "Besorgt",
+          "start": 116.64,
+          "end": 118.54
+        },
+        {
+          "text": "Besorgnis",
+          "start": 120.12,
+          "end": 120.82
+        },
+        {
+          "text": "Fürchten",
+          "start": 122.93,
+          "end": 124.33
+        },
+        {
+          "text": "Sich um",
+          "start": 125.8,
+          "end": 127.46
+        },
+        {
+          "text": "Sorgen",
+          "start": 129.64,
+          "end": 130.36
+        },
+        {
+          "text": "Sich Sorge um",
+          "start": 131.64,
+          "end": 133.58
+        },
+        {
+          "text": "Machen",
+          "start": 136.52,
+          "end": 137.24
+        },
+        {
+          "text": "Unruhig",
+          "start": 138.14,
+          "end": 138.86
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Sie hatte noch nie ihren Vater so böse gesehen.",
-        "Es machte ihr schreckliche Angst.",
-        "Der Mann war vor Schreck wie gelähmt.",
-        "Millionen Kinder in Syrien waren erschöpft und Angst erfüllt.",
-        "Ich ängstige mich in der Nacht allein durch den Wald zu gehen.",
-        "Sie erschrak vor ihrem Vater.",
-        "Der Luftangriff erschreckte sie alle sehr.",
-        "In Afrika greift die Epidemie weiter erschreckend rasch um sich.",
-        "Mit sieben erlebt Hans den erschrecklichen Krieg.",
-        "Das kleine Kind habe große Furcht vor Hunden.",
-        "Während der schreckensvollen Tage im Konzentrationslager hekte dieser Jude immer die Hoffnung.",
-        "Alle Tiere des Waldes flüchteten schreckerfüllt, sobald sie des Tigers ansichtig wurden.",
-        "Die Nachricht war ein Schreckschuss für mich.",
-        "Der Angstschweiß bricht ihm am ganzen Körper aus.",
-        "Mir brach der Angstschweiß plötzlich aus.",
-        "Der Blutdruck schnellte spürbar hoch.",
-        "Viele Flüchtlinge sind ins Ausland geflohen.",
-        "Ihr lief eine Gänsehaut über den Rücken.",
-        "Die gruselige Szene im Film lässt mich am ganzen Körper Gänsehaut entstehen.",
-        "Als die Frau die Leiche am Tatort sah, war sie schreckensblass.",
-        "Schreckensbleich richtete sich die Prinzessin im Bett auf.",
-        "Das Foto zeigt sie im Bett mit aufgerissenem Mund und schreckerstartend Zügen.",
-        "Vor Schreck zitterten ihm die Beine.",
-        "Er schreckte zurück, als er die Spinne sah.",
-        "Habe den Mut, dich deines Verstandes zu bedienen, sagt Kant.",
-        "Als der Hubschrauber absturz, rettete er sich mit einem beherzten Sprung und blieb fast unverletzt.",
-        "In dem Drama Mutter Courage und ihre Kinder, von Brecht, geht es um eine Chronik aus dem 30-jährigen Krieg.",
-        "Sein korrigiertes Handeln hat Vorbildfunktion, denn er verhindert Verbrechen und schützt Opfer.",
-        "Der neue Trainer mit seiner Art und mit seiner Idee vom mutigen, schützenden Fußball passt hervorragend zum VfB Stuttgart.",
-        "Furchtlos trieb sie sich in abgelegenen Gegenden herum.",
-        "Damit wollte er sich vor Kollegen als heldenhaften Retter beweisen.",
-        "Die Farbgebung des Bildes ist ziemlich kühn.",
-        "Dieser Soldat ist ein tapferer Held.",
-        "Sie fährt sehr vagehalsig.",
-        "Wir verachten ihn wegen seiner Feigheit.",
-        "Bist du jetzt nicht in die Höhle, bist du ein Angsthase.",
-        "Kleiner Feigling ist eine besonders populäre Spirituose in Deutschland.",
-        "Alle lachten und meinten, dass er Feigling ohne Mut war.",
-        "Keine Sorge, deinem Mann geht es gut.",
-        "Ich sitze wie auf glühenden Kohlen.",
-        "Er schildert seine traumatischen Erlebnisse an der Front und berichtet von seinen Angstgefühlen.",
-        "Deutschland und andere europäische Staaten sind höchst besorgt über die Lage in Syrien.",
-        "Ich fürchte, dass er die Prüfung nicht bestehen kann.",
-        "Mache dir keine Sorgen um das Essen.",
-        "In Deutschland gibt es viele chinesische Restaurants und Asialäden.",
-        "Ich sorge mich darum, ob mein Freund rechtzeitig mein Paket schickt.",
-        "Sie wartete unruhig auf die Rückkehr ihres Mannes."
+        {
+          "text": "Sie hatte noch nie Ihren Vater so böse gesehen.",
+          "start": 148.4,
+          "end": 152.04
+        },
+        {
+          "text": "Es machte ihr schreckliche Angst.",
+          "start": 152.44,
+          "end": 154.4
+        },
+        {
+          "text": "Der Mann war vor Schreck wie gelähmt.",
+          "start": 157.46,
+          "end": 160.32
+        },
+        {
+          "text": "Millionen Kinder in Syrien waren erschöpft und Angst erfüllt.",
+          "start": 163.02,
+          "end": 167.0
+        },
+        {
+          "text": "Ich ängstige mich, in der Nacht allein durch den Wald zu gehen.",
+          "start": 169.98,
+          "end": 173.58
+        },
+        {
+          "text": "Sie erschrak vor Ihrem Vater.",
+          "start": 173.58,
+          "end": 178.62
+        },
+        {
+          "text": "Der Luftangriff erschreckte sie alle sehr.",
+          "start": 181.74,
+          "end": 184.48
+        },
+        {
+          "text": "In Afrika greift die Epidemie weiter erschreckend rasch um sich.",
+          "start": 187.51,
+          "end": 191.87
+        },
+        {
+          "text": "Mit sieben erlebt Hans den erschrecklichen Krieg.",
+          "start": 194.86,
+          "end": 198.56
+        },
+        {
+          "text": "Das kleine Kind habe große Furcht vor Hunden.",
+          "start": 201.43,
+          "end": 204.73
+        },
+        {
+          "text": "Während der schreckensvollen Tage im Konzentrationslager hekte dieser Jude immer die Hoffnung.",
+          "start": 208.3,
+          "end": 214.88
+        },
+        {
+          "text": "Alle Tiere des Waldes flüchteten schreckerfüllt, sobald sie des Tigers ansichtig wurden.",
+          "start": 217.18,
+          "end": 224.36
+        },
+        {
+          "text": "Die Nachricht war ein Schreckschuss für mich.",
+          "start": 227.42,
+          "end": 229.84
+        },
+        {
+          "text": "Der Angstschweiß bricht ihm am ganzen Körper aus.",
+          "start": 232.78,
+          "end": 236.34
+        },
+        {
+          "text": "Mir brach der Angstschweiß plötzlich aus.",
+          "start": 239.39,
+          "end": 242.05
+        },
+        {
+          "text": "Der Blutdruck schnellte spürbar hoch.",
+          "start": 242.39,
+          "end": 244.73
+        },
+        {
+          "text": "Viele Flüchtlinge sind ins Ausland geflohen.",
+          "start": 248.01,
+          "end": 251.61
+        },
+        {
+          "text": "Ihr lief eine Gänsehaut über den Rücken.",
+          "start": 253.88,
+          "end": 256.74
+        },
+        {
+          "text": "Die gruselige Szene im Film lässt mich am ganzen Körper Gänsehaut entstehen.",
+          "start": 259.73,
+          "end": 265.27
+        },
+        {
+          "text": "Als die Frau die Leiche am Tatort sah, war sie schreckensblass.",
+          "start": 267.87,
+          "end": 272.31
+        },
+        {
+          "text": "Schreckensbleich richtete sich die Prinzessin im Bett auf.",
+          "start": 275.69,
+          "end": 278.81
+        },
+        {
+          "text": "Das Foto zeigte sie im Bett mit aufgerissenem Mund und schreckerstarrten Zügen.",
+          "start": 281.85,
+          "end": 287.25
+        },
+        {
+          "text": "Vor Schreck zitterten ihm die Beine.",
+          "start": 290.35,
+          "end": 293.15
+        },
+        {
+          "text": "Er schreckte zurück, als er die Spinne sah.",
+          "start": 295.42,
+          "end": 298.08
+        },
+        {
+          "text": "Habe den Mut, dich deines Verstandes zu bedienen, sagt Kant.",
+          "start": 301.21,
+          "end": 305.59
+        },
+        {
+          "text": "Beim Hubschrauberabsturz rettete er sich mit einem beherzten Sprung und blieb fast unverletzt.",
+          "start": 308.72,
+          "end": 315.5
+        },
+        {
+          "text": "In dem Drama Mutter Courage und ihre Kinder vonbrecht, geht es um eine Chronik aus dem Dreißigjährigen Krieg.",
+          "start": 318.61,
+          "end": 326.87
+        },
+        {
+          "text": "Sein korrigiertes Handeln hat Vorbildfunktion, denn er verhindert Verbrechen und schützt Opfer.",
+          "start": 329.65,
+          "end": 336.17
+        },
+        {
+          "text": "Der neue Trainer mit seiner Art und mit seiner Idee vom mutigen offensiven Fußball passt hervorragend zum VfB Stuttgart.",
+          "start": 339.12,
+          "end": 347.9
+        },
+        {
+          "text": "Furchtlos trieb sie sich in abgelegenen Gegenden herum.",
+          "start": 351.11,
+          "end": 354.73
+        },
+        {
+          "text": "Damit wollte er sich vor Kollegen als heldenhaften Retter beweisen.",
+          "start": 357.88,
+          "end": 361.88
+        },
+        {
+          "text": "Die Farbgebung des Bildes ist ziemlich kühn.",
+          "start": 365.0,
+          "end": 368.58
+        },
+        {
+          "text": "Dieser Soldat ist ein tapferer Held.",
+          "start": 370.79,
+          "end": 374.13
+        },
+        {
+          "text": "Sie fährt sehr vagehalsig.",
+          "start": 376.59,
+          "end": 378.73
+        },
+        {
+          "text": "Wir verachten ihn wegen seiner Feigheit.",
+          "start": 381.8,
+          "end": 384.58
+        },
+        {
+          "text": "Kommst du jetzt nicht in die Höhle, bist du ein Angsthase.",
+          "start": 387.58,
+          "end": 390.7
+        },
+        {
+          "text": "Kleiner Feigling ist eine besonders populäre Spirituose in Deutschland.",
+          "start": 393.94,
+          "end": 398.6
+        },
+        {
+          "text": "Alle lachten und meinten, dass er Feigling ohne Mut war.",
+          "start": 401.69,
+          "end": 405.35
+        },
+        {
+          "text": "Keine Sorge, deinem Mann geht es gut.",
+          "start": 408.4,
+          "end": 411.12
+        },
+        {
+          "text": "Ich sitze wie auf glühenden Kohlen.",
+          "start": 411.12,
+          "end": 416.67
+        },
+        {
+          "text": "Er schildert seine traumatischen Erlebnisse an der Front und berichtet von seinen Angstgefühlen.",
+          "start": 419.84,
+          "end": 425.98
+        },
+        {
+          "text": "Deutschland und andere europäische Staaten sind höchst besorgt über die Lage in Syrien.",
+          "start": 428.98,
+          "end": 434.92
+        },
+        {
+          "text": "Ich fürchte, dass er die Prüfung nicht bestehen kann.",
+          "start": 437.97,
+          "end": 441.25
+        },
+        {
+          "text": "Mache dir keine Sorgen um das Essen.",
+          "start": 444.3,
+          "end": 446.46
+        },
+        {
+          "text": "In Deutschland gibt es viele chinesische Restaurants und Asialäden.",
+          "start": 446.92,
+          "end": 451.5
+        },
+        {
+          "text": "Ich sorge mich darum, ob mein Freund rechtzeitig mein Paket schickt.",
+          "start": 453.74,
+          "end": 459.0
+        },
+        {
+          "text": "Sie wartete unruhig auf die Rückkehr ihres Mannes.",
+          "start": 462.12,
+          "end": 465.34
+        }
       ]
     }
   ]

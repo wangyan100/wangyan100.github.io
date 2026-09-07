@@ -1,19 +1,8 @@
-Wagen, Auto, Geländewagen, Luxuswagen, Limousine, Minibus, Reisebus, Sportwagen, Wohnwagen, Anhänger, Doser, Hochlader, Kastenwagen
-Lieferwagen, Kran, Stapler, Traktor, Transporter, Bremspedal, Beifahrersitz, Fahrersitz
-Gaspedal, Kupplungspedal, Lenkrad, Sicherheitsgurt, Anschnallgurt, Außenspiegel, Auspuffleitung, Kofferraum, Motorhaube, Reifen, Reservereifen, Scheibenwischer, Windschutzscheibe
-Benzinuhr, Drehzahlmesser, Tachometer, Warnleuchte, Blinker, Rücklicht, Scheinwerfer
-Sprechen Sie bitte die folgenden Sätze.
-1949 fuhr kaum jemand Auto und der CO2-Ausstoß war minimal.
-Künftig sollen dort die Geländewagen gebaut werden.
-Der Junge aus dem Armenviertel fuhr nun in Limousinen durch die Stadt.
-Auf dem Weg nach Italien ist ein deutscher Reisebus verunglückt.
-Ein 85-jähriger Autofahrer ist mit seinem Sportwagen in ein Hamburger Kaufhaus gekracht.
-In der Ferienzeit kontrolliert die Polizei in Hessen gezielt Wohnwagen auf der Autobahn.
-Der Lagerarbeiter stiehlt vor den Augen seiner Chefin einen Lieferwagen.
-Ein Kran hebt die Container auf das Schiff.
-Das Bremspedal kann zum schnellen Abbremsen und zur Feststellbremse benutzt werden.
-Das Gaspedal ist rechts und die Bremse links.
-Außenspiegel auf beiden Seiten bieten beim Rückwärtsfahren gute Sicht.
-Der Druck der Reifen muss regelmäßig überprüft werden.
-Warnleuchte blinkt auf dem Armaturenbrett des Autos.
-Der Drehzahlmesser zeigt die Motordrehzahl in Umdrehungen pro Minute an.
+[00:00:01.650 --> 00:00:39.690] Wagen, Auto, Geländewagen, Luxuswagen, Limousine, Minibus, Reisebus, Sportwagen, Wohnwagen, Anhänger, Doser, Hochlader, Kastenwagen
+[00:00:41.330 --> 00:01:04.550] Lieferwagen, Kran, Stapler, Traktor, Transporter, Bremspedal, Beifahrersitz, Fahrersitz
+[00:01:04.550 --> 00:01:25.940] Gaspedal, Kupplungspedal, Lenkrad, Sicherheitsgurt, Anschnallgurt, Außenspiegel, Auspuffleitung
+[00:01:27.260 --> 00:02:06.720] Kofferraum, Motorhaube, Reifen, Reservereifen, Scheibenwischer, Windschutzscheibe, Benzinuhr, Drehzahlmesser, Tachometer, Warnleuchte, Blinker, Rücklicht, Scheinwerfer
+[00:02:18.660 --> 00:02:45.100] 1940 fuhr kaum jemand Auto und der CO2-Ausstoß war minimal. Künftig sollen dort die Geländewagen gebaut werden. Der junge aus dem Armenviertel fuhr nun in Limousinen durch die Stadt. Auf dem Weg nach Italien ist ein deutscher Reisebus verunglückt.
+[00:02:47.370 --> 00:03:03.580] Ein 85-jähriger Autofahrer ist mit seinem Sportwagen in ein Hamburger Kaufhaus gekracht. In der Ferienzeit kontrolliert die Polizei in Hessen gezielt Wohnwagen auf der Autobahn.
+[00:03:05.790 --> 00:03:26.210] Der Lagerarbeiter stiehlt vor den Augen seiner Chefin einen Lieferwagen. Ein Kran hebt die Container auf das Schiff. Das Bremspedal kann zum schnellen Abbremsen und zur Feststellbremse benutzt werden.
+[00:03:28.450 --> 00:04:02.680] Das Gaspedal ist rechts und die Bremse links. Außenspiegel auf beiden Seiten bieten beim Rückwärtsfahren gute Sicht. Der Druck der Reifen muss regelmäßig überprüft werden. Warnleuchte blinkt auf dem Armaturenbrett des Autos. Der Drehzahlmesser zeigt die Motordrehzahl in Umdrehungen pro Minute an.

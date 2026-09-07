@@ -4,65 +4,257 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "innere Organe Herzbeutel",
-        "Herzgefäß",
-        "Herzkammer",
-        "Herzklappe",
-        "Herzmuskel",
-        "Herzvorhof",
-        "Herzwand",
-        "Bronche",
-        "Brustfell",
-        "Hauptbronche",
-        "Lungenbläschen",
-        "Lungenflügel",
-        "Lungenlappen",
-        "Mittelfell",
-        "Zwerchfell",
-        "Bauchspeicheldrüse",
-        "Pankreas",
-        "Gallenblase",
-        "Gallengang",
-        "Hauptgallengang",
-        "Leberlappen",
-        "Blinddarm",
-        "Dickdarm",
-        "Dünndarm",
-        "Kolon",
-        "Krummdarm",
-        "Mastdarm",
-        "Zwölffingerdarm",
-        "Wurmfortsatz",
-        "Magenmund",
-        "Fördner",
-        "Verdauen",
-        "Lymphe",
-        "Milz",
-        "Schilddrüse",
-        "Herzbeutel",
-        "Herzklappe",
-        "Herzbeutelentzündung",
-        "Herzbeutel ansammelt. Er zieht die frische Luft tief in die Lungen. Die Lunge gleicht",
-        "einem Baum. Der Stamm",
-        "die Luftröhre",
-        "verzweigt sich in die Äste",
-        "Bronchien genannt. Bronchitis",
-        "ist eine häufige Erkrankung im Bereich der Bronchien. Der rechte Lungenflügel ist",
-        "in zehn",
-        "der linke in neun Lungensegmente unterteilt. Die in der Leber produzierte",
-        "Flüssigkeit",
-        "also Galle",
-        "hilft bei der Verdauung von Nahrungsfetten. Bauchschmerzen um den",
-        "Bauchnabel herum oder in der Magengegend können die ersten Anzeichen einer Blinddarmentzündung",
-        "sein. Der Mastdarm ist der letzte Abschnitt des Dickdarms. Die Hauptfunktion von Wurmfortsatz",
-        "liegt in der frühen Kindheit in der Immunabwehr. Das Lymphsystem ist Teil des"
+        {
+          "text": "innere Organe Herzbeutel",
+          "start": 1.9,
+          "end": 7.36
+        },
+        {
+          "text": "Herzgefäß",
+          "start": 8.98,
+          "end": 10.44
+        },
+        {
+          "text": "Herzkammer",
+          "start": 12.05,
+          "end": 13.35
+        },
+        {
+          "text": "Herzklappe",
+          "start": 15.11,
+          "end": 16.39
+        },
+        {
+          "text": "Herzmuskel",
+          "start": 18.2,
+          "end": 19.38
+        },
+        {
+          "text": "Herzvorhof",
+          "start": 21.32,
+          "end": 22.4
+        },
+        {
+          "text": "Herzwand",
+          "start": 24.47,
+          "end": 25.63
+        },
+        {
+          "text": "Bronche",
+          "start": 26.77,
+          "end": 28.27
+        },
+        {
+          "text": "Brustfell",
+          "start": 30.15,
+          "end": 31.25
+        },
+        {
+          "text": "Hauptbronche",
+          "start": 33.03,
+          "end": 35.21
+        },
+        {
+          "text": "Lungenbläschen",
+          "start": 35.21,
+          "end": 37.79
+        },
+        {
+          "text": "Lungenflügel",
+          "start": 38.23,
+          "end": 39.47
+        },
+        {
+          "text": "Lungenlappen",
+          "start": 39.81,
+          "end": 41.89
+        },
+        {
+          "text": "Mittelfell",
+          "start": 42.73,
+          "end": 43.85
+        },
+        {
+          "text": "Zwerchfell",
+          "start": 44.37,
+          "end": 46.15
+        },
+        {
+          "text": "Bauchspeicheldrüse",
+          "start": 47.29,
+          "end": 49.05
+        },
+        {
+          "text": "Pankreas",
+          "start": 50.75,
+          "end": 52.45
+        },
+        {
+          "text": "Gallenblase",
+          "start": 57.83,
+          "end": 59.23
+        },
+        {
+          "text": "Gallengang",
+          "start": 59.23,
+          "end": 60.63
+        },
+        {
+          "text": "Hauptgallengang",
+          "start": 62.02,
+          "end": 64.82
+        },
+        {
+          "text": "Leberlappen",
+          "start": 65.62,
+          "end": 67.62
+        },
+        {
+          "text": "Blinddarm",
+          "start": 68.52,
+          "end": 69.68
+        },
+        {
+          "text": "Dickdarm",
+          "start": 71.26,
+          "end": 72.42
+        },
+        {
+          "text": "Dünndarm",
+          "start": 74.08,
+          "end": 75.06
+        },
+        {
+          "text": "Kolon",
+          "start": 76.91,
+          "end": 77.61
+        },
+        {
+          "text": "Krummdarm",
+          "start": 79.51,
+          "end": 80.91
+        },
+        {
+          "text": "Mastdarm",
+          "start": 84.45,
+          "end": 85.85
+        },
+        {
+          "text": "Zwölffingerdarm",
+          "start": 85.85,
+          "end": 87.25
+        },
+        {
+          "text": "Wurmfortsatz",
+          "start": 88.93,
+          "end": 91.39
+        },
+        {
+          "text": "Magenmund",
+          "start": 92.39,
+          "end": 93.29
+        },
+        {
+          "text": "Fördner",
+          "start": 95.3,
+          "end": 96.32
+        },
+        {
+          "text": "Verdauen",
+          "start": 98.18,
+          "end": 99.44
+        },
+        {
+          "text": "Lymphe",
+          "start": 100.98,
+          "end": 103.14
+        },
+        {
+          "text": "Milz",
+          "start": 103.7,
+          "end": 104.72
+        },
+        {
+          "text": "Schilddrüse",
+          "start": 106.34,
+          "end": 107.72
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Immunsystems und damit wichtig für die Abwehr von Krankheitserregern."
+        {
+          "text": "Man kann keinem ins Herz sehen.",
+          "start": 114.77,
+          "end": 120.4
+        },
+        {
+          "text": "Die untere Seite des Herzbeutels ist mit dem Zwerchfell verwachsen.",
+          "start": 123.52,
+          "end": 128.06
+        },
+        {
+          "text": "Ist eine Herzklappe von Geburt an missgebildet, kann sie durch eine künstliche Herzklappe ersetzt werden.",
+          "start": 131.05,
+          "end": 138.39
+        },
+        {
+          "text": "Diese Krankheit kann zu einer Herzbeutelentzündung kommen, bei der sich Flüssigkeit zwischen Herzmuskel und Herzbeutel ansammelt.",
+          "start": 141.44,
+          "end": 150.06
+        },
+        {
+          "text": "Er zieht die frische Luft tief in die Lungen.",
+          "start": 152.24,
+          "end": 156.0
+        },
+        {
+          "text": "Die Lunge gleicht einem Baum.",
+          "start": 159.02,
+          "end": 160.84
+        },
+        {
+          "text": "Der Stamm, die Luftröhre, verzweigt sich in die Äste, Bronchien genannt.",
+          "start": 161.5,
+          "end": 166.72
+        },
+        {
+          "text": "Bronchitis ist eine häufige Erkrankung im Bereich der Bronchien.",
+          "start": 169.76,
+          "end": 174.12
+        },
+        {
+          "text": "Der rechte Lungenflügel ist in zehn, der linke in neun Lungensegmente unterteilt.",
+          "start": 177.2,
+          "end": 183.12
+        },
+        {
+          "text": "Die in der Leber produzierte Flüssigkeit, also Galle, hilft bei der Verdauung von Nahrungsfetten.",
+          "start": 185.32,
+          "end": 192.86
+        },
+        {
+          "text": "Bauchschmerzen um den Bauchnabel herum oder in der Magengegend können die ersten Anzeichen einer Blinddarmentzündung sein.",
+          "start": 195.93,
+          "end": 204.61
+        },
+        {
+          "text": "Der Mastdarm ist der letzte Abschnitt des Dickdarms.",
+          "start": 207.66,
+          "end": 211.38
+        },
+        {
+          "text": "Die Hauptfunktion von Wurmfortsatz liegt in der frühen Kindheit in der Immunabwehr.",
+          "start": 214.45,
+          "end": 221.03
+        },
+        {
+          "text": "Das Lymphsystem ist Teil des Immunsystems und damit wichtig für die Abwehr von Krankheitserregern.",
+          "start": 223.24,
+          "end": 231.12
+        }
       ]
     }
   ]

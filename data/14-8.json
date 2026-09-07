@@ -4,60 +4,257 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Kosmetik",
-        "Augenbrauenformer",
-        "Augenbrauenpinsel",
-        "Gesichtsmassagebürste",
-        "Nagelfeile",
-        "Nagelknipser",
-        "Puderquaste",
-        "Reinigungstuch",
-        "Ruchpinsel",
-        "Wattepad",
-        "Impernformer",
-        "Augencreme",
-        "Gesichtswasser",
-        "Maske",
-        "Nachtcreme",
-        "Reinigungsgel",
-        "Reinigungsmilch",
-        "Serum",
-        "Sonnencreme",
-        "Tagescreme",
-        "Abdeckstift",
-        "Augenbraunstift",
-        "Augenlinie",
-        "Lidschatten",
-        "Lippenglanz",
-        "Lippenlinie",
-        "Lippenstift",
-        "Mascara",
-        "Puderruch",
-        "Ruch",
-        "Entharungswachs",
-        "Körperlotion",
-        "Handcreme",
-        "Auftragen",
-        "Einklopfen",
-        "Schmieren",
-        "Tupfen"
+        {
+          "text": "Kosmetik",
+          "start": 1.68,
+          "end": 3.72
+        },
+        {
+          "text": "Augenbrauenformer",
+          "start": 6.95,
+          "end": 8.35
+        },
+        {
+          "text": "Augenbrauenpinsel",
+          "start": 10.55,
+          "end": 11.95
+        },
+        {
+          "text": "Gesichtsmassagebürste",
+          "start": 14.79,
+          "end": 16.19
+        },
+        {
+          "text": "Nagelfeile",
+          "start": 17.73,
+          "end": 19.13
+        },
+        {
+          "text": "Nagelknipser",
+          "start": 19.13,
+          "end": 21.79
+        },
+        {
+          "text": "Puderquaste",
+          "start": 23.2,
+          "end": 24.78
+        },
+        {
+          "text": "Reinigungstuch",
+          "start": 26.68,
+          "end": 28.5
+        },
+        {
+          "text": "Ruchpinsel",
+          "start": 29.78,
+          "end": 31.86
+        },
+        {
+          "text": "Wattepad",
+          "start": 33.17,
+          "end": 34.57
+        },
+        {
+          "text": "Wimpernformer",
+          "start": 38.3,
+          "end": 39.0
+        },
+        {
+          "text": "Augencreme",
+          "start": 41.12,
+          "end": 41.92
+        },
+        {
+          "text": "Gesichtswasser",
+          "start": 44.36,
+          "end": 45.06
+        },
+        {
+          "text": "Maske",
+          "start": 45.76,
+          "end": 46.92
+        },
+        {
+          "text": "Nachtcreme",
+          "start": 48.9,
+          "end": 50.16
+        },
+        {
+          "text": "Reinigungsgel",
+          "start": 52.12,
+          "end": 53.48
+        },
+        {
+          "text": "Reinigungsmilch",
+          "start": 56.36,
+          "end": 57.06
+        },
+        {
+          "text": "Serum",
+          "start": 59.1,
+          "end": 60.6
+        },
+        {
+          "text": "Sonnencreme",
+          "start": 61.94,
+          "end": 63.62
+        },
+        {
+          "text": "Tagescreme",
+          "start": 64.94,
+          "end": 66.72
+        },
+        {
+          "text": "Abdeckstift",
+          "start": 68.28,
+          "end": 70.98
+        },
+        {
+          "text": "Augenbraunstift",
+          "start": 70.98,
+          "end": 73.6
+        },
+        {
+          "text": "Augenlinie",
+          "start": 76.69,
+          "end": 78.09
+        },
+        {
+          "text": "Lidschatten",
+          "start": 80.01,
+          "end": 80.85
+        },
+        {
+          "text": "Lippenglanz",
+          "start": 81.41,
+          "end": 83.27
+        },
+        {
+          "text": "Lippenlinie",
+          "start": 86.38,
+          "end": 87.1
+        },
+        {
+          "text": "Lippenstift",
+          "start": 88.84,
+          "end": 90.24
+        },
+        {
+          "text": "Mascara",
+          "start": 90.24,
+          "end": 92.6
+        },
+        {
+          "text": "Puderruch",
+          "start": 94.01,
+          "end": 96.71
+        },
+        {
+          "text": "Ruch",
+          "start": 98.31,
+          "end": 99.71
+        },
+        {
+          "text": "Entharungswachs",
+          "start": 99.71,
+          "end": 102.33
+        },
+        {
+          "text": "Körperlotion",
+          "start": 103.67,
+          "end": 105.37
+        },
+        {
+          "text": "Handcreme",
+          "start": 106.68,
+          "end": 108.4
+        },
+        {
+          "text": "Deo",
+          "start": 109.88,
+          "end": 111.32
+        },
+        {
+          "text": "Auftragen",
+          "start": 113.76,
+          "end": 114.68
+        },
+        {
+          "text": "Einklopfen",
+          "start": 116.54,
+          "end": 117.46
+        },
+        {
+          "text": "Schmieren",
+          "start": 118.9,
+          "end": 120.44
+        },
+        {
+          "text": "Tupfen",
+          "start": 121.69,
+          "end": 123.19
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Elektrische Gesichtsbürsten können nicht nur die Haut gut reinigen, sondern den Teint zum Strahlen bringen und auch noch kleine Falten bekämpfen.",
-        "Ursprünglich wurden Puderquasten in Form eines starken Pinsels aus Naturhaar gefertigt.",
-        "Ein paar Tropfen auf ein Wattepad genügen, um auch wasserfesten Mascara sanft von den Wimpern reiben zu können.",
-        "Bei empfindlicher Haut ist zur Pflege eine milde Reinigungsmilch oder ein alkoholfreies Gesichtswasser zu empfehlen.",
-        "Die Reinigungsmilch wurde speziell für die besonderen Bedürfnisse der sensiblen Haut entwickelt.",
-        "Du sollst deine Kinder daher auf jeden Fall auch mit Sonnencreme schützen, damit es zu keinem Sonnenbrand kommt.",
-        "Abdeckstift zum Kaschieren von Hautunreinheiten und Rötungen gehört mittlerweile zum Standardrepertoire.",
-        "Der Täter, der das Handy geraubt hatte, soll auffällig schwarzen Lidschatten getragen haben.",
-        "Der Lippenstift hat sich sehr gut verkauft.",
-        "Bei unproblematischer Haut reicht dazu eine normale Körperlotion.",
-        "Nach jedem Waschen soll man die Hände mit einer dicken Schicht Handcreme versorgen und gut einmassieren."
+        {
+          "text": "Elektrische Gesichtsbürsten können nicht nur die Haut gut reinigen, sondern den Teint zum Strahlen bringen und auch noch kleine Falten bekämpfen.",
+          "start": 133.61,
+          "end": 144.95
+        },
+        {
+          "text": "Ursprünglich wurden Puderquasten in Form eines starken Pinsels aus Naturhaar gefertigt.",
+          "start": 147.22,
+          "end": 155.06
+        },
+        {
+          "text": "Ein paar Tropfen auf ein Wattepad genügen, um auch wasserfesten Mascara sanft von den Wimpern reiben zu können.",
+          "start": 158.17,
+          "end": 166.45
+        },
+        {
+          "text": "Bei empfindlicher Haut ist zur Pflege eine milde Reinigungsmilch oder ein alkoholfreies Gesichtswasser zu empfehlen.",
+          "start": 169.48,
+          "end": 178.14
+        },
+        {
+          "text": "Die Reinigungsmilch wurde speziell für die besonderen Bedürfnisse der sensiblen Haut entwickelt.",
+          "start": 180.35,
+          "end": 187.73
+        },
+        {
+          "text": "Du sollst deine Kinder daher auf jeden Fall auch mit Sonnencreme schützen, damit es zu keinem Sonnenbrand kommt.",
+          "start": 190.86,
+          "end": 198.1
+        },
+        {
+          "text": "Abdeckstift zum Kaschieren von Hautunreinheiten und Rötungen gehört mittlerweile zum Standardrepertoire.",
+          "start": 201.39,
+          "end": 209.09
+        },
+        {
+          "text": "Der Täter, der das Handy geraubt hatte, soll auffällig schwarzen Lidschatten getragen haben.",
+          "start": 211.33,
+          "end": 218.67
+        },
+        {
+          "text": "Der Lippenstift hat sich sehr gut verkauft.",
+          "start": 221.73,
+          "end": 224.55
+        },
+        {
+          "text": "Bei unproblematischer Haut reicht dazu eine normale Körperlotion.",
+          "start": 227.6,
+          "end": 232.72
+        },
+        {
+          "text": "Nach jedem Waschen soll man die Hände mit einer dicken Schicht Handcreme versorgen und gut einmassieren.",
+          "start": 235.85,
+          "end": 242.99
+        }
       ]
     }
   ]

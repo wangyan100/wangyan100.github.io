@@ -1,78 +1,80 @@
-Vögel 2
-Ara-Rauner
-Gelbbrustara
-3 Zehenspecht
-Eisvogel
-Grauspecht
-Kardinal
-Kolibri
-Kuckuck
-Specht
-Ara
-Graupapagei
-Kakadu
-Papagei
-Wellensittich
-Paradiesvogel
-Flamingo
-Kranich
-Löffler
-Manchurenkranich
-Mönchskranich
-Schwarzhalskranich
-Schwarzstorch
-Tril
-Emu
-Kasuar
-Strauß
-Möwe
-Seeadler
-Sturmvogel
-Erhaschen
-Habitat
-Nest
-Nesterbauen
-Standvogel
-Zugvogel
-Ziehen
-Zwitschern
-Sprechen Sie bitte die folgenden Sätze
-Er steckt den Kopf in den Sand
-In der Vogel Strauß
-Im Frühling bauen die Vögel Nester
-Der Bestand von Eisvogel
-hat in den letzten Jahren
-wieder zugenommen
-Die Kolibris
-ernähren sich vorwiegend
-von Blütennektar
-Der Specht klopft am Baumstamm
-Kakadus
-haben ein wesentlich kleineres
-Verbreitungsgebiet
-als andere Papageienfamilien
-Papageien und Rabenvögel
-gehören zu den Vögeln mit der
-höchsten Intelligenz
-Die Paradiesvögel
-teilen sich in zwei Unterfamilien
-mit sehr unterschiedlichem
-Aussehen
-In beiden Unterfamilien
-ist das Weibchen kleiner als das Männchen
-Kranich war ein Symbol
-der Klugheit und galt
-als Vogel des Glücks
-Flamingos sind eine
-sehr alte Vogelgruppe
-Den Laufvögeln
-Der Brustbeinkamm
-Die Möwen flogen
-kreischend davon
-Anders als Zugvögel
-führen Standvögel keine
-regelmäßigen saisonalen Wanderungen
-durch
-Die Zugvögel ziehen jedes Jahr
-nach Süden
-Die Vögel zwitschern im Garten
+[00:00:01.870 --> 00:00:04.250] Vögel 2
+[00:00:05.660 --> 00:00:07.480] Ara-Rauner
+[00:00:08.760 --> 00:00:10.820] Gelbbrustara
+[00:00:12.160 --> 00:00:14.060] 3 Zehenspecht
+[00:00:17.240 --> 00:00:18.640] Eisvogel
+[00:00:18.640 --> 00:00:19.340] Grauspecht
+[00:00:21.720 --> 00:00:22.500] Kardinal
+[00:00:24.400 --> 00:00:26.100] Kolibri
+[00:00:27.380 --> 00:00:28.700] Kuckuck
+[00:00:30.200 --> 00:00:31.540] Specht
+[00:00:32.820 --> 00:00:33.900] Ara
+[00:00:36.910 --> 00:00:37.610] Graupapagei
+[00:00:38.980 --> 00:00:40.340] Kakadu
+[00:00:41.620 --> 00:00:43.540] Papagei
+[00:00:44.860 --> 00:00:47.340] Sittich
+[00:00:47.340 --> 00:00:48.860] Wellensittich
+[00:00:50.700 --> 00:00:52.140] Paradiesvogel
+[00:00:54.180 --> 00:00:55.760] Flamingo
+[00:00:57.100 --> 00:00:59.280] Kranich
+[00:00:59.280 --> 00:01:00.820] Löffler
+[00:01:04.460 --> 00:01:05.860] Manchurenkranich
+[00:01:05.860 --> 00:01:08.120] Mönchskranich
+[00:01:09.500 --> 00:01:11.960] Schwarzhalskranich
+[00:01:13.270 --> 00:01:15.190] Schwarzstorch
+[00:01:16.540 --> 00:01:18.460] Tril
+[00:01:18.460 --> 00:01:20.500] Emu
+[00:01:21.900 --> 00:01:23.240] Kasuar
+[00:01:24.780 --> 00:01:26.480] Strauß
+[00:01:27.730 --> 00:01:29.110] Lumme
+[00:01:31.310 --> 00:01:32.970] Möwe
+[00:01:32.970 --> 00:01:34.810] Seeadler
+[00:01:36.310 --> 00:01:38.430] Sturmvogel
+[00:01:39.680 --> 00:01:41.060] Erhaschen
+[00:01:43.400 --> 00:01:44.700] Habitat
+[00:01:45.400 --> 00:01:46.520] Nest
+[00:01:48.440 --> 00:01:49.840] Nesterbauen
+[00:01:51.380 --> 00:01:53.320] Standvogel
+[00:01:54.660 --> 00:01:56.420] Zugvogel
+[00:01:57.770 --> 00:01:59.010] Ziehen
+[00:02:01.000 --> 00:02:01.760] Zwitschern
+[00:02:06.240 --> 00:02:09.120] Sprechen Sie bitte die folgenden Sätze
+[00:02:11.360 --> 00:02:14.200] Er steckt den Kopf in den Sand
+[00:02:14.200 --> 00:02:15.660] wie der Vogel Strauß
+[00:02:18.410 --> 00:02:20.430] Im Frühling bauen die Vögel
+[00:02:20.430 --> 00:02:21.350] Nester
+[00:02:23.750 --> 00:02:26.130] Der Bestand von Eisvogel
+[00:02:26.130 --> 00:02:29.350] hat in den letzten Jahren wieder zugenommen
+[00:02:31.680 --> 00:02:32.680] Die Kolibris
+[00:02:32.880 --> 00:02:34.480] ernähren sich vorwiegend
+[00:02:34.480 --> 00:02:36.440] von Blütennektar
+[00:02:38.780 --> 00:02:41.760] Der Specht klopft am Baumstamm
+[00:02:44.130 --> 00:02:45.330] Kakadus
+[00:02:45.330 --> 00:02:47.330] haben ein wesentlich kleineres
+[00:02:47.510 --> 00:02:48.750] Verbreitungsgebiet
+[00:02:48.750 --> 00:02:50.950] als andere Papageienfamilien
+[00:02:53.320 --> 00:02:55.630] Papageien und Rabenvögel
+[00:02:56.320 --> 00:02:57.840] gehören zu den Vögeln
+[00:02:57.840 --> 00:02:59.760] mit der höchsten Intelligenz
+[00:03:01.960 --> 00:03:03.520] Die Paradiesvögel
+[00:03:04.180 --> 00:03:05.890] teilen sich in zwei Unterfamilien
+[00:03:06.660 --> 00:03:09.000] mit sehr unterschiedlichem Aussehen
+[00:03:09.000 --> 00:03:11.520] In beiden Unterfamilien
+[00:03:11.520 --> 00:03:12.780] ist das Weibchen
+[00:03:12.780 --> 00:03:14.920] kleiner als das Männchen
+[00:03:17.290 --> 00:03:19.150] Kranich war ein Symbol
+[00:03:19.150 --> 00:03:20.130] der Klugheit
+[00:03:20.130 --> 00:03:22.850] und galt als Vogel des Glücks
+[00:03:25.190 --> 00:03:26.430] Flamingos
+[00:03:26.430 --> 00:03:28.340] sind eine sehr alte Vogelgruppe
+[00:03:28.340 --> 00:03:32.830] Den Laufvögeln
+[00:03:33.450 --> 00:03:34.770] fehlt der Brustbeinkamm
+[00:03:37.610 --> 00:03:39.070] Die Möwen
+[00:03:39.070 --> 00:03:40.910] flogen kreischend davon
+[00:03:43.250 --> 00:03:45.350] Anders als Zugvögel
+[00:03:45.830 --> 00:03:47.230] führen Standvögel
+[00:03:47.230 --> 00:03:48.690] keine regelmäßigen
+[00:03:48.830 --> 00:03:50.710] saisonalen Wanderungen durch
+[00:03:53.250 --> 00:03:54.890] Die Zugvögel
+[00:03:54.890 --> 00:03:57.030] ziehen jedes Jahr nach Süden
+[00:03:59.270 --> 00:04:01.850] Die Vögel zwitschern im Garten

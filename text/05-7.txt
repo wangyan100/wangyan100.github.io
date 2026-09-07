@@ -1,53 +1,53 @@
-Feuerwehrstation und Polizei
-Brandmeister
-Feuerwehr
-Feuerwehrmann
-Bulle
-Detektiv
-Kommissar
-Polizist
-Polizistin
-Streifenpolizist
-Verbrecher
-Feuerwehrleiter
-Feuerwehrhelm
-Gasmaske
-Schutzmaske
-Handschelle
-Knüppel
-die Kugelsichere Weste
-Polizeieuniform
-Sauerstoffmaske
-Feuerwehrfahrzeug
-Gefangenkraftwagen
-Polizeiwagen
-Polizeimotorrad
-Kugel
-Pistole
-Sturmgewehr
-Tränengasgranate
-ausbrechen
-Brand
-Brandschutz
-brennen
-Fluchtweg
-niederbrennen
-Rauch
-Sauerstoff
-Sprechen Sie bitte die folgenden Sätze
-Wenn diese Wohnung brannte, kam die Feuerwehr.
-Seit dem Großbrand melden sich immer mehr freiwillige Feuerwehren.
-Der Detektiv hängt sich an den Verbrecher.
-Der Polizist führt den Verbrecher mit Handschellen ab.
-Da liegt der Knüppel beim Hund.
-Er schlägt seinen Kollegen nur seine eigenen Waffen.
-Eine Kugel hat ihn getroffen.
-Der Räuber bedrohte die Kassiererin mit einer Pistole.
-Nach der Explosion einer Tränengasgranate in einem Nachtclub in Venezuela
-sind mindestens 17 Menschen ums Leben gekommen.
-Wenn das Feuer ausgebrochen ist,
-muss man möglichst schnell Fluchtwege finden.
-Das Haus war völlig niedergebrannt.
-Kein Rauch ohne Flamme.
-Wasser ist eine Verbindung aus Wasserstoff und Sauerstoff.
-Ohne Sauerstoff kann kein Feuer brennen.
+[00:00:01.900 --> 00:00:05.040] Feuerwehrstation und Polizei
+[00:00:06.290 --> 00:00:08.530] Brandmeister
+[00:00:09.880 --> 00:00:11.500] Feuerwehr
+[00:00:12.870 --> 00:00:14.490] Feuerwehrmann
+[00:00:15.800 --> 00:00:18.520] Bulle
+[00:00:18.520 --> 00:00:20.160] Detektiv
+[00:00:21.410 --> 00:00:23.050] Kommissar
+[00:00:24.300 --> 00:00:25.780] Polizist
+[00:00:27.030 --> 00:00:28.770] Polizistin
+[00:00:30.240 --> 00:00:32.300] Streifenpolizist
+[00:00:33.610 --> 00:00:35.090] Verbrecher
+[00:00:36.470 --> 00:00:38.510] Feuerwehrleiter
+[00:00:39.850 --> 00:00:41.690] Feuerwehrhelm
+[00:00:43.470 --> 00:00:44.870] Gasmaske
+[00:00:46.180 --> 00:00:48.040] Schutzmaske
+[00:00:49.320 --> 00:00:50.820] Handschelle
+[00:00:52.140 --> 00:00:54.760] Knüppel
+[00:00:54.760 --> 00:00:57.560] die Kugelsichere Weste
+[00:00:58.800 --> 00:01:01.040] Polizeieinform
+[00:01:02.900 --> 00:01:04.300] Sauerstoffmaske
+[00:01:05.650 --> 00:01:08.050] Feuerwehrfahrzeug
+[00:01:09.300 --> 00:01:11.540] Gefangenkraftwagen
+[00:01:12.820 --> 00:01:14.920] Polizeiwagen
+[00:01:16.200 --> 00:01:18.520] Polizeimotorrad
+[00:01:19.830 --> 00:01:21.510] Kugel
+[00:01:22.760 --> 00:01:24.020] Pistole
+[00:01:25.490 --> 00:01:27.190] Sturmgewehr
+[00:01:30.520 --> 00:01:31.900] Tränengasgranate
+[00:01:33.720 --> 00:01:35.100] ausbrechen
+[00:01:35.100 --> 00:01:36.120] Brand
+[00:01:37.400 --> 00:01:39.900] Brandschutz
+[00:01:40.740 --> 00:01:42.080] brennen
+[00:01:43.460 --> 00:01:45.220] Fluchtweg
+[00:01:47.640 --> 00:01:49.020] niederbrennen
+[00:01:49.020 --> 00:01:51.660] Rauch
+[00:01:51.660 --> 00:01:53.660] Sauerstoff
+[00:01:58.140 --> 00:02:00.920] Sprechen Sie bitte die folgenden Sätze
+[00:02:03.450 --> 00:02:06.960] Wenn diese Wohnung brannte, kam die Feuerwehr.
+[00:02:09.260 --> 00:02:14.380] Seit dem Großbrand melden sich immer mehr freiwillige Feuerwehren.
+[00:02:16.980 --> 00:02:19.800] Der Detektiv hängt sich an den Verbrecher.
+[00:02:22.860 --> 00:02:26.340] Der Polizist führt den Verbrecher mit Handschellen ab.
+[00:02:29.300 --> 00:02:31.420] Da liegt der Knüppel beim Hund.
+[00:02:34.500 --> 00:02:37.940] Er schlägt seinen Kollegen nur seine eigenen Waffen.
+[00:02:41.010 --> 00:02:42.970] Eine Kugel hat ihn getroffen.
+[00:02:46.050 --> 00:02:50.290] Der Räuber bedrohte die Kassiererin mit einer Pistole.
+[00:02:52.460 --> 00:02:58.640] Nach der Explosion einer Tränengasgranate in einem Nachtclub in Venezuela
+[00:02:58.640 --> 00:03:02.380] sind mindestens 17 Menschen ums Leben gekommen.
+[00:03:05.540 --> 00:03:07.700] Wenn das Feuer ausgebrochen ist,
+[00:03:08.080 --> 00:03:10.740] muss man möglichst schnell Fluchtwege finden.
+[00:03:13.870 --> 00:03:16.570] Das Haus war völlig niedergebrannt.
+[00:03:19.190 --> 00:03:21.410] Kein Rauch ohne Flamme.
+[00:03:24.300 --> 00:03:28.560] Wasser ist eine Verbindung aus Wasserstoff und Sauerstoff.
+[00:03:30.960 --> 00:03:34.120] Ohne Sauerstoff kann kein Feuer brennen.

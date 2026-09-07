@@ -4,67 +4,307 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Instrumente",
-        "Blechblasinstrument",
-        "Flöte",
-        "Holzblasinstrument",
-        "Horn",
-        "Oboe",
-        "Pfeife",
-        "Saxophon",
-        "Trompete",
-        "Becken",
-        "Beckenhalter",
-        "Hackbrett",
-        "Pauke",
-        "Rumbakugel",
-        "Trommel",
-        "Sylofon",
-        "Bass",
-        "Bogen",
-        "Bratsche",
-        "Viola",
-        "Cello",
-        "Gambe",
-        "Geige",
-        "Violine",
-        "Gitarre",
-        "Seite",
-        "Ukulele",
-        "Akkordeon",
-        "Klavier",
-        "Piano",
-        "Klaviatur",
-        "Orgel",
-        "Pedal",
-        "Akkord",
-        "Intervall",
-        "Note",
-        "Notenschlüssel",
-        "Notensystem",
-        "Takt",
-        "Tonart",
-        "Tonleiter"
+        {
+          "text": "Instrumente",
+          "start": 1.84,
+          "end": 3.84
+        },
+        {
+          "text": "Blechblasinstrument",
+          "start": 5.09,
+          "end": 7.45
+        },
+        {
+          "text": "Flöte",
+          "start": 8.86,
+          "end": 10.42
+        },
+        {
+          "text": "Holzblasinstrument",
+          "start": 11.73,
+          "end": 14.19
+        },
+        {
+          "text": "Horn",
+          "start": 15.47,
+          "end": 17.21
+        },
+        {
+          "text": "Oboe",
+          "start": 17.21,
+          "end": 19.47
+        },
+        {
+          "text": "Pfeife",
+          "start": 20.84,
+          "end": 22.26
+        },
+        {
+          "text": "Saxophon",
+          "start": 23.58,
+          "end": 25.34
+        },
+        {
+          "text": "Trompete",
+          "start": 26.62,
+          "end": 28.94
+        },
+        {
+          "text": "Becken",
+          "start": 28.94,
+          "end": 30.88
+        },
+        {
+          "text": "Beckenhalter",
+          "start": 32.16,
+          "end": 33.98
+        },
+        {
+          "text": "Hackbrett",
+          "start": 35.26,
+          "end": 36.62
+        },
+        {
+          "text": "Pauke",
+          "start": 38.73,
+          "end": 39.43
+        },
+        {
+          "text": "Rumbakugel",
+          "start": 42.08,
+          "end": 42.78
+        },
+        {
+          "text": "Triangel",
+          "start": 44.09,
+          "end": 45.35
+        },
+        {
+          "text": "Trommel",
+          "start": 47.46,
+          "end": 48.34
+        },
+        {
+          "text": "Sylofon",
+          "start": 50.34,
+          "end": 51.04
+        },
+        {
+          "text": "Bass",
+          "start": 52.35,
+          "end": 53.75
+        },
+        {
+          "text": "Bogen",
+          "start": 55.0,
+          "end": 56.42
+        },
+        {
+          "text": "Bratsche",
+          "start": 57.73,
+          "end": 59.27
+        },
+        {
+          "text": "Viola",
+          "start": 60.55,
+          "end": 62.03
+        },
+        {
+          "text": "Cello",
+          "start": 63.37,
+          "end": 64.55
+        },
+        {
+          "text": "Gambe",
+          "start": 65.83,
+          "end": 67.51
+        },
+        {
+          "text": "Geige",
+          "start": 68.79,
+          "end": 70.17
+        },
+        {
+          "text": "Violine",
+          "start": 71.55,
+          "end": 73.19
+        },
+        {
+          "text": "Gitarre",
+          "start": 74.47,
+          "end": 76.27
+        },
+        {
+          "text": "Seite",
+          "start": 77.55,
+          "end": 78.87
+        },
+        {
+          "text": "Ukulele",
+          "start": 80.39,
+          "end": 81.79
+        },
+        {
+          "text": "Akkordeon",
+          "start": 85.0,
+          "end": 85.7
+        },
+        {
+          "text": "E-Piano",
+          "start": 86.4,
+          "end": 87.64
+        },
+        {
+          "text": "Flügel",
+          "start": 89.32,
+          "end": 91.02
+        },
+        {
+          "text": "Hammerklavier",
+          "start": 92.39,
+          "end": 94.09
+        },
+        {
+          "text": "Klavier",
+          "start": 95.4,
+          "end": 96.74
+        },
+        {
+          "text": "Piano",
+          "start": 86.94,
+          "end": 87.64
+        },
+        {
+          "text": "Klaviatur",
+          "start": 101.98,
+          "end": 103.08
+        },
+        {
+          "text": "Orgel",
+          "start": 105.06,
+          "end": 105.76
+        },
+        {
+          "text": "Pedal",
+          "start": 108.01,
+          "end": 108.71
+        },
+        {
+          "text": "Akkord",
+          "start": 111.42,
+          "end": 112.12
+        },
+        {
+          "text": "Intervall",
+          "start": 113.72,
+          "end": 114.42
+        },
+        {
+          "text": "Note",
+          "start": 115.67,
+          "end": 116.69
+        },
+        {
+          "text": "Notenschlüssel",
+          "start": 119.86,
+          "end": 121.26
+        },
+        {
+          "text": "Notensystem",
+          "start": 122.32,
+          "end": 123.44
+        },
+        {
+          "text": "Takt",
+          "start": 124.75,
+          "end": 126.21
+        },
+        {
+          "text": "Tonart",
+          "start": 128.12,
+          "end": 129.12
+        },
+        {
+          "text": "Tonleiter",
+          "start": 131.47,
+          "end": 132.15
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Den Flöten unterscheidet man Quer- und Schnabelflöten.",
-        "Das Ehepaar bläst immer ins gleiche Horn.",
-        "Das Programm enthält Kompositionen für die Kombination von Oboe und Orgel.",
-        "Am Mittwoch wird Musik für Saxophon und Orgel im Dom dargeboten.",
-        "Becken sind seit uralten Zeiten bekannt, ihr Ursprung liegt wahrscheinlich in Asien.",
-        "Schlagbretter sind Seiteninstrumente, die nach der Art der Tonerzeugung auch zu den Schlaginstrumenten gezählt werden.",
-        "Der moderne Triangel hat die Form eines gleichseitigen Dreiecks.",
-        "Scheinbar ist die Viola nur eine größere Violine, einfach eine Quint tiefer gestimmt.",
-        "Die Gamben entstanden wahrscheinlich im 15.",
-        "Jahrhundert in Spanien.",
-        "Die Violinen sind gewöhnlich aus Holz gebaut.",
-        "Ein Akkordeon besteht aus zwei Teilen, Diskant und Bass, die durch einen Balk miteinander verbunden sind.",
-        "Im Gegensatz zum modernen Klavier oder Flügel besitzen Hammerklaviere als typisches Merkmal in der Regel keinen Metallrahmen, sondern Rahmenkonstruktionen aus Holz.",
-        "Wer kann den Bund zweier Herzen lösen oder die Töne eines Akkords auseinanderreißen?"
+        {
+          "text": "Bei den Flöten unterscheidet man Quer- und Schnabelflöten.",
+          "start": 142.24,
+          "end": 145.1
+        },
+        {
+          "text": "Das Ehepaar bläst immer ins gleiche Horn.",
+          "start": 145.1,
+          "end": 151.67
+        },
+        {
+          "text": "Das Programm enthält Kompositionen für die Kombination von Oboe und Orgel.",
+          "start": 151.67,
+          "end": 159.99
+        },
+        {
+          "text": "Am Mittwoch wird Musik für Saxophon und Orgel im Dom dargeboten.",
+          "start": 159.99,
+          "end": 167.09
+        },
+        {
+          "text": "Becken sind seit uralten Zeiten bekannt, ihr Ursprung liegt wahrscheinlich in Asien.",
+          "start": 167.09,
+          "end": 176.03
+        },
+        {
+          "text": "Hackbretter sind Seiteninstrumente, die nach der Art der Tonerzeugung auch zu den Schlaginstrumenten gezählt werden.",
+          "start": 176.03,
+          "end": 186.76
+        },
+        {
+          "text": "Der moderne Triangel hat die Form eines gleichseitigen Dreiecks.",
+          "start": 186.76,
+          "end": 193.97
+        },
+        {
+          "text": "Scheinbar ist die Viola nur eine größere Violine, einfach eine Quint tiefer gestimmt.",
+          "start": 193.97,
+          "end": 203.36
+        },
+        {
+          "text": "Die Gamben entstanden wahrscheinlich im 15.",
+          "start": 203.36,
+          "end": 209.18
+        },
+        {
+          "text": "Jahrhundert in Spanien.",
+          "start": 209.18,
+          "end": 210.78
+        },
+        {
+          "text": "Ukulelen sind gewöhnlich aus Holz gebaut.",
+          "start": 210.78,
+          "end": 216.7
+        },
+        {
+          "text": "Ein Akkordeon besteht aus zwei Teilen, Diskant und Bass, die durch einen Balk miteinander verbunden sind.",
+          "start": 216.7,
+          "end": 227.71
+        },
+        {
+          "text": "Im Gegensatz zum modernen Klavier oder Flügel besitzen Hammerklaviere als typisches Merkmal in der Regel keinen Metallrahmen, sondern Rahmenkonstruktionen aus Holz.",
+          "start": 227.71,
+          "end": 242.68
+        },
+        {
+          "text": "Wer kann den Bund zweier Herzen lösen oder die Töne eines Akkords auseinanderreißen?",
+          "start": 242.68,
+          "end": 251.35
+        }
       ]
     }
   ]

@@ -1,53 +1,55 @@
-Verkehrsunfall
-abschürfen
-sich aufschürfen
-anfahren
-Blut
-bluten
-Stoßverletzung
-überfahren
-umfahren
-verletzen
-begutachten
-beschädigen
-Bußgeld
-Reparaturkosten
-Sachverständige
-Sachverständiger
-Schadenssumme
-Schadenbetrag
-Schmerzensgeld
-Verkehrsunfallverursacher
-zerstören
-zustehen
-anprallen
-kollidieren
-zusammenstoßen
-einbiegen
-sich kreuzen
-überholen
-überschreiten
-vorfahren
-Fahrerflucht
-Karambolage
-Kollision
-Zusammenstoß
-Gaffer
-Rettungsgasse
-Spur
-Verunglücken
-Ich habe auf einer dunklen Straße versehentlich ein Kaninchen überfahren.
-Bei dem Unfall kam ein Mensch ums Leben.
-Sieben weitere wurden schwer verletzt.
-Beim Zusammenstoß wurde sein Auto schwer beschädigt.
-Anfang Mai teilte die Staatsanwaltschaft Stuttgart mit,
-dass die VW-Tochter Porsche mehr als 500 Millionen Euro Bußgeld akzeptierte.
-Die Kosten für die Einschaltung eines Sachverständigen hat die Versicherung des Verkehrsunfallverursachers zu erstatten.
-Es stehen den geschädigten Ansprüche auf Ersatz der Heilbehandlungskosten,
-ein angemessenes Schmerzensgeld und Ersatz des Verdienstausfalls zu.
-Während des Zweiten Weltkriegs wurde Berlin durch die Bomben zerstört.
-Es steht mir nicht zu, mich darüber zu entscheiden.
-Die beiden Spieler stießen zusammen, als sie beide zum Ball liefen.
-An der nächsten Kreuzung musst du links abbiegen.
-Der Verbrecher hat keine Spuren hinterlassen.
-Im Jahr 2006 verunglückten rund 16.000 Personen im Alter von 15 bis 24 Jahren im Straßenverkehr.
+[00:00:01.810 --> 00:00:04.010] Verkehrsunfall
+[00:00:05.420 --> 00:00:08.020] abschürfen
+[00:00:08.020 --> 00:00:10.520] sich aufschürfen
+[00:00:11.800 --> 00:00:14.520] anfahren
+[00:00:14.520 --> 00:00:15.500] Blut
+[00:00:17.570 --> 00:00:18.810] bluten
+[00:00:21.960 --> 00:00:23.360] Stoßverletzung
+[00:00:23.360 --> 00:00:25.080] überfahren
+[00:00:26.390 --> 00:00:28.410] umfahren
+[00:00:29.820 --> 00:00:31.380] verletzen
+[00:00:32.660 --> 00:00:34.580] begutachten
+[00:00:35.830 --> 00:00:37.590] beschädigen
+[00:00:38.840 --> 00:00:41.000] Bußgeld
+[00:00:43.820 --> 00:00:45.220] Reparaturkosten
+[00:00:47.500 --> 00:00:48.900] Sachverständige
+[00:00:48.900 --> 00:00:50.640] Sachverständiger
+[00:00:52.080 --> 00:00:54.400] Schadenssumme
+[00:00:55.800 --> 00:00:57.660] Schadenbetrag
+[00:00:59.070 --> 00:01:00.810] Schmerzensgeld
+[00:01:03.980 --> 00:01:05.380] Verkehrsunfallverursacher
+[00:01:06.720 --> 00:01:08.860] zerstören
+[00:01:08.860 --> 00:01:11.420] zustehen
+[00:01:12.670 --> 00:01:14.150] anprallen
+[00:01:15.430 --> 00:01:17.110] kollidieren
+[00:01:18.450 --> 00:01:20.610] zusammenstoßen
+[00:01:21.890 --> 00:01:23.530] abbiegen
+[00:01:24.880 --> 00:01:27.500] einbiegen
+[00:01:27.500 --> 00:01:30.500] sich kreuzen
+[00:01:32.240 --> 00:01:33.640] überholen
+[00:01:33.640 --> 00:01:35.620] überschreiten
+[00:01:37.020 --> 00:01:38.600] vorfahren
+[00:01:40.010 --> 00:01:42.010] Fahrerflucht
+[00:01:43.320 --> 00:01:45.200] Karambolage
+[00:01:46.550 --> 00:01:47.950] Kollision
+[00:01:48.710 --> 00:01:49.990] Zusammenstoß
+[00:01:51.880 --> 00:01:52.580] Gaffer
+[00:01:55.000 --> 00:01:55.700] Rettungsgasse
+[00:01:57.240 --> 00:01:58.700] Spur
+[00:02:00.980 --> 00:02:01.820] Verunglücken
+[00:02:06.620 --> 00:02:09.280] Sprechen Sie bitte die folgenden Sätze
+[00:02:12.120 --> 00:02:17.400] Ich habe auf einer dunklen Straße versehentlich ein Kaninchen überfahren.
+[00:02:20.420 --> 00:02:22.920] Bei dem Unfall kam ein Mensch ums Leben.
+[00:02:23.440 --> 00:02:26.260] Sieben weitere wurden schwer verletzt.
+[00:02:28.820 --> 00:02:32.620] Beim Zusammenstoß wurde sein Auto schwer beschädigt.
+[00:02:35.310 --> 00:02:38.850] Anfang Mai teilte die Staatsanwaltschaft Stuttgart mit,
+[00:02:38.850 --> 00:02:45.310] dass die VW-Tochter Porsche mehr als 500 Millionen Euro Bußgeld akzeptierte.
+[00:02:48.420 --> 00:02:55.620] Die Kosten für die Einschaltung eines Sachverständigen hat die Versicherung des Verkehrsunfallverursachers zu erstatten.
+[00:02:58.680 --> 00:03:03.200] Es stehen den geschädigten Ansprüche auf Ersatz der Heilbehandlungskosten,
+[00:03:03.880 --> 00:03:08.780] ein angemessenes Schmerzensgeld und Ersatz des Verdienstausfalls zu.
+[00:03:11.060 --> 00:03:15.820] Während des Zweiten Weltkriegs wurde Berlin durch die Bomben zerstört.
+[00:03:18.760 --> 00:03:21.560] Es steht mir nicht zu, mich darüber zu entscheiden.
+[00:03:24.700 --> 00:03:28.840] Die beiden Spieler stießen zusammen, als sie beide zum Ball liefen.
+[00:03:31.960 --> 00:03:34.940] An der nächsten Kreuzung musst du links abbiegen.
+[00:03:37.950 --> 00:03:40.610] Der Verbrecher hat keine Spuren hinterlassen.
+[00:03:40.610 --> 00:03:52.140] Im Jahr 2006 verunglückten rund 16.000 Personen im Alter von 15 bis 24 Jahren im Straßenverkehr.

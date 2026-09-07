@@ -1,56 +1,56 @@
-Hobbys
-Bingo
-Go
-Halmar
-Mühle
-Puzzle
-Schach
-Schachfigur
-Spielbrett
-Bridge
-Herz
-Karo
-Kreuz
-Joker
-Piek
-Poker
-Spielkarte
-Backen
-braten
-dämpfen
-grillen
-köcheln
-schmoren
-würzen
-zubereiten
-Camper
-Campingzelt
-Grill
-Hängematte
-Holzkohle
-Lager
-Lagerfeuer
-Schlafsack
-Ballonfahrt
-Eislaufen
-Fallschirmspringen
-Rafting
-Reiten
-Skifahren
-Wellenreiten
-Sprechen Sie bitte die folgenden Sätze.
-Er gewann 50 Euro beim Bingo.
-Das Spiel Go besaß in China im Lauf der Geschichte verschiedene Bezeichnungen.
-Das Puzzle ist ein altes Spiel.
-Seit 1953 gilt Schach in Deutschland als Sportart.
-Bridge ist ein Kartenspiel für vier Personen.
-Der Joker wird meist als wilde Karte eingesetzt, also als Ersatz für eine beliebige Karte.
-Poker wird weit übergehend zu den Glücksspielen gezählt.
-Meine Schwester kann sehr gut kochen und backen.
-Grillst du das Gemüse auf diesem Grill?
-Je länger das Fleisch schmort, desto zarter wird es.
-Manche Brotsorten sind stark gewürzt, zum Beispiel mit Kümmel.
-Heute wird Holzkohle meist nur noch zum Grillen im Garten gebraucht.
-Die Sonne ist bereits untergegangen, nur das Lagerfeuer flackert vor sich hin.
-Fallschirmspringen ist in Deutschland nur mit einer gültigen Lizenz oder in der Ausbildung erlaubt.
-Bist du schon mal auf einem Pony geritten?
+[00:00:01.390 --> 00:00:03.390] Hobbys
+[00:00:04.010 --> 00:00:05.590] Bingo
+[00:00:06.840 --> 00:00:07.940] Go
+[00:00:10.740 --> 00:00:11.440] Halmar
+[00:00:12.140 --> 00:00:13.700] Mühle
+[00:00:15.020 --> 00:00:16.460] Puzzle
+[00:00:17.830 --> 00:00:19.110] Schach
+[00:00:20.520 --> 00:00:22.140] Schachfigur
+[00:00:23.580 --> 00:00:25.600] Spielbrett
+[00:00:26.240 --> 00:00:27.360] Bridge
+[00:00:28.700 --> 00:00:30.040] Herz
+[00:00:31.360 --> 00:00:33.000] Karo
+[00:00:34.310 --> 00:00:35.810] Kreuz
+[00:00:37.060 --> 00:00:38.080] Joker
+[00:00:39.320 --> 00:00:41.240] Piek
+[00:00:42.560 --> 00:00:44.020] Poker
+[00:00:45.460 --> 00:00:47.000] Spielkarte
+[00:00:48.280 --> 00:00:49.320] Backen
+[00:00:52.260 --> 00:00:52.960] braten
+[00:00:53.920 --> 00:00:55.320] dämpfen
+[00:00:56.560 --> 00:00:58.220] grillen
+[00:00:59.500 --> 00:01:00.820] köcheln
+[00:01:02.200 --> 00:01:03.540] schmoren
+[00:01:05.370 --> 00:01:06.470] würzen
+[00:01:07.810 --> 00:01:09.830] zubereiten
+[00:01:11.180 --> 00:01:12.560] Camper
+[00:01:13.870 --> 00:01:15.690] Campingzelt
+[00:01:17.000 --> 00:01:17.700] Grill
+[00:01:18.980 --> 00:01:21.240] Hängematte
+[00:01:22.550 --> 00:01:23.890] Holzkohle
+[00:01:25.630 --> 00:01:27.030] Lager
+[00:01:28.280 --> 00:01:29.820] Lagerfeuer
+[00:01:31.200 --> 00:01:33.660] Schlafsack
+[00:01:35.100 --> 00:01:36.220] Ballonfahrt
+[00:01:37.460 --> 00:01:39.000] Eislaufen
+[00:01:42.460 --> 00:01:43.020] Fallschirmspringen
+[00:01:44.140 --> 00:01:45.260] Rafting
+[00:01:46.570 --> 00:01:48.090] Reiten
+[00:01:51.180 --> 00:01:51.740] Skifahren
+[00:01:53.280 --> 00:01:54.400] Wellenreiten
+[00:01:58.910 --> 00:02:01.570] Sprechen Sie bitte die folgenden Sätze.
+[00:02:04.600 --> 00:02:07.320] Er gewann 50 Euro beim Bingo.
+[00:02:10.340 --> 00:02:15.680] Das Spiel Go besaß in China im Lauf der Geschichte verschiedene Bezeichnungen.
+[00:02:17.920 --> 00:02:20.900] Das Puzzle ist ein altes Spiel.
+[00:02:23.990 --> 00:02:28.810] Seit 1953 gilt Schach in Deutschland als Sportart.
+[00:02:32.010 --> 00:02:34.690] Bridge ist ein Kartenspiel für vier Personen.
+[00:02:37.770 --> 00:02:45.130] Der Joker wird meist als wilde Karte eingesetzt, also als Ersatz für eine beliebige Karte.
+[00:02:47.790 --> 00:02:51.570] Poker wird weit übergehend zu den Glücksspielen gezählt.
+[00:02:54.730 --> 00:02:58.050] Meine Schwester kann sehr gut kochen und backen.
+[00:02:59.900 --> 00:03:02.640] Grillst du das Gemüse auf diesem Grill?
+[00:03:03.800 --> 00:03:08.100] Je länger das Fleisch schmort, desto zarter wird es.
+[00:03:10.940 --> 00:03:15.720] Manche Brotsorten sind stark gewürzt, zum Beispiel mit Kümmel.
+[00:03:19.080 --> 00:03:23.360] Heute wird Holzkohle meist nur noch zum Grillen im Garten gebraucht.
+[00:03:26.380 --> 00:03:31.420] Die Sonne ist bereits untergegangen, nur das Lagerfeuer flackert vor sich hin.
+[00:03:35.040 --> 00:03:41.020] Fallschirmspringen ist in Deutschland nur mit einer gültigen Lizenz oder in der Ausbildung erlaubt.
+[00:03:43.520 --> 00:03:45.560] Bist du schon mal auf einem Pony geritten?

@@ -4,47 +4,187 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Accessoires 1 Brieftasche",
-        "Geldbörse Portemonnaie",
-        "Faltbörse Handyumhängetasche",
-        "Kartenhalter Münzportmonnaie",
-        "Schlüsselanhänger Haarband",
-        "Haargummi Haarklammer",
-        "Haarklemme Haarnadel",
-        "Haarspange Perücke",
-        "Reif Schleife",
-        "Anstecknadel Armband",
-        "Brosche Halskette",
-        "Halsring Manchettenknopf",
-        "Ohrgehänge Ohrring",
-        "Brillant Diamant",
-        "Edelstein Elfenbein",
-        "Jade Jadeid",
-        "Koralle Perle",
-        "Flechttasche Gürteltasche",
-        "Häkeltasche Handtasche",
-        "Henkeltasche Schultertasche"
+        {
+          "text": "Accessoires 1 Brieftasche",
+          "start": 1.74,
+          "end": 8.65
+        },
+        {
+          "text": "Geldbörse Portemonnaie",
+          "start": 8.65,
+          "end": 13.36
+        },
+        {
+          "text": "Faltbörse Handyumhängetasche",
+          "start": 14.7,
+          "end": 20.27
+        },
+        {
+          "text": "Kartenhalter Münzportmonnaie",
+          "start": 21.55,
+          "end": 26.98
+        },
+        {
+          "text": "Schlüsselanhänger Haarband",
+          "start": 28.29,
+          "end": 33.08
+        },
+        {
+          "text": "Haargummi Haarklammer",
+          "start": 34.42,
+          "end": 39.16
+        },
+        {
+          "text": "Haarklemme Haarnadel",
+          "start": 40.44,
+          "end": 44.93
+        },
+        {
+          "text": "Haarspange Perücke",
+          "start": 46.27,
+          "end": 51.86
+        },
+        {
+          "text": "Reif Schleife",
+          "start": 51.86,
+          "end": 56.36
+        },
+        {
+          "text": "Anstecknadel Armband",
+          "start": 57.61,
+          "end": 63.35
+        },
+        {
+          "text": "Brosche Halskette",
+          "start": 63.35,
+          "end": 68.13
+        },
+        {
+          "text": "Halsring Manchettenknopf",
+          "start": 69.41,
+          "end": 74.37
+        },
+        {
+          "text": "Ohrgehänge Ohrring",
+          "start": 75.72,
+          "end": 80.04
+        },
+        {
+          "text": "Brillant Diamant",
+          "start": 81.32,
+          "end": 85.92
+        },
+        {
+          "text": "Edelstein Elfenbein",
+          "start": 90.74,
+          "end": 93.54
+        },
+        {
+          "text": "Jade Jadeid",
+          "start": 93.54,
+          "end": 97.86
+        },
+        {
+          "text": "Koralle Perle",
+          "start": 99.11,
+          "end": 103.46
+        },
+        {
+          "text": "Flechttasche Gürteltasche",
+          "start": 104.93,
+          "end": 110.2
+        },
+        {
+          "text": "Häkeltasche Handtasche",
+          "start": 111.51,
+          "end": 116.36
+        },
+        {
+          "text": "Henkeltasche Schultertasche",
+          "start": 117.71,
+          "end": 122.7
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Ich nahm meine Brieftasche aus der Innentasche und zog 500 Markscheine heraus.",
-        "Im Bus stahl ein Dieb einem Mann den Geldbeutel.",
-        "Lukas zog sein Portemonnaie aus der Tasche und bezahlte 10 Euro.",
-        "Von jedem verkauften Schlüsselanhänger auf dem Weihnachtsmarkt wird 1 Euro gespendet.",
-        "Lange Haarnadeln werden noch mit Vorliebe in Japan, China und Indien getragen.",
-        "Haarspangen sind oft aus Kunststoff und Metall verarbeitet.",
-        "Perücken wurden schon im alten Ägypten von Männern und Frauen gleichermaßen getragen.",
-        "Eine Schleife hält ihr Haar zusammen.",
-        "Im alten Griechenland Rom und im Bizanz kam der Brosche eine doppelte Funktion zu.",
-        "Sie wurde sowohl als Gewandschließe als auch als Schmuckstück verwendet.",
-        "In einem Ohr hat er einen Ohrring mit einem glitzernden Stein getragen.",
-        "Früher glaubte man, dass das Pulver aus Diamanten tödlich sein kann.",
-        "Die rote Koralle ist in allen warmen Meeren beheimatet.",
-        "Aufgrund der hohen Nachfrage sind die Vorkommen aber bedrohlich geschrumpft.",
-        "Sie erhielten neben dem traditionellen T-Shirt mit Logo auch eine Gürteltasche als Geschenk."
+        {
+          "text": "Ich nahm meine Brieftasche aus der Innentasche und zog 500 Markscheine heraus.",
+          "start": 135.9,
+          "end": 141.88
+        },
+        {
+          "text": "Im Bus stahl ein Dieb einem Mann den Geldbeutel.",
+          "start": 145.01,
+          "end": 149.15
+        },
+        {
+          "text": "Lukas zog sein Portemonnaie aus der Tasche und bezahlte 10 Euro.",
+          "start": 151.76,
+          "end": 156.26
+        },
+        {
+          "text": "Von jedem verkauften Schlüsselanhänger auf dem Weihnachtsmarkt wird 1 Euro gespendet.",
+          "start": 159.51,
+          "end": 165.99
+        },
+        {
+          "text": "Lange Haarnadeln werden noch mit Vorliebe in Japan, China und Indien getragen.",
+          "start": 168.32,
+          "end": 174.76
+        },
+        {
+          "text": "Haarspangen sind oft aus Kunststoff und Metall verarbeitet.",
+          "start": 177.98,
+          "end": 182.7
+        },
+        {
+          "text": "Perücken wurden schon im alten Ägypten von Männern und Frauen gleichermaßen getragen.",
+          "start": 185.35,
+          "end": 190.79
+        },
+        {
+          "text": "Eine Schleife hält ihr Haar zusammen.",
+          "start": 194.02,
+          "end": 196.42
+        },
+        {
+          "text": "Im alten Griechenland Rom und im Bizanz kam der Brosche eine doppelte Funktion zu.",
+          "start": 199.46,
+          "end": 205.84
+        },
+        {
+          "text": "Sie wurde sowohl als Gewandschließe als auch als Schmuckstück verwendet.",
+          "start": 205.84,
+          "end": 211.6
+        },
+        {
+          "text": "In einem Ohr hatte einen Ohrring mit einem glitzernden Stein getragen.",
+          "start": 214.59,
+          "end": 219.53
+        },
+        {
+          "text": "Früher glaubte man, dass das Pulver aus Diamanten tödlich sein kann.",
+          "start": 222.49,
+          "end": 227.21
+        },
+        {
+          "text": "Die rote Koralle ist in allen warmen Meeren beheimatet.",
+          "start": 230.2,
+          "end": 234.62
+        },
+        {
+          "text": "Aufgrund der hohen Nachfrage sind die Vorkommen aber bedrohlich geschrumpft.",
+          "start": 234.9,
+          "end": 240.84
+        },
+        {
+          "text": "Sie erhielten neben dem traditionellen T-Shirt mit Logo auch eine Gürteltasche als Geschenk.",
+          "start": 243.15,
+          "end": 249.99
+        }
       ]
     }
   ]

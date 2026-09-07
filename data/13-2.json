@@ -4,50 +4,197 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "bewegungen ansehen anstarren",
-        "blinzeln gucken schauen",
-        "glotzen schielen starren",
-        "zwinkern gehen",
-        "hüpfen joggen",
-        "laufen rennen",
-        "stolpern treten",
-        "zu Fuß ballen",
-        "fassen greifen",
-        "halten heben",
-        "klopfen kneifen",
-        "schütteln streichen",
-        "winken aufstoßen",
-        "beißen gehen",
-        "kauen kichern",
-        "lecken niesen",
-        "Schluck auf spucken",
-        "beugen sich krümmen",
-        "sich niederbeugen zittern",
-        "brüllen flüstern",
-        "kreischen schreien"
+        {
+          "text": "bewegungen ansehen anstarren",
+          "start": 1.84,
+          "end": 10.55
+        },
+        {
+          "text": "blinzeln gucken schauen",
+          "start": 10.55,
+          "end": 17.66
+        },
+        {
+          "text": "glotzen schielen starren",
+          "start": 18.86,
+          "end": 26.08
+        },
+        {
+          "text": "zwinkern gehen",
+          "start": 27.59,
+          "end": 31.41
+        },
+        {
+          "text": "hüpfen joggen",
+          "start": 33.3,
+          "end": 37.33
+        },
+        {
+          "text": "laufen rennen",
+          "start": 38.61,
+          "end": 42.76
+        },
+        {
+          "text": "stolpern treten",
+          "start": 44.2,
+          "end": 48.49
+        },
+        {
+          "text": "zu Fuß ballen fassen",
+          "start": 49.9,
+          "end": 58.12
+        },
+        {
+          "text": "greifen halten",
+          "start": 58.12,
+          "end": 62.07
+        },
+        {
+          "text": "heben klopfen",
+          "start": 63.35,
+          "end": 67.94
+        },
+        {
+          "text": "kneifen schütteln",
+          "start": 69.19,
+          "end": 73.45
+        },
+        {
+          "text": "streichen winken",
+          "start": 74.92,
+          "end": 79.5
+        },
+        {
+          "text": "aufstoßen beißen",
+          "start": 82.74,
+          "end": 85.54
+        },
+        {
+          "text": "gehen kauen",
+          "start": 86.3,
+          "end": 90.31
+        },
+        {
+          "text": "kichern lecken",
+          "start": 91.62,
+          "end": 96.26
+        },
+        {
+          "text": "niesen Schluck auf",
+          "start": 97.12,
+          "end": 101.47
+        },
+        {
+          "text": "spucken beugen",
+          "start": 102.94,
+          "end": 106.96
+        },
+        {
+          "text": "sich krümmen sich niederbeugen",
+          "start": 108.34,
+          "end": 113.3
+        },
+        {
+          "text": "zittern brüllen",
+          "start": 114.64,
+          "end": 118.75
+        },
+        {
+          "text": "flüstern kreischen",
+          "start": 120.16,
+          "end": 124.42
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Ich werde mir die Sache mal ansehen.",
-        "Als er aus der Dunkelheit ins grelle Sonnenlicht kam, musste er blinzeln.",
-        "Einem geschenkten Gaul guckt man nicht ins Maul.",
-        "Das Kind schielt.",
-        "Er zwinkert nervös mit den Augen.",
-        "Mir ist kalt und ich hüpfe von einem Bein auf das andere.",
-        "Er ging auf den Bürgersteig, stolperte und fiel hin.",
-        "Er ballt die Hand zur Faust.",
-        "Sie griffen beide zugleich nach dem Buch.",
-        "Er kniff mich in den Arm.",
-        "Eine Frau hat meinen Arm gefasst, wenn ich an der Ecke vorbei gegangen bin.",
-        "Sie strich mit der Hand über das Gesicht ihres Freundes.",
-        "Meine Mutter winkt außer dem Bus zum Abschied.",
-        "Der Schüler stößt während des Unterrichts auf.",
-        "Wer gehnt, sollte die Hand vor den Mund nehmen.",
-        "Der Schluckauf geht meistens schnell vorüber.",
-        "Das Kind kreischte den ganzen Vormittag über."
+        {
+          "text": "Ich werde mir die Sache mal ansehen.",
+          "start": 137.6,
+          "end": 140.1
+        },
+        {
+          "text": "Als er aus der Dunkelheit ins grelle Sonnenlicht kam, musste er blinzeln.",
+          "start": 143.07,
+          "end": 148.03
+        },
+        {
+          "text": "Einem geschenkten Gaul guckt man nicht ins Maul.",
+          "start": 151.14,
+          "end": 154.7
+        },
+        {
+          "text": "Das Kind schielt.",
+          "start": 157.2,
+          "end": 158.56
+        },
+        {
+          "text": "Er zwinkert nervös mit den Augen.",
+          "start": 161.52,
+          "end": 163.88
+        },
+        {
+          "text": "Mir ist kalt und ich hüpfe von einem Bein auf das andere.",
+          "start": 166.99,
+          "end": 170.59
+        },
+        {
+          "text": "Er ging auf den Bürgersteig, stolperte und fiel hin.",
+          "start": 173.72,
+          "end": 177.52
+        },
+        {
+          "text": "Er ballt die Hand zur Faust.",
+          "start": 179.88,
+          "end": 183.28
+        },
+        {
+          "text": "Sie griffen beide zugleich nach dem Buch.",
+          "start": 185.88,
+          "end": 188.54
+        },
+        {
+          "text": "Er kniff mich in den Arm.",
+          "start": 191.66,
+          "end": 193.34
+        },
+        {
+          "text": "Eine Frau hat meinen Arm gefasst, wenn ich an der Ecke vorbei gegangen bin.",
+          "start": 196.47,
+          "end": 201.25
+        },
+        {
+          "text": "Sie strich mit der Hand über das Gesicht ihres Freundes.",
+          "start": 204.26,
+          "end": 208.16
+        },
+        {
+          "text": "Meine Mutter winkt außer dem Bus zum Abschied.",
+          "start": 211.0,
+          "end": 214.22
+        },
+        {
+          "text": "Der Schüler stößt während des Unterrichts auf.",
+          "start": 217.21,
+          "end": 220.39
+        },
+        {
+          "text": "Wer gehend, sollte die Hand vor den Mund nehmen.",
+          "start": 223.31,
+          "end": 226.53
+        },
+        {
+          "text": "Der Schluckauf geht meistens schnell vorüber.",
+          "start": 229.62,
+          "end": 232.5
+        },
+        {
+          "text": "Das Kind kreischte den ganzen Vormittag über.",
+          "start": 235.47,
+          "end": 238.59
+        }
       ]
     }
   ]

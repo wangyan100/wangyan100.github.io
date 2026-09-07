@@ -1,59 +1,57 @@
-Haustiere
-Bellen
-Chihuahua
-Halsband
-Hundeleine
-Hundesteuer
-Husky
-Jagdhund
-Labrador
-Schäferhund
-Schnauze
-Federstab
-Futter
-Kater
-Katzenbaum
-Miauen
-Perserkatze
-Rasse
-Wildkatze
-Falle
-Hamster
-Käfig
-Mäuschen
-Meerschweinchen
-Rennmaus
-Angorakaninchen
-Fell
-Hoppeln
-Kaninchen
-Löffel
-Schlappohr
-Schwanz
-Aquarium
-Einsiedlerkrebs
-Filter
-Fischglas
-Füttern
-Wasserpflanze
-Zierfisch
-Sprechen Sie bitte die folgenden Sätze
-Hunde, die viel bellen,
-beißen nicht
-Die Hundeleine wird oft am Halsband des Hundes befestigt.
-Die Haltung von Haushunden ist in Deutschland steuerpflichtig
-und die Hundesteuer wird von der Gemeinde erhoben.
-Der Labrador ist ein mittelgroßer und kräftig gebauter Hund mit einem breiteren Schädel.
-Die Katze ist so glücklich, weil es heute mehr Futter als sonst gibt.
-Kater fühlte sich auf seinem Arm sichtlich wohl.
-Wenn man so wachsam wie die Wildkatze ist, dann kann einem gar nichts passieren.
-Hamster sind vorwiegend Pflanzenfresser und insbesondere Samenfresser.
-Meerschweinchen sind Pflanzenfresser,
-die je nach Art und Lebensraum unterschiedlichste Pflanzen zu sich nehmen.
-Der Hase stellt die Löffel hoch.
-Mit Kamm und Bürste kann man die losen Haare der Angorakaninchen auskämmen,
-damit das Fell nicht verfilzt.
-Die Affen rollen beim Laufen den Schwanz ein.
-Bei den im Aquarium kultivierten Pflanzen handelt es sich entweder um Wasserpflanzen
-oder um auch emas gedeihende Sumpfpflanzen.
-Hier darf der Vermieter seinen Mietern untersagen, diese Tiere zu füttern.
+[00:00:01.740 --> 00:00:03.720] Haustiere
+[00:00:04.970 --> 00:00:06.430] Bellen
+[00:00:07.740 --> 00:00:09.420] Chihuahua
+[00:00:10.700 --> 00:00:12.020] Halsband
+[00:00:13.860 --> 00:00:15.280] Hundeleine
+[00:00:17.140 --> 00:00:18.380] Hundesteuer
+[00:00:20.460 --> 00:00:21.920] Husky
+[00:00:23.760 --> 00:00:24.460] Jagdhund
+[00:00:25.160 --> 00:00:26.460] Labrador
+[00:00:28.360 --> 00:00:30.120] Schäferhund
+[00:00:31.500 --> 00:00:33.100] Schnauze
+[00:00:34.500 --> 00:00:36.200] Federstab
+[00:00:37.610 --> 00:00:38.930] Futter
+[00:00:41.260 --> 00:00:41.960] Kater
+[00:00:44.620 --> 00:00:45.900] Katzenbaum
+[00:00:45.900 --> 00:00:47.960] Miauen
+[00:00:49.300 --> 00:00:51.500] Perserkatze
+[00:00:52.780 --> 00:00:54.860] Rasse
+[00:00:54.860 --> 00:00:56.520] Wildkatze
+[00:00:58.660 --> 00:01:00.040] Falle
+[00:01:01.320 --> 00:01:02.760] Hamster
+[00:01:04.040 --> 00:01:06.460] Käfig
+[00:01:06.460 --> 00:01:08.520] Mäuschen
+[00:01:11.700 --> 00:01:12.520] Meerschweinchen
+[00:01:13.100 --> 00:01:14.860] Rennmaus
+[00:01:16.140 --> 00:01:17.800] Angorakaninchen
+[00:01:19.820 --> 00:01:20.680] Fell
+[00:01:21.920 --> 00:01:23.640] Hoppeln
+[00:01:24.890 --> 00:01:26.610] Hüpfen
+[00:01:29.320 --> 00:01:30.200] Kaninchen
+[00:01:30.720 --> 00:01:32.360] Löffel
+[00:01:33.710 --> 00:01:35.190] Schlappohr
+[00:01:36.560 --> 00:01:38.040] Schwanz
+[00:01:40.200 --> 00:01:40.920] Aquarium
+[00:01:43.450 --> 00:01:44.550] Einsiedlerkrebs
+[00:01:46.620 --> 00:01:47.320] Filter
+[00:01:49.800 --> 00:01:50.500] Fischglas
+[00:01:53.240 --> 00:01:53.940] Füttern
+[00:01:55.520 --> 00:01:56.700] Wasserpflanze
+[00:01:58.730 --> 00:01:59.430] Zierfisch
+[00:02:03.910 --> 00:02:07.050] Sprechen Sie bitte die folgenden Sätze
+[00:02:09.390 --> 00:02:12.810] Hunde, die viel bellen, beißen nicht.
+[00:02:15.880 --> 00:02:19.980] Die Hundeleine wird oft am Halsband des Hundes befestigt.
+[00:02:23.060 --> 00:02:27.420] Die Haltung von Haushunden ist in Deutschland steuerpflichtig
+[00:02:27.420 --> 00:02:30.800] und die Hundesteuer wird von der Gemeinde erhoben.
+[00:02:33.800 --> 00:02:39.880] Der Labrador ist ein mittelgroßer und kräftig gebauter Hund mit einem breiteren Schädel.
+[00:02:42.670 --> 00:02:47.190] Die Katze ist so glücklich, weil es heute mehr Futter als sonst gibt.
+[00:02:49.560 --> 00:02:53.640] Kater fühlte sich auf seinem Arm sichtlich wohl.
+[00:02:56.690 --> 00:03:01.750] Wenn man so wachsam wie die Wildkatze ist, dann kann einem gar nichts passieren.
+[00:03:05.010 --> 00:03:10.150] Hamster sind vorwiegend Pflanzenfresser und insbesondere Samenfresser.
+[00:03:13.470 --> 00:03:20.390] Meerschweinchen sind Pflanzenfresser, die je nach Art und Lebensraum unterschiedlichste Pflanzen zu sich nehmen.
+[00:03:23.490 --> 00:03:25.730] Der Hase stellt die Löffel hoch.
+[00:03:27.970 --> 00:03:36.550] Mit Kamm und Bürste kann man die losen Haare der Angora-Kaninchen auskämmen, damit das Fell nicht verfilzt.
+[00:03:39.600 --> 00:03:42.660] Die Affen rollen beim Laufen den Schwanz ein.
+[00:03:45.590 --> 00:03:51.510] Bei den im Aquarium kultivierten Pflanzen handelt es sich entweder um Wasserpflanzen
+[00:03:51.510 --> 00:03:55.110] oder um auch Emas gedeihende Sumpfpflanzen.
+[00:03:58.320 --> 00:04:03.000] Hier darf der Vermieter seinen Mietern untersagen, diese Tiere zu füttern.

@@ -4,67 +4,287 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Lebensphasen",
-        "Einzelkind",
-        "Zwilling",
-        "Drilling",
-        "Kindheit",
-        "Jugend",
-        "Minderjährig",
-        "Schulkind",
-        "Kindertagesstätte",
-        "Kindergarten",
-        "Schulpflicht",
-        "Hochschulbildung",
-        "Berufsbildung",
-        "Fortbildung",
-        "promovieren",
-        "studieren",
-        "Junge",
-        "Mädchen",
-        "Mädel",
-        "Adoleszens",
-        "Puppertät",
-        "Erwachsene",
-        "Erwachsener",
-        "Midlife-Krise",
-        "Wechseljahre",
-        "in Rente gehen",
-        "in Pension gehen",
-        "Ableben",
-        "Entschlafen",
-        "Selbstmord",
-        "Suizid",
-        "Sterben",
-        "ums Leben kommen",
-        "Friedhof",
-        "Trauerfeier",
-        "Beisetzung",
-        "Alleinerziehende",
-        "Alleinerziehender",
-        "Dink",
-        "geschieden",
-        "kinderlos",
-        "ledig",
-        "Regenbogenfamilie",
-        "verheiratet",
-        "verwitwet"
+        {
+          "text": "Lebensphasen",
+          "start": 2.03,
+          "end": 4.45
+        },
+        {
+          "text": "Einzelkind",
+          "start": 5.77,
+          "end": 7.07
+        },
+        {
+          "text": "Zwilling",
+          "start": 8.83,
+          "end": 9.79
+        },
+        {
+          "text": "Drilling",
+          "start": 11.56,
+          "end": 12.44
+        },
+        {
+          "text": "Kindheit",
+          "start": 14.21,
+          "end": 16.19
+        },
+        {
+          "text": "Jugend",
+          "start": 17.31,
+          "end": 17.75
+        },
+        {
+          "text": "Minderjährig",
+          "start": 19.91,
+          "end": 21.31
+        },
+        {
+          "text": "Schulkind",
+          "start": 23.2,
+          "end": 24.26
+        },
+        {
+          "text": "Kindertagesstätte",
+          "start": 26.2,
+          "end": 27.68
+        },
+        {
+          "text": "Kindergarten",
+          "start": 29.75,
+          "end": 30.97
+        },
+        {
+          "text": "Schulpflicht",
+          "start": 33.03,
+          "end": 33.91
+        },
+        {
+          "text": "Hochschulbildung",
+          "start": 36.08,
+          "end": 37.26
+        },
+        {
+          "text": "Berufsbildung",
+          "start": 38.51,
+          "end": 40.77
+        },
+        {
+          "text": "Fortbildung",
+          "start": 42.9,
+          "end": 44.24
+        },
+        {
+          "text": "promovieren",
+          "start": 45.98,
+          "end": 46.98
+        },
+        {
+          "text": "studieren",
+          "start": 49.19,
+          "end": 50.61
+        },
+        {
+          "text": "Junge",
+          "start": 51.63,
+          "end": 53.03
+        },
+        {
+          "text": "Mädchen",
+          "start": 54.91,
+          "end": 55.91
+        },
+        {
+          "text": "Mädel",
+          "start": 57.86,
+          "end": 58.88
+        },
+        {
+          "text": "Adoleszenz",
+          "start": 60.48,
+          "end": 62.06
+        },
+        {
+          "text": "Pubertät",
+          "start": 63.57,
+          "end": 65.67
+        },
+        {
+          "text": "Erwachsene",
+          "start": 66.51,
+          "end": 67.61
+        },
+        {
+          "text": "Erwachsener",
+          "start": 69.4,
+          "end": 70.68
+        },
+        {
+          "text": "Midlife-Krise",
+          "start": 72.44,
+          "end": 74.26
+        },
+        {
+          "text": "Wechseljahre",
+          "start": 76.08,
+          "end": 77.48
+        },
+        {
+          "text": "in Rente gehen",
+          "start": 79.04,
+          "end": 80.12
+        },
+        {
+          "text": "in Pension gehen",
+          "start": 82.26,
+          "end": 83.72
+        },
+        {
+          "text": "ableben",
+          "start": 85.74,
+          "end": 86.44
+        },
+        {
+          "text": "entschlafen",
+          "start": 90.9,
+          "end": 92.3
+        },
+        {
+          "text": "Selbstmord",
+          "start": 92.3,
+          "end": 93.7
+        },
+        {
+          "text": "Suizid",
+          "start": 94.84,
+          "end": 96.08
+        },
+        {
+          "text": "sterben",
+          "start": 97.91,
+          "end": 98.63
+        },
+        {
+          "text": "ums Leben kommen",
+          "start": 100.65,
+          "end": 101.85
+        },
+        {
+          "text": "Friedhof",
+          "start": 104.22,
+          "end": 105.08
+        },
+        {
+          "text": "Trauerfeier",
+          "start": 107.17,
+          "end": 107.87
+        },
+        {
+          "text": "Beisetzung",
+          "start": 112.52,
+          "end": 113.92
+        },
+        {
+          "text": "Alleinerziehende",
+          "start": 113.92,
+          "end": 115.32
+        },
+        {
+          "text": "Dink",
+          "start": 116.56,
+          "end": 119.66
+        },
+        {
+          "text": "geschieden",
+          "start": 122.68,
+          "end": 123.4
+        },
+        {
+          "text": "kinderlos",
+          "start": 125.57,
+          "end": 126.27
+        },
+        {
+          "text": "ledig",
+          "start": 130.72,
+          "end": 132.12
+        },
+        {
+          "text": "Regenbogenfamilie",
+          "start": 132.12,
+          "end": 133.52
+        },
+        {
+          "text": "verheiratet",
+          "start": 135.07,
+          "end": 136.55
+        },
+        {
+          "text": "verwittwit",
+          "start": 138.25,
+          "end": 138.95
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Diese rasche Minute war die glücklichste meiner Kindheit.",
-        "In Deutschland gibt es rund 52.000 Kindergartenstätten. 1919 wurde Schulpflicht in der Weimarer Verfassung einheitlich für ganz Deutschland festgeschrieben.",
-        "In den 80er Jahren ging sie zur Fortbildung nach Schweden.",
-        "Die Weltgesundheitsorganisation definiert die Adoleszenz als die Periode des Lebens zwischen 10 und 20 Jahren.",
-        "Eine Midlife-Krise bezeichnet ein persönliches Unwohlbefinden im mittleren Lebensabschnitt des Menschen.",
-        "Wechseljahre entwickelt sich über längere Zeit hinweg und ist mit einem Rückgang der Hormonbildung verbunden.",
-        "Viele soziale Faktoren wie schwierige Lebensumstände, Arbeitslosigkeit, all das seien Risikofaktoren, die zu Selbstmord führen können.",
-        "Ich spazierte zum Friedhof und verbrachte die Zeit damit, die Inschriften auf den Grabsteinen zu lesen.",
-        "Die Zahl der Alleinerziehenden in Deutschland steigt.",
-        "Regenbogenfamilien werden Familien genannt, bei denen Kinder bei zwei gleichgeschlechtlichen Partnern als eine Familie leben."
+        {
+          "text": "Schwester.",
+          "start": 152.6,
+          "end": 153.38
+        },
+        {
+          "text": "Diese rasche Minute war die glücklichste meiner Kindheit.",
+          "start": 156.41,
+          "end": 159.99
+        },
+        {
+          "text": "In Deutschland gibt es rund 52.000 Kindergartenstätten. 1919 wurde Schulpflicht in der Weimarer Verfassung einheitlich für ganz Deutschland festgeschrieben.",
+          "start": 162.99,
+          "end": 178.51
+        },
+        {
+          "text": "In den 80er Jahren ging sie zur Fortbildung nach Schweden.",
+          "start": 181.5,
+          "end": 185.54
+        },
+        {
+          "text": "Die Weltgesundheitsorganisation definiert die Adoleszenz als die Periode des Lebens zwischen 10 und 20 Jahren.",
+          "start": 188.52,
+          "end": 197.48
+        },
+        {
+          "text": "Eine Midlife-Krise bezeichnet ein persönliches Unwohlbefinden im mittleren Lebensabschnitt des Menschen.",
+          "start": 200.6,
+          "end": 208.06
+        },
+        {
+          "text": "Wechseljahre entwickelt sich über längere Zeit hinweg und ist mit einem Rückgang der Hormonbildung verbunden.",
+          "start": 211.24,
+          "end": 218.36
+        },
+        {
+          "text": "Viele soziale Faktoren wie schwierige Lebensumstände, Arbeitslosigkeit, all das seien Risikofaktoren, die zu Selbstmord führen können.",
+          "start": 221.44,
+          "end": 234.23
+        },
+        {
+          "text": "Ich spazierte zum Friedhof und verbrachte die Zeit damit, die Inschriften auf den Grabsteinen zu lesen.",
+          "start": 237.33,
+          "end": 244.55
+        },
+        {
+          "text": "Die Zahl der Alleinerziehenden in Deutschland steigt.",
+          "start": 247.19,
+          "end": 250.87
+        },
+        {
+          "text": "Regenbogenfamilien werden Familien genannt, bei denen Kinder bei zwei gleichgeschlechtlichen Partnern als eine Familie leben.",
+          "start": 254.54,
+          "end": 262.2
+        }
       ]
     }
   ]

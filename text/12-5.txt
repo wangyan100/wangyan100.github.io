@@ -1,9 +1,16 @@
-streit, knatsch, krach, schimpfen, Schimpfwort, sich zerstreiten, streitbar, Streiterei
-uneinig, eifersucht, eifersüchtig, Kleinigkeit, Konflikt, Missverständnis
-neid, neidisch, Verdacht, Faust, Ohrfeige, Prügelei, prügeln, Schlägerei, verprügeln
-Dialog, enttäuschen, missverstehen, reden, schlichten, sich verständigen, Strategie, verstehen, entschuldigen, Entschuldigung, Verzeihung, Schuld, sich aussöhnen, vergeben, vermitteln, verzeihen
-Weinen, sprechen Sie bitte die folgenden Sätze. Das kleine Mädchen streitet immer mit ihrem älteren Bruder um das Spielzeug. Es gibt stetig Knatsch in dieser Familie. Ihr Mann schimpft den ganzen Tag. Die Geschwister in dieser Familie haben sich zerstritten.
-In dieser Diskussion sind die Geschäftspartner noch uneinig. Sie ist neidisch auf ihren Freund. In der Vergangenheit hatte der Kaiser Gewalt über Leben und Tod.
-Der starke Mann hielt dem Gegenüber die Faust unter die Nase. Die Tochter bekommt eine saftige Ohrfeige von ihrer Mutter. Ich bin enttäuscht davon. Meine Eltern können mich nicht abholen. Es gelang ihm nicht, den Streit zu schlichten.
-Ich habe schon verstanden, was du meinst. Die Mutter hat ihrem Sohn die Schuld längst vergeben. Nach einer Abhandlung haben sich die beiden Geschäftspartner ausgesöhnt.
-Der Staatspräsident möchte die Konflikte zwischen den Einheimischen und den Ausländern vermitteln. Hast du schon wieder die ganze Nacht lang geweint?
+[00:00:01.970 --> 00:00:25.460] streit, knatsch, krach, schimpfen, Schimpfwort, sich zerstreiten, streitbar, Streiterei
+[00:00:25.460 --> 00:00:42.930] uneinig, eifersucht, eifersüchtig, Kleinigkeit, Konflikt, Missverständnis
+[00:00:44.180 --> 00:01:09.880] neid, neidisch, Verdacht, Faust, Ohrfeige, Prügelei, prügeln, Schlägerei, verprügeln
+[00:01:09.880 --> 00:01:29.540] Dialog, enttäuschen, missverstehen, reden, schlichten, sich verständigen, Strategie,
+[00:01:31.850 --> 00:01:50.510] verstehen, entschuldigen, Entschuldigung, Verzeihung, Schuld, sich aussöhnen, vergeben,
+[00:01:56.650 --> 00:02:08.840] vermitteln, verzeihen, weinen. Sprechen Sie bitte die folgenden Sätze. Das kleine Mädchen
+[00:02:08.840 --> 00:02:17.990] streitet immer mit ihrem älteren Bruder um das Spielzeug. Es gibt stetig Knatsch in dieser
+[00:02:17.990 --> 00:02:30.010] Familie. Ihr Mann schimpft den ganzen Tag. Die Geschwister in dieser Familie haben sich
+[00:02:33.240 --> 00:02:42.680] in dieser Diskussion sind die Geschäftspartner noch uneinig. Sie ist neidisch auf ihren
+[00:02:42.680 --> 00:02:55.200] Freund. In der Vergangenheit hatte der Kaiser Gewalt über Leben und Tod. Der starke Mann
+[00:02:55.200 --> 00:03:03.520] hielt dem Gegenüber die Faust unter die Nase. Die Tochter bekommt eine saftige
+[00:03:03.520 --> 00:03:12.250] Ohrfeige von ihrer Mutter. Ich bin enttäuscht davon, meine Eltern können mich nicht abholen.
+[00:03:14.620 --> 00:03:26.750] Es gelang ihm nicht, den Streit zu schlichten. Ich habe schon verstanden, was du meinst. Die
+[00:03:26.750 --> 00:03:35.880] Mutter hat ihrem Sohn die Schuld längst vergeben. Nach einer Abhandlung haben sich die beiden
+[00:03:35.880 --> 00:03:45.100] Geschäftspartner ausgesöhnt. Der Staatspräsident möchte die Konflikte zwischen den Einheimischen
+[00:03:45.100 --> 00:03:52.730] und den Ausländern vermitteln. Hast du schon wieder die ganze Nacht lang geweint?

@@ -4,63 +4,272 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "verabredung aufgeregt",
-        "nervös",
-        "scheu",
-        "schüchtern",
-        "sich aufregen",
-        "sich röten",
-        "Spannung",
-        "zurückhaltend",
-        "Anziehungskraft",
-        "Flirt",
-        "hinziehen",
-        "interessiert an jemandem sein",
-        "Sexualität",
-        "sexuell",
-        "sich fühlen",
-        "signalisieren",
-        "attraktiv",
-        "ideal",
-        "jemandes Herz erobern",
-        "jemandem sein Herz öffnen",
-        "perfekt",
-        "Traumfrau",
-        "Traummann",
-        "das erste Date",
-        "Eindruck",
-        "Ersehen",
-        "fremd",
-        "gegenüber",
-        "peinlich",
-        "zusammenpassen",
-        "aussehen",
-        "geduldig",
-        "großzügig",
-        "Kriterium",
-        "Typ",
-        "Vermögen",
-        "Zuverlässigkeit"
+        {
+          "text": "verabredung aufgeregt",
+          "start": 1.97,
+          "end": 8.02
+        },
+        {
+          "text": "nervös",
+          "start": 8.02,
+          "end": 9.84
+        },
+        {
+          "text": "scheu",
+          "start": 11.66,
+          "end": 12.46
+        },
+        {
+          "text": "schüchtern",
+          "start": 14.33,
+          "end": 15.15
+        },
+        {
+          "text": "sich aufregen",
+          "start": 17.14,
+          "end": 19.26
+        },
+        {
+          "text": "sich röten",
+          "start": 19.8,
+          "end": 21.42
+        },
+        {
+          "text": "Spannung",
+          "start": 23.4,
+          "end": 24.4
+        },
+        {
+          "text": "zurückhaltend",
+          "start": 26.13,
+          "end": 27.69
+        },
+        {
+          "text": "Anziehungskraft",
+          "start": 29.34,
+          "end": 30.9
+        },
+        {
+          "text": "Flirt",
+          "start": 32.74,
+          "end": 33.54
+        },
+        {
+          "text": "hinziehen",
+          "start": 35.38,
+          "end": 37.32
+        },
+        {
+          "text": "interessiert an jemandem sein",
+          "start": 37.32,
+          "end": 42.0
+        },
+        {
+          "text": "Sexualität",
+          "start": 42.58,
+          "end": 43.98
+        },
+        {
+          "text": "sexuell",
+          "start": 45.82,
+          "end": 46.94
+        },
+        {
+          "text": "sich fühlen",
+          "start": 48.63,
+          "end": 49.91
+        },
+        {
+          "text": "signalisieren",
+          "start": 51.78,
+          "end": 52.98
+        },
+        {
+          "text": "attraktiv",
+          "start": 54.98,
+          "end": 57.64
+        },
+        {
+          "text": "ideal",
+          "start": 57.64,
+          "end": 58.66
+        },
+        {
+          "text": "jemandes Herz erobern",
+          "start": 61.21,
+          "end": 63.47
+        },
+        {
+          "text": "jemandem sein Herz öffnen",
+          "start": 65.27,
+          "end": 67.37
+        },
+        {
+          "text": "perfekt",
+          "start": 69.33,
+          "end": 70.01
+        },
+        {
+          "text": "Traumfrau",
+          "start": 71.39,
+          "end": 73.45
+        },
+        {
+          "text": "Traummann",
+          "start": 75.32,
+          "end": 76.38
+        },
+        {
+          "text": "das erste Date",
+          "start": 78.14,
+          "end": 79.48
+        },
+        {
+          "text": "Eindruck",
+          "start": 81.62,
+          "end": 82.22
+        },
+        {
+          "text": "Ersehnen",
+          "start": 84.3,
+          "end": 85.28
+        },
+        {
+          "text": "Fremd",
+          "start": 87.37,
+          "end": 89.65
+        },
+        {
+          "text": "gegenüber",
+          "start": 89.65,
+          "end": 90.81
+        },
+        {
+          "text": "peinlich",
+          "start": 92.9,
+          "end": 93.92
+        },
+        {
+          "text": "zusammenpassen",
+          "start": 95.87,
+          "end": 98.07
+        },
+        {
+          "text": "aussehen",
+          "start": 98.95,
+          "end": 100.67
+        },
+        {
+          "text": "geduldig",
+          "start": 104.48,
+          "end": 105.36
+        },
+        {
+          "text": "großzügig",
+          "start": 105.36,
+          "end": 106.24
+        },
+        {
+          "text": "Kriterium",
+          "start": 107.99,
+          "end": 109.23
+        },
+        {
+          "text": "Typ",
+          "start": 110.88,
+          "end": 111.22
+        },
+        {
+          "text": "Vermögen",
+          "start": 113.57,
+          "end": 114.57
+        },
+        {
+          "text": "Zuverlässigkeit",
+          "start": 116.37,
+          "end": 117.87
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Sie schweigt aus scheu Ich mag nur schüchterne Männer, die ein bisschen ängstlich und scheu sind.",
-        "Sein Gesicht rötet sich vor Scham und Zorn.",
-        "Mit Spannung warteten wir auf das Ergebnis.",
-        "Das Weiße Haus reagierte zurückhaltend auf die Berichte.",
-        "Norwegen gilt in Sachen Sexualität als sehr aufgeklärt.",
-        "Diese Frau fühlte sich von Anfang an sehr stark zu dem Mann hingezogen.",
-        "Beide Partner gehen nur dann eine romantische Beziehung ein, wenn sie merken, dass der andere wirkliche Interessen signalisiert.",
-        "Das erste Date sorgt bei den meisten Menschen für feuchte Hände und eine große Portion Nervosität.",
-        "Vor dem ersten Date ist man höllisch aufgeregt.",
-        "Beim Date ist der erste Eindruck sehr wichtig.",
-        "Endlich kam die heiß ersehnte Verabredung.",
-        "Man soll die Menschen nicht nach ihrem Aussehen beurteilen.",
-        "Papier ist geduldig.",
-        "Du bist ja sehr großzügig mit dem Trinkgeld."
+        {
+          "text": "Sie schweigt aus scheu.",
+          "start": 127.87,
+          "end": 130.43
+        },
+        {
+          "text": "Ich mag nur schüchterne Männer, die ein bisschen ängstlich und scheu sind.",
+          "start": 133.42,
+          "end": 138.08
+        },
+        {
+          "text": "Sein Gesicht rötet sich vor Scham und Zorn.",
+          "start": 141.29,
+          "end": 144.27
+        },
+        {
+          "text": "Mit Spannung warteten wir auf das Ergebnis.",
+          "start": 147.23,
+          "end": 150.03
+        },
+        {
+          "text": "Das Weiße Haus reagierte zurückhaltend auf die Berichte.",
+          "start": 152.3,
+          "end": 156.98
+        },
+        {
+          "text": "Norwegen gilt in Sachen Sexualität als sehr aufgeklärt.",
+          "start": 160.25,
+          "end": 164.67
+        },
+        {
+          "text": "Diese Frau fühlte sich von Anfang an sehr stark zu dem Mann hingezogen.",
+          "start": 167.78,
+          "end": 173.14
+        },
+        {
+          "text": "Beide Partner gehen nur dann eine romantische Beziehung ein, wenn sie merken, dass der andere wirkliche Interessen signalisiert.",
+          "start": 176.17,
+          "end": 184.35
+        },
+        {
+          "text": "Das erste Date sorgt bei den meisten Menschen für feuchte Hände und eine große Portion Nervosität.",
+          "start": 187.42,
+          "end": 194.9
+        },
+        {
+          "text": "Vor dem ersten Date ist man höllisch aufgeregt.",
+          "start": 197.67,
+          "end": 201.25
+        },
+        {
+          "text": "Beim Date ist der erste Eindruck sehr wichtig.",
+          "start": 204.18,
+          "end": 207.1
+        },
+        {
+          "text": "Endlich kam die heiß ersehnte Verabredung.",
+          "start": 210.19,
+          "end": 213.07
+        },
+        {
+          "text": "Man soll die Menschen nicht nach ihrem Aussehen beurteilen.",
+          "start": 216.07,
+          "end": 220.25
+        },
+        {
+          "text": "Papier ist geduldig.",
+          "start": 223.02,
+          "end": 224.76
+        },
+        {
+          "text": "Du bist ja sehr großzügig mit dem Trinkgeld.",
+          "start": 227.59,
+          "end": 230.85
+        }
       ]
     }
   ]

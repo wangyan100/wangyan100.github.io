@@ -4,72 +4,322 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "fünf Sinne",
-        "hören",
-        "Lärm",
-        "lauschen",
-        "laut",
-        "leise",
-        "Ruhe",
-        "ruhig",
-        "taub",
-        "duft",
-        "duften",
-        "dumpf",
-        "Geruch",
-        "riecher",
-        "stinken",
-        "delikat",
-        "fade",
-        "Geschmack",
-        "köstlich",
-        "schmackhaft",
-        "lecker",
-        "schmecken",
-        "scheuslich",
-        "verfeinern",
-        "Alterssichtigkeit",
-        "blind",
-        "kurzsichtig",
-        "sehen",
-        "Sehschärfe",
-        "Sehkraft",
-        "Stabsichtigkeit",
-        "transparent",
-        "weitsichtig",
-        "glatt",
-        "hart",
-        "jucken",
-        "klebrig",
-        "kratzer",
-        "rau",
-        "tasten",
-        "weich"
+        {
+          "text": "fünf Sinne",
+          "start": 1.94,
+          "end": 3.4
+        },
+        {
+          "text": "hören",
+          "start": 6.31,
+          "end": 7.71
+        },
+        {
+          "text": "Lärm",
+          "start": 9.31,
+          "end": 10.01
+        },
+        {
+          "text": "lauschen",
+          "start": 11.81,
+          "end": 13.21
+        },
+        {
+          "text": "laut",
+          "start": 13.21,
+          "end": 14.95
+        },
+        {
+          "text": "leise",
+          "start": 17.33,
+          "end": 18.03
+        },
+        {
+          "text": "Ruhe",
+          "start": 20.31,
+          "end": 21.71
+        },
+        {
+          "text": "ruhig",
+          "start": 21.71,
+          "end": 22.99
+        },
+        {
+          "text": "taub",
+          "start": 24.3,
+          "end": 25.0
+        },
+        {
+          "text": "duft",
+          "start": 26.93,
+          "end": 28.21
+        },
+        {
+          "text": "duften",
+          "start": 29.49,
+          "end": 30.77
+        },
+        {
+          "text": "dumpf",
+          "start": 32.78,
+          "end": 33.6
+        },
+        {
+          "text": "Geruch",
+          "start": 36.19,
+          "end": 37.11
+        },
+        {
+          "text": "riechen",
+          "start": 37.11,
+          "end": 39.07
+        },
+        {
+          "text": "riecher",
+          "start": 40.35,
+          "end": 41.73
+        },
+        {
+          "text": "stinken",
+          "start": 43.81,
+          "end": 44.51
+        },
+        {
+          "text": "delikat",
+          "start": 48.95,
+          "end": 50.35
+        },
+        {
+          "text": "fade",
+          "start": 51.7,
+          "end": 53.28
+        },
+        {
+          "text": "Geschmack",
+          "start": 55.34,
+          "end": 56.16
+        },
+        {
+          "text": "köstlich",
+          "start": 58.22,
+          "end": 58.92
+        },
+        {
+          "text": "schmackhaft",
+          "start": 61.4,
+          "end": 62.1
+        },
+        {
+          "text": "lecker",
+          "start": 63.98,
+          "end": 64.68
+        },
+        {
+          "text": "schmecken",
+          "start": 66.06,
+          "end": 67.4
+        },
+        {
+          "text": "scheuslich",
+          "start": 68.84,
+          "end": 70.42
+        },
+        {
+          "text": "verfeinern",
+          "start": 71.7,
+          "end": 73.5
+        },
+        {
+          "text": "Alterssichtigkeit",
+          "start": 77.04,
+          "end": 77.74
+        },
+        {
+          "text": "blind",
+          "start": 77.74,
+          "end": 79.34
+        },
+        {
+          "text": "kurzsichtig",
+          "start": 80.65,
+          "end": 82.57
+        },
+        {
+          "text": "scharf",
+          "start": 83.95,
+          "end": 85.53
+        },
+        {
+          "text": "sehen",
+          "start": 86.84,
+          "end": 88.24
+        },
+        {
+          "text": "Sehschärfe",
+          "start": 90.62,
+          "end": 91.42
+        },
+        {
+          "text": "Sehkraft",
+          "start": 93.68,
+          "end": 94.38
+        },
+        {
+          "text": "Stabsichtigkeit",
+          "start": 97.28,
+          "end": 97.98
+        },
+        {
+          "text": "transparent",
+          "start": 99.35,
+          "end": 100.81
+        },
+        {
+          "text": "weitsichtig",
+          "start": 103.48,
+          "end": 104.18
+        },
+        {
+          "text": "glatt",
+          "start": 105.46,
+          "end": 106.94
+        },
+        {
+          "text": "hart",
+          "start": 108.28,
+          "end": 109.1
+        },
+        {
+          "text": "jucken",
+          "start": 110.58,
+          "end": 112.26
+        },
+        {
+          "text": "klebrig",
+          "start": 113.57,
+          "end": 115.17
+        },
+        {
+          "text": "kratzer",
+          "start": 116.51,
+          "end": 118.05
+        },
+        {
+          "text": "rau",
+          "start": 119.33,
+          "end": 120.65
+        },
+        {
+          "text": "tasten",
+          "start": 124.1,
+          "end": 124.9
+        },
+        {
+          "text": "weich",
+          "start": 124.9,
+          "end": 126.24
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Hymnen zählen der Sehsinn, der Hörsinn, der Tastsinn sowie der Geruchssinn und der Geschmackssinn.",
-        "Der Vorschlag lässt sich hören.",
-        "Sie ist nicht böse wegen dem Lärm vor ihrer Wohnung.",
-        "Nicht jeder hat Lust, Lobeshymnen zu lauschen.",
-        "Stellen Sie bitte den Fernseher leiser, es ist zu laut.",
-        "Es ist zu spät, die Kinder sollen zur Ruhe gehen und ich möchte auch in Ruhe bleiben.",
-        "Ich habe vor kurzem einen zehnjährigen Jungen kennengelernt, der taub zur Welt kam.",
-        "Nachdem man seinen Geruchssinn gezielt trainiert hat, kann man mehrere tausend Gerüche unterscheiden.",
-        "Hier duftet es nach Rosen.",
-        "Das Brot riecht dumpf.",
-        "Geld stinkt nicht.",
-        "Die Geschmäcker sind verschieden.",
-        "Die Suppe schmeckt scheußlich.",
-        "Der Koch verfeinerte den Geschmack dieser Speise.",
-        "Hans ist ein blind geborenes Kind.",
-        "Ich bin hochgradig kurzsichtig.",
-        "Dich juckt wohl das Fell?",
-        "Rauer Stoff juckt meine Haut.",
-        "Ich taste mich durch einen dunklen Gang."
+        {
+          "text": "Zu den fünf Sinnen zählen der Sehsin, der Hörsin, der Tastsin sowie der Geruchssin und der Geschmackssin.",
+          "start": 136.33,
+          "end": 145.59
+        },
+        {
+          "text": "Der Vorschlag lässt sich hören.",
+          "start": 148.31,
+          "end": 150.45
+        },
+        {
+          "text": "Sie ist nicht böse wegen dem Lärm vor ihrer Wohnung.",
+          "start": 153.55,
+          "end": 156.85
+        },
+        {
+          "text": "Nicht jeder hat Lust, Lobeshymnen zu lauschen.",
+          "start": 159.95,
+          "end": 163.75
+        },
+        {
+          "text": "Stellen Sie bitte den Fernseher leiser, es ist zu laut.",
+          "start": 166.18,
+          "end": 169.88
+        },
+        {
+          "text": "Es ist zu spät, die Kinder sollen zur Ruhe gehen und ich möchte auch in Ruhe bleiben.",
+          "start": 172.92,
+          "end": 178.14
+        },
+        {
+          "text": "Ich habe vor kurzem einen zehnjährigen Jungen kennengelernt, der taub zur Welt kam.",
+          "start": 181.32,
+          "end": 186.74
+        },
+        {
+          "text": "Nachdem man seinen Geruchssin gezielt trainiert hat, kann man mehrere tausend Gerüche unterscheiden.",
+          "start": 189.79,
+          "end": 196.55
+        },
+        {
+          "text": "Hier duftet es nach Rosen.",
+          "start": 199.56,
+          "end": 201.38
+        },
+        {
+          "text": "Das Brot riecht dumpf.",
+          "start": 204.4,
+          "end": 206.62
+        },
+        {
+          "text": "Geld stinkt nicht.",
+          "start": 209.05,
+          "end": 211.01
+        },
+        {
+          "text": "Die Geschmäcker sind verschieden.",
+          "start": 213.96,
+          "end": 216.28
+        },
+        {
+          "text": "Die Suppe schmeckt scheußlich.",
+          "start": 218.87,
+          "end": 220.83
+        },
+        {
+          "text": "Der Koch verfeinerte den Geschmack dieser Speise.",
+          "start": 223.85,
+          "end": 227.35
+        },
+        {
+          "text": "Hans ist ein blind geborenes Kind.",
+          "start": 230.26,
+          "end": 232.48
+        },
+        {
+          "text": "Ich bin hochgradig kurzsichtig.",
+          "start": 235.49,
+          "end": 238.03
+        },
+        {
+          "text": "Dich juckt wohl das Fell?",
+          "start": 241.08,
+          "end": 242.64
+        },
+        {
+          "text": "Rauerstoff juckt meine Haut.",
+          "start": 245.94,
+          "end": 247.86
+        },
+        {
+          "text": "Ich taste mich durch einen dunklen Gang.",
+          "start": 250.93,
+          "end": 253.41
+        }
       ]
     }
   ]

@@ -1,41 +1,38 @@
-bewegungen ansehen anstarren
-blinzeln gucken schauen
-glotzen schielen starren
-zwinkern gehen
-hüpfen joggen
-laufen rennen
-stolpern treten
-zu Fuß ballen
-fassen greifen
-halten heben
-klopfen kneifen
-schütteln streichen
-winken aufstoßen
-beißen gehen
-kauen kichern
-lecken niesen
-Schluck auf spucken
-beugen sich krümmen
-sich niederbeugen zittern
-brüllen flüstern
-kreischen schreien
-Sprechen Sie bitte die folgenden Sätze.
-Ich werde mir die Sache mal ansehen.
-Als er aus der Dunkelheit ins grelle Sonnenlicht kam,
-musste er blinzeln.
-Einem geschenkten Gaul guckt man nicht ins Maul.
-Das Kind schielt.
-Er zwinkert nervös mit den Augen.
-Mir ist kalt und ich hüpfe von einem Bein auf das andere.
-Er ging auf den Bürgersteig, stolperte und fiel hin.
-Er ballt die Hand zur Faust.
-Sie griffen beide zugleich nach dem Buch.
-Er kniff mich in den Arm.
-Eine Frau hat meinen Arm gefasst,
-wenn ich an der Ecke vorbei gegangen bin.
-Sie strich mit der Hand über das Gesicht ihres Freundes.
-Meine Mutter winkt außer dem Bus zum Abschied.
-Der Schüler stößt während des Unterrichts auf.
-Wer gehnt, sollte die Hand vor den Mund nehmen.
-Der Schluckauf geht meistens schnell vorüber.
-Das Kind kreischte den ganzen Vormittag über.
+[00:00:01.840 --> 00:00:10.550] bewegungen ansehen anstarren
+[00:00:10.550 --> 00:00:17.660] blinzeln gucken schauen
+[00:00:18.860 --> 00:00:26.080] glotzen schielen starren
+[00:00:27.590 --> 00:00:31.410] zwinkern gehen
+[00:00:33.300 --> 00:00:37.330] hüpfen joggen
+[00:00:38.610 --> 00:00:42.760] laufen rennen
+[00:00:44.200 --> 00:00:48.490] stolpern treten
+[00:00:49.900 --> 00:00:58.120] zu Fuß ballen fassen
+[00:00:58.120 --> 00:01:02.070] greifen halten
+[00:01:03.350 --> 00:01:07.940] heben klopfen
+[00:01:09.190 --> 00:01:13.450] kneifen schütteln
+[00:01:14.920 --> 00:01:19.500] streichen winken
+[00:01:22.740 --> 00:01:25.540] aufstoßen beißen
+[00:01:26.300 --> 00:01:30.310] gehen kauen
+[00:01:31.620 --> 00:01:36.260] kichern lecken
+[00:01:37.120 --> 00:01:41.470] niesen Schluck auf
+[00:01:42.940 --> 00:01:46.960] spucken beugen
+[00:01:48.340 --> 00:01:53.300] sich krümmen sich niederbeugen
+[00:01:54.640 --> 00:01:58.750] zittern brüllen
+[00:02:00.160 --> 00:02:04.420] flüstern kreischen
+[00:02:05.820 --> 00:02:14.720] schreien Sprechen Sie bitte die folgenden Sätze.
+[00:02:17.600 --> 00:02:20.100] Ich werde mir die Sache mal ansehen.
+[00:02:23.070 --> 00:02:28.030] Als er aus der Dunkelheit ins grelle Sonnenlicht kam, musste er blinzeln.
+[00:02:31.140 --> 00:02:34.700] Einem geschenkten Gaul guckt man nicht ins Maul.
+[00:02:37.200 --> 00:02:38.560] Das Kind schielt.
+[00:02:41.520 --> 00:02:43.880] Er zwinkert nervös mit den Augen.
+[00:02:46.990 --> 00:02:50.590] Mir ist kalt und ich hüpfe von einem Bein auf das andere.
+[00:02:53.720 --> 00:02:57.520] Er ging auf den Bürgersteig, stolperte und fiel hin.
+[00:02:59.880 --> 00:03:03.280] Er ballt die Hand zur Faust.
+[00:03:05.880 --> 00:03:08.540] Sie griffen beide zugleich nach dem Buch.
+[00:03:11.660 --> 00:03:13.340] Er kniff mich in den Arm.
+[00:03:16.470 --> 00:03:21.250] Eine Frau hat meinen Arm gefasst, wenn ich an der Ecke vorbei gegangen bin.
+[00:03:24.260 --> 00:03:28.160] Sie strich mit der Hand über das Gesicht ihres Freundes.
+[00:03:31.000 --> 00:03:34.220] Meine Mutter winkt außer dem Bus zum Abschied.
+[00:03:37.210 --> 00:03:40.390] Der Schüler stößt während des Unterrichts auf.
+[00:03:43.310 --> 00:03:46.530] Wer gehend, sollte die Hand vor den Mund nehmen.
+[00:03:49.620 --> 00:03:52.500] Der Schluckauf geht meistens schnell vorüber.
+[00:03:55.470 --> 00:03:58.590] Das Kind kreischte den ganzen Vormittag über.

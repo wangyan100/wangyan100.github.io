@@ -4,65 +4,277 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Gewürze",
-        "Honig",
-        "Kandis",
-        "Kandiszucker",
-        "Karamell",
-        "Puderzucker",
-        "Streuzucker",
-        "Würfelzucker",
-        "Zucker",
-        "Meersalz",
-        "Salz",
-        "Sojasoße",
-        "Essig",
-        "Obstessig",
-        "Reisessig",
-        "Weinessig",
-        "Chilisoße",
-        "Curry",
-        "Paprikapulver",
-        "Chili-Pulver",
-        "Pfeffer",
-        "Senf",
-        "Basilikum",
-        "Minze",
-        "Nelke",
-        "Pfefferminze",
-        "Petersilie",
-        "Rosmarin",
-        "Salbei",
-        "Thymian",
-        "Zimt",
-        "Béchamelsoße",
-        "Dressing",
-        "Ketchup",
-        "Mayonnaise",
-        "Erdnussöl",
-        "Olivenöl",
-        "Rapsöl",
-        "Sesamöl"
+        {
+          "text": "Gewürze",
+          "start": 1.71,
+          "end": 3.53
+        },
+        {
+          "text": "Honig",
+          "start": 4.84,
+          "end": 6.2
+        },
+        {
+          "text": "Kandis",
+          "start": 7.48,
+          "end": 8.94
+        },
+        {
+          "text": "Kandiszucker",
+          "start": 10.29,
+          "end": 12.03
+        },
+        {
+          "text": "Karamell",
+          "start": 13.34,
+          "end": 15.12
+        },
+        {
+          "text": "Puderzucker",
+          "start": 16.46,
+          "end": 17.88
+        },
+        {
+          "text": "Streuzucker",
+          "start": 19.45,
+          "end": 21.29
+        },
+        {
+          "text": "Würfelzucker",
+          "start": 22.7,
+          "end": 24.62
+        },
+        {
+          "text": "Zucker",
+          "start": 25.96,
+          "end": 27.14
+        },
+        {
+          "text": "Meersalz",
+          "start": 30.46,
+          "end": 31.86
+        },
+        {
+          "text": "Salz",
+          "start": 31.86,
+          "end": 33.3
+        },
+        {
+          "text": "Sojasoße",
+          "start": 35.02,
+          "end": 36.42
+        },
+        {
+          "text": "Essig",
+          "start": 37.7,
+          "end": 40.02
+        },
+        {
+          "text": "Obstessig",
+          "start": 41.82,
+          "end": 43.22
+        },
+        {
+          "text": "Reisessig",
+          "start": 43.22,
+          "end": 45.32
+        },
+        {
+          "text": "Weinessig",
+          "start": 46.64,
+          "end": 48.46
+        },
+        {
+          "text": "Chilisoße",
+          "start": 49.9,
+          "end": 51.66
+        },
+        {
+          "text": "Curry",
+          "start": 53.16,
+          "end": 54.16
+        },
+        {
+          "text": "Paprikapulver",
+          "start": 55.47,
+          "end": 57.81
+        },
+        {
+          "text": "Chili-Pulver",
+          "start": 59.22,
+          "end": 61.22
+        },
+        {
+          "text": "Pfeffer",
+          "start": 62.53,
+          "end": 63.79
+        },
+        {
+          "text": "Senf",
+          "start": 65.23,
+          "end": 66.75
+        },
+        {
+          "text": "Basilikum",
+          "start": 68.03,
+          "end": 70.37
+        },
+        {
+          "text": "Minze",
+          "start": 71.07,
+          "end": 72.67
+        },
+        {
+          "text": "Nelke",
+          "start": 73.95,
+          "end": 75.51
+        },
+        {
+          "text": "Pfefferminze",
+          "start": 76.89,
+          "end": 78.65
+        },
+        {
+          "text": "Petersilie",
+          "start": 79.96,
+          "end": 81.8
+        },
+        {
+          "text": "Rosmarin",
+          "start": 83.27,
+          "end": 85.13
+        },
+        {
+          "text": "Salbei",
+          "start": 86.38,
+          "end": 87.88
+        },
+        {
+          "text": "Thymian",
+          "start": 89.22,
+          "end": 90.8
+        },
+        {
+          "text": "Zimt",
+          "start": 93.74,
+          "end": 95.14
+        },
+        {
+          "text": "Béchamelsoße",
+          "start": 95.14,
+          "end": 97.14
+        },
+        {
+          "text": "Dressing",
+          "start": 98.54,
+          "end": 99.72
+        },
+        {
+          "text": "Ketchup",
+          "start": 101.1,
+          "end": 102.54
+        },
+        {
+          "text": "Mayonnaise",
+          "start": 103.98,
+          "end": 105.56
+        },
+        {
+          "text": "Erdnussöl",
+          "start": 107.1,
+          "end": 109.78
+        },
+        {
+          "text": "Olivenöl",
+          "start": 109.78,
+          "end": 112.42
+        },
+        {
+          "text": "Rapsöl",
+          "start": 113.36,
+          "end": 114.76
+        },
+        {
+          "text": "Sesamöl",
+          "start": 116.1,
+          "end": 117.94
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Bienen saugen den Honig aus den Blüten.",
-        "Puderzucker wird durch Mahlen von raffiniertem weißem Zucker gewonnen.",
-        "Ich trinke meinen Kaffee immer mit Zucker.",
-        "Salz lässt unsere Speisen weniger fadisch schmecken und wird als das weiße Gold bezeichnet.",
-        "Sojasoße ist eine asiatische Würzsoße.",
-        "Sie richtet Salat mit Essig und Olivenöl an.",
-        "Pfeffer schmeckt scharf.",
-        "Viele italienische Gerichte, wie zum Beispiel Tomatensauce, Pasta, Pesto oder Pizza, sind ohne Basilikum kaum vorstellbar.",
-        "Minzen sind aromatische und ausdauernde krautige Pflanzen.",
-        "Die Petersilie ist eine gebräuchliche Zutat.",
-        "Der Salbei ist eines der ältesten Heilkräuter.",
-        "Im Europa des 16. bis 18.",
-        "Jahrhunderts galt Zimt als eines der besonders teuren Gewürze.",
-        "Béchamelsoße ist eine helle Soße aus Milch, Butter und Mehl, die bei der Zubereitung vieler Gerichte verwendet wird."
+        {
+          "text": "Die Bienen saugen den Honig aus den Blüten.",
+          "start": 128.56,
+          "end": 132.04
+        },
+        {
+          "text": "Puderzucker wird durch Mahlen von raffiniertem weißem Zucker gewonnen.",
+          "start": 134.35,
+          "end": 140.69
+        },
+        {
+          "text": "Ich trinke meinen Kaffee immer mit Zucker.",
+          "start": 143.32,
+          "end": 146.12
+        },
+        {
+          "text": "Salz lässt unsere Speisen weniger fadisch schmecken und wird als das weiße Gold bezeichnet.",
+          "start": 149.32,
+          "end": 156.18
+        },
+        {
+          "text": "Sojasoße ist eine asiatische Würzsoße.",
+          "start": 159.39,
+          "end": 163.07
+        },
+        {
+          "text": "Sie richtet Salat mit Essig und Olivenöl an.",
+          "start": 166.04,
+          "end": 170.04
+        },
+        {
+          "text": "Pfeffer schmeckt scharf.",
+          "start": 172.89,
+          "end": 174.81
+        },
+        {
+          "text": "Viele italienische Gerichte, wie zum Beispiel Tomatensauce, Pasta, Pesto oder Pizza, sind ohne Basilikum kaum vorstellbar.",
+          "start": 177.43,
+          "end": 189.49
+        },
+        {
+          "text": "Minzen sind aromatische und ausdauernde krautige Pflanzen.",
+          "start": 192.65,
+          "end": 197.07
+        },
+        {
+          "text": "Die Petersilie ist eine gebräuchliche Zutat.",
+          "start": 200.3,
+          "end": 203.86
+        },
+        {
+          "text": "Der Salbei ist eines der ältesten Heilkräuter.",
+          "start": 206.74,
+          "end": 210.28
+        },
+        {
+          "text": "Im Europa des 16. bis 18.",
+          "start": 213.14,
+          "end": 216.22
+        },
+        {
+          "text": "Jahrhunderts galt Zimt als eines der besonders teuren Gewürze.",
+          "start": 216.72,
+          "end": 221.26
+        },
+        {
+          "text": "Béchamelsoße ist eine helle Soße aus Milch, Butter und Mehl, die bei der Zubereitung vieler Gerichte verwendet wird.",
+          "start": 224.94,
+          "end": 233.1
+        }
       ]
     }
   ]

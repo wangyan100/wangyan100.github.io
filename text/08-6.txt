@@ -1,80 +1,56 @@
-Weg
-Allee
-Boulevard
-Einbahnstraße
-Fahrbahn
-Gasse
-Hauptstraße
-Landstraße
-Querstraße
-Radweg
-Bürgersteig
-Fußgänger
-Fußgängerin
-Fußgängerübergang
-Fahrweg
-Kreuzung
-Verkehrsinsel
-Überqueren
-Brückenbahn
-Brückenpfeiler
-Steg
-Unterführung
-Viadukt
-Widerlager
-Zugbrücke
-Überführung
-Ampel
-Tempolimit
-Verkehrspolizei
-Verkehrsregel
-Verkehrsschild
-Verkehrswiedrig
-Parkgebühr
-Parkplatz
-Parkschein
-Parkverbot
-Stau
-Verkehrschaos
-Verkehrsreich
-Verkehrsstark
-Sprechen Sie bitte die folgenden Sätze
-Die Karl-Marx-Allee in Berlin
-In Berlin war ein Prachtboulevard
-mit luxuriösem Wohnraum,
-der in den 1950er Jahren
-errichtet worden war.
-Ab dem 1. Juli
-soll auf französischen Landstraßen
-das Tempolimit
-auf 80 kmh
-gesenkt werden.
-Fahren sollen die neuen Tretroller
-in der Regel auf Radwegen
-oder Fahrbahnen.
-Ein Autofahrer war am Freitagabend
-mit hoher Geschwindigkeit
-eine Gruppe Passanten
-auf einem Bürgersteig zugerasst.
-Eine Fußgängerin
-hat in Rostock ein totes Baby
-auf einer Straße entdeckt.
-Bis zum 8. Lebensjahr
-dürfen Kinder mit ihrem Fahrrad
-auf dem Gehweg fahren.
-Bitte überqueren Sie nicht
-die Straße, wenn die Ampel
-noch rot ist.
-Der Parkplatz dient
-ausschließlich Kunden
-des Kaufhauses.
-Auf welchem Parkplatz
-Sie Ihren Pkw abgestellt haben,
-sowie das Datum
-und die Uhrzeit Ihres Parkbeginns.
-Wir sollen eine andere Straße
-nehmen, um Staus zu vermeiden.
-Mit seiner
-über 30-jährigen Erfahrung
-steuert der Busfahrer
-souveräne durch das Verkehrschaos.
+[00:00:01.900 --> 00:00:03.160] Weg
+[00:00:05.250 --> 00:00:06.030] Allee
+[00:00:06.750 --> 00:00:07.450] Boulevard
+[00:00:10.160 --> 00:00:10.860] Einbahnstraße
+[00:00:12.230 --> 00:00:13.590] Fahrbahn
+[00:00:14.870 --> 00:00:16.290] Gasse
+[00:00:17.600 --> 00:00:19.560] Hauptstraße
+[00:00:20.840 --> 00:00:22.660] Landstraße
+[00:00:24.070 --> 00:00:25.990] Querstraße
+[00:00:27.270 --> 00:00:28.590] Radweg
+[00:00:29.870 --> 00:00:31.910] Bürgersteig
+[00:00:33.290 --> 00:00:34.710] Fußgänger
+[00:00:36.120 --> 00:00:37.920] Fußgängerin
+[00:00:39.290 --> 00:00:41.450] Fußgängerübergang
+[00:00:42.760 --> 00:00:44.720] Zebrastreifen
+[00:00:46.070 --> 00:00:47.870] Fußgängerzone
+[00:00:49.180 --> 00:00:50.940] Gehweg
+[00:00:52.250 --> 00:00:53.730] Kreuzung
+[00:00:56.110 --> 00:00:57.230] Verkehrsinsel
+[00:00:59.360 --> 00:01:00.220] Überqueren
+[00:01:02.530 --> 00:01:03.230] Brückenbahn
+[00:01:05.550 --> 00:01:06.250] Brückenpfeiler
+[00:01:07.780 --> 00:01:09.240] Steg
+[00:01:12.580 --> 00:01:13.280] Unterführung
+[00:01:14.700 --> 00:01:15.400] Viadukt
+[00:01:17.730 --> 00:01:18.430] Widerlager
+[00:01:20.920 --> 00:01:21.620] Zugbrücke
+[00:01:22.860 --> 00:01:24.760] Überführung
+[00:01:26.040 --> 00:01:27.420] Ampel
+[00:01:29.320 --> 00:01:30.700] Tempolimit
+[00:01:32.570 --> 00:01:33.790] Ladehöhe
+[00:01:35.850 --> 00:01:36.710] Umleitung
+[00:01:39.260 --> 00:01:40.640] Verkehrspolizei
+[00:01:42.670 --> 00:01:43.930] Verkehrsregel
+[00:01:46.010 --> 00:01:47.170] Verkehrsschild
+[00:01:49.360 --> 00:01:50.700] Verkehrswiedrig
+[00:01:52.670 --> 00:01:53.870] Parkgebühr
+[00:01:55.980 --> 00:01:56.680] Parkplatz
+[00:01:59.000 --> 00:01:59.700] Parkschein
+[00:02:02.090 --> 00:02:02.790] Parkverbot
+[00:02:04.260 --> 00:02:05.620] Stau
+[00:02:07.030 --> 00:02:09.130] Verkehrschaos
+[00:02:10.570 --> 00:02:12.150] Verkehrsreich
+[00:02:14.980 --> 00:02:15.880] Verkehrsstark
+[00:02:20.390 --> 00:02:23.010] Sprechen Sie bitte die folgenden Sätze.
+[00:02:26.370 --> 00:02:36.510] Die Karl-Marx-Allee in Berlin war ein Prachtboulevard mit luxuriösem Wohnraum, der in den 1950er Jahren errichtet worden war.
+[00:02:39.720 --> 00:02:47.260] Ab dem 1. Juli soll auf französischen Landstraßen das Tempolimit auf 80 kmh gesenkt werden.
+[00:02:49.660 --> 00:02:55.860] Fahren sollen die neuen Tretroller in der Regel auf Radwegen oder Fahrbahnen.
+[00:02:58.730 --> 00:03:05.930] Ein Autofahrer war am Freitagabend mit hoher Geschwindigkeit auf eine Gruppe Passanten auf einem Bürgersteig zugerast.
+[00:03:09.510 --> 00:03:14.570] Eine Fußgängerin hat in Rostock ein totes Baby auf einer Straße entdeckt.
+[00:03:17.540 --> 00:03:22.800] Bis zum 8. Lebensjahr dürfen Kinder mit ihrem Fahrrad auf dem Gehweg fahren.
+[00:03:25.040 --> 00:03:30.420] Bitte überqueren Sie nicht die Straße, wenn die Ampel noch rot ist.
+[00:03:33.470 --> 00:03:37.550] Der Parkplatz dient ausschließlich Kunden des Kaufhauses.
+[00:03:40.550 --> 00:03:49.590] Der Parkschein zeigt Ihnen, auf welchem Parkplatz Sie Ihren Pkw abgestellt haben, so wie das Datum und die Uhrzeit Ihres Parkbeginns.
+[00:03:53.160 --> 00:03:57.300] Wir sollen eine andere Straße nehmen, um Staus zu vermeiden.
+[00:03:59.700 --> 00:04:07.340] Mit seiner über 30-jährigen Erfahrung steuert der Busfahrer souverän durch das Verkehrschaos.

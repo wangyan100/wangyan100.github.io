@@ -1,87 +1,86 @@
-religiöse Orte
-Buddhismus
-Christentum
-Islam
-Judentum
-Katholizismus
-Orthodoxie
-Protestantismus
-Schamanismus
-Bischof
-Erzbischof
-Mönch
-Nonne
-Schwester
-Papst
-Pfarrer
-Priester
-Dom
-Kathedrale
-Kapelle
-Kirche
-Kloster
-Moschee
-Synagoge
-Christen
-Gläubige
-Gläubiger
-Gottesdienst
-das Kirchenlied singen
-Pilgern
-Predigen
-Spenden
-Taufen
-Bibel
-Bibelauslegung
-das alte Testament
-das neue Testament
-Gebot
-Gesangbuch
-Gott
-Koran
-Überlieferung
-Sprechen Sie bitte die folgenden Sätze
-Religion kann
-Trost spenden
-und Ruhe stiften
-Das Christentum ist die
-weltweit größte Religion
-Wegen unterschiedlicher
-Kalender begehen die Kirchen
-der Orthodoxie Ostern
-In diesem Jahr eine Woche später
-Die Demonstranten
-darunter viele Geistliche
-versammelten sich vor dem
-Parlament und hielten
-Plakate und den Koran in die Höhe
-Der Papst
-betet für Anschlagsopfer
-Nach dem verheerenden
-Brand in Notre-Dame
-rückt die Frage nach dem Brandschutz
-in Deutschlands großen Domen
-in den Fokus
-Jeden Sonntag findet in der Kirche
-der Gottesdienst statt
-In Kalifornien hat ein
-fanatischer Antisemit
-in einer Synagoge das Feuer
-eröffnet, als Gläubige
-ein wichtiges jüdisches Fest
-feierten
-Immer mehr Kirchengemeinden
-laden im Sommer zu Gottesdiensten
-oder taufen unter freiem
-Himmel ein
-Große deutsche Unternehmen
-spenden insgesamt 5 Millionen
-Euro und helfen
-den Bau einer Holocaust-Gedenkstätte
-in Jerusalem
-Martin Luther hat die
-Bibel ins Deutsche übersetzt
-In einem Brief
-von 1954
-hat Einstein seine Gedanken
-über Gott und die Welt beschrieben
+[00:00:02.130 --> 00:00:04.530] religiöse Orte
+[00:00:05.840 --> 00:00:07.480] Buddhismus
+[00:00:08.760 --> 00:00:11.080] Christentum
+[00:00:11.080 --> 00:00:12.720] Islam
+[00:00:15.020 --> 00:00:16.420] Judentum
+[00:00:17.700 --> 00:00:19.960] Katholizismus
+[00:00:21.500 --> 00:00:22.200] Orthodoxie
+[00:00:24.150 --> 00:00:25.250] Protestantismus
+[00:00:27.340 --> 00:00:28.620] Schamanismus
+[00:00:31.140 --> 00:00:32.540] Bischof
+[00:00:34.460 --> 00:00:35.160] Erzbischof
+[00:00:37.760 --> 00:00:39.160] Mönch
+[00:00:39.160 --> 00:00:40.420] Nonne
+[00:00:41.800 --> 00:00:42.540] Schwester
+[00:00:44.500 --> 00:00:45.840] Papst
+[00:00:47.120 --> 00:00:48.780] Pfarrer
+[00:00:50.090 --> 00:00:51.350] Priester
+[00:00:52.410 --> 00:00:53.490] Dom
+[00:00:55.660 --> 00:00:56.700] Kathedrale
+[00:00:58.900 --> 00:00:59.600] Kapelle
+[00:01:01.670 --> 00:01:02.370] Kirche
+[00:01:04.850 --> 00:01:05.550] Kloster
+[00:01:07.270 --> 00:01:07.970] Moschee
+[00:01:10.200 --> 00:01:10.900] Synagoge
+[00:01:12.210 --> 00:01:13.450] Tempel
+[00:01:14.700 --> 00:01:16.360] Beten
+[00:01:17.700 --> 00:01:20.340] Fasten
+[00:01:20.340 --> 00:01:22.040] Gläubige
+[00:01:22.640 --> 00:01:24.460] Gläubiger
+[00:01:25.740 --> 00:01:27.320] Gottesdienst
+[00:01:28.960 --> 00:01:31.440] Das Kirchenlied singen
+[00:01:32.760 --> 00:01:34.060] Pilgern
+[00:01:35.950 --> 00:01:36.650] Predigen
+[00:01:38.900 --> 00:01:39.600] Spenden
+[00:01:40.910 --> 00:01:42.550] Taufen
+[00:01:45.650 --> 00:01:46.350] Bibel
+[00:01:47.710 --> 00:01:48.410] Bibelauslegung
+[00:01:49.690 --> 00:01:51.670] Das Alte Testament
+[00:01:51.670 --> 00:01:55.930] Das Neue Testament
+[00:01:57.950 --> 00:01:59.310] Gebot
+[00:01:59.310 --> 00:01:59.990] Gesangbuch
+[00:02:02.690 --> 00:02:03.370] Gott
+[00:02:06.960 --> 00:02:08.320] Koran
+[00:02:08.320 --> 00:02:09.000] Überlieferung
+[00:02:14.570 --> 00:02:17.530] Sprechen Sie bitte die folgenden Sätze
+[00:02:19.770 --> 00:02:24.230] Religion kann Trost spenden und Ruhe stiften.
+[00:02:27.150 --> 00:02:30.890] Das Christentum ist die weltweit größte Religion.
+[00:02:33.960 --> 00:02:35.540] Wegen unterschiedlicher Kale,
+[00:02:35.540 --> 00:02:38.720] Die Kirchen der Orthodoxie
+[00:02:38.720 --> 00:02:41.480] Osten in diesem Jahr eine Woche später.
+[00:02:44.380 --> 00:02:45.880] Die Demonstranten,
+[00:02:45.880 --> 00:02:47.700] darunter viele Geistliche,
+[00:02:48.380 --> 00:02:50.360] versammelten sich vor dem Parlament
+[00:02:50.360 --> 00:02:52.080] und hielten Plakate
+[00:02:52.080 --> 00:02:53.960] und den Koran in die Höhe.
+[00:02:56.810 --> 00:02:58.230] Der Papst betet
+[00:02:58.230 --> 00:02:59.710] für Anschlagsopfer.
+[00:03:02.700 --> 00:03:04.460] Nach dem verheerenden Brand
+[00:03:04.460 --> 00:03:05.800] in Notre-Dame
+[00:03:05.800 --> 00:03:08.060] rückt die Frage nach dem Brandschutz
+[00:03:08.060 --> 00:03:09.820] in Deutschlands großen Domen
+[00:03:09.820 --> 00:03:10.920] in den Fokus.
+[00:03:13.120 --> 00:03:15.460] Jeden Sonntag findet
+[00:03:15.460 --> 00:03:17.860] in der Kirche der Gottesdienst statt.
+[00:03:20.920 --> 00:03:21.680] In Kalifornien
+[00:03:22.100 --> 00:03:24.280] hat ein fanatischer Antisemit
+[00:03:24.280 --> 00:03:25.600] in einer Synagoge
+[00:03:25.960 --> 00:03:27.360] das Feuer eröffnet,
+[00:03:27.800 --> 00:03:29.580] als Gläubige ein wichtiges
+[00:03:29.580 --> 00:03:31.060] jüdisches Fest feierten.
+[00:03:34.160 --> 00:03:35.600] Immer mehr Kirchengemeinden
+[00:03:36.240 --> 00:03:37.700] laden im Sommer zu
+[00:03:37.700 --> 00:03:39.680] Gottesdiensten oder Taufen
+[00:03:39.680 --> 00:03:41.360] unter freiem Himmel ein.
+[00:03:44.380 --> 00:03:46.320] Große deutsche Unternehmen
+[00:03:46.320 --> 00:03:47.940] spenden insgesamt
+[00:03:47.940 --> 00:03:49.600] 5 Millionen Euro
+[00:03:49.600 --> 00:03:51.320] und helfen beim Bau
+[00:03:51.320 --> 00:03:53.640] einer Holocaust-Gedenkstätte
+[00:03:53.640 --> 00:03:54.700] in Jerusalem.
+[00:03:57.850 --> 00:03:59.690] Martin Luther hat die Bibel
+[00:03:59.690 --> 00:04:01.110] ins Deutsche übersetzt.
+[00:04:04.220 --> 00:04:06.640] In einem Brief von 1954
+[00:04:06.640 --> 00:04:08.300] hat Einstein
+[00:04:08.300 --> 00:04:09.840] seine Gedanken über Gott
+[00:04:09.840 --> 00:04:11.180] und die Welt beschrieben.

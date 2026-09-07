@@ -1,38 +1,29 @@
-Zahlen 2
-3 4 5
-6 7 8
-9 0
-11 12 13
-14 15 16
-17 18
-19 30 40
-50 60
-70 80 90
-1000 10.000
-100.000
-Million
-Milliarde
-Billion
-Erste
-Zweite
-Dritte
-Vierte
-Fünfte
-Sechste
-Siebte
-Achte
-Neunte
-Zehnte
-Die vier Brunnen ist eine 1588 errichtete barocke Brunnenanlage in Rom.
-Die sechs ist an deutschen Schulen die geringstwertige Leistungsnote.
-Katzen werden im Volksmund neuen Leben nachgesagt.
-Im amerikanischen Virginia Beach hat ein Schütze 12 Menschen getötet und vier verletzt.
-13 gilt in vielen Kulturen als Unglückszahl.
-In der DDR war das Alter von 60 Jahren das normale Renteneintrittsalter für Frauen.
-100 Jahre Einsamkeit ist ein Roman des kolumbianischen Autors Gabriel Garcia Marquez,
-für den er 1982 den Nobelpreis für Literatur erhielt.
-Zur Ehrung von gefallenen und vermissten Soldaten haben sich zehntausende Motorradfahrer aus den USA
-zu einer traditionellen Gedenkfahrt in Washington versammelt.
-Die Polizei schätzt den Schaden auf mindestens 20 Millionen Euro.
-Insgesamt kauften die Deutschen 2018 rund 67 Milliarden Zigaretten.
-2,5 Prozent weniger als 2017.
+[00:00:01.870 --> 00:00:06.620] Zahlen 2
+[00:00:07.220 --> 00:00:13.760] 3 4 5
+[00:00:15.000 --> 00:00:21.660] 6 7 8
+[00:00:23.100 --> 00:00:27.460] 9 0
+[00:00:28.500 --> 00:00:34.980] 11 12 13
+[00:00:36.350 --> 00:00:44.110] 14 15 16
+[00:00:45.390 --> 00:00:51.050] 17 18
+[00:00:51.050 --> 00:01:04.920] 19 30 40 50 60
+[00:01:05.860 --> 00:01:15.980] 70 80 90 1000
+[00:01:17.320 --> 00:01:23.740] 10.000 100.000
+[00:01:23.740 --> 00:01:25.820] Millionen
+[00:01:27.640 --> 00:01:29.040] Milliarden
+[00:01:31.440 --> 00:01:32.840] Billionen
+[00:01:32.840 --> 00:01:59.580] Erste, Zweite, Dritte, Vierte, Fünfte, Sechste, Siebte, Achte, Neunte, Zehnte
+[00:02:04.120 --> 00:02:07.520] Sprechen Sie bitte die folgenden Sätze.
+[00:02:10.010 --> 00:02:13.390] Das lässt sich nicht mit zwei, drei Worten erklären.
+[00:02:16.560 --> 00:02:18.700] Aller guten Dinge sind drei.
+[00:02:21.630 --> 00:02:28.870] Die vier Brunnen ist eine 1588 errichtete barocke Brunnenanlage in Rom.
+[00:02:31.900 --> 00:02:36.720] Die sechs ist an deutschen Schulen die geringstwertige Leistungsnote.
+[00:02:39.860 --> 00:02:43.520] Katzen werden im Volksmund neun Leben nachgesagt.
+[00:02:45.720 --> 00:02:53.940] Im amerikanischen Virginia Beach hat ein Schütze zwölf Menschen getötet und vier verletzt.
+[00:02:56.670 --> 00:03:00.030] 13 gilt in vielen Kulturen als Unglückszahl.
+[00:03:03.740 --> 00:03:10.500] In der DDR war das Alter von 60 Jahren das normale Renteneintrittsalter für Frauen.
+[00:03:13.860 --> 00:03:21.080] 100 Jahre Einsamkeit ist ein Roman des kolumbianischen Autors Gabriel Garcia Marquez,
+[00:03:21.080 --> 00:03:26.560] für den er 1982 den Nobelpreis für Literatur erhielt.
+[00:03:29.750 --> 00:03:37.230] Zur Ehrung von gefallenen und vermissten Soldaten haben sich zehntausende Motorradfahrer aus den USA
+[00:03:37.230 --> 00:03:41.470] zu einer traditionellen Gedenkfahrt in Washington versammelt.
+[00:03:44.420 --> 00:03:49.420] Die Polizei schätzt den Schaden auf mindestens 20 Millionen Euro.
+[00:03:51.690 --> 00:04:03.490] Insgesamt kauften die Deutschen 2018 rund 67 Milliarden Zigaretten, 2,5 Prozent weniger als 2017.

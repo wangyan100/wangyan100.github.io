@@ -4,66 +4,282 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Tankstelle",
-        "Selbstbedienung",
-        "Tank",
-        "Tankautomat",
-        "Tankfahrzeug",
-        "Tankpumpe",
-        "Zapfventil",
-        "Zapfschlauch",
-        "Zapfsäule",
-        "Autogas",
-        "Flüssiggas",
-        "Benzin",
-        "Diesel",
-        "Erdgas",
-        "Maschinenöl",
-        "Oktanzahl",
-        "Petroleum",
-        "Wasserstoff",
-        "Abgabemenge",
-        "Betanken",
-        "Grundpreis",
-        "Katalysator",
-        "Kraftstoffeinsparung",
-        "Tankkarte",
-        "Tankwart",
-        "Ölwechselintervall",
-        "Hochdruckstrahl",
-        "Lappen",
-        "Reinigen",
-        "Reinigungsbürste",
-        "Spülen",
-        "Trocknen",
-        "Vorwaschen",
-        "Waschstraße",
-        "Abrechnen",
-        "Absaugen",
-        "Anfahren",
-        "Benutzen",
-        "Verwenden",
-        "Einfüllen",
-        "Einstecken",
-        "Füllen"
+        {
+          "text": "Tankstelle",
+          "start": 3.34,
+          "end": 4.74
+        },
+        {
+          "text": "Selbstbedienung",
+          "start": 4.74,
+          "end": 7.08
+        },
+        {
+          "text": "Tank",
+          "start": 8.39,
+          "end": 9.33
+        },
+        {
+          "text": "Tankautomat",
+          "start": 10.71,
+          "end": 12.63
+        },
+        {
+          "text": "Tankfahrzeug",
+          "start": 13.91,
+          "end": 15.93
+        },
+        {
+          "text": "Tankpumpe",
+          "start": 17.18,
+          "end": 19.02
+        },
+        {
+          "text": "Zapfventil",
+          "start": 20.36,
+          "end": 22.36
+        },
+        {
+          "text": "Zapfschlauch",
+          "start": 23.67,
+          "end": 25.49
+        },
+        {
+          "text": "Zapfsäule",
+          "start": 26.8,
+          "end": 28.52
+        },
+        {
+          "text": "Autogas",
+          "start": 29.8,
+          "end": 31.58
+        },
+        {
+          "text": "Flüssiggas",
+          "start": 33.65,
+          "end": 34.93
+        },
+        {
+          "text": "Benzin",
+          "start": 35.65,
+          "end": 37.47
+        },
+        {
+          "text": "Diesel",
+          "start": 38.72,
+          "end": 39.82
+        },
+        {
+          "text": "Erdgas",
+          "start": 42.58,
+          "end": 43.98
+        },
+        {
+          "text": "Maschinenöl",
+          "start": 43.98,
+          "end": 46.44
+        },
+        {
+          "text": "Oktanzahl",
+          "start": 49.49,
+          "end": 50.89
+        },
+        {
+          "text": "Petroleum",
+          "start": 50.89,
+          "end": 52.59
+        },
+        {
+          "text": "Wasserstoff",
+          "start": 54.48,
+          "end": 55.7
+        },
+        {
+          "text": "Abgabemenge",
+          "start": 57.79,
+          "end": 58.95
+        },
+        {
+          "text": "Betanken",
+          "start": 61.04,
+          "end": 62.0
+        },
+        {
+          "text": "Grundpreis",
+          "start": 64.35,
+          "end": 65.23
+        },
+        {
+          "text": "Katalysator",
+          "start": 67.66,
+          "end": 68.36
+        },
+        {
+          "text": "Kraftstoffeinsparung",
+          "start": 71.07,
+          "end": 72.51
+        },
+        {
+          "text": "Tankkarte",
+          "start": 74.35,
+          "end": 75.53
+        },
+        {
+          "text": "Tankwart",
+          "start": 77.66,
+          "end": 78.36
+        },
+        {
+          "text": "Ölwechselintervall",
+          "start": 81.01,
+          "end": 82.35
+        },
+        {
+          "text": "Hochdruckstrahl",
+          "start": 84.35,
+          "end": 86.09
+        },
+        {
+          "text": "Lappen",
+          "start": 87.4,
+          "end": 89.78
+        },
+        {
+          "text": "Reinigen",
+          "start": 89.78,
+          "end": 91.64
+        },
+        {
+          "text": "Reinigungsbürste",
+          "start": 92.89,
+          "end": 95.03
+        },
+        {
+          "text": "spülen",
+          "start": 96.54,
+          "end": 97.86
+        },
+        {
+          "text": "trocknen",
+          "start": 99.23,
+          "end": 100.71
+        },
+        {
+          "text": "vorwaschen",
+          "start": 102.97,
+          "end": 104.83
+        },
+        {
+          "text": "Waschstraße",
+          "start": 104.83,
+          "end": 107.07
+        },
+        {
+          "text": "abrechnen",
+          "start": 108.58,
+          "end": 110.48
+        },
+        {
+          "text": "absaugen",
+          "start": 111.18,
+          "end": 112.48
+        },
+        {
+          "text": "anfahren",
+          "start": 114.36,
+          "end": 115.76
+        },
+        {
+          "text": "benutzen",
+          "start": 117.18,
+          "end": 117.88
+        },
+        {
+          "text": "verwenden",
+          "start": 118.58,
+          "end": 119.84
+        },
+        {
+          "text": "einfüllen",
+          "start": 121.12,
+          "end": 122.98
+        },
+        {
+          "text": "einstecken",
+          "start": 124.29,
+          "end": 125.81
+        },
+        {
+          "text": "füllen",
+          "start": 127.18,
+          "end": 128.64
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Viele Tankstellen in Deutschland verdienen mehr mit dem Verkauf von Supermarktartikeln als mit dem von Kraftstoff.",
-        "An der Tankstelle kann sowohl flüssiger als auch gasförmiger Wasserstoff getankt werden.",
-        "Außerhalb der Öffnungszeiten kann man an manchen Tankstellen einen Tankautomaten benutzen.",
-        "Ein Tankfahrzeug kann flüssige Stoffe, Gase, pulverförmige oder körnige Stoffe befördern.",
-        "Über das Zapfventil wird der Kraftstoff in den Tank des Fahrzeuges gefüllt.",
-        "An einer Zapfsäule hat der Mann plötzlich eine Waffe aus einer Jackentasche gezogen.",
-        "Der Motor dieses Krans kann sowohl mit Benzin als auch mit Autogas betrieben werden.",
-        "Der Diesel-Skandal hat dem Ruf von Volkswagen schwer geschadet.",
-        "Früher war es üblich, dass die Tankwarte auch die Windschutzscheibe putzten.",
-        "Bei stark verschmutzter Wäsche und auch bei großen Textilien wie Gardinen soll man zuerst vorwaschen.",
-        "Ein Vorteil von Waschstraßen ist, dass das Auto meist vom Kunden nicht verlassen werden muss.",
-        "Ich habe das Stromkabel in die Steckdose eingesteckt."
+        {
+          "text": "Viele Tankstellen in Deutschland verdienen mehr mit dem Verkauf von Supermarktartikeln als mit dem von Kraftstoff.",
+          "start": 139.06,
+          "end": 146.39
+        },
+        {
+          "text": "An der Tankstelle kann sowohl flüssiger als auch gasförmiger Wasserstoff getankt werden.",
+          "start": 149.66,
+          "end": 155.82
+        },
+        {
+          "text": "Außerhalb der Öffnungszeiten kann man an manchen Tankstellen einen Tankautomaten benutzen.",
+          "start": 159.02,
+          "end": 164.76
+        },
+        {
+          "text": "Ein Tankfahrzeug kann flüssige Stoffe, Gase, pulverförmige oder körnige Stoffe befördern.",
+          "start": 167.7,
+          "end": 174.74
+        },
+        {
+          "text": "Über das Zapfventil wird der Kraftstoff in den Tank des Fahrzeuges gefüllt.",
+          "start": 177.78,
+          "end": 182.94
+        },
+        {
+          "text": "An einer Zapfsäule hat der Mann plötzlich eine Waffe aus einer Jackentasche gezogen.",
+          "start": 185.99,
+          "end": 191.53
+        },
+        {
+          "text": "Der Motor dieses Krans kann sowohl mit Benzin als auch mit Autogas betrieben werden.",
+          "start": 194.59,
+          "end": 200.99
+        },
+        {
+          "text": "Der Dieselskandal hat dem Ruf von Volkswagen schwer geschadet.",
+          "start": 204.08,
+          "end": 209.1
+        },
+        {
+          "text": "Früher war es üblich, dass die Tankwarte auch die Windschutzscheibe putzten.",
+          "start": 211.93,
+          "end": 216.67
+        },
+        {
+          "text": "Bei stark verschmutzter Wäsche und auch bei großen Textilien wie Gardinen, soll man zuerst vorwaschen.",
+          "start": 219.63,
+          "end": 226.85
+        },
+        {
+          "text": "Ein Vorteil von Waschstraßen ist, dass das Auto meist vom Kunden nicht verlassen werden muss.",
+          "start": 229.88,
+          "end": 236.18
+        },
+        {
+          "text": "Ich habe das Stromkabel in die Steckdose eingesteckt.",
+          "start": 239.14,
+          "end": 242.98
+        }
       ]
     }
   ]

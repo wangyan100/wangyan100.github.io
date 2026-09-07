@@ -1,29 +1,29 @@
-Farben
-Azurblau, Blasblau, Blaurot, Eisblau
-Lila, Mauve, Purpurn, Violett, cremefarbig
-gelblich
-golden, goldgelb, khakifarbig
-mandaringelb, orange, zitonengelb, blutrot
-braun, hochrot, kaminrot
-ocker, pink, rosa, rotbraun
-weinrot, aschgrau, beige, feldgrau
-inkarnat, schneeweiß, schwerzlich, silbern, weißlich
-blassgrün, blaugrün, graugrün, grünlich
-lindgrün
-olive, türkis
-Sprechen Sie bitte die folgenden Sätze
-Die Sonne scheint, der Himmel ist blau, der Wald ist grün.
-Das Wasser glasklar in allen Schattierungen von blau und türkis ist ruhig.
-Das blaue Haus ist inzwischen weiß und beige gestrichen.
-Hast du ein azurblaues Näpfchen in deinem Farbkasten?
-Hinter dem Baum liegen rosa und lila Ostereier.
-Die stark duftenden Blüten sind außen hellgelb, im Inneren purpuren gestreift.
-Das Fett ist strahlend weiß bis leicht gelblich.
-Das waren goldene Tage.
-Später wurden die Uniformen khakifarbig mit etwas grün gewechselt.
-Sie sollten auch gleich noch dieses pinke Kleid anprobieren.
-Die Farbe wechselt von grau bis silbern, über graugrün bis dunkelweinrot.
-Der Sand ist fein und fasst schneeweiß.
-Er hat schon silberne Fäden im Haar.
-Die Blätter des Bärlauchs sind lindgrün, lang gestielt.
-Ein wunderschöner, olivschimmernder Anzug für den Herrn sticht ins Auge.
+[00:00:03.400 --> 00:00:04.800] Farben
+[00:00:04.800 --> 00:00:16.690] Azurblau, Blasblau, Blaurot, Eisblau
+[00:00:16.690 --> 00:00:30.190] Lila, Mauve, Purpurn, Violett, cremefarbig
+[00:00:31.690 --> 00:00:33.090] gelblich
+[00:00:34.090 --> 00:00:41.960] golden, goldgelb, khakifarbig
+[00:00:43.540 --> 00:00:54.900] mandaringelb, orange, zitonengelb, blutrot
+[00:00:54.900 --> 00:01:03.570] braun, hochrot, kaminrot
+[00:01:03.570 --> 00:01:14.330] ocker, pink, rosa, rotbraun
+[00:01:15.330 --> 00:01:26.300] weinrot, aschgrau, beige, feldgrau
+[00:01:26.980 --> 00:01:40.550] inkarnat, schneeweiß, schwerzlich, silbern, weißlich
+[00:01:41.800 --> 00:01:53.160] blassgrün, blaugrün, graugrün, grünlich
+[00:01:54.660 --> 00:01:56.060] lindgrün
+[00:01:59.510 --> 00:02:00.650] olive, türkis
+[00:02:05.640 --> 00:02:08.260] Sprechen Sie bitte die folgenden Sätze
+[00:02:10.530 --> 00:02:15.470] Die Sonne scheint, der Himmel ist blau, der Wald ist grün.
+[00:02:18.580 --> 00:02:24.580] Das Wasser glasklar in allen Schattierungen von blau und türkis ist ruhig.
+[00:02:27.240 --> 00:02:30.740] Das blaue Haus ist inzwischen weiß und beige gestrichen.
+[00:02:34.170 --> 00:02:37.850] Hast du ein azurblaues Näpfchen in deinem Farbkasten?
+[00:02:40.280 --> 00:02:44.280] Hinter dem Baum liegen rosa und lila Ostereier.
+[00:02:47.900 --> 00:02:53.720] Die stark duftenden Blüten sind außen hellgelb, im Inneren purpuren gestreift.
+[00:02:56.690 --> 00:03:00.210] Das Fett ist strahlend weiß bis leicht gelblich.
+[00:03:03.180 --> 00:03:04.960] Das waren goldene Tage.
+[00:03:08.340 --> 00:03:12.740] Später wurden die Uniformen khakifarbig mit etwas grün gewechselt.
+[00:03:16.210 --> 00:03:20.050] Sie sollten auch gleich noch dieses pinke Kleid anprobieren.
+[00:03:22.320 --> 00:03:28.580] Die Farbe wechselt von grau bis silbern, über graugrün bis dunkelweinrot.
+[00:03:31.730 --> 00:03:34.710] Der Sand ist fein und fasst schneeweiß.
+[00:03:37.660 --> 00:03:39.910] Er hat schon silberne Fäden im Haar.
+[00:03:42.960 --> 00:03:47.120] Die Blätter des Bärlauchs sind lindgrün, langgestielt.
+[00:03:50.280 --> 00:03:54.880] Ein wunderschöner, olivschimmernder Anzug für den Herrn sticht ins Auge.

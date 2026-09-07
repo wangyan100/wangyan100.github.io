@@ -1,53 +1,53 @@
-Ostern
-Aschermittwoch
-Fastenzeit
-Gründonnerstag
-Karfreitag
-Karsamstag
-Ostersonntag
-Palmsonntag
-Pfingsten
-bemalen
-färben
-dekorieren
-Eierfarbe
-Eierschale
-bunt
-Osterstrauß
-sorbische Ostereier
-Fruchtbarkeit
-Hase
-Kaninchen
-Symbol
-Überbringer
-Verstecken
-Fasten
-Osterbrunch
-Ostereiersuche
-Osterfeuer
-Osterlamm
-Ostermarkt
-Ostermarsch
-Ostereiten
-Abendmahl
-Auferstehung
-Auferwecken
-Ausgießung
-Kreuz
-Kreuzigen
-Kreuzigung
-Opfertod
-Sterben
-Sprechen Sie bitte die folgenden Sätze.
-Die Kirche hat im vierten Jahrhundert festgelegt,
-dass Ostern den ersten Sonntag nach dem ersten Vollmond nach Frühlingsanfang fällt.
-Am Aschermittwoch beginnt die Fastenzeit.
-An Gründanastag wird an das letzte Mal Jesu mit seinen Jüngern vor seiner Verhaftung erinnert.
-Am Ostersonntag wird die Auferweckung Jesu von den Toten gefeiert.
-An Pfingsten wird die Ausgießung des Heiligen Geistes gefeiert.
-Das klassische Osterei schenkte man traditionell am Ostermorgen als Zeichen der Auferstehung.
-Eierschale besteht hauptsächlich aus Kalk.
-Der Osterhase gilt als Überbringer der Ostereier.
-Beim Abendmahl kommen Christinnen und Christen zusammen und teilen miteinander Brot und Wein.
-Das Kreuz ist eines der Hauptsinnzeichen des Christentums.
-Im römischen Reich wurden die Kreuzigungen nur bei schweren Verbrechen oder an Nichtrömern und Sklaven angewandt.
+[00:00:01.680 --> 00:00:03.000] Ostern
+[00:00:05.320 --> 00:00:06.020] Aschermittwoch
+[00:00:08.980 --> 00:00:09.680] Fastenzeit
+[00:00:11.520 --> 00:00:12.920] Gründonnerstag
+[00:00:14.230 --> 00:00:16.190] Karfreitag
+[00:00:17.470 --> 00:00:18.870] Karsamstag
+[00:00:21.010 --> 00:00:22.410] Ostersonntag
+[00:00:23.690 --> 00:00:25.550] Palmsonntag
+[00:00:26.830 --> 00:00:27.950] Pfingsten
+[00:00:29.610 --> 00:00:31.010] bemalen
+[00:00:32.320 --> 00:00:33.340] färben
+[00:00:35.680 --> 00:00:36.380] dekorieren
+[00:00:37.660 --> 00:00:39.060] Eierfarbe
+[00:00:42.160 --> 00:00:43.560] Eierschale
+[00:00:43.560 --> 00:00:44.500] bunt
+[00:00:47.520 --> 00:00:48.220] Osterstrauß
+[00:00:48.920 --> 00:00:51.740] sorbische Ostereier
+[00:00:53.090 --> 00:00:54.850] Fruchtbarkeit
+[00:00:56.130 --> 00:00:57.450] Hase
+[00:00:58.730 --> 00:01:00.050] Kaninchen
+[00:01:02.110 --> 00:01:02.810] Symbol
+[00:01:04.390 --> 00:01:05.790] Überbringer
+[00:01:07.100 --> 00:01:08.760] Verstecken
+[00:01:10.070 --> 00:01:11.390] Fasten
+[00:01:14.090 --> 00:01:14.790] Osterbrunch
+[00:01:17.670 --> 00:01:18.370] Ostereiersuche
+[00:01:20.690 --> 00:01:21.390] Osterfeuer
+[00:01:24.330 --> 00:01:25.730] Osterlamm
+[00:01:27.430 --> 00:01:28.830] Ostermarkt
+[00:01:28.830 --> 00:01:29.790] Ostermarsch
+[00:01:31.990 --> 00:01:32.830] Ostereiten
+[00:01:35.950 --> 00:01:37.350] Abendmahl
+[00:01:37.350 --> 00:01:38.890] Auferstehung
+[00:01:41.410 --> 00:01:42.110] Auferwecken
+[00:01:44.050 --> 00:01:44.810] Ausgießung
+[00:01:47.190 --> 00:01:48.230] Kreuz
+[00:01:49.480 --> 00:01:50.840] Kreuzigen
+[00:01:53.580 --> 00:01:54.620] Kreuzigung
+[00:01:55.220 --> 00:01:56.660] Opfertod
+[00:01:58.040 --> 00:01:59.480] Sterben
+[00:02:03.960 --> 00:02:06.560] Sprechen Sie bitte die folgenden Sätze.
+[00:02:09.530 --> 00:02:12.550] Die Kirche hat im vierten Jahrhundert festgelegt,
+[00:02:13.070 --> 00:02:18.590] dass Ostern den ersten Sonntag nach dem ersten Vollmond nach Frühlingsanfang fällt.
+[00:02:21.660 --> 00:02:24.680] Am Aschermittwoch beginnt die Fastenzeit.
+[00:02:27.530 --> 00:02:34.380] An Gründanastag wird an das letzte Mal Jesu mit seinen Jüngern vor seiner Verhaftung erinnert.
+[00:02:37.400 --> 00:02:42.600] Am Ostersonntag wird die Auferweckung Jesu von den Toten gefeiert.
+[00:02:45.690 --> 00:02:50.130] An Pfingsten wird die Ausgießung des Heiligen Geistes gefeiert.
+[00:02:53.260 --> 00:03:00.040] Das klassische Osterei schenkte man traditionell am Ostermorgen als Zeichen der Auferstehung.
+[00:03:03.020 --> 00:03:06.660] Eierschale besteht hauptsächlich aus Kalk.
+[00:03:09.650 --> 00:03:13.530] Der Osterhase gilt als Überbringer der Ostereier.
+[00:03:16.470 --> 00:03:23.050] Beim Abendmahl kommen Christinnen und Christen zusammen und teilen miteinander Brot und Wein.
+[00:03:26.110 --> 00:03:30.430] Das Kreuz ist eines der Hauptsinnzeichen des Christentums.
+[00:03:33.490 --> 00:03:41.350] Im römischen Reich wurden die Kreuzigungen nur bei schweren Verbrechen oder an Nichtrömern und Sklaven angewandt.

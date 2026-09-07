@@ -4,64 +4,272 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Schlafzimmer",
-        "Bett",
-        "Doppelbett",
-        "Einzelbett",
-        "Massivholzbett",
-        "Metallbett",
-        "Polterbett",
-        "Kommode",
-        "Nachttisch",
-        "Nachtschrank",
-        "Bettdecke",
-        "Betttuch",
-        "Bettlaken",
-        "Heizdecke",
-        "Kopfkissen",
-        "Kopfkissenbezug",
-        "Matratze",
-        "Zudeck",
-        "Zudecke",
-        "Frisierspiegel",
-        "Schminkspiegel",
-        "Kamm",
-        "Parfum",
-        "Schmuckkästchen",
-        "Standspiegel",
-        "Wandspiegel",
-        "Wattestäbchen",
-        "Mottenkugel",
-        "Kleiderbügel",
-        "Kleiderständer",
-        "Kleiderstange",
-        "Vakuumbeutel",
-        "Alptraum",
-        "Mittagsschlaf",
-        "Schlaflosigkeit",
-        "Schlafstörung",
-        "Traum"
+        {
+          "text": "Schlafzimmer",
+          "start": 1.94,
+          "end": 3.88
+        },
+        {
+          "text": "Bett",
+          "start": 5.19,
+          "end": 6.09
+        },
+        {
+          "text": "Doppelbett",
+          "start": 7.34,
+          "end": 9.04
+        },
+        {
+          "text": "Einzelbett",
+          "start": 10.51,
+          "end": 13.27
+        },
+        {
+          "text": "Massivholzbett",
+          "start": 15.49,
+          "end": 16.89
+        },
+        {
+          "text": "Metallbett",
+          "start": 16.89,
+          "end": 18.81
+        },
+        {
+          "text": "Polterbett",
+          "start": 20.09,
+          "end": 21.89
+        },
+        {
+          "text": "Kommode",
+          "start": 23.17,
+          "end": 24.69
+        },
+        {
+          "text": "Nachttisch",
+          "start": 25.97,
+          "end": 27.67
+        },
+        {
+          "text": "Nachtschrank",
+          "start": 28.95,
+          "end": 30.75
+        },
+        {
+          "text": "Bettdecke",
+          "start": 32.0,
+          "end": 33.72
+        },
+        {
+          "text": "Betttuch",
+          "start": 35.06,
+          "end": 36.58
+        },
+        {
+          "text": "Bettlaken",
+          "start": 37.89,
+          "end": 39.45
+        },
+        {
+          "text": "Heizdecke",
+          "start": 40.73,
+          "end": 42.61
+        },
+        {
+          "text": "Kopfkissen",
+          "start": 43.99,
+          "end": 45.59
+        },
+        {
+          "text": "Kopfkissenbezug",
+          "start": 46.93,
+          "end": 49.19
+        },
+        {
+          "text": "Matratze",
+          "start": 50.44,
+          "end": 52.2
+        },
+        {
+          "text": "Zudeck",
+          "start": 53.61,
+          "end": 55.31
+        },
+        {
+          "text": "Zudecke",
+          "start": 55.31,
+          "end": 56.73
+        },
+        {
+          "text": "Frisierspiegel",
+          "start": 58.26,
+          "end": 60.2
+        },
+        {
+          "text": "Schminkspiegel",
+          "start": 60.2,
+          "end": 62.14
+        },
+        {
+          "text": "Kamm",
+          "start": 63.52,
+          "end": 64.52
+        },
+        {
+          "text": "Parfum",
+          "start": 65.93,
+          "end": 67.29
+        },
+        {
+          "text": "Schmuckkästchen",
+          "start": 70.72,
+          "end": 72.12
+        },
+        {
+          "text": "Standspiegel",
+          "start": 73.56,
+          "end": 75.44
+        },
+        {
+          "text": "Wandspiegel",
+          "start": 76.69,
+          "end": 78.69
+        },
+        {
+          "text": "Wattestäbchen",
+          "start": 81.49,
+          "end": 82.89
+        },
+        {
+          "text": "Mottenkugel",
+          "start": 82.89,
+          "end": 85.11
+        },
+        {
+          "text": "Kleiderbügel",
+          "start": 86.52,
+          "end": 88.38
+        },
+        {
+          "text": "Kleiderständer",
+          "start": 89.66,
+          "end": 91.16
+        },
+        {
+          "text": "Kleiderstange",
+          "start": 93.84,
+          "end": 94.88
+        },
+        {
+          "text": "Vakuumbeutel",
+          "start": 97.51,
+          "end": 98.55
+        },
+        {
+          "text": "Alptraum",
+          "start": 103.4,
+          "end": 104.44
+        },
+        {
+          "text": "Mittagsschlaf",
+          "start": 105.82,
+          "end": 107.9
+        },
+        {
+          "text": "Schlaflosigkeit",
+          "start": 109.27,
+          "end": 111.31
+        },
+        {
+          "text": "Schlafstörung",
+          "start": 112.62,
+          "end": 114.6
+        },
+        {
+          "text": "Traum",
+          "start": 115.98,
+          "end": 117.48
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Du sollst dich ins Bett legen und dich ausruhen.",
-        "Das neue Doppelbett ist ungeeignet und das Ehepaar wollte es zurückgeben.",
-        "Er erwacht auf einem Einzelbett in einem leeren Raum.",
-        "Meine Freunde haben mir eine Kommode geschenkt.",
-        "Auf dem Nachttisch liegt eine Bettlampe.",
-        "Im Winter brauche ich eine dicke Bettdecke.",
-        "Feilchenblätter waren ihre Matratze und ein Rosenblatt ihr Deckblatt.",
-        "Däumelinchen Mein Vater deckt meine junge Schwester sorgsam mit einer Zudecke zu.",
-        "Sie kämmt ihre langen schwarzen Haare mit diesem Kamm.",
-        "Diese Frau trägt so viel Parfüm auf, dass es stark und herb riecht.",
-        "Der Mann hilft seiner Frau, den Mantel auf den Kleiderbügel zu hängen.",
-        "Auf dem Kleiderständer im Flur trappierte der Designer verschiedene Kopfdeckungen.",
-        "Wenn uns Alpträume jede Nacht quälen, kann es zu Schlafstörungen kommen.",
-        "Er leidet schwer unter Schlaflosigkeit.",
-        "Der Traum ist ausgeträumt."
+        {
+          "text": "Du sollst dich ins Bett legen und dich ausruhen.",
+          "start": 127.19,
+          "end": 131.09
+        },
+        {
+          "text": "Das neue Doppelbett ist ungeeignet und das Ehepaar wollte es zurückgeben.",
+          "start": 133.88,
+          "end": 139.46
+        },
+        {
+          "text": "Er erwacht auf einem Einzelbett in einem leeren Raum.",
+          "start": 142.32,
+          "end": 146.3
+        },
+        {
+          "text": "Meine Freunde haben mir eine Kommode geschenkt.",
+          "start": 149.5,
+          "end": 152.78
+        },
+        {
+          "text": "Auf dem Nachtisch liegt eine Bettlampe.",
+          "start": 155.56,
+          "end": 158.3
+        },
+        {
+          "text": "Im Winter brauche ich eine dicke Bettdecke.",
+          "start": 161.31,
+          "end": 164.23
+        },
+        {
+          "text": "Feichenblätter waren ihre Matratze und ein Rosenblatt ihr Deckblatt.",
+          "start": 167.52,
+          "end": 172.56
+        },
+        {
+          "text": "Däumelinchen Mein Vater deckt meine junge Schwester sorgsam mit einer Zudecke zu.",
+          "start": 172.98,
+          "end": 181.79
+        },
+        {
+          "text": "Sie kämmt ihre langen schwarzen Haare mit diesem Kamm.",
+          "start": 184.67,
+          "end": 188.55
+        },
+        {
+          "text": "Diese Frau trägt so viel Parfüm auf, dass es stark und herb riecht.",
+          "start": 191.72,
+          "end": 197.22
+        },
+        {
+          "text": "Der Mann hilft seiner Frau, den Mantel auf den Kleiderbügel zu hängen.",
+          "start": 199.81,
+          "end": 204.89
+        },
+        {
+          "text": "Auf dem Kleiderständer im Flur trappierte der Designer verschiedene Kopfdeckungen.",
+          "start": 207.69,
+          "end": 213.41
+        },
+        {
+          "text": "Wenn uns Alpträume jede Nacht quälen, kann es zu Schlafstörungen kommen.",
+          "start": 216.46,
+          "end": 221.78
+        },
+        {
+          "text": "Er leidet schwer unter Schlaflosigkeit.",
+          "start": 224.57,
+          "end": 227.71
+        },
+        {
+          "text": "Der Traum ist ausgeträumt.",
+          "start": 230.81,
+          "end": 232.91
+        }
       ]
     }
   ]

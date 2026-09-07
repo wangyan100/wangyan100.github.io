@@ -4,67 +4,287 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Wagen",
-        "Auto",
-        "Geländewagen",
-        "Luxuswagen",
-        "Limousine",
-        "Minibus",
-        "Reisebus",
-        "Sportwagen",
-        "Wohnwagen",
-        "Anhänger",
-        "Doser",
-        "Hochlader",
-        "Kastenwagen",
-        "Lieferwagen",
-        "Kran",
-        "Stapler",
-        "Traktor",
-        "Transporter",
-        "Bremspedal",
-        "Beifahrersitz",
-        "Fahrersitz",
-        "Gaspedal",
-        "Kupplungspedal",
-        "Lenkrad",
-        "Sicherheitsgurt",
-        "Anschnallgurt",
-        "Außenspiegel",
-        "Auspuffleitung",
-        "Kofferraum",
-        "Motorhaube",
-        "Reifen",
-        "Reservereifen",
-        "Scheibenwischer",
-        "Windschutzscheibe",
-        "Benzinuhr",
-        "Drehzahlmesser",
-        "Tachometer",
-        "Warnleuchte",
-        "Blinker",
-        "Rücklicht",
-        "Scheinwerfer"
+        {
+          "text": "Wagen",
+          "start": 1.65,
+          "end": 3.35
+        },
+        {
+          "text": "Auto",
+          "start": 5.17,
+          "end": 5.65
+        },
+        {
+          "text": "Geländewagen",
+          "start": 7.7,
+          "end": 8.88
+        },
+        {
+          "text": "Luxuswagen",
+          "start": 11.05,
+          "end": 12.43
+        },
+        {
+          "text": "Limousine",
+          "start": 14.37,
+          "end": 15.39
+        },
+        {
+          "text": "Minibus",
+          "start": 17.39,
+          "end": 18.35
+        },
+        {
+          "text": "Reisebus",
+          "start": 20.38,
+          "end": 21.16
+        },
+        {
+          "text": "Sportwagen",
+          "start": 23.45,
+          "end": 24.51
+        },
+        {
+          "text": "Wohnwagen",
+          "start": 26.64,
+          "end": 27.68
+        },
+        {
+          "text": "Anhänger",
+          "start": 29.68,
+          "end": 30.38
+        },
+        {
+          "text": "Doser",
+          "start": 32.57,
+          "end": 33.59
+        },
+        {
+          "text": "Hochlader",
+          "start": 35.25,
+          "end": 36.21
+        },
+        {
+          "text": "Kastenwagen",
+          "start": 38.33,
+          "end": 39.69
+        },
+        {
+          "text": "Lieferwagen",
+          "start": 41.33,
+          "end": 42.73
+        },
+        {
+          "text": "Kran",
+          "start": 44.79,
+          "end": 45.57
+        },
+        {
+          "text": "Stapler",
+          "start": 47.53,
+          "end": 48.05
+        },
+        {
+          "text": "Traktor",
+          "start": 50.21,
+          "end": 51.15
+        },
+        {
+          "text": "Transporter",
+          "start": 53.19,
+          "end": 53.95
+        },
+        {
+          "text": "Bremspedal",
+          "start": 56.04,
+          "end": 57.52
+        },
+        {
+          "text": "Beifahrersitz",
+          "start": 59.18,
+          "end": 60.84
+        },
+        {
+          "text": "Fahrersitz",
+          "start": 62.37,
+          "end": 64.55
+        },
+        {
+          "text": "Gaspedal",
+          "start": 64.55,
+          "end": 66.99
+        },
+        {
+          "text": "Kupplungspedal",
+          "start": 68.64,
+          "end": 70.3
+        },
+        {
+          "text": "Lenkrad",
+          "start": 71.88,
+          "end": 73.3
+        },
+        {
+          "text": "Sicherheitsgurt",
+          "start": 75.04,
+          "end": 76.46
+        },
+        {
+          "text": "Anschnallgurt",
+          "start": 78.08,
+          "end": 79.54
+        },
+        {
+          "text": "Außenspiegel",
+          "start": 81.41,
+          "end": 82.77
+        },
+        {
+          "text": "Auspuffleitung",
+          "start": 84.5,
+          "end": 85.94
+        },
+        {
+          "text": "Kofferraum",
+          "start": 87.26,
+          "end": 89.14
+        },
+        {
+          "text": "Motorhaube",
+          "start": 91.0,
+          "end": 92.28
+        },
+        {
+          "text": "Reifen",
+          "start": 94.14,
+          "end": 95.14
+        },
+        {
+          "text": "Reservereifen",
+          "start": 97.01,
+          "end": 98.51
+        },
+        {
+          "text": "Scheibenwischer",
+          "start": 100.31,
+          "end": 101.39
+        },
+        {
+          "text": "Windschutzscheibe",
+          "start": 103.49,
+          "end": 105.25
+        },
+        {
+          "text": "Benzinuhr",
+          "start": 106.92,
+          "end": 108.3
+        },
+        {
+          "text": "Drehzahlmesser",
+          "start": 109.95,
+          "end": 111.69
+        },
+        {
+          "text": "Tachometer",
+          "start": 113.45,
+          "end": 114.45
+        },
+        {
+          "text": "Warnleuchte",
+          "start": 116.72,
+          "end": 119.36
+        },
+        {
+          "text": "Blinker",
+          "start": 119.84,
+          "end": 120.4
+        },
+        {
+          "text": "Rücklicht",
+          "start": 122.56,
+          "end": 123.38
+        },
+        {
+          "text": "Scheinwerfer",
+          "start": 125.42,
+          "end": 126.72
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "1949 fuhr kaum jemand Auto und der CO2-Ausstoß war minimal.",
-        "Künftig sollen dort die Geländewagen gebaut werden.",
-        "Der Junge aus dem Armenviertel fuhr nun in Limousinen durch die Stadt.",
-        "Auf dem Weg nach Italien ist ein deutscher Reisebus verunglückt.",
-        "Ein 85-jähriger Autofahrer ist mit seinem Sportwagen in ein Hamburger Kaufhaus gekracht.",
-        "In der Ferienzeit kontrolliert die Polizei in Hessen gezielt Wohnwagen auf der Autobahn.",
-        "Der Lagerarbeiter stiehlt vor den Augen seiner Chefin einen Lieferwagen.",
-        "Ein Kran hebt die Container auf das Schiff.",
-        "Das Bremspedal kann zum schnellen Abbremsen und zur Feststellbremse benutzt werden.",
-        "Das Gaspedal ist rechts und die Bremse links.",
-        "Außenspiegel auf beiden Seiten bieten beim Rückwärtsfahren gute Sicht.",
-        "Der Druck der Reifen muss regelmäßig überprüft werden.",
-        "Warnleuchte blinkt auf dem Armaturenbrett des Autos.",
-        "Der Drehzahlmesser zeigt die Motordrehzahl in Umdrehungen pro Minute an."
+        {
+          "text": "1940 fuhr kaum jemand Auto und der CO2-Ausstoß war minimal.",
+          "start": 138.66,
+          "end": 143.98
+        },
+        {
+          "text": "Künftig sollen dort die Geländewagen gebaut werden.",
+          "start": 147.01,
+          "end": 150.33
+        },
+        {
+          "text": "Der junge aus dem Armenviertel fuhr nun in Limousinen durch die Stadt.",
+          "start": 153.39,
+          "end": 158.05
+        },
+        {
+          "text": "Auf dem Weg nach Italien ist ein deutscher Reisebus verunglückt.",
+          "start": 161.02,
+          "end": 165.1
+        },
+        {
+          "text": "Ein 85-jähriger Autofahrer ist mit seinem Sportwagen in ein Hamburger Kaufhaus gekracht.",
+          "start": 167.37,
+          "end": 174.47
+        },
+        {
+          "text": "In der Ferienzeit kontrolliert die Polizei in Hessen gezielt Wohnwagen auf der Autobahn.",
+          "start": 177.5,
+          "end": 183.58
+        },
+        {
+          "text": "Der Lagerarbeiter stiehlt vor den Augen seiner Chefin einen Lieferwagen.",
+          "start": 185.79,
+          "end": 191.35
+        },
+        {
+          "text": "Ein Kran hebt die Container auf das Schiff.",
+          "start": 194.52,
+          "end": 197.88
+        },
+        {
+          "text": "Das Bremspedal kann zum schnellen Abbremsen und zur Feststellbremse benutzt werden.",
+          "start": 200.31,
+          "end": 206.21
+        },
+        {
+          "text": "Das Gaspedal ist rechts und die Bremse links.",
+          "start": 208.45,
+          "end": 212.39
+        },
+        {
+          "text": "Außenspiegel auf beiden Seiten bieten beim Rückwärtsfahren gute Sicht.",
+          "start": 215.67,
+          "end": 220.07
+        },
+        {
+          "text": "Der Druck der Reifen muss regelmäßig überprüft werden.",
+          "start": 223.16,
+          "end": 226.86
+        },
+        {
+          "text": "Warnleuchte blinkt auf dem Armaturenbrett des Autos.",
+          "start": 230.22,
+          "end": 234.06
+        },
+        {
+          "text": "Der Drehzahlmesser zeigt die Motordrehzahl in Umdrehungen pro Minute an.",
+          "start": 237.06,
+          "end": 242.68
+        }
       ]
     }
   ]

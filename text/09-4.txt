@@ -1,15 +1,14 @@
-innere Organe Herzbeutel, Herzgefäß, Herzkammer, Herzklappe, Herzmuskel, Herzvorhof, Herzwand
-Bronche, Brustfell, Hauptbronche
-Lungenbläschen, Lungenflügel, Lungenlappen, Mittelfell, Zwerchfell, Bauchspeicheldrüse, Pankreas
-Gallenblase, Gallengang, Hauptgallengang, Leberlappen, Blinddarm, Dickdarm, Dünndarm, Kolon, Krummdarm
-Mastdarm, Zwölffingerdarm, Wurmfortsatz, Magenmund, Fördner, Verdauen, Lymphe, Milz, Schilddrüse
-Herzbeutel, Herzklappe, Herzbeutelentzündung
-Herzbeutel ansammelt. Er zieht die frische Luft tief in die Lungen. Die Lunge gleicht
-einem Baum. Der Stamm, die Luftröhre, verzweigt sich in die Äste, Bronchien genannt. Bronchitis
-ist eine häufige Erkrankung im Bereich der Bronchien. Der rechte Lungenflügel ist
-in zehn, der linke in neun Lungensegmente unterteilt. Die in der Leber produzierte
-Flüssigkeit, also Galle, hilft bei der Verdauung von Nahrungsfetten. Bauchschmerzen um den
-Bauchnabel herum oder in der Magengegend können die ersten Anzeichen einer Blinddarmentzündung
-sein. Der Mastdarm ist der letzte Abschnitt des Dickdarms. Die Hauptfunktion von Wurmfortsatz
-liegt in der frühen Kindheit in der Immunabwehr. Das Lymphsystem ist Teil des
-Immunsystems und damit wichtig für die Abwehr von Krankheitserregern.
+[00:00:01.900 --> 00:00:25.630] innere Organe Herzbeutel, Herzgefäß, Herzkammer, Herzklappe, Herzmuskel, Herzvorhof, Herzwand
+[00:00:26.770 --> 00:00:35.210] Bronche, Brustfell, Hauptbronche
+[00:00:35.210 --> 00:00:52.450] Lungenbläschen, Lungenflügel, Lungenlappen, Mittelfell, Zwerchfell, Bauchspeicheldrüse, Pankreas
+[00:00:57.830 --> 00:01:20.910] Gallenblase, Gallengang, Hauptgallengang, Leberlappen, Blinddarm, Dickdarm, Dünndarm, Kolon, Krummdarm
+[00:01:24.450 --> 00:01:47.720] Mastdarm, Zwölffingerdarm, Wurmfortsatz, Magenmund, Fördner, Verdauen, Lymphe, Milz, Schilddrüse
+[00:01:54.770 --> 00:02:08.060] Man kann keinem ins Herz sehen. Die untere Seite des Herzbeutels ist mit dem Zwerchfell verwachsen.
+[00:02:11.050 --> 00:02:18.390] Ist eine Herzklappe von Geburt an missgebildet, kann sie durch eine künstliche Herzklappe ersetzt werden.
+[00:02:21.440 --> 00:02:30.060] Diese Krankheit kann zu einer Herzbeutelentzündung kommen, bei der sich Flüssigkeit zwischen Herzmuskel und Herzbeutel ansammelt.
+[00:02:32.240 --> 00:02:46.720] Er zieht die frische Luft tief in die Lungen. Die Lunge gleicht einem Baum. Der Stamm, die Luftröhre, verzweigt sich in die Äste, Bronchien genannt.
+[00:02:49.760 --> 00:03:03.120] Bronchitis ist eine häufige Erkrankung im Bereich der Bronchien. Der rechte Lungenflügel ist in zehn, der linke in neun Lungensegmente unterteilt.
+[00:03:05.320 --> 00:03:12.860] Die in der Leber produzierte Flüssigkeit, also Galle, hilft bei der Verdauung von Nahrungsfetten.
+[00:03:15.930 --> 00:03:24.610] Bauchschmerzen um den Bauchnabel herum oder in der Magengegend können die ersten Anzeichen einer Blinddarmentzündung sein.
+[00:03:27.660 --> 00:03:41.030] Der Mastdarm ist der letzte Abschnitt des Dickdarms. Die Hauptfunktion von Wurmfortsatz liegt in der frühen Kindheit in der Immunabwehr.
+[00:03:43.240 --> 00:03:51.120] Das Lymphsystem ist Teil des Immunsystems und damit wichtig für die Abwehr von Krankheitserregern.

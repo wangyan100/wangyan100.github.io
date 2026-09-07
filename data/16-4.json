@@ -4,63 +4,267 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "natürliche Ressourcen",
-        "Achat",
-        "Bernstein",
-        "Bienenwachs",
-        "Jaspis",
-        "Rubin",
-        "Smaragd",
-        "Topas",
-        "Türkis",
-        "Atomenergie",
-        "Erdwärme",
-        "Erneuerbar",
-        "Kohle",
-        "Wärmeenergie",
-        "Windenergie",
-        "Windkraft",
-        "Aluminium",
-        "Eisen",
-        "Gold",
-        "Magnesium",
-        "Kupfer",
-        "Silber",
-        "Stahl",
-        "Zink",
-        "Zinn",
-        "Abendsonne",
-        "Solarenergie",
-        "Solarthermie",
-        "Sonnenaufgang",
-        "Sonnenfleck",
-        "Sonnenuntergang",
-        "Strahlung",
-        "Basalt",
-        "Flint",
-        "Granit",
-        "Kalk",
-        "Marmor",
-        "Sandstein",
-        "Schamotte"
+        {
+          "text": "natürliche Ressourcen",
+          "start": 1.81,
+          "end": 4.69
+        },
+        {
+          "text": "Achat",
+          "start": 5.94,
+          "end": 7.26
+        },
+        {
+          "text": "Bernstein",
+          "start": 9.98,
+          "end": 11.38
+        },
+        {
+          "text": "Bienenwachs",
+          "start": 11.38,
+          "end": 13.16
+        },
+        {
+          "text": "Jaspis",
+          "start": 14.76,
+          "end": 16.66
+        },
+        {
+          "text": "Rubin",
+          "start": 17.42,
+          "end": 19.0
+        },
+        {
+          "text": "Smaragd",
+          "start": 20.37,
+          "end": 21.95
+        },
+        {
+          "text": "Topas",
+          "start": 23.46,
+          "end": 24.88
+        },
+        {
+          "text": "Türkis",
+          "start": 26.12,
+          "end": 28.34
+        },
+        {
+          "text": "Atomenergie",
+          "start": 30.16,
+          "end": 31.56
+        },
+        {
+          "text": "Erdwärme",
+          "start": 33.6,
+          "end": 35.0
+        },
+        {
+          "text": "Erneuerbar",
+          "start": 35.0,
+          "end": 36.88
+        },
+        {
+          "text": "Kohle",
+          "start": 38.2,
+          "end": 40.0
+        },
+        {
+          "text": "Wärmeenergie",
+          "start": 42.6,
+          "end": 44.0
+        },
+        {
+          "text": "Windenergie",
+          "start": 45.8,
+          "end": 47.2
+        },
+        {
+          "text": "Windkraft",
+          "start": 47.2,
+          "end": 49.0
+        },
+        {
+          "text": "Aluminium",
+          "start": 51.7,
+          "end": 53.1
+        },
+        {
+          "text": "Eisen",
+          "start": 53.1,
+          "end": 54.48
+        },
+        {
+          "text": "Gold",
+          "start": 55.76,
+          "end": 57.34
+        },
+        {
+          "text": "Magnesium",
+          "start": 59.06,
+          "end": 60.46
+        },
+        {
+          "text": "Kupfer",
+          "start": 61.77,
+          "end": 63.21
+        },
+        {
+          "text": "Silber",
+          "start": 64.46,
+          "end": 66.02
+        },
+        {
+          "text": "Stahl",
+          "start": 67.46,
+          "end": 68.86
+        },
+        {
+          "text": "Zink",
+          "start": 70.2,
+          "end": 71.44
+        },
+        {
+          "text": "Zinn",
+          "start": 72.82,
+          "end": 74.18
+        },
+        {
+          "text": "Abendsonne",
+          "start": 75.58,
+          "end": 77.08
+        },
+        {
+          "text": "Solarenergie",
+          "start": 78.33,
+          "end": 80.23
+        },
+        {
+          "text": "Solarthermie",
+          "start": 81.51,
+          "end": 84.05
+        },
+        {
+          "text": "Sonnenaufgang",
+          "start": 87.02,
+          "end": 88.42
+        },
+        {
+          "text": "Sonnenfleck",
+          "start": 90.28,
+          "end": 91.16
+        },
+        {
+          "text": "Sonnenuntergang",
+          "start": 91.68,
+          "end": 93.5
+        },
+        {
+          "text": "Strahlung",
+          "start": 94.94,
+          "end": 96.44
+        },
+        {
+          "text": "Basalt",
+          "start": 97.75,
+          "end": 99.35
+        },
+        {
+          "text": "Flint",
+          "start": 100.76,
+          "end": 101.68
+        },
+        {
+          "text": "Granit",
+          "start": 103.6,
+          "end": 104.92
+        },
+        {
+          "text": "Kalk",
+          "start": 106.23,
+          "end": 107.29
+        },
+        {
+          "text": "Marmor",
+          "start": 108.57,
+          "end": 111.23
+        },
+        {
+          "text": "Sandstein",
+          "start": 111.23,
+          "end": 113.39
+        },
+        {
+          "text": "Schamotte",
+          "start": 114.74,
+          "end": 116.08
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Bereits seit vorgeschichtlichen Zeiten wird Bernstein als Schmuck und für Kunstgegenstände genutzt.",
-        "Rubine sind auf allen Kontinenten außer der Antarktis gefunden worden.",
-        "Iran ist schon seit Jahrhunderten eines der Hauptabbau- und Handelsgebiete von Türkis.",
-        "Nach Angaben des Statistischen Jahrbuchs 2014, der OECD, lag der Anteil der Atomenergie weltweit bei etwa 12 Prozent.",
-        "In Deutschland gibt es etwa 160 touristische Ziele, die mit sogenannten erneuerbaren Energien möglich sind.",
-        "In Atomkraftwerken wird die Energie der Kernspaltung benutzt, um Wärmeenergie zu erzeugen.",
-        "Aluminium reagiert an frischen angeschnittenen Stellen bei Raumtemperatur mit Luft und Wasser zu Aluminiumoxid.",
-        "Man muss das Eisen schmieden, solange es heiß ist.",
-        "Magnesium brennt mit blendend weißer Flamme.",
-        "Die 10-, 20- und 50-Euro-Cent-Münzen bestehen aus einer Legierung aus Kupfer, Aluminium, Zink und Zinn.",
-        "Sonnenflecken sind dunkle Stellen auf der sichtbaren Sonnenoberfläche, die kühler sind.",
-        "Basalt ist für gewöhnlich dunkelgrau oder schwarz."
+        {
+          "text": "Bereits seit vorgeschichtlichen Zeiten wird Bernstein als Schmuck und für Kunstgegenstände genutzt.",
+          "start": 125.93,
+          "end": 134.05
+        },
+        {
+          "text": "Rubine sind auf allen Kontinenten außer der Antarktis gefunden worden.",
+          "start": 136.89,
+          "end": 141.89
+        },
+        {
+          "text": "Iran ist schon seit Jahrhunderten eines der Hauptabbau- und Handelsgebiete von Türkis.",
+          "start": 145.06,
+          "end": 150.26
+        },
+        {
+          "text": "Nach Angaben des Statistischen Jahrbuchs 2014, der OECD, lag der Anteil der Atomenergie weltweit bei etwa 12 Prozent.",
+          "start": 150.26,
+          "end": 164.14
+        },
+        {
+          "text": "In Deutschland gibt es etwa 160 touristische Ziele, die mit sogenannten erneuerbaren Energien möglich sind.",
+          "start": 164.14,
+          "end": 175.47
+        },
+        {
+          "text": "In Atomkraftwerken wird die Energie der Kernspaltung benutzt, um Wärmeenergie zu erzeugen.",
+          "start": 175.47,
+          "end": 185.4
+        },
+        {
+          "text": "Aluminium reagiert an frischen angeschnittenen Stellen bei Raumtemperatur mit Luft und Wasser zu Aluminiumoxid.",
+          "start": 185.4,
+          "end": 195.39
+        },
+        {
+          "text": "Man muss das Eisen schmieden, solange es heiß ist.",
+          "start": 195.39,
+          "end": 202.99
+        },
+        {
+          "text": "Magnesium brennt mit blendend weißer Flamme.",
+          "start": 202.99,
+          "end": 209.24
+        },
+        {
+          "text": "Die 10-, 20- und 50-Euro-Cent-Münzen bestehen aus einer Legierung aus Kupfer, Aluminium, Zink und Zinn.",
+          "start": 209.24,
+          "end": 220.98
+        },
+        {
+          "text": "Sonnenflecken sind dunkle Stellen auf der sichtbaren Sonnenoberfläche, die kühler sind.",
+          "start": 220.98,
+          "end": 229.78
+        },
+        {
+          "text": "Basalt ist für gewöhnlich dunkelgrau oder schwarz.",
+          "start": 229.78,
+          "end": 236.44
+        }
       ]
     }
   ]

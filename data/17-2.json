@@ -4,68 +4,292 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Farben",
-        "Azurblau",
-        "Blasblau",
-        "Blaurot",
-        "Eisblau",
-        "Lila",
-        "Mauve",
-        "Purpurn",
-        "Violett",
-        "cremefarbig",
-        "gelblich",
-        "golden",
-        "goldgelb",
-        "khakifarbig",
-        "mandaringelb",
-        "orange",
-        "zitonengelb",
-        "blutrot",
-        "braun",
-        "hochrot",
-        "kaminrot",
-        "ocker",
-        "pink",
-        "rosa",
-        "rotbraun",
-        "weinrot",
-        "aschgrau",
-        "beige",
-        "feldgrau",
-        "inkarnat",
-        "schneeweiß",
-        "schwerzlich",
-        "silbern",
-        "weißlich",
-        "blassgrün",
-        "blaugrün",
-        "graugrün",
-        "grünlich",
-        "lindgrün",
-        "olive",
-        "türkis"
+        {
+          "text": "Farben",
+          "start": 3.4,
+          "end": 4.8
+        },
+        {
+          "text": "Azurblau",
+          "start": 4.8,
+          "end": 6.84
+        },
+        {
+          "text": "Blasblau",
+          "start": 8.26,
+          "end": 9.62
+        },
+        {
+          "text": "Blaurot",
+          "start": 11.21,
+          "end": 12.17
+        },
+        {
+          "text": "Eisblau",
+          "start": 13.99,
+          "end": 16.69
+        },
+        {
+          "text": "Lila",
+          "start": 16.69,
+          "end": 18.09
+        },
+        {
+          "text": "Mauve",
+          "start": 19.92,
+          "end": 20.78
+        },
+        {
+          "text": "Purpurn",
+          "start": 22.52,
+          "end": 23.34
+        },
+        {
+          "text": "Violett",
+          "start": 25.46,
+          "end": 26.58
+        },
+        {
+          "text": "cremefarbig",
+          "start": 28.15,
+          "end": 30.19
+        },
+        {
+          "text": "gelblich",
+          "start": 31.69,
+          "end": 33.09
+        },
+        {
+          "text": "golden",
+          "start": 34.09,
+          "end": 34.79
+        },
+        {
+          "text": "goldgelb",
+          "start": 37.04,
+          "end": 38.38
+        },
+        {
+          "text": "khakifarbig",
+          "start": 40.02,
+          "end": 41.96
+        },
+        {
+          "text": "mandaringelb",
+          "start": 43.54,
+          "end": 44.94
+        },
+        {
+          "text": "orange",
+          "start": 46.56,
+          "end": 47.4
+        },
+        {
+          "text": "zitonengelb",
+          "start": 49.44,
+          "end": 51.12
+        },
+        {
+          "text": "blutrot",
+          "start": 52.74,
+          "end": 54.9
+        },
+        {
+          "text": "braun",
+          "start": 54.9,
+          "end": 56.64
+        },
+        {
+          "text": "hochrot",
+          "start": 58.47,
+          "end": 59.31
+        },
+        {
+          "text": "kaminrot",
+          "start": 61.45,
+          "end": 63.57
+        },
+        {
+          "text": "ocker",
+          "start": 63.57,
+          "end": 65.07
+        },
+        {
+          "text": "pink",
+          "start": 67.09,
+          "end": 67.77
+        },
+        {
+          "text": "rosa",
+          "start": 69.95,
+          "end": 70.55
+        },
+        {
+          "text": "rotbraun",
+          "start": 72.59,
+          "end": 74.33
+        },
+        {
+          "text": "weinrot",
+          "start": 75.33,
+          "end": 76.89
+        },
+        {
+          "text": "aschgrau",
+          "start": 78.6,
+          "end": 80.04
+        },
+        {
+          "text": "beige",
+          "start": 81.58,
+          "end": 82.2
+        },
+        {
+          "text": "feldgrau",
+          "start": 84.28,
+          "end": 86.3
+        },
+        {
+          "text": "inkarnat",
+          "start": 86.98,
+          "end": 88.56
+        },
+        {
+          "text": "schneeweiß",
+          "start": 90.4,
+          "end": 91.72
+        },
+        {
+          "text": "schwerzlich",
+          "start": 93.49,
+          "end": 94.47
+        },
+        {
+          "text": "silbern",
+          "start": 96.65,
+          "end": 97.45
+        },
+        {
+          "text": "weißlich",
+          "start": 99.53,
+          "end": 100.55
+        },
+        {
+          "text": "blassgrün",
+          "start": 101.8,
+          "end": 103.74
+        },
+        {
+          "text": "blaugrün",
+          "start": 105.42,
+          "end": 106.78
+        },
+        {
+          "text": "graugrün",
+          "start": 108.36,
+          "end": 109.8
+        },
+        {
+          "text": "grünlich",
+          "start": 111.36,
+          "end": 113.16
+        },
+        {
+          "text": "lindgrün",
+          "start": 114.66,
+          "end": 116.06
+        },
+        {
+          "text": "olive",
+          "start": 119.51,
+          "end": 120.27
+        },
+        {
+          "text": "türkis",
+          "start": 120.27,
+          "end": 120.65
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Sonne scheint, der Himmel ist blau, der Wald ist grün.",
-        "Das Wasser glasklar in allen Schattierungen von blau und türkis ist ruhig.",
-        "Das blaue Haus ist inzwischen weiß und beige gestrichen.",
-        "Hast du ein azurblaues Näpfchen in deinem Farbkasten?",
-        "Hinter dem Baum liegen rosa und lila Ostereier.",
-        "Die stark duftenden Blüten sind außen hellgelb, im Inneren purpuren gestreift.",
-        "Das Fett ist strahlend weiß bis leicht gelblich.",
-        "Das waren goldene Tage.",
-        "Später wurden die Uniformen khakifarbig mit etwas grün gewechselt.",
-        "Sie sollten auch gleich noch dieses pinke Kleid anprobieren.",
-        "Die Farbe wechselt von grau bis silbern, über graugrün bis dunkelweinrot.",
-        "Der Sand ist fein und fasst schneeweiß.",
-        "Er hat schon silberne Fäden im Haar.",
-        "Die Blätter des Bärlauchs sind lindgrün, lang gestielt.",
-        "Ein wunderschöner, olivschimmernder Anzug für den Herrn sticht ins Auge."
+        {
+          "text": "Die Sonne scheint, der Himmel ist blau, der Wald ist grün.",
+          "start": 130.53,
+          "end": 135.47
+        },
+        {
+          "text": "Das Wasser glasklar in allen Schattierungen von blau und türkis ist ruhig.",
+          "start": 138.58,
+          "end": 144.58
+        },
+        {
+          "text": "Das blaue Haus ist inzwischen weiß und beige gestrichen.",
+          "start": 147.24,
+          "end": 150.74
+        },
+        {
+          "text": "Hast du ein azurblaues Näpfchen in deinem Farbkasten?",
+          "start": 154.17,
+          "end": 157.85
+        },
+        {
+          "text": "Hinter dem Baum liegen rosa und lila Ostereier.",
+          "start": 160.28,
+          "end": 164.28
+        },
+        {
+          "text": "Die stark duftenden Blüten sind außen hellgelb, im Inneren purpuren gestreift.",
+          "start": 167.9,
+          "end": 173.72
+        },
+        {
+          "text": "Das Fett ist strahlend weiß bis leicht gelblich.",
+          "start": 176.69,
+          "end": 180.21
+        },
+        {
+          "text": "Das waren goldene Tage.",
+          "start": 183.18,
+          "end": 184.96
+        },
+        {
+          "text": "Später wurden die Uniformen khakifarbig mit etwas grün gewechselt.",
+          "start": 188.34,
+          "end": 192.74
+        },
+        {
+          "text": "Sie sollten auch gleich noch dieses pinke Kleid anprobieren.",
+          "start": 196.21,
+          "end": 200.05
+        },
+        {
+          "text": "Die Farbe wechselt von grau bis silbern, über graugrün bis dunkelweinrot.",
+          "start": 202.32,
+          "end": 208.58
+        },
+        {
+          "text": "Der Sand ist fein und fasst schneeweiß.",
+          "start": 211.73,
+          "end": 214.71
+        },
+        {
+          "text": "Er hat schon silberne Fäden im Haar.",
+          "start": 217.66,
+          "end": 219.91
+        },
+        {
+          "text": "Die Blätter des Bärlauchs sind lindgrün, langgestielt.",
+          "start": 222.96,
+          "end": 227.12
+        },
+        {
+          "text": "Ein wunderschöner, olivschimmernder Anzug für den Herrn sticht ins Auge.",
+          "start": 230.28,
+          "end": 234.88
+        }
       ]
     }
   ]

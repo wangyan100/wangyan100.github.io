@@ -4,71 +4,312 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Fußball",
-        "Abwehrspieler",
-        "Außenstürmer",
-        "Ersatzspieler",
-        "Mittelstürmer",
-        "Stürmer",
-        "Torwart",
-        "Verteidiger",
-        "Anzeigentafel",
-        "Mittelkreis",
-        "Strafraum",
-        "Strafstoßmarke",
-        "Tor",
-        "Torlatte",
-        "Querbalken",
-        "Torlinie",
-        "Abfälschen",
-        "Eckstoß",
-        "Elfmeter",
-        "Strafstoß",
-        "Freistoß",
-        "Köpfen",
-        "Rücken",
-        "Verschießen",
-        "Verwandeln",
-        "Zuspielen",
-        "Abseits",
-        "absichtlich",
-        "behindern",
-        "Handschlag",
-        "Handspiel",
-        "Platzverweis",
-        "rote Karten",
-        "gelbe Karten",
-        "warnen",
-        "Anfangsformation",
-        "anfeifen",
-        "abfeifen",
-        "Auslosung",
-        "Debüt",
-        "Derby",
-        "Trophäe",
-        "Unentschieden"
+        {
+          "text": "Fußball",
+          "start": 2.06,
+          "end": 3.4
+        },
+        {
+          "text": "Abwehrspieler",
+          "start": 6.89,
+          "end": 7.59
+        },
+        {
+          "text": "Außenstürmer",
+          "start": 8.29,
+          "end": 9.93
+        },
+        {
+          "text": "Ersatzspieler",
+          "start": 13.1,
+          "end": 14.5
+        },
+        {
+          "text": "Mittelstürmer",
+          "start": 14.5,
+          "end": 15.2
+        },
+        {
+          "text": "Stürmer",
+          "start": 17.56,
+          "end": 18.26
+        },
+        {
+          "text": "Torwart",
+          "start": 20.17,
+          "end": 21.45
+        },
+        {
+          "text": "Verteidiger",
+          "start": 22.73,
+          "end": 24.69
+        },
+        {
+          "text": "Anzeigentafel",
+          "start": 27.59,
+          "end": 28.99
+        },
+        {
+          "text": "Mittelkreis",
+          "start": 28.99,
+          "end": 30.99
+        },
+        {
+          "text": "Strafraum",
+          "start": 32.46,
+          "end": 33.72
+        },
+        {
+          "text": "Strafstoßmarke",
+          "start": 35.16,
+          "end": 37.48
+        },
+        {
+          "text": "Tor",
+          "start": 38.79,
+          "end": 39.59
+        },
+        {
+          "text": "Torpfosten",
+          "start": 40.9,
+          "end": 42.96
+        },
+        {
+          "text": "Torlatte",
+          "start": 44.31,
+          "end": 46.13
+        },
+        {
+          "text": "Querbalken",
+          "start": 47.41,
+          "end": 49.25
+        },
+        {
+          "text": "Torlinie",
+          "start": 50.56,
+          "end": 52.26
+        },
+        {
+          "text": "Abfälschen",
+          "start": 54.09,
+          "end": 55.95
+        },
+        {
+          "text": "Eckstoß",
+          "start": 55.95,
+          "end": 58.55
+        },
+        {
+          "text": "Elfmeter",
+          "start": 58.55,
+          "end": 60.09
+        },
+        {
+          "text": "Strafstoß",
+          "start": 62.1,
+          "end": 63.5
+        },
+        {
+          "text": "Freistoß",
+          "start": 65.42,
+          "end": 67.06
+        },
+        {
+          "text": "Köpfen",
+          "start": 68.34,
+          "end": 70.18
+        },
+        {
+          "text": "Rücken",
+          "start": 70.18,
+          "end": 72.26
+        },
+        {
+          "text": "Verschießen",
+          "start": 73.61,
+          "end": 75.07
+        },
+        {
+          "text": "Verwandeln",
+          "start": 76.38,
+          "end": 78.3
+        },
+        {
+          "text": "Zuspielen",
+          "start": 80.22,
+          "end": 81.24
+        },
+        {
+          "text": "Abseits",
+          "start": 82.52,
+          "end": 84.6
+        },
+        {
+          "text": "Absichtlich",
+          "start": 86.78,
+          "end": 88.18
+        },
+        {
+          "text": "Behindern",
+          "start": 88.18,
+          "end": 89.96
+        },
+        {
+          "text": "Handschlag",
+          "start": 91.8,
+          "end": 92.78
+        },
+        {
+          "text": "Handspiel",
+          "start": 94.71,
+          "end": 95.41
+        },
+        {
+          "text": "Platzverweis",
+          "start": 98.13,
+          "end": 98.83
+        },
+        {
+          "text": "Rote Karten",
+          "start": 100.11,
+          "end": 102.53
+        },
+        {
+          "text": "Gelbe Karten",
+          "start": 103.41,
+          "end": 105.97
+        },
+        {
+          "text": "Warnen",
+          "start": 105.97,
+          "end": 108.17
+        },
+        {
+          "text": "Anfangsformation",
+          "start": 109.45,
+          "end": 111.37
+        },
+        {
+          "text": "Anpfeifen",
+          "start": 112.65,
+          "end": 114.23
+        },
+        {
+          "text": "Abpfeifen",
+          "start": 117.09,
+          "end": 118.49
+        },
+        {
+          "text": "Auslosung",
+          "start": 118.49,
+          "end": 120.77
+        },
+        {
+          "text": "Debüt",
+          "start": 122.02,
+          "end": 123.4
+        },
+        {
+          "text": "Derby",
+          "start": 124.64,
+          "end": 125.96
+        },
+        {
+          "text": "Trophäe",
+          "start": 128.86,
+          "end": 130.18
+        },
+        {
+          "text": "Unentschieden",
+          "start": 130.18,
+          "end": 131.44
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die deutsche Fußball-Nationalmannschaft hat die Finale der Weltmeisterschaft 2014 gewonnen.",
-        "Der Abwehrspieler hat einen Spieler der gegnerischen Mannschaft umspielt.",
-        "Der Außenstürmer hat ein Tor geköpft.",
-        "Im Fußballspiel dürfen maximal drei Ersatzspieler eingewechselt werden.",
-        "Der Mittelstürmer hat zwei Treffer markiert.",
-        "Der Stürmer sorgt im Feld für die Tore.",
-        "Der Stürmer stand schon wieder im Abseits.",
-        "Eine Fußballmannschaft besteht aus zehn Feldspielern und einem Torwart.",
-        "Der Verteidiger passt den Ball zu Außenstürmer.",
-        "Der Freistoß fliegt in den Strafraum.",
-        "Der Spieler verschießt den Elfmeter und seine Mannschaft verliert deshalb das Spiel.",
-        "Er verwandelte den Elfmeter zum 1 zu 0.",
-        "Er hat mich absichtlich auf den Fuß getreten.",
-        "Nach Auslosung war der Bundestrainer Löw zuversichtlich.",
-        "Die beiden Mannschaften trennen sich unentschieden.",
-        "Sein Debüt als Torwart war ein großer Erfolg."
+        {
+          "text": "Die deutsche Fußball-Nationalmannschaft hat die Finale der Weltmeisterschaft 2014 gewonnen.",
+          "start": 141.05,
+          "end": 149.19
+        },
+        {
+          "text": "Der Abwehrspieler hat einen Spieler der gegnerischen Mannschaft umspielt.",
+          "start": 152.05,
+          "end": 156.83
+        },
+        {
+          "text": "Der Außenstürmer hat ein Tor geköpft.",
+          "start": 159.84,
+          "end": 162.94
+        },
+        {
+          "text": "Beim Fußballspiel dürfen maximal drei Ersatzspieler eingewechselt werden.",
+          "start": 165.55,
+          "end": 171.27
+        },
+        {
+          "text": "Der Mittelstürmer hat zwei Treffer markiert.",
+          "start": 174.35,
+          "end": 177.59
+        },
+        {
+          "text": "Der Stürmer sorgt im Feld für die Tore.",
+          "start": 180.55,
+          "end": 183.55
+        },
+        {
+          "text": "Der Stürmer stand schon wieder im Abseits.",
+          "start": 186.53,
+          "end": 189.29
+        },
+        {
+          "text": "Eine Fußballmannschaft besteht aus zehn Feldspielern und einem Torwart.",
+          "start": 192.32,
+          "end": 197.44
+        },
+        {
+          "text": "Der Verteidiger passt den Ball zu Außenstürmer.",
+          "start": 200.51,
+          "end": 203.71
+        },
+        {
+          "text": "Der Freistoß fliegt in den Strafraum.",
+          "start": 207.23,
+          "end": 210.15
+        },
+        {
+          "text": "Der Spieler verschießt den Elfmeter und seine Mannschaft verliert deshalb das Spiel.",
+          "start": 213.19,
+          "end": 218.75
+        },
+        {
+          "text": "Er verwandelte den Elfmeter zum 1 zu 0.",
+          "start": 221.86,
+          "end": 225.28
+        },
+        {
+          "text": "Er hat mich absichtlich auf den Fuß getreten.",
+          "start": 228.31,
+          "end": 231.19
+        },
+        {
+          "text": "Nach Auslosung war der Bundestrainer Löw zuversichtlich.",
+          "start": 234.24,
+          "end": 238.1
+        },
+        {
+          "text": "Die beiden Mannschaften trennen sich unentschieden.",
+          "start": 241.14,
+          "end": 244.62
+        },
+        {
+          "text": "Sein Debüt als Torwart war ein großer Erfolg.",
+          "start": 247.41,
+          "end": 250.43
+        }
       ]
     }
   ]

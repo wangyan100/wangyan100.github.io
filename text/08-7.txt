@@ -1,55 +1,83 @@
-Tankstelle
-Selbstbedienung
-Tank
-Tankautomat
-Tankfahrzeug
-Tankpumpe
-Zapfventil
-Zapfschlauch
-Zapfsäule
-Autogas
-Flüssiggas
-Benzin
-Diesel
-Erdgas
-Maschinenöl
-Oktanzahl
-Petroleum
-Wasserstoff
-Abgabemenge
-Betanken
-Grundpreis
-Katalysator
-Kraftstoffeinsparung
-Tankkarte
-Tankwart
-Ölwechselintervall
-Hochdruckstrahl
-Lappen
-Reinigen
-Reinigungsbürste
-Spülen
-Trocknen
-Vorwaschen
-Waschstraße
-Abrechnen
-Absaugen
-Anfahren
-Benutzen
-Verwenden
-Einfüllen
-Einstecken
-Füllen
-Sprechen Sie bitte die folgenden Sätze.
-Viele Tankstellen in Deutschland verdienen mehr mit dem Verkauf von Supermarktartikeln als mit dem von Kraftstoff.
-An der Tankstelle kann sowohl flüssiger als auch gasförmiger Wasserstoff getankt werden.
-Außerhalb der Öffnungszeiten kann man an manchen Tankstellen einen Tankautomaten benutzen.
-Ein Tankfahrzeug kann flüssige Stoffe, Gase, pulverförmige oder körnige Stoffe befördern.
-Über das Zapfventil wird der Kraftstoff in den Tank des Fahrzeuges gefüllt.
-An einer Zapfsäule hat der Mann plötzlich eine Waffe aus einer Jackentasche gezogen.
-Der Motor dieses Krans kann sowohl mit Benzin als auch mit Autogas betrieben werden.
-Der Diesel-Skandal hat dem Ruf von Volkswagen schwer geschadet.
-Früher war es üblich, dass die Tankwarte auch die Windschutzscheibe putzten.
-Bei stark verschmutzter Wäsche und auch bei großen Textilien wie Gardinen soll man zuerst vorwaschen.
-Ein Vorteil von Waschstraßen ist, dass das Auto meist vom Kunden nicht verlassen werden muss.
-Ich habe das Stromkabel in die Steckdose eingesteckt.
+[00:00:03.340 --> 00:00:04.740] Tankstelle
+[00:00:04.740 --> 00:00:07.080] Selbstbedienung
+[00:00:08.390 --> 00:00:09.330] Tank
+[00:00:10.710 --> 00:00:12.630] Tankautomat
+[00:00:13.910 --> 00:00:15.930] Tankfahrzeug
+[00:00:17.180 --> 00:00:19.020] Tankpumpe
+[00:00:20.360 --> 00:00:22.360] Zapfventil
+[00:00:23.670 --> 00:00:25.490] Zapfschlauch
+[00:00:26.800 --> 00:00:28.520] Zapfsäule
+[00:00:29.800 --> 00:00:31.580] Autogas
+[00:00:33.650 --> 00:00:34.930] Flüssiggas
+[00:00:35.650 --> 00:00:37.470] Benzin
+[00:00:38.720 --> 00:00:39.820] Diesel
+[00:00:42.580 --> 00:00:43.980] Erdgas
+[00:00:43.980 --> 00:00:46.440] Maschinenöl
+[00:00:49.490 --> 00:00:50.890] Oktanzahl
+[00:00:50.890 --> 00:00:52.590] Petroleum
+[00:00:54.480 --> 00:00:55.700] Wasserstoff
+[00:00:57.790 --> 00:00:58.950] Abgabemenge
+[00:01:01.040 --> 00:01:02.000] Betanken
+[00:01:04.350 --> 00:01:05.230] Grundpreis
+[00:01:07.660 --> 00:01:08.360] Katalysator
+[00:01:11.070 --> 00:01:12.510] Kraftstoffeinsparung
+[00:01:14.350 --> 00:01:15.530] Tankkarte
+[00:01:17.660 --> 00:01:18.360] Tankwart
+[00:01:21.010 --> 00:01:22.350] Ölwechselintervall
+[00:01:24.350 --> 00:01:26.090] Hochdruckstrahl
+[00:01:27.400 --> 00:01:29.780] Lappen
+[00:01:29.780 --> 00:01:31.640] Reinigen
+[00:01:32.890 --> 00:01:35.030] Reinigungsbürste
+[00:01:36.540 --> 00:01:37.860] spülen
+[00:01:39.230 --> 00:01:40.710] trocknen
+[00:01:42.970 --> 00:01:44.830] vorwaschen
+[00:01:44.830 --> 00:01:47.070] Waschstraße
+[00:01:48.580 --> 00:01:50.480] abrechnen
+[00:01:51.180 --> 00:01:52.480] absaugen
+[00:01:54.360 --> 00:01:55.760] anfahren
+[00:01:57.180 --> 00:01:57.880] benutzen
+[00:01:58.580 --> 00:01:59.840] verwenden
+[00:02:01.120 --> 00:02:02.980] einfüllen
+[00:02:04.290 --> 00:02:05.810] einstecken
+[00:02:07.180 --> 00:02:08.640] füllen
+[00:02:13.300 --> 00:02:15.910] Sprechen Sie bitte die folgenden Sätze.
+[00:02:19.060 --> 00:02:20.220] Viele Tankstellen
+[00:02:20.220 --> 00:02:22.080] in Deutschland verdienen mehr
+[00:02:22.080 --> 00:02:24.060] mit dem Verkauf von Supermarktartikeln
+[00:02:24.860 --> 00:02:26.390] als mit dem von Kraftstoff.
+[00:02:29.660 --> 00:02:30.800] An der Tankstelle
+[00:02:30.800 --> 00:02:32.400] kann sowohl flüssiger
+[00:02:32.400 --> 00:02:34.640] als auch gasförmiger Wasserstoff
+[00:02:34.640 --> 00:02:35.820] getankt werden.
+[00:02:39.020 --> 00:02:40.880] Außerhalb der Öffnungszeiten
+[00:02:40.880 --> 00:02:42.640] kann man an manchen Tankstellen
+[00:02:42.640 --> 00:02:44.760] einen Tankautomaten benutzen.
+[00:02:47.700 --> 00:02:49.020] Ein Tankfahrzeug
+[00:02:49.020 --> 00:02:51.380] kann flüssige Stoffe, Gase,
+[00:02:51.600 --> 00:02:53.040] pulverförmige oder
+[00:02:53.040 --> 00:02:54.740] körnige Stoffe befördern.
+[00:02:57.780 --> 00:02:59.460] Über das Zapfventil
+[00:02:59.460 --> 00:03:01.380] wird der Kraftstoff in den Tank
+[00:03:01.380 --> 00:03:02.940] des Fahrzeuges gefüllt.
+[00:03:05.990 --> 00:03:07.510] An einer Zapfsäule
+[00:03:07.510 --> 00:03:09.530] hat der Mann plötzlich eine Waffe
+[00:03:09.530 --> 00:03:11.530] aus einer Jackentasche gezogen.
+[00:03:14.590 --> 00:03:15.750] Der Motor dieses
+[00:03:15.750 --> 00:03:17.630] Krans kann sowohl mit
+[00:03:17.630 --> 00:03:19.870] Benzin als auch mit Autogas
+[00:03:19.870 --> 00:03:20.990] betrieben werden.
+[00:03:24.080 --> 00:03:25.440] Der Dieselskandal
+[00:03:25.440 --> 00:03:27.420] hat dem Ruf von Volkswagen
+[00:03:27.420 --> 00:03:29.100] schwer geschadet.
+[00:03:31.930 --> 00:03:34.030] Früher war es üblich, dass die Tankwarte
+[00:03:34.390 --> 00:03:35.970] auch die Windschutzscheibe
+[00:03:35.970 --> 00:03:36.670] putzten.
+[00:03:39.630 --> 00:03:41.590] Bei stark verschmutzter Wäsche
+[00:03:41.590 --> 00:03:43.650] und auch bei großen Textilien
+[00:03:43.650 --> 00:03:46.010] wie Gardinen, soll man zuerst
+[00:03:46.010 --> 00:03:46.850] vorwaschen.
+[00:03:49.880 --> 00:03:52.240] Ein Vorteil von Waschstraßen ist,
+[00:03:52.620 --> 00:03:54.480] dass das Auto meist vom Kunden
+[00:03:54.480 --> 00:03:56.180] nicht verlassen werden muss.
+[00:03:59.140 --> 00:04:00.940] Ich habe das Stromkabel
+[00:04:00.940 --> 00:04:02.980] in die Steckdose eingesteckt.

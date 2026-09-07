@@ -1,18 +1,18 @@
-Flughafen, ausreisen, Bordeingang, Bordkarte, einchecken
-einreisen, Fluggastraum, Förderband, Zollkontrolle, Bodendienst, Bustransfer, Fluggastbrücke, landen
-Navigation, Piste, Radar, Starten, Abheben, Defekt, Direktflug, Fliegen, Flugstrecke, Jungfernflug
-Notlanden, Route, Flugkapitän, Co-Pilot, Passagier, Pilot, Steward, Stewardess
-Abholen, Handgepäck, Koffer, Übergepäck, Anschnallen, Kabine, Pass
-Visum, Visa, Zollerklärung, Zollfreie Waren
-Planen Sie entsprechende Zeit ein. 15 Minuten vor Abflug werden die Bordeingänge geschlossen.
-Sie können Ihre Bordkarte am Flughafen an einem Check-in-Automaten ausdrucken.
-Wenn Sie online einchecken, können Sie Ihr Übergepäck im Voraus bezahlen.
-Die Russin war 2016 mit einem Studentenvisum in die USA eingereist.
-Trotz eines schwerwiegenden technischen Defekts an ihrer Maschine ist die Kanzlerin unbeschadet in Köln gelandet.
-Ein Flugzeug musste heute auf dem Flug von Amsterdam nach Zürich wegen eines Triebwerkausfalls in Frankfurt-Notlanden.
-Der Flugkapitän sprach von einem technischen Problem, das den Ausfall einiger elektrischer Systeme bewirkt hat.
-Der Co-Pilot ist auch für den Funkverkehr auf dem Flugzeug zuständig, wenn er das Flugzeug nicht führt.
-An Bord der Maschine befinden sich 200 Passagiere. Passagiere dürfen nur ein Handgepäck mitnehmen.
-Nach dem Flugzeugabsturz war der Verbleib der zwei Piloten unklar.
-Während des Fluges kümmerten sich die Stördessen sehr gut um uns.
-Die Zollerklärung ist die wichtigste statistische Informationsquelle über den Warenaustausch.
+[00:00:01.900 --> 00:00:16.960] Flughafen, ausreisen, Bordeingang, Bordkarte, einchecken
+[00:00:16.960 --> 00:00:42.460] einreisen, Fluggastraum, Förderband, Zollkontrolle, Bodendienst, Bustransfer, Fluggastbrücke, landen
+[00:00:42.460 --> 00:01:11.040] Navigation, Piste, Radar, Starten, Abheben, Defekt, Direktflug, Fliegen, Flugstrecke, Jungfernflug
+[00:01:12.290 --> 00:01:36.140] Notlanden, Route, Flugkapitän, Co-Pilot, Passagier, Pilot, Steward, Stewardess
+[00:01:36.140 --> 00:01:55.150] Abholen, Handgepäck, Koffer, Übergepäck, Anschnallen, Kabine, Pass
+[00:01:56.690 --> 00:02:07.500] Visum, Visa, Zollerklärung, Zollfreie Waren
+[00:02:17.660 --> 00:02:24.560] Planen Sie entsprechende Zeit ein. 15 Minuten vor Abflug werden die Bordeingänge geschlossen.
+[00:02:27.620 --> 00:02:32.600] Sie können Ihre Bordkarte am Flughafen an einem Check-in-Automaten ausdrucken.
+[00:02:36.040 --> 00:02:41.100] Wenn Sie online einchecken, können Sie Ihr Übergepäck im Voraus bezahlen.
+[00:02:44.060 --> 00:02:49.140] Die Russin war 2016 mit einem Studentenvisum in die USA eingereist.
+[00:02:49.140 --> 00:03:00.810] Trotz eines schwerwiegenden technischen Defekts an ihrer Maschine ist die Kanzlerin unbeschadet in Köln gelandet.
+[00:03:03.760 --> 00:03:11.940] Ein Flugzeug musste heute auf dem Flug von Amsterdam nach Zürich wegen eines Triebwerkausfalls in Frankfurt-Notlanden.
+[00:03:14.800 --> 00:03:22.820] Der Flugkapitän sprach von einem technischen Problem, das den Ausfall einiger elektrischer Systeme bewirkt hat.
+[00:03:25.060 --> 00:03:32.760] Der Co-Pilot ist auch für den Funkverkehr auf dem Flugzeug zuständig, wenn er das Flugzeug nicht führt.
+[00:03:35.940 --> 00:03:46.230] An Bord der Maschine befinden sich 200 Passagiere. Passagiere dürfen nur ein Handgepäck mitnehmen.
+[00:03:49.320 --> 00:03:54.760] Nach dem Flugzeugabsturz war der Verbleib der zwei Piloten unklar.
+[00:03:57.690 --> 00:04:01.850] Während des Fluges kümmerten sich die Stördessen sehr gut um uns.
+[00:04:04.190 --> 00:04:11.550] Die Zollerklärung ist die wichtigste statistische Informationsquelle über den Warenaustausch.

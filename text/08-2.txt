@@ -1,17 +1,17 @@
-Verkehrsmittel 2
-Bergfahrrad, Geländefahrrad, Klingel, Lenker, Pedal, Rad, Radfahrer, Sattel, Bombenflugzeug,
-Charterflugzeug, Flugboot, Helikopter, Hubschrauber, Passagierflugzeug, Segelflugzeug, Transportflugzeug,
-Beiwagen, Drei-Redrik, Führerschein, Mofa, Mokick, Moped, Motorroller, Zwei-Redrik, Krankentrage, Notarzt, Notfall, Notfallkoffer, Notfallrucksack, Sanität, Sauerstoffflasche,
-Transportieren, Rakete, Raumfahrer, Raumschiff, Raumstation, Fischdampfer, Frachter, Kahn, Schlauchboot
-Sprechen Sie bitte die folgenden Sätze
-In der Werbungssprache werden Mountainbikes öfter als Geländefahrräder verwendet.
-Beim Radfahren kann man mit dem Lenker die Richtung bestimmen.
-Eines der Pedale meines Fahrrads ist kaputt und muss repariert werden.
-Laut einer großen Umfrage fühlen sich Radfahrer in Deutschland beim Fahren immer unsicherer.
-Ein Führerschein ist zum Autofahren erforderlich.
-Die Feuerwehr nutzte ein Leitergerüst und einen Flaschenzug, um den Mann auf einer Krankentrage nach unten zu bringen.
-In dem Erste-Hilfe-Kurs lernt man, wie man mit Notfällen umgeht.
-Die Raumfahrtbehörde wird nächsten Monat eine Rakete starten.
-Die Raumfahrer befinden sich in einem schwere, losen Zustand.
-Der Schlepper hat am Montag den im Boden gebliebenen Fischdampfer in tiefes Wasser gezogen.
-Er pumpt sein Schlauchboot auf, setzt sich hinein und rudert los.
+[00:00:01.780 --> 00:00:04.820] Verkehrsmittel 2
+[00:00:06.100 --> 00:00:28.990] Bergfahrrad, Geländefahrrad, Klingel, Lenker, Pedal, Rad, Radfahrer, Sattel, Bombenflugzeug,
+[00:00:30.270 --> 00:00:52.700] Charterflugzeug, Flugboot, Helikopter, Hubschrauber, Passagierflugzeug, Segelflugzeug, Transportflugzeug,
+[00:00:54.010 --> 00:01:39.220] Beiwagen, Dreiradrick, Führerschein, Mofa, Mokick, Moped, Motorroller, Zweiradrick, Krankentrage, Notarzt, Notfall, Notfallkoffer, Notfallrucksack, Sanität, Sauerstoffflasche,
+[00:01:41.060 --> 00:02:06.770] Transportieren, Rakete, Raumfahrer, Raumschiff, Raumstation, Fischdampfer, Frachter, Kahn, Schlauchboot
+[00:02:11.250 --> 00:02:14.030] Sprechen Sie bitte die folgenden Sätze.
+[00:02:17.230 --> 00:02:23.130] In der Werbungssprache werden Mountainbikes öfter als Geländefahrräder verwendet.
+[00:02:25.500 --> 00:02:29.800] Beim Radfahren kann man mit dem Lenker die Richtung bestimmen.
+[00:02:32.460 --> 00:02:37.180] Eines der Pedale meines Fahrrads ist kaputt und muss repariert werden.
+[00:02:40.320 --> 00:02:46.820] Laut einer großen Umfrage fühlen sich Radfahrer in Deutschland beim Fahren immer unsicherer.
+[00:02:49.830 --> 00:02:53.010] Ein Führerschein ist zum Autofahren erforderlich.
+[00:02:55.980 --> 00:03:03.800] Die Feuerwehr nutzte ein Leitergerüst und einen Flaschenzug, um den Mann auf einer Krankentrage nach unten zu bringen.
+[00:03:06.690 --> 00:03:11.460] In dem Erste-Hilfe-Kurs lernt man, wie man mit Notfällen umgeht.
+[00:03:14.560 --> 00:03:18.860] Die Raumfahrtbehörde wird nächsten Monat eine Rakete starten.
+[00:03:21.800 --> 00:03:25.840] Die Raumfahrer befinden sich in einem schwere, losen Zustand.
+[00:03:28.850 --> 00:03:35.110] Der Schlepper hat am Montag den im Boden gebliebenen Fischdampfer in tiefes Wasser gezogen.
+[00:03:38.170 --> 00:03:42.910] Er pumpt sein Schlauchboot auf, setzt sich hinein und rudert los.

@@ -4,65 +4,277 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Erde",
-        "Troposphäre",
-        "Ozonschicht",
-        "Stratosphäre",
-        "Mesosphäre",
-        "Thermosphäre",
-        "Exosphäre",
-        "Erdachse",
-        "Erdrotation",
-        "Gravitation",
-        "Rotationsachse",
-        "Sichtdrehen",
-        "Sterntag",
-        "Sonnentag",
-        "Umlaufbahn",
-        "Die geografische Breite",
-        "Die geografische Länge",
-        "Maßstab",
-        "Meeresströmung",
-        "Meeresspiegel",
-        "Theodolit",
-        "Äquator",
-        "Breitenkreis",
-        "Der nördliche Wendekreis",
-        "Der südliche Wendekreis",
-        "Meridian",
-        "Nullmeridian",
-        "Nordpol",
-        "Südpol",
-        "Osten",
-        "Westen",
-        "Süden",
-        "Norden",
-        "Nordosten",
-        "Südosten",
-        "Nordwesten",
-        "Südwesten"
+        {
+          "text": "Erde",
+          "start": 0.0,
+          "end": 1.26
+        },
+        {
+          "text": "Troposphäre",
+          "start": 2.6,
+          "end": 4.8
+        },
+        {
+          "text": "Ozonschicht",
+          "start": 6.08,
+          "end": 7.96
+        },
+        {
+          "text": "Stratosphäre",
+          "start": 9.44,
+          "end": 11.5
+        },
+        {
+          "text": "Mesosphäre",
+          "start": 12.74,
+          "end": 14.84
+        },
+        {
+          "text": "Thermosphäre",
+          "start": 16.19,
+          "end": 18.31
+        },
+        {
+          "text": "Exosphäre",
+          "start": 21.16,
+          "end": 21.86
+        },
+        {
+          "text": "Erdachse",
+          "start": 24.18,
+          "end": 24.88
+        },
+        {
+          "text": "Erdrotation",
+          "start": 26.42,
+          "end": 27.82
+        },
+        {
+          "text": "Gravitation",
+          "start": 29.07,
+          "end": 31.15
+        },
+        {
+          "text": "Rotationsachse",
+          "start": 34.77,
+          "end": 36.17
+        },
+        {
+          "text": "Sichtdrehen",
+          "start": 36.17,
+          "end": 37.93
+        },
+        {
+          "text": "Sterntag",
+          "start": 39.34,
+          "end": 40.78
+        },
+        {
+          "text": "Sonnentag",
+          "start": 43.96,
+          "end": 44.66
+        },
+        {
+          "text": "Umlaufbahn",
+          "start": 46.62,
+          "end": 47.42
+        },
+        {
+          "text": "Die geografische Breite",
+          "start": 48.02,
+          "end": 51.28
+        },
+        {
+          "text": "Die geografische Länge",
+          "start": 52.53,
+          "end": 54.97
+        },
+        {
+          "text": "Maßstab",
+          "start": 56.22,
+          "end": 58.12
+        },
+        {
+          "text": "Meeresströmung",
+          "start": 61.17,
+          "end": 62.57
+        },
+        {
+          "text": "Meeresspiegel",
+          "start": 62.57,
+          "end": 64.17
+        },
+        {
+          "text": "Theodolit",
+          "start": 66.18,
+          "end": 67.58
+        },
+        {
+          "text": "Äquator",
+          "start": 68.83,
+          "end": 70.77
+        },
+        {
+          "text": "Breitenkreis",
+          "start": 72.08,
+          "end": 74.04
+        },
+        {
+          "text": "Der nördliche Wendekreis",
+          "start": 74.78,
+          "end": 78.2
+        },
+        {
+          "text": "Der südliche Wendekreis",
+          "start": 78.2,
+          "end": 81.6
+        },
+        {
+          "text": "Meridian",
+          "start": 83.48,
+          "end": 84.82
+        },
+        {
+          "text": "Nullmeridian",
+          "start": 86.07,
+          "end": 87.85
+        },
+        {
+          "text": "Nordpol",
+          "start": 90.88,
+          "end": 91.58
+        },
+        {
+          "text": "Südpol",
+          "start": 92.82,
+          "end": 94.22
+        },
+        {
+          "text": "Osten",
+          "start": 95.5,
+          "end": 97.38
+        },
+        {
+          "text": "Westen",
+          "start": 99.94,
+          "end": 100.64
+        },
+        {
+          "text": "Süden",
+          "start": 101.34,
+          "end": 102.38
+        },
+        {
+          "text": "Norden",
+          "start": 105.44,
+          "end": 106.14
+        },
+        {
+          "text": "Nordosten",
+          "start": 107.46,
+          "end": 108.86
+        },
+        {
+          "text": "Südosten",
+          "start": 109.62,
+          "end": 111.36
+        },
+        {
+          "text": "Nordwesten",
+          "start": 115.74,
+          "end": 116.44
+        },
+        {
+          "text": "Südwesten",
+          "start": 117.22,
+          "end": 117.57
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Erde dreht sich um die Sonne.",
-        "Die Drehung der Erde erfolgt um diese Erdachse von West nach Ost.",
-        "In der Troposphäre, in der wir leben, sind fast der gesamte Wasserdampf der Atmosphäre enthalten.",
-        "In Stratosphäre, in 15 bis 50 Kilometern Höhe, liegt die Ozonschicht.",
-        "In Thermosphäre steigt die Temperatur bis über 1700 Grad Celsius.",
-        "Erdrotation ist verantwortlich für die Entstehung von Tag und Nacht.",
-        "Für eine vollständige Drehung um die Erdachse benötigt die Erde 23 Stunden, 56 Minuten und 4 Sekunden.",
-        "Dieser Zeitraum wird Sterntag genannt.",
-        "Warme Meeresströmungen bewegen sich immer vom Äquator weg entlang der Ostküsten der Kontinente.",
-        "Am Äquator dauert jeder Tag und jede Nacht stets 12 Stunden.",
-        "Äquator ist auch ein Breitenkreis.",
-        "Alle Längenkreise stehen senkrecht zu allen Breitenkreisen.",
-        "Der Nullmeridian unterteilt die Erde in östliche und westliche geografische Länge.",
-        "Der Wind kommt von Osten.",
-        "Das Zimmer geht nach Westen.",
-        "Das Gebirge setzt sich nach Süden fort."
+        {
+          "text": "Die Erde dreht sich um die Sonne.",
+          "start": 129.66,
+          "end": 132.18
+        },
+        {
+          "text": "Die Drehung der Erde erfolgt um diese Erdachse von West nach Ost.",
+          "start": 136.05,
+          "end": 140.81
+        },
+        {
+          "text": "In der Troposphäre, in der wir leben, sind fast der gesamte Wasserdampf der Atmosphäre enthalten.",
+          "start": 143.81,
+          "end": 150.63
+        },
+        {
+          "text": "In Stratosphäre, in 15 bis 50 Kilometern Höhe, liegt die Ozonschicht.",
+          "start": 152.93,
+          "end": 160.27
+        },
+        {
+          "text": "In Thermosphäre steigt die Temperatur bis über 1700 Grad Celsius.",
+          "start": 163.34,
+          "end": 169.68
+        },
+        {
+          "text": "Erdrotation ist verantwortlich für die Entstehung von Tag und Nacht.",
+          "start": 172.87,
+          "end": 177.45
+        },
+        {
+          "text": "Für eine vollständige Drehung um die Erdachse benötigt die Erde 23 Stunden, 56 Minuten und 4 Sekunden.",
+          "start": 180.52,
+          "end": 191.72
+        },
+        {
+          "text": "Dieser Zeitraum wird Sterntag genannt.",
+          "start": 192.14,
+          "end": 195.38
+        },
+        {
+          "text": "Warme Meeresströmungen bewegen sich immer vom Äquator weg entlang der Ostküsten der Kontinente.",
+          "start": 198.91,
+          "end": 205.63
+        },
+        {
+          "text": "Am Äquator dauert jeder Tag und jede Nacht stets 12 Stunden.",
+          "start": 208.53,
+          "end": 213.61
+        },
+        {
+          "text": "Äquator ist auch ein Breitenkreis.",
+          "start": 217.51,
+          "end": 220.51
+        },
+        {
+          "text": "Alle Längenkreise stehen senkrecht zu allen Breitenkreisen.",
+          "start": 223.94,
+          "end": 227.78
+        },
+        {
+          "text": "Der Nullmeridian unterteilt die Erde in östliche und westliche geografische Länge.",
+          "start": 231.32,
+          "end": 237.5
+        },
+        {
+          "text": "Der Wind kommt von Osten.",
+          "start": 240.52,
+          "end": 242.46
+        },
+        {
+          "text": "Das Zimmer geht nach Westen.",
+          "start": 245.52,
+          "end": 247.84
+        },
+        {
+          "text": "Das Gebirge setzt sich nach Süden fort.",
+          "start": 250.56,
+          "end": 253.32
+        }
       ]
     }
   ]

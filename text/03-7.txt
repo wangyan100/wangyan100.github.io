@@ -1,62 +1,63 @@
-andere Räume
-Trockner
-Waschmaschine
-Waschmittel
-Waschpulver
-Wäschekorb
-Wäsche
-Weichspüler
-Türklingel
-Türklinke
-Türklopfer
-Schloss
-Fliegengitter
-Fußmatte
-Kleiderhaken
-Lagerregal
-Abstellraum
-Bohrmaschine
-Lagerregal
-Nagel
-Säge
-Schraubenschlüssel
-Zange
-Babybett
-Babyfeuchtuch
-Babykost
-Babyflasche
-Flaschenbürste
-Milchpulver
-Milchpumpe
-Sauger
-Säugling
-Windel
-Sprechen Sie bitte die folgenden Sätze.
-Dieses Waschmittel
-beschädigt die Wäsche nicht.
-Er wirft die Wäsche
-in den Wäschekorb.
-Die Türklingel des Hauses
-ist defekt.
-Das 3-jährige Kind
-kann die Türklinke
-noch nicht erreichen.
-Der Schuhlöffel
-hat eine längliche Form
-und ein gebogenes Ende.
-Diese Flasche Rotwein
-hat 5 Jahre
-im Keller gelagert.
-Mit einer Bohrmaschine
-hat er ein Loch
-in die Wand gebohrt.
-Du triffst den Nagel
-auf den Kopf.
-Die Säge schreit.
-Der Säugling saugt
-Milch mit Sauger
-in die Flasche.
-Der Säugling saugt
-an der Mutterbrust.
-Damals lag er noch
-in den Windeln.
+[00:00:01.780 --> 00:00:03.880] andere Räume
+[00:00:05.410 --> 00:00:06.890] Trockner
+[00:00:08.300 --> 00:00:10.080] Waschmaschine
+[00:00:11.490 --> 00:00:12.830] Waschmittel
+[00:00:15.060 --> 00:00:16.540] Waschpulver
+[00:00:18.370 --> 00:00:19.310] Wäschekorb
+[00:00:22.040 --> 00:00:23.440] Wäsche
+[00:00:23.440 --> 00:00:25.200] Weichspüler
+[00:00:26.640 --> 00:00:28.360] Türklingel
+[00:00:30.530 --> 00:00:31.550] Türklinke
+[00:00:33.900 --> 00:00:34.600] Türklopfer
+[00:00:36.720 --> 00:00:37.420] Schloss
+[00:00:38.820 --> 00:00:40.600] Fliegengitter
+[00:00:42.110 --> 00:00:44.010] Fußmatte
+[00:00:45.420 --> 00:00:47.260] Kleiderhaken
+[00:00:48.700 --> 00:00:50.440] Schuhlöffel
+[00:00:51.910 --> 00:00:53.530] Schuregal
+[00:00:55.510 --> 00:00:56.710] Abstellraum
+[00:00:58.860 --> 00:01:00.080] Bohrmaschine
+[00:01:02.140 --> 00:01:03.480] Lagerregal
+[00:01:05.420 --> 00:01:06.340] Nagel
+[00:01:08.280 --> 00:01:08.980] Säge
+[00:01:11.650 --> 00:01:12.350] Schraubenschlüssel
+[00:01:13.690 --> 00:01:14.930] Zange
+[00:01:18.420 --> 00:01:19.120] Babybett
+[00:01:20.560 --> 00:01:21.960] Babyfeuchtuch
+[00:01:23.460 --> 00:01:24.860] Babykost
+[00:01:26.440 --> 00:01:27.140] Babyflasche
+[00:01:29.840 --> 00:01:30.540] Flaschenbürste
+[00:01:33.550 --> 00:01:34.070] Milchpulver
+[00:01:36.870 --> 00:01:37.390] Milchpumpe
+[00:01:39.780 --> 00:01:40.820] Sauger
+[00:01:42.260 --> 00:01:43.880] Säugling
+[00:01:45.220 --> 00:01:46.640] Windel
+[00:01:51.290 --> 00:01:53.950] Sprechen Sie bitte die folgenden Sätze.
+[00:01:57.310 --> 00:01:58.290] Dieses Waschmittel
+[00:01:58.290 --> 00:02:00.210] beschädigt die Wäsche nicht.
+[00:02:03.260 --> 00:02:04.680] Er wirft die Wäsche
+[00:02:04.680 --> 00:02:06.140] in den Wäschekorb.
+[00:02:09.380 --> 00:02:10.680] Die Türklingel des
+[00:02:10.680 --> 00:02:12.320] Hauses ist defekt.
+[00:02:15.450 --> 00:02:17.070] Das 3-jährige Kind
+[00:02:17.070 --> 00:02:18.750] kann die Türklinke
+[00:02:18.750 --> 00:02:20.050] noch nicht erreichen.
+[00:02:23.130 --> 00:02:24.750] Er reibt seine Schuhe
+[00:02:24.750 --> 00:02:26.450] auf der Fußmatte.
+[00:02:29.220 --> 00:02:30.600] Der Schuhlöffel
+[00:02:30.600 --> 00:02:32.240] hat eine längliche Form
+[00:02:32.240 --> 00:02:34.280] und ein gebogenes Ende.
+[00:02:37.560 --> 00:02:39.280] Diese Flasche Rotwein
+[00:02:39.280 --> 00:02:41.120] hat 5 Jahre im Keller
+[00:02:41.880 --> 00:02:45.700] gelagert. Mit einer
+[00:02:45.700 --> 00:02:47.500] Bohrmaschine hat er ein
+[00:02:47.500 --> 00:02:49.140] Loch in die Wand gebohrt.
+[00:02:52.160 --> 00:02:53.620] Du triffst den Nagel
+[00:02:53.620 --> 00:02:58.590] auf den Kopf. Die Säge
+[00:02:58.590 --> 00:03:03.160] schreit. Der Säugling
+[00:03:03.160 --> 00:03:04.960] saugt Milch mit Sauger
+[00:03:04.960 --> 00:03:06.940] von der Babyflasche.
+[00:03:09.660 --> 00:03:11.300] Der Säugling saugt
+[00:03:11.300 --> 00:03:12.940] an der Mutterbrust.
+[00:03:16.050 --> 00:03:17.690] Damals lag er noch in den
+[00:03:17.690 --> 00:03:18.290] Windeln.

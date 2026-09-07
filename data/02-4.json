@@ -4,51 +4,207 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Cocktails",
-        "Gin Tonic",
-        "Long Island Iced Tea",
-        "Martini",
-        "Pink Lady",
-        "Sidecar",
-        "Mojito",
-        "Old Cuban",
-        "Pina Colada",
-        "Margarita",
-        "Paloma",
-        "Tequila Sunrise",
-        "Black Russian",
-        "Bloody Mary",
-        "Cosmopolitan",
-        "Moscow Mule",
-        "Salty Dog",
-        "Screwdriver",
-        "Collins",
-        "Irish Coffee",
-        "Manhattan",
-        "Angostura Bitter",
-        "Grenadine",
-        "Limettenscheibe",
-        "Maraschino Kirsche",
-        "Muscatnuss",
-        "Srirup"
+        {
+          "text": "Cocktails",
+          "start": 1.81,
+          "end": 3.69
+        },
+        {
+          "text": "Gin Tonic",
+          "start": 4.97,
+          "end": 7.43
+        },
+        {
+          "text": "Long Island Iced Tea",
+          "start": 7.93,
+          "end": 10.49
+        },
+        {
+          "text": "Martini",
+          "start": 11.8,
+          "end": 13.34
+        },
+        {
+          "text": "Pink Lady",
+          "start": 14.68,
+          "end": 16.44
+        },
+        {
+          "text": "Sidecar",
+          "start": 17.85,
+          "end": 20.43
+        },
+        {
+          "text": "Mojito",
+          "start": 21.15,
+          "end": 22.79
+        },
+        {
+          "text": "Old Cuban",
+          "start": 24.07,
+          "end": 25.91
+        },
+        {
+          "text": "Pina Colada",
+          "start": 27.53,
+          "end": 30.17
+        },
+        {
+          "text": "Margarita",
+          "start": 30.71,
+          "end": 32.33
+        },
+        {
+          "text": "Paloma",
+          "start": 33.64,
+          "end": 35.44
+        },
+        {
+          "text": "Tequila Sunrise",
+          "start": 37.0,
+          "end": 38.9
+        },
+        {
+          "text": "Black Russian",
+          "start": 40.18,
+          "end": 41.66
+        },
+        {
+          "text": "Bloody Mary",
+          "start": 43.62,
+          "end": 45.48
+        },
+        {
+          "text": "Cosmopolitan",
+          "start": 46.72,
+          "end": 48.62
+        },
+        {
+          "text": "Moscow Mule",
+          "start": 49.87,
+          "end": 52.07
+        },
+        {
+          "text": "Salty Dog",
+          "start": 53.38,
+          "end": 55.06
+        },
+        {
+          "text": "Screwdriver",
+          "start": 56.6,
+          "end": 58.38
+        },
+        {
+          "text": "Collins",
+          "start": 60.3,
+          "end": 61.06
+        },
+        {
+          "text": "Irish Coffee",
+          "start": 62.38,
+          "end": 64.9
+        },
+        {
+          "text": "Manhattan",
+          "start": 65.62,
+          "end": 67.18
+        },
+        {
+          "text": "Angostura Bitter",
+          "start": 68.46,
+          "end": 71.12
+        },
+        {
+          "text": "Grenadine",
+          "start": 72.43,
+          "end": 74.31
+        },
+        {
+          "text": "Limettenscheibe",
+          "start": 77.42,
+          "end": 78.12
+        },
+        {
+          "text": "Maraschino Kirsche",
+          "start": 79.36,
+          "end": 81.2
+        },
+        {
+          "text": "Muscatnuss",
+          "start": 82.48,
+          "end": 84.32
+        },
+        {
+          "text": "Sirup",
+          "start": 85.57,
+          "end": 87.01
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Gin ist Hauptbestandteil vieler Cocktails.",
-        "Der Long Island Iced Tea wird in einem langen Long Drink Glas serviert und mit Minzblättern garniert.",
-        "Als trockener, herber und starkalkoholischer Short Drink zählt der Martini zu den Aperitifs.",
-        "Gut herum zeichnet sich zu den meisten anderen Zuckerrohrbränden durch eine lange Reifung in Holzfässern aus.",
-        "Der Old Cuban gilt als veredelte Short-Drink-Variante des beliebten Long-Drink-Klassikers Mojito.",
-        "Der Geschmack des aus Kartoffel gewonnenen Vodkas ist gewöhnlich schwerer und süßlicher als der des aus Weizen destillierten Vodkas.",
-        "Die Bloody Mary soll nach der englischen Königin Maria I.",
-        "Tudor benannt worden sein.",
-        "Der Moscow Mule ist ein Cocktail mit Ingwer-Geschmack und gehört zu den High Balls.",
-        "Collins's waren bereits im 19.",
-        "Jahrhundert in den Vereinigten Staaten sehr populär.",
-        "Die Limettenscheibe ist eine übliche kleine Dekoration der Cocktails."
+        {
+          "text": "Gin ist Hauptbestandteil vieler Cocktails.",
+          "start": 97.89,
+          "end": 101.05
+        },
+        {
+          "text": "Der Long Island Iced Tea wird in einem langen Long Drink Glas serviert und mit Minzblättern garniert.",
+          "start": 104.19,
+          "end": 112.07
+        },
+        {
+          "text": "Als trockener, herber und stark alkoholischer Short Drink zählt der Martini zu den Aparitifs.",
+          "start": 115.14,
+          "end": 122.38
+        },
+        {
+          "text": "Gut herum zeichnet sich im Gegensatz zu den meisten anderen Zuckerrohrbränden durch eine lange Reifung in Holzfässern aus.",
+          "start": 125.59,
+          "end": 134.91
+        },
+        {
+          "text": "Der Old Cuban gilt als veredelte Short Drink Variante des beliebten Long Drink Klassikers Mojito.",
+          "start": 137.94,
+          "end": 146.34
+        },
+        {
+          "text": "Der Geschmack des aus Kartoffel gewonnenen Vodkas ist gewöhnlich schwerer und süßlicher als der des aus Weizen destillierten Vodkas.",
+          "start": 149.46,
+          "end": 159.94
+        },
+        {
+          "text": "Die Bloody Mary soll nach der englischen Königin Maria I.",
+          "start": 162.18,
+          "end": 167.92
+        },
+        {
+          "text": "Tudor benannt worden sein.",
+          "start": 168.08,
+          "end": 169.94
+        },
+        {
+          "text": "Der Moscow Mule ist ein Cocktail mit Ingwer-Geschmack und gehört zu den High Balls.",
+          "start": 173.24,
+          "end": 179.02
+        },
+        {
+          "text": "Collins's waren bereits im 19.",
+          "start": 179.02,
+          "end": 183.966
+        },
+        {
+          "text": "Jahrhundert in den Vereinigten Staaten sehr populär.",
+          "start": 184.86,
+          "end": 188.38
+        },
+        {
+          "text": "Die Limettenscheibe ist eine übliche kleine Dekoration der Cocktails.",
+          "start": 191.29,
+          "end": 196.03
+        }
       ]
     }
   ]

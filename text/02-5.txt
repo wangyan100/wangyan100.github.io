@@ -1,27 +1,27 @@
-Getränke, Leitungswasser, Mineralwasser, Sodawasser, Sprudelwasser
-das stille Wasser, Tafelwasser, Trinkwasser
-das Wasser mit Kohlensäure, das Wasser ohne Kohlensäure
-Brause, Energydrink, Cola
-Limonade, Schorle, Sprite, Fruchtsaft
-Obstsaft, Ananasaft
-Apfelsaft
-Orangensaft, Traubensaft
-Gemüsesaft, Karottensaft
-Tomatensaft, Eistee, Früchtetee, der grüne Tee, Kräutertee, Mate
-Milchtee, Oolongtee, Pfefferminztee, der schwarze Tee, der weiße Tee, Buttermilch
-Dickmilch
-Sauermilch, die fettarme Milch, Frischmilch, Joghurt, Vollmilch
-Sprechen Sie bitte die folgenden Sätze.
-Die Kohlensäure verleiht dem Wasser einen gewissen Geschmack.
-Mineralwasser wird direkt am Gewinnungsort abgefüllt und benötigt eine amtliche Anerkennung.
-Wasser ohne Kohlensäure schmeckt immer wie Leitungswasser.
-Brausen werden nicht nur aus natürlichen Stoffen hergestellt,
-sondern können auch künstliche Aroma und Farbstoffe enthalten.
-Schorle hat weniger Kalorien, ist nicht so süß, leichter verträglich und erfrischender als purer Saft.
-Möchtest du den Saft gespritzt?
-In Deutschland werden jährlich ca. 6,6 Millionen Hektoliter Eistee abgesetzt.
-Der Hongkonger bevorzugt Milchtee oder Zitronenlimo mit Salz.
-Buttermilch enthält maximal 1% Fett.
-Sauermilch schlägt durch.
-Im Unterschied zu Joghurt werden bei der Herstellung von Dickmilch Laktokokken beigefügt.
-Vollmilch enthält mindestens 3,5% Fett.
+[00:00:01.940 --> 00:00:17.580] Getränke, Leitungswasser, Mineralwasser, Sodawasser, Sprudelwasser
+[00:00:18.180 --> 00:00:26.210] das stille Wasser, Tafelwasser, Trinkwasser
+[00:00:27.490 --> 00:00:33.950] das Wasser mit Kohlensäure, das Wasser ohne Kohlensäure
+[00:00:35.230 --> 00:00:42.700] Brause, Energydrink, Cola
+[00:00:44.280 --> 00:00:55.470] Limonade, Schorle, Sprite, Fruchtsaft
+[00:00:55.470 --> 00:01:05.190] Obstsaft, Ananasaft, Apfelsaft
+[00:01:05.190 --> 00:01:11.370] Orangensaft, Traubensaft
+[00:01:11.370 --> 00:01:20.290] Gemüsesaft, Karottensaft, Tomatensaft
+[00:01:21.830 --> 00:01:35.920] Eistee, Früchtetee, der grüne Tee, Kräutertee, Mate
+[00:01:38.140 --> 00:01:52.440] Milchtee, Oolongtee, Pfefferminztee, der schwarze Tee, der weiße Tee
+[00:01:53.680 --> 00:01:58.840] Buttermilch, Dickmilch
+[00:02:00.160 --> 00:02:05.080] Sauermilch, die fettarme Milch
+[00:02:06.520 --> 00:02:14.450] Frischmilch, Joghurt, Vollmilch
+[00:02:19.120 --> 00:02:21.800] Sprechen Sie bitte die folgenden Sätze
+[00:02:24.570 --> 00:02:29.610] Die Kohlensäure verleiht dem Wasser einen gewissen Geschmack.
+[00:02:32.400 --> 00:02:39.380] Mineralwasser wird direkt am Gewinnungsort abgefüllt und benötigt eine amtliche Anerkennung.
+[00:02:41.750 --> 00:02:46.430] Wasser ohne Kohlensäure schmeckt immer wie Leitungswasser.
+[00:02:49.410 --> 00:02:53.470] Brausen werden nicht nur aus natürlichen Stoffen hergestellt,
+[00:02:54.130 --> 00:02:58.330] sondern können auch künstliche Aroma und Farbstoffe enthalten.
+[00:03:01.630 --> 00:03:10.470] Schorle hat weniger Kalorien, ist nicht so süß, leichter verträglich und erfrischender als purer Saft.
+[00:03:13.300 --> 00:03:15.420] Möchtest du den Saft gespritzt?
+[00:03:17.950 --> 00:03:25.120] In Deutschland werden jährlich ca. 6,6 Millionen Hektoliter Eistee abgesetzt.
+[00:03:28.330 --> 00:03:33.450] Der Hongkonger bevorzugt Milchtee oder Zitronenlimo mit Salz.
+[00:03:36.580 --> 00:03:40.680] Buttermilch enthält maximal 1% Fett.
+[00:03:43.660 --> 00:03:45.580] Sauermilch schlägt durch.
+[00:03:48.550 --> 00:03:55.270] Im Unterschied zu Joghurt werden bei der Herstellung von Dickmilch Laktokokken beigefügt.
+[00:03:57.730 --> 00:04:02.590] Vollmilch enthält mindestens 3,5% Fett.

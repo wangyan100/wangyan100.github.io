@@ -4,62 +4,262 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Liebespaar",
-        "Beziehungsdreieck",
-        "Ex-Freund",
-        "Ex-Freundin",
-        "Freund",
-        "Freundin",
-        "geliebte",
-        "geliebter",
-        "verliebte",
-        "verliebter Paar",
-        "bisexuell",
-        "heterosexuell",
-        "homosexuell Lesbe",
-        "Schwule",
-        "Transgender",
-        "ansprechen",
-        "Ehevermittler",
-        "Heiratsvermittlung Lebensgefährte",
-        "Lebensgefährten",
-        "verkuppeln",
-        "zusammen",
-        "zusammenleben an der Hand führen",
-        "anfassen",
-        "flirten",
-        "intim",
-        "kuscheln",
-        "Liebkosen",
-        "Streicheleinheit umarmen",
-        "küssen",
-        "wild",
-        "zärtlich",
-        "Luftkuss",
-        "Zungenkuss auseinander sein",
-        "mit jemandem Schluss machen",
-        "sich trennen"
+        {
+          "text": "Liebespaar",
+          "start": 1.94,
+          "end": 4.08
+        },
+        {
+          "text": "Beziehungsdreieck",
+          "start": 5.76,
+          "end": 7.6
+        },
+        {
+          "text": "Ex-Freund",
+          "start": 9.31,
+          "end": 10.57
+        },
+        {
+          "text": "Ex-Freundin",
+          "start": 12.17,
+          "end": 13.83
+        },
+        {
+          "text": "Freund",
+          "start": 9.57,
+          "end": 10.57
+        },
+        {
+          "text": "Freundin",
+          "start": 12.59,
+          "end": 13.83
+        },
+        {
+          "text": "geliebte",
+          "start": 20.61,
+          "end": 23.27
+        },
+        {
+          "text": "geliebter",
+          "start": 24.17,
+          "end": 25.03
+        },
+        {
+          "text": "verliebte",
+          "start": 27.21,
+          "end": 28.37
+        },
+        {
+          "text": "verliebter Paar",
+          "start": 30.09,
+          "end": 34.04
+        },
+        {
+          "text": "bisexuell",
+          "start": 35.29,
+          "end": 37.03
+        },
+        {
+          "text": "heterosexuell",
+          "start": 38.75,
+          "end": 40.35
+        },
+        {
+          "text": "homosexuell Lesbe",
+          "start": 42.08,
+          "end": 46.37
+        },
+        {
+          "text": "Schwule",
+          "start": 48.2,
+          "end": 49.24
+        },
+        {
+          "text": "Transgender",
+          "start": 51.21,
+          "end": 52.25
+        },
+        {
+          "text": "ansprechen",
+          "start": 53.56,
+          "end": 55.06
+        },
+        {
+          "text": "Ehevermittler",
+          "start": 57.01,
+          "end": 58.51
+        },
+        {
+          "text": "Heiratsvermittlung Lebensgefährte",
+          "start": 60.31,
+          "end": 65.69
+        },
+        {
+          "text": "Lebensgefährten",
+          "start": 67.34,
+          "end": 68.22
+        },
+        {
+          "text": "verkuppeln",
+          "start": 69.53,
+          "end": 71.97
+        },
+        {
+          "text": "zusammen",
+          "start": 73.86,
+          "end": 74.26
+        },
+        {
+          "text": "zusammenleben an der Hand führen",
+          "start": 76.53,
+          "end": 81.19
+        },
+        {
+          "text": "anfassen",
+          "start": 83.32,
+          "end": 84.18
+        },
+        {
+          "text": "flirten",
+          "start": 86.24,
+          "end": 87.18
+        },
+        {
+          "text": "intim",
+          "start": 89.15,
+          "end": 90.19
+        },
+        {
+          "text": "kuscheln",
+          "start": 91.88,
+          "end": 93.8
+        },
+        {
+          "text": "Liebkosen",
+          "start": 93.8,
+          "end": 96.04
+        },
+        {
+          "text": "Streicheleinheit umarmen",
+          "start": 97.9,
+          "end": 102.5
+        },
+        {
+          "text": "küssen",
+          "start": 104.14,
+          "end": 105.98
+        },
+        {
+          "text": "wild",
+          "start": 106.58,
+          "end": 107.42
+        },
+        {
+          "text": "zärtlich",
+          "start": 109.63,
+          "end": 111.01
+        },
+        {
+          "text": "Luftkuss",
+          "start": 112.58,
+          "end": 113.76
+        },
+        {
+          "text": "Zungenkuss auseinander sein",
+          "start": 115.49,
+          "end": 120.51
+        },
+        {
+          "text": "mit jemandem Schluss machen",
+          "start": 121.51,
+          "end": 125.01
+        },
+        {
+          "text": "sich trennen",
+          "start": 125.01,
+          "end": 127.07
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Er traute sich nicht, seine Ex-Freundin wieder anzusprechen.",
-        "Sie sieht ihren Freund voller Zärtlichkeit an.",
-        "Nachts traf er sich immer mit seiner Geliebten.",
-        "Transgeschlechtlichkeit ist unabhängig von sexueller Orientierung.",
-        "Prinzipiell ist jeder Mensch bisexuell veranlagt.",
-        "Sind zwei Mädchen oder zwei Junge ein Paar, sind sie homosexuell.",
-        "Homosexuelle Mädchen werden als junge Lesben bezeichnet.",
-        "Dieser Ehevermittler möchte diese junge Frau mit einem älteren Mann verkuppeln.",
-        "In den meisten Ländern Europas ist Heiratsvermittlung heute meist eine kommerzielle Dienstleistung.",
-        "Wir sind zusammen, seit wir 17 sind.",
-        "Die Mutter fasste ihr Kind an und ging über die Straße.",
-        "Das Liebespaar kuschelt zusammen.",
-        "Sie hauchte ihm einen Luftkuss zu.",
-        "Nach der Trennung von seiner Freundin ist es ihm lange Zeit ziemlich schlecht gegangen.",
-        "Wir sind schon lange auseinander."
+        {
+          "text": "Er traute sich nicht, seine Ex-Freundin wieder anzusprechen.",
+          "start": 137.14,
+          "end": 141.38
+        },
+        {
+          "text": "Sie sieht ihren Freund voller Zärtlichkeit an.",
+          "start": 144.45,
+          "end": 148.11
+        },
+        {
+          "text": "Nachts traf er sich immer mit seiner Geliebten.",
+          "start": 150.89,
+          "end": 153.95
+        },
+        {
+          "text": "Transgeschlechtlichkeit ist unabhängig von sexueller Orientierung.",
+          "start": 157.33,
+          "end": 161.75
+        },
+        {
+          "text": "Prinzipiell ist jeder Mensch bisexuell veranlagt.",
+          "start": 164.08,
+          "end": 168.08
+        },
+        {
+          "text": "Sind zwei Mädchen oder zwei Junge ein Paar, sind sie homosexuell.",
+          "start": 171.58,
+          "end": 176.36
+        },
+        {
+          "text": "Homosexuelle Mädchen werden als junge Lesben bezeichnet.",
+          "start": 179.51,
+          "end": 183.85
+        },
+        {
+          "text": "Dieser Ehevermittler möchte diese junge Frau mit einem älteren Mann verkuppeln.",
+          "start": 186.96,
+          "end": 191.88
+        },
+        {
+          "text": "In den meisten Ländern Europas ist Heiratsvermittlung heute meist eine kommerzielle Dienstleistung.",
+          "start": 194.88,
+          "end": 201.78
+        },
+        {
+          "text": "Wir sind zusammen, seit wir 17 sind.",
+          "start": 204.05,
+          "end": 208.01
+        },
+        {
+          "text": "Die Mutter fasste ihr Kind an und ging über die Straße.",
+          "start": 211.07,
+          "end": 214.33
+        },
+        {
+          "text": "Das Liebespaar kuschelt zusammen.",
+          "start": 217.67,
+          "end": 219.83
+        },
+        {
+          "text": "Sie hauchte ihm einen Luftkuss zu.",
+          "start": 222.94,
+          "end": 225.72
+        },
+        {
+          "text": "Nach der Trennung von seiner Freundin ist es ihm lange Zeit ziemlich schlecht gegangen.",
+          "start": 228.92,
+          "end": 234.44
+        },
+        {
+          "text": "Wir sind schon lange auseinander.",
+          "start": 237.61,
+          "end": 239.47
+        }
       ]
     }
   ]

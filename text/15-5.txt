@@ -1,84 +1,87 @@
-Vögel
-Ammer
-Amsel
-Bienenfresser
-Blaumeise
-Blauracke
-Buchfink
-Elster
-Eichelheer
-Fink
-Gimpel
-Kohlmeise
-Meise
-Nachtigall
-Pirol
-Rabe
-Rotkehlchen
-Saatkrähe
-Spatz
-Sperling
-Stieglitz
-Zaunkönig
-Zeisig
-Adler
-Falke
-Geier
-Habicht
-Eule
-Wanderfalke
-Rohrweie
-Schleiereule
-Sperber
-Steinkauz
-Uhu
-Waldohreule
-Mandarinente
-Pelikan
-Pinguin
-Tauchvogel
-Wildgans
-Sprechen Sie bitte die folgenden Sätze
-Die weibliche Amsel
-baut dreimal im Jahr ein Nest.
-Die Blauracke
-ist eine wärmeliebende Art,
-die während der Brutmonate
-Mai, Juni und Juli
-möglichst trockene und warme
-Witterungsverhältnisse benötigt.
-In der
-germanischen Mythologie
-war die Elster sowohl Götterbote
-als auch der Vogel der Todesgöttin
-Hel.
-Meisen brüten gerne in der Nähe
-von oder in Obstbäumen,
-wobei sie die dort anzutreffenden
-Insekten bzw. deren Larven
-als Nahrung
-für die Brut verwenden.
-Der Pirol ruft
-im grünen Hag.
-Der Gesang von
-Rotkälchen beginnt etwa eine Stunde
-vor Sonnenaufgang.
-Früher traten die Spatzen
-in großen Schwärmen auf.
-Der Zaunkönig kann
-einen Stamm mit den langen Zähnen
-und den kräftigen Krallen
-krächt hinaufklettern.
-Die Geier kreisen über dem Aas.
-Ein Habicht
-ist auf die Erde niedergestoßen
-und hat seine Beute gefasst.
-Die Eule gilt oft
-als Sinnbild der Weisheit.
-Die Schleiereule
-kommt als Brutvogel
-in vielen Regionen der Welt vor.
-Der Steinkauz
-galt im antiken Griechenland
-als Vogel der Weisheit
-und war Sinnbild der Göttin Athene.
+[00:00:01.900 --> 00:00:03.600] Vögel
+[00:00:06.230 --> 00:00:08.890] Ammer
+[00:00:10.170 --> 00:00:11.410] Amsel
+[00:00:12.660 --> 00:00:14.200] Bienenfresser
+[00:00:16.400 --> 00:00:17.400] Blaumeise
+[00:00:19.680 --> 00:00:20.680] Blauracke
+[00:00:22.960 --> 00:00:24.240] Buchfink
+[00:00:24.960 --> 00:00:26.240] Elster
+[00:00:27.740 --> 00:00:29.140] Eichelheer
+[00:00:30.520 --> 00:00:31.640] Fink
+[00:00:33.620 --> 00:00:34.600] Gimpel
+[00:00:36.960 --> 00:00:38.300] Kohlmeise
+[00:00:40.080 --> 00:00:40.960] Meise
+[00:00:41.480 --> 00:00:43.220] Nachtigall
+[00:00:44.500 --> 00:00:46.080] Pirol
+[00:00:47.390 --> 00:00:48.750] Rabe
+[00:00:51.760 --> 00:00:53.160] Rotkehlchen
+[00:00:53.160 --> 00:00:55.360] Saatkrähe
+[00:00:56.800 --> 00:00:58.060] Spatz
+[00:01:00.040 --> 00:01:00.780] Sperling
+[00:01:03.220 --> 00:01:03.920] Stieglitz
+[00:01:06.420 --> 00:01:07.120] Zaunkönig
+[00:01:08.460 --> 00:01:09.720] Zeisig
+[00:01:11.160 --> 00:01:12.660] Adler
+[00:01:14.100 --> 00:01:15.440] Falke
+[00:01:16.760 --> 00:01:18.360] Geier
+[00:01:19.700 --> 00:01:20.880] Habicht
+[00:01:22.160 --> 00:01:23.600] Eule
+[00:01:24.940 --> 00:01:26.620] Kauz
+[00:01:28.000 --> 00:01:29.540] Schleier
+[00:01:31.590 --> 00:01:32.290] Merlin
+[00:01:34.980 --> 00:01:35.780] Wanderfalke
+[00:01:38.060 --> 00:01:38.760] Rohrweie
+[00:01:41.320 --> 00:01:42.020] Schleiereule
+[00:01:43.490 --> 00:01:44.990] Sperber
+[00:01:48.700 --> 00:01:49.540] Steinkauz
+[00:01:50.620 --> 00:01:51.320] Uhu
+[00:01:53.740 --> 00:01:54.440] Waldohreule
+[00:01:57.030 --> 00:01:57.730] Mandarinente
+[00:02:00.020 --> 00:02:00.720] Pelikan
+[00:02:02.000 --> 00:02:03.940] Pinguin
+[00:02:06.820 --> 00:02:08.220] Tauchvogel
+[00:02:09.100 --> 00:02:09.960] Wildganz
+[00:02:14.530 --> 00:02:17.230] Sprechen Sie bitte die folgenden Sätze.
+[00:02:20.300 --> 00:02:21.760] Die weibliche Amsel
+[00:02:21.760 --> 00:02:23.320] baut dreimal im Jahr
+[00:02:23.320 --> 00:02:24.060] ein Nest.
+[00:02:27.280 --> 00:02:29.080] Die Blauracke ist eine
+[00:02:29.080 --> 00:02:30.860] wärmeliebende Art, die
+[00:02:30.860 --> 00:02:32.920] während der Brutmonate Mai,
+[00:02:33.200 --> 00:02:35.280] Juni und Juli möglichst
+[00:02:35.280 --> 00:02:36.500] trockene und warme
+[00:02:37.390 --> 00:02:38.600] Witterungsverhältnisse benötigt.
+[00:02:41.600 --> 00:02:43.700] In der germanischen Mythologie
+[00:02:43.700 --> 00:02:45.340] war die Elster sowohl
+[00:02:45.340 --> 00:02:47.560] Götterbote als auch der Vogel
+[00:02:47.560 --> 00:02:48.940] der Todesgöttin Hel.
+[00:02:52.220 --> 00:02:53.900] Meisen brüten gerne
+[00:02:53.900 --> 00:02:55.900] in der Nähe von oder in
+[00:02:55.900 --> 00:02:57.820] Obstbäumen, wobei sie
+[00:02:57.820 --> 00:03:00.220] die dort anzutreffenden Insekten
+[00:03:00.220 --> 00:03:02.260] bzw. deren Larven
+[00:03:02.260 --> 00:03:03.900] als Nahrung für die Brut
+[00:03:03.900 --> 00:03:08.540] verwenden. Der Pyrol
+[00:03:08.540 --> 00:03:10.180] ruft im grünen Hag.
+[00:03:13.330 --> 00:03:14.330] Der Gesang von
+[00:03:14.330 --> 00:03:16.390] Rotkirchen beginnt etwa
+[00:03:16.390 --> 00:03:18.410] eine Stunde vor Sonnenaufgang.
+[00:03:21.570 --> 00:03:23.250] Früher traten die Spatzen
+[00:03:23.250 --> 00:03:24.970] in großen Schwärmen auf.
+[00:03:27.210 --> 00:03:29.510] Der Zaunkönig kann
+[00:03:29.510 --> 00:03:31.310] einen Stamm mit den langen
+[00:03:31.310 --> 00:03:33.350] Zehen und den kräftigen Krallen
+[00:03:33.350 --> 00:03:34.990] senkrecht hinaufklettern.
+[00:03:38.060 --> 00:03:39.380] Die Geier kreisen
+[00:03:39.380 --> 00:03:43.830] über dem Aas. Ein
+[00:03:43.830 --> 00:03:45.390] Habicht ist auf die Erde
+[00:03:45.390 --> 00:03:47.690] niedergestoßen und hat seine Beute
+[00:03:47.690 --> 00:03:52.010] gefasst. Die Eule
+[00:03:52.010 --> 00:03:54.010] gilt oft als Sinnbild der
+[00:03:54.010 --> 00:03:58.440] Weisheit. Die Schleiereule
+[00:03:59.020 --> 00:04:00.620] kommt als Brutvogel
+[00:04:00.620 --> 00:04:02.300] in vielen Regionen der Welt
+[00:04:02.300 --> 00:04:07.010] vor. Der Steinkauz
+[00:04:07.010 --> 00:04:09.070] galt im antiken Griechenland
+[00:04:09.070 --> 00:04:10.930] als Vogel der Weisheit
+[00:04:10.930 --> 00:04:13.270] und war Sinnbild der Götten Athene.

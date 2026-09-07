@@ -4,68 +4,292 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Kleidung",
-        "Babykleidung",
-        "Kinderkleidung",
-        "Teenagerkleidung",
-        "Damenkleidung",
-        "Herrenkleidung",
-        "Sommerkleidung",
-        "Winterkleidung",
-        "gestreift",
-        "kariert",
-        "Karo-Muster",
-        "Lochstickerei",
-        "Pünktchenmuster",
-        "Stickerei",
-        "Stoffdruck",
-        "Streifenmuster",
-        "Baumwolle",
-        "Glentschek",
-        "Kaschmir",
-        "Leinen",
-        "Polyester",
-        "Seide",
-        "Stoff",
-        "Viskose",
-        "Wolle",
-        "Ausschnitt",
-        "Koller",
-        "Reverse",
-        "Rollkragen",
-        "Rundkragen",
-        "Rüschenkragen",
-        "Schalkragen",
-        "Stehkragen",
-        "Ärmellos",
-        "Fledermausärmel",
-        "Kurzärmelig",
-        "Langärmelig",
-        "Puffärmel",
-        "Blende",
-        "Knopf",
-        "Tasche",
-        "Reißverschluss"
+        {
+          "text": "Kleidung",
+          "start": 1.9,
+          "end": 3.7
+        },
+        {
+          "text": "Babykleidung",
+          "start": 5.02,
+          "end": 6.86
+        },
+        {
+          "text": "Kinderkleidung",
+          "start": 8.49,
+          "end": 9.97
+        },
+        {
+          "text": "Teenagerkleidung",
+          "start": 11.47,
+          "end": 14.41
+        },
+        {
+          "text": "Damenkleidung",
+          "start": 14.41,
+          "end": 16.53
+        },
+        {
+          "text": "Herrenkleidung",
+          "start": 18.17,
+          "end": 20.97
+        },
+        {
+          "text": "Sommerkleidung",
+          "start": 22.81,
+          "end": 24.21
+        },
+        {
+          "text": "Winterkleidung",
+          "start": 24.21,
+          "end": 26.47
+        },
+        {
+          "text": "gestreift",
+          "start": 27.72,
+          "end": 29.32
+        },
+        {
+          "text": "kariert",
+          "start": 31.04,
+          "end": 31.94
+        },
+        {
+          "text": "Karo-Muster",
+          "start": 33.78,
+          "end": 35.88
+        },
+        {
+          "text": "Lochstickerei",
+          "start": 36.52,
+          "end": 38.56
+        },
+        {
+          "text": "Pünktchenmuster",
+          "start": 40.15,
+          "end": 41.63
+        },
+        {
+          "text": "Stickerei",
+          "start": 43.55,
+          "end": 44.53
+        },
+        {
+          "text": "Stoffdruck",
+          "start": 46.65,
+          "end": 47.61
+        },
+        {
+          "text": "Streifenmuster",
+          "start": 49.74,
+          "end": 51.94
+        },
+        {
+          "text": "Baumwolle",
+          "start": 52.5,
+          "end": 54.32
+        },
+        {
+          "text": "Glentschek",
+          "start": 55.8,
+          "end": 56.94
+        },
+        {
+          "text": "Kaschmir",
+          "start": 58.83,
+          "end": 60.77
+        },
+        {
+          "text": "Leinen",
+          "start": 61.37,
+          "end": 62.49
+        },
+        {
+          "text": "Polyester",
+          "start": 64.59,
+          "end": 65.49
+        },
+        {
+          "text": "Seide",
+          "start": 67.59,
+          "end": 68.35
+        },
+        {
+          "text": "Stoff",
+          "start": 70.48,
+          "end": 71.12
+        },
+        {
+          "text": "Viskose",
+          "start": 73.04,
+          "end": 74.38
+        },
+        {
+          "text": "Wolle",
+          "start": 76.28,
+          "end": 77.34
+        },
+        {
+          "text": "Ausschnitt",
+          "start": 78.65,
+          "end": 80.21
+        },
+        {
+          "text": "Koller",
+          "start": 81.82,
+          "end": 82.88
+        },
+        {
+          "text": "Reverse",
+          "start": 84.72,
+          "end": 85.94
+        },
+        {
+          "text": "Rollkragen",
+          "start": 87.52,
+          "end": 88.48
+        },
+        {
+          "text": "Rundkragen",
+          "start": 90.69,
+          "end": 91.89
+        },
+        {
+          "text": "Rüschenkragen",
+          "start": 93.9,
+          "end": 95.22
+        },
+        {
+          "text": "Schalkragen",
+          "start": 97.26,
+          "end": 98.4
+        },
+        {
+          "text": "Stehkragen",
+          "start": 100.58,
+          "end": 102.0
+        },
+        {
+          "text": "Ärmellos",
+          "start": 103.24,
+          "end": 104.78
+        },
+        {
+          "text": "Fledermausärmel",
+          "start": 106.69,
+          "end": 108.35
+        },
+        {
+          "text": "Kurzärmelig",
+          "start": 110.33,
+          "end": 113.01
+        },
+        {
+          "text": "Langärmelig",
+          "start": 113.01,
+          "end": 115.05
+        },
+        {
+          "text": "Puffärmel",
+          "start": 116.58,
+          "end": 117.84
+        },
+        {
+          "text": "Blende",
+          "start": 119.64,
+          "end": 120.68
+        },
+        {
+          "text": "Knopf",
+          "start": 122.5,
+          "end": 123.1
+        },
+        {
+          "text": "Tasche",
+          "start": 125.06,
+          "end": 126.18
+        },
+        {
+          "text": "Reißverschluss",
+          "start": 127.46,
+          "end": 129.04
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Wer sich gegen die Sonne schützen möchte, sollte dunkle Kleidung aus Polyester anziehen.",
-        "Die neue Kollektion der Babykleidung hat bei den Kunden gute Resonanz gezeigt.",
-        "Im Süden Chinas konnte man fast das ganze Jahr mit Sommerkleidung aus.",
-        "Die junge Frau hat viel Geld für Winterkleidung ausgegeben.",
-        "Ich trug eine blaue kurze Hose und ein weiß-rot kariertes Hemd.",
-        "Wir haben Teppiche gewebt und Stoffdruck gemacht.",
-        "Sie hat ein Kleid mit dezentem Streifenmuster getragen.",
-        "Der Anbau der Baumwolle ist nur in tropischen und subtropischen Gebieten möglich.",
-        "Meine Mutter hat einen dünnen Stoff geschnitten, um für mich ein Kleid zu machen.",
-        "Das Kollar ist der weiße, ringförmige Stehkragen, der von Klerikern verschiedener christlicher Konversionen getragen wird.",
-        "Er war mit einer schwarzen Stoffhose und einem schwarzen Strickpulli mit Rollkragen bekleidet.",
-        "Puffärmel gibt es in der Bekleidung von Frauen und Männern seit der Renaissance.",
-        "An deinem Hemd ist ein Knopf offen.",
-        "An seiner grünen Hose ist der Reißverschluss offen."
+        {
+          "text": "Wer sich gegen die Sonne schützen möchte, sollte dunkle Kleidung aus Polyester anziehen.",
+          "start": 139.02,
+          "end": 145.29
+        },
+        {
+          "text": "Die neue Kollektion der Babykleidung hat bei den Kunden gute Resonanz gezeigt.",
+          "start": 148.46,
+          "end": 153.84
+        },
+        {
+          "text": "Im Süden Chinas konnte man fast das ganze Jahr mit Sommerkleidung aus.",
+          "start": 153.84,
+          "end": 161.33
+        },
+        {
+          "text": "Die junge Frau hat viel Geld für Winterkleidung ausgegeben.",
+          "start": 164.3,
+          "end": 168.24
+        },
+        {
+          "text": "Ich trug eine blaue kurze Hose und ein weiß-rot kariertes Hemd.",
+          "start": 171.42,
+          "end": 176.84
+        },
+        {
+          "text": "Wir haben Teppiche gewebt und Stoffdruck gemacht.",
+          "start": 179.24,
+          "end": 182.68
+        },
+        {
+          "text": "Sie hat ein Kleid mit dezentem Streifenmuster getragen.",
+          "start": 185.86,
+          "end": 189.76
+        },
+        {
+          "text": "Der Anbau der Baumwolle ist nur in tropischen und subtropischen Gebieten möglich.",
+          "start": 192.62,
+          "end": 198.1
+        },
+        {
+          "text": "Meine Mutter hat einen dünnen Stoff geschnitten, um für mich ein Kleid zu machen.",
+          "start": 201.3,
+          "end": 206.06
+        },
+        {
+          "text": "Das Collar ist der weiße, ringförmige Stehkragen, der von Klerikern verschiedener christlicher Konversionen getragen wird.",
+          "start": 209.12,
+          "end": 217.54
+        },
+        {
+          "text": "Er war mit einer schwarzen Stoffhose und einem schwarzen Strickpulli mit Rollkragen bekleidet.",
+          "start": 220.56,
+          "end": 226.84
+        },
+        {
+          "text": "Puffärmel gibt es in der Bekleidung von Frauen und Männern seit der Renaissance.",
+          "start": 230.25,
+          "end": 235.25
+        },
+        {
+          "text": "An deinem Hemd ist ein Knopf offen.",
+          "start": 238.44,
+          "end": 240.8
+        },
+        {
+          "text": "An seiner grünen Hose ist der Reißverschluss offen.",
+          "start": 243.88,
+          "end": 247.16
+        }
       ]
     }
   ]

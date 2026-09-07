@@ -1,60 +1,60 @@
-Arbeitszimmer
-Computer
-Drucker
-Laptop
-Notebook
-Schreibtischlampe
-Telefax
-Telefon
-Adapter
-Bildschirm
-Festplatte
-Herunterladen
-Hochladen
-Ladegerät
-Maus
-Tastatur
-Bücherregal
-Bücherschrank
-Computertisch
-Drehstuhl
-Stuhl
-Schreibtisch
-Schublade
-Tisch
-Erzählung
-Handbuch
-Lehrbuch
-Schulbuch
-Novelle
-Sachbuch
-Roman
-Wörterbuch
-Bleistift
-Block
-Buchstütze
-Füller
-Kugelschreiber
-Kulli
-Notizbuch
-Papier
-Radiergummi
-Sprechen Sie bitte die folgenden Sätze.
-Der Drucker funktioniert jetzt nicht mehr.
-Herr Müller, Telefon für Sie.
-Die Arbeit von Softwareentwicklern ist, Software zu entwickeln.
-Heute lesen wir nicht nur vom Papier, sondern auch vom Bildschirm.
-Man kann das Programm kostenlos herunterladen.
-Alle Bücherregale sind ausgeräumt.
-Dieser Computerstuhl passt sehr gut zu diesem Computertisch.
-Sie stand vom Stuhl auf und rauschte wütend aus dem Zimmer.
-Diese Schublade klemmt, ich kann sie nicht herausziehen.
-Stell bitte den Tisch wieder an seinen Platz zurück.
-Das Handbuch enthält viele gute Tipps zum Umgang mit den Fremden.
-Diese Hausarbeit erzählt einen ganzen Roman.
-Er ist ein lebendes Wörterbuch.
-Kannst du mir dabei helfen, den Bleistift anzuspitzen?
-Der Füller schreibt schlecht.
-Reich mir mal den Kulli.
-Auf dem Tisch liegen zwei Bücher, ein Notizbuch und ein Radiogummi.
-Das Loch im Fenster wird mit einem Papier zugeklebt.
+[00:00:01.870 --> 00:00:04.050] Arbeitszimmer
+[00:00:05.360 --> 00:00:06.780] Computer
+[00:00:08.160 --> 00:00:09.740] Drucker
+[00:00:11.050 --> 00:00:12.510] Laptop
+[00:00:13.920 --> 00:00:15.260] Notebook
+[00:00:16.920 --> 00:00:19.120] Schreibtischlampe
+[00:00:20.500 --> 00:00:22.160] Telefax
+[00:00:23.470 --> 00:00:25.190] Telefon
+[00:00:26.540 --> 00:00:28.060] Adapter
+[00:00:29.400 --> 00:00:31.120] Bildschirm
+[00:00:32.590 --> 00:00:34.550] Festplatte
+[00:00:35.930 --> 00:00:38.050] Herunterladen
+[00:00:39.390 --> 00:00:41.150] Hochladen
+[00:00:44.050 --> 00:00:45.450] Ladegerät
+[00:00:45.450 --> 00:00:47.050] Maus
+[00:00:48.330 --> 00:00:49.650] Tastatur
+[00:00:50.960 --> 00:00:53.340] Bücherregal
+[00:00:54.690 --> 00:00:56.630] Bücherschrank
+[00:00:57.940 --> 00:00:59.980] Computertisch
+[00:01:01.260 --> 00:01:03.020] Drehstuhl
+[00:01:04.590 --> 00:01:05.990] Stuhl
+[00:01:07.400 --> 00:01:08.860] Schreibtisch
+[00:01:10.300 --> 00:01:11.940] Schublade
+[00:01:13.220 --> 00:01:14.040] Tisch
+[00:01:15.280 --> 00:01:17.400] Erzählung
+[00:01:18.750 --> 00:01:21.050] Handbuch
+[00:01:21.710 --> 00:01:23.210] Lehrbuch
+[00:01:24.680 --> 00:01:26.500] Schulbuch
+[00:01:27.780 --> 00:01:29.500] Novelle
+[00:01:30.880 --> 00:01:32.380] Sachbuch
+[00:01:33.750 --> 00:01:35.110] Roman
+[00:01:37.010 --> 00:01:38.570] Wörterbuch
+[00:01:39.850 --> 00:01:41.790] Bleistift
+[00:01:43.200 --> 00:01:44.060] Block
+[00:01:45.720 --> 00:01:47.600] Buchstütze
+[00:01:49.070 --> 00:01:50.390] Füller
+[00:01:51.860 --> 00:01:53.700] Kugelschreiber
+[00:01:55.110 --> 00:01:56.590] Kulli
+[00:01:57.940 --> 00:01:59.640] Notizbuch
+[00:02:00.880 --> 00:02:02.380] Papier
+[00:02:03.760 --> 00:02:05.500] Radiergummi
+[00:02:10.040 --> 00:02:13.060] Sprechen Sie bitte die folgenden Sätze.
+[00:02:16.000 --> 00:02:19.040] Der Drucker funktioniert jetzt nicht mehr.
+[00:02:21.880 --> 00:02:24.480] Herr Müller, Telefon für Sie.
+[00:02:27.530 --> 00:02:32.130] Die Arbeit von Softwareentwicklern ist, Software zu entwickeln.
+[00:02:35.100 --> 00:02:40.060] Heute lesen wir nicht nur vom Papier, sondern auch vom Bildschirm.
+[00:02:43.160 --> 00:02:47.160] Man kann das Programm kostenlos herunterladen.
+[00:02:49.710 --> 00:02:52.950] Alle Bücherregale sind ausgeräumt.
+[00:02:55.530 --> 00:02:59.990] Dieser Computerstuhl passt sehr gut zu diesem Computertisch.
+[00:03:02.980 --> 00:03:07.300] Sie stand vom Stuhl auf und rauschte wütend aus dem Zimmer.
+[00:03:10.460 --> 00:03:14.200] Diese Schublade klemmt. Ich kann sie nicht herausziehen.
+[00:03:17.280 --> 00:03:21.000] Stell bitte den Tisch wieder an seinen Platz zurück.
+[00:03:24.240 --> 00:03:29.320] Das Handbuch enthält viele gute Tipps zum Umgang mit den Fremden.
+[00:03:32.560 --> 00:03:35.980] Diese Hausarbeit erzählt einen ganzen Roman.
+[00:03:39.140 --> 00:03:41.600] Er ist ein lebendes Wörterbuch.
+[00:03:44.660 --> 00:03:48.220] Kannst du mir dabei helfen, den Bleistift anzuspitzen?
+[00:03:51.250 --> 00:03:53.170] Der Füller schreibt schlecht.
+[00:03:56.380 --> 00:03:58.440] Reich mir mal den Kulli.
+[00:04:00.840 --> 00:04:06.380] Auf dem Tisch liegen zwei Bücher, ein Notizbuch und ein Radiogummi.
+[00:04:09.530 --> 00:04:13.630] Das Loch im Fenster wird mit einem Papier zugeklebt.

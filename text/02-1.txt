@@ -1,49 +1,49 @@
-Spiritusen
-Armaniak
-Brandy
-Weinbrand
-Cognac
-Grappa
-Cognac
-Treber
-Apfelbrand
-Birnenbrand
-Kirschwasser
-Marillenbrand
-Schlehenschnaps
-Vogelbeerbrand
-Zuckerrohrbrand
-Zwetschgen-Schnaps
-Brombeergeist
-Hagebuttengeist
-Himbeergeist
-Hollunderbeergeist
-Johannesbeerwein
-Korn
-Sake
-Reiswein
-Amaretto-Likör
-Ararula-Likör
-Eierlikör
-Creme de cassis-Likör
-Galliano-Likör
-Absinthe
-Vermut
-Arac
-Enzian
-Magenbitter
-Raki
-Schnaps
-Sprechen Sie bitte die folgenden Sätze.
-Wenn Oscar zum Dessert den Brandy aus dem Schrank holt, sind die Gäste glücklich.
-Der Mindestalkoholgehalt von deutscher Weinbrand ist 38%.
-Cognac darf seinen Namen nur tragen, wenn er aus der gleichnamigen Region im Südwesten Frankreichs stammt.
-Grappa ist ein Tristerbrand, der aus Italien oder der italienischen Schweiz stammt.
-Einen alkoholischen Brand kann man in Kornbrand oder Obstbrand unterscheiden.
-Vogelbeerbrand haben einen fruchtigen Geschmack.
-Im Gegensatz zum Obstbrand werden für den Obstgeist Früchte mit geringem Zuckeranteil verwendet.
-Sake enthält 15 oder mehr Volumenprozent Alkohol und wird heiß oder kalt serviert.
-Es ist alles andere als einfach, in Deutschland eine Erlaubnis zum Brennen von hochprozentigen Obstlern oder Likören zu erhalten.
-Vermut wird normalerweise als Aperitif getrunken.
-Enzian wird aus der Wurzel des gelben Enzians gebrannt.
-Raki ist ein türkischer Brandwein und wird in der Regel beim Genuss mit Wasser verdünnt.
+[00:00:02.160 --> 00:00:04.340] Spiritusen
+[00:00:05.680 --> 00:00:07.060] Armaniak
+[00:00:10.000 --> 00:00:11.400] Brandy
+[00:00:11.400 --> 00:00:12.560] Weinbrand
+[00:00:14.420 --> 00:00:15.740] Cognac
+[00:00:17.280 --> 00:00:18.580] Grappa
+[00:00:19.890 --> 00:00:21.270] Cognac
+[00:00:22.960 --> 00:00:24.400] Treber
+[00:00:25.650 --> 00:00:26.990] Apfelbrand
+[00:00:28.240 --> 00:00:30.080] Birnenbrand
+[00:00:31.330 --> 00:00:33.330] Kirschwasser
+[00:00:34.580 --> 00:00:36.700] Marillenbrand
+[00:00:38.100 --> 00:00:39.920] Schlehenschnaps
+[00:00:41.360 --> 00:00:43.760] Vogelbeerbrand
+[00:00:45.380 --> 00:00:46.780] Zuckerrohrbrand
+[00:00:48.130 --> 00:00:50.450] Zwetschgen-Schnaps
+[00:00:52.470 --> 00:00:53.870] Brombeergeist
+[00:00:57.160 --> 00:00:58.560] Hagebuttengeist
+[00:00:58.560 --> 00:01:00.740] Himbeergeist
+[00:01:04.280 --> 00:01:05.680] Hollunderbeergeist
+[00:01:05.680 --> 00:01:07.920] Johannesbeerwein
+[00:01:09.330 --> 00:01:10.550] Korn
+[00:01:11.920 --> 00:01:13.380] Sake
+[00:01:14.630 --> 00:01:16.770] Reiswein
+[00:01:17.310 --> 00:01:19.810] Amaretto-Likör
+[00:01:21.120 --> 00:01:23.500] Ararula-Likör
+[00:01:24.880 --> 00:01:26.600] Eierlikör
+[00:01:28.040 --> 00:01:30.180] Creme de cassis-Likör
+[00:01:32.030 --> 00:01:33.670] Galliano-Likör
+[00:01:37.260 --> 00:01:38.420] Absinthe
+[00:01:38.420 --> 00:01:40.100] Vermut
+[00:01:41.380 --> 00:01:42.300] Arak
+[00:01:45.850 --> 00:01:46.470] Enzian
+[00:01:47.890 --> 00:01:48.470] Magenbitter
+[00:01:50.330 --> 00:01:51.470] Raki
+[00:01:52.880 --> 00:01:54.300] Schnaps
+[00:01:58.810 --> 00:02:01.870] Sprechen Sie bitte die folgenden Sätze
+[00:02:04.200 --> 00:02:10.080] Wenn Oscar zum Dessert den Brandy aus dem Schrank holt, sind die Gäste glücklich.
+[00:02:12.360 --> 00:02:19.640] Der Mindestalkoholgehalt von deutscher Weinbrand ist 38%.
+[00:02:22.100 --> 00:02:30.240] Cognac darf seinen Namen nur tragen, wenn er aus der gleichnamigen Region im Südwesten Frankreichs stammt.
+[00:02:33.020 --> 00:02:39.280] Grappa ist ein Tristerbrand, der aus Italien oder der italienischen Schweiz stammt.
+[00:02:41.970 --> 00:02:47.530] Einen alkoholischen Brand kann man in Kornbrand oder Obstbrand unterscheiden.
+[00:02:49.900 --> 00:02:54.800] Vogelbärbrand haben einen fruchtigen Geschmack.
+[00:02:57.470 --> 00:03:05.310] Im Gegensatz zum Obstbrand werden für den Obstgeist Früchte mit geringem Zuckeranteil verwendet.
+[00:03:08.070 --> 00:03:15.330] Sake enthält 15 oder mehr Volumenprozent Alkohol und wird heiß oder kalt serviert.
+[00:03:17.630 --> 00:03:27.350] Es ist alles andere als einfach, in Deutschland eine Erlaubnis zum Brennen von hochprozentigen Obstlern oder Likören zu erhalten.
+[00:03:30.690 --> 00:03:34.050] Vermut wird normalerweise als Aperitif getrunken.
+[00:03:37.390 --> 00:03:41.890] Enzian wird aus der Wurzel des gelben Enzians gebrannt.
+[00:03:45.090 --> 00:03:51.030] Raki ist ein türkischer Brandwein und wird in der Regel beim Genuss mit Wasser verdünnt.

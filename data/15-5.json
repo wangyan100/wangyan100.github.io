@@ -4,65 +4,292 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Vögel",
-        "Ammer",
-        "Amsel",
-        "Bienenfresser",
-        "Blaumeise",
-        "Blauracke",
-        "Buchfink",
-        "Elster",
-        "Eichelheer",
-        "Fink",
-        "Gimpel",
-        "Kohlmeise",
-        "Meise",
-        "Nachtigall",
-        "Pirol",
-        "Rabe",
-        "Rotkehlchen",
-        "Saatkrähe",
-        "Spatz",
-        "Sperling",
-        "Stieglitz",
-        "Zaunkönig",
-        "Zeisig",
-        "Adler",
-        "Falke",
-        "Geier",
-        "Habicht",
-        "Eule",
-        "Wanderfalke",
-        "Rohrweie",
-        "Schleiereule",
-        "Sperber",
-        "Steinkauz",
-        "Uhu",
-        "Waldohreule",
-        "Mandarinente",
-        "Pelikan",
-        "Pinguin",
-        "Tauchvogel",
-        "Wildgans"
+        {
+          "text": "Vögel",
+          "start": 1.9,
+          "end": 3.6
+        },
+        {
+          "text": "Ammer",
+          "start": 6.23,
+          "end": 8.89
+        },
+        {
+          "text": "Amsel",
+          "start": 10.17,
+          "end": 11.41
+        },
+        {
+          "text": "Bienenfresser",
+          "start": 12.66,
+          "end": 14.2
+        },
+        {
+          "text": "Blaumeise",
+          "start": 16.4,
+          "end": 17.4
+        },
+        {
+          "text": "Blauracke",
+          "start": 19.68,
+          "end": 20.68
+        },
+        {
+          "text": "Buchfink",
+          "start": 22.96,
+          "end": 24.24
+        },
+        {
+          "text": "Elster",
+          "start": 24.96,
+          "end": 26.24
+        },
+        {
+          "text": "Eichelheer",
+          "start": 27.74,
+          "end": 29.14
+        },
+        {
+          "text": "Fink",
+          "start": 30.52,
+          "end": 31.64
+        },
+        {
+          "text": "Gimpel",
+          "start": 33.62,
+          "end": 34.6
+        },
+        {
+          "text": "Kohlmeise",
+          "start": 36.96,
+          "end": 38.3
+        },
+        {
+          "text": "Meise",
+          "start": 40.08,
+          "end": 40.96
+        },
+        {
+          "text": "Nachtigall",
+          "start": 41.48,
+          "end": 43.22
+        },
+        {
+          "text": "Pirol",
+          "start": 44.5,
+          "end": 46.08
+        },
+        {
+          "text": "Rabe",
+          "start": 47.39,
+          "end": 48.75
+        },
+        {
+          "text": "Rotkehlchen",
+          "start": 51.76,
+          "end": 53.16
+        },
+        {
+          "text": "Saatkrähe",
+          "start": 53.16,
+          "end": 55.36
+        },
+        {
+          "text": "Spatz",
+          "start": 56.8,
+          "end": 58.06
+        },
+        {
+          "text": "Sperling",
+          "start": 60.04,
+          "end": 60.78
+        },
+        {
+          "text": "Stieglitz",
+          "start": 63.22,
+          "end": 63.92
+        },
+        {
+          "text": "Zaunkönig",
+          "start": 66.42,
+          "end": 67.12
+        },
+        {
+          "text": "Zeisig",
+          "start": 68.46,
+          "end": 69.72
+        },
+        {
+          "text": "Adler",
+          "start": 71.16,
+          "end": 72.66
+        },
+        {
+          "text": "Falke",
+          "start": 74.1,
+          "end": 75.44
+        },
+        {
+          "text": "Geier",
+          "start": 76.76,
+          "end": 78.36
+        },
+        {
+          "text": "Habicht",
+          "start": 79.7,
+          "end": 80.88
+        },
+        {
+          "text": "Eule",
+          "start": 82.16,
+          "end": 83.6
+        },
+        {
+          "text": "Kauz",
+          "start": 84.94,
+          "end": 86.62
+        },
+        {
+          "text": "Schleier",
+          "start": 88.0,
+          "end": 89.54
+        },
+        {
+          "text": "Merlin",
+          "start": 91.59,
+          "end": 92.29
+        },
+        {
+          "text": "Wanderfalke",
+          "start": 94.98,
+          "end": 95.78
+        },
+        {
+          "text": "Rohrweie",
+          "start": 98.06,
+          "end": 98.76
+        },
+        {
+          "text": "Schleiereule",
+          "start": 101.32,
+          "end": 102.02
+        },
+        {
+          "text": "Sperber",
+          "start": 103.49,
+          "end": 104.99
+        },
+        {
+          "text": "Steinkauz",
+          "start": 108.7,
+          "end": 109.54
+        },
+        {
+          "text": "Uhu",
+          "start": 110.62,
+          "end": 111.32
+        },
+        {
+          "text": "Waldohreule",
+          "start": 113.74,
+          "end": 114.44
+        },
+        {
+          "text": "Mandarinente",
+          "start": 117.03,
+          "end": 117.73
+        },
+        {
+          "text": "Pelikan",
+          "start": 120.02,
+          "end": 120.72
+        },
+        {
+          "text": "Pinguin",
+          "start": 122.0,
+          "end": 123.94
+        },
+        {
+          "text": "Tauchvogel",
+          "start": 126.82,
+          "end": 128.22
+        },
+        {
+          "text": "Wildganz",
+          "start": 129.1,
+          "end": 129.96
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die weibliche Amsel baut dreimal im Jahr ein Nest.",
-        "Die Blauracke ist eine wärmeliebende Art, die während der Brutmonate Mai, Juni und Juli möglichst trockene und warme Witterungsverhältnisse benötigt.",
-        "In der germanischen Mythologie war die Elster sowohl Götterbote als auch der Vogel der Todesgöttin Hel.",
-        "Meisen brüten gerne in der Nähe von oder in Obstbäumen, wobei sie die dort anzutreffenden Insekten bzw. deren Larven als Nahrung für die Brut verwenden.",
-        "Der Pirol ruft im grünen Hag.",
-        "Der Gesang von Rotkälchen beginnt etwa eine Stunde vor Sonnenaufgang.",
-        "Früher traten die Spatzen in großen Schwärmen auf.",
-        "Der Zaunkönig kann einen Stamm mit den langen Zähnen und den kräftigen Krallen krächt hinaufklettern.",
-        "Die Geier kreisen über dem Aas.",
-        "Ein Habicht ist auf die Erde niedergestoßen und hat seine Beute gefasst.",
-        "Die Eule gilt oft als Sinnbild der Weisheit.",
-        "Die Schleiereule kommt als Brutvogel in vielen Regionen der Welt vor.",
-        "Der Steinkauz galt im antiken Griechenland als Vogel der Weisheit und war Sinnbild der Göttin Athene."
+        {
+          "text": "Die weibliche Amsel baut dreimal im Jahr ein Nest.",
+          "start": 140.3,
+          "end": 144.06
+        },
+        {
+          "text": "Die Blauracke ist eine wärmeliebende Art, die während der Brutmonate Mai, Juni und Juli möglichst trockene und warme Witterungsverhältnisse benötigt.",
+          "start": 147.28,
+          "end": 158.6
+        },
+        {
+          "text": "In der germanischen Mythologie war die Elster sowohl Götterbote als auch der Vogel der Todesgöttin Hel.",
+          "start": 161.6,
+          "end": 168.94
+        },
+        {
+          "text": "Meisen brüten gerne in der Nähe von oder in Obstbäumen, wobei sie die dort anzutreffenden Insekten bzw. deren Larven als Nahrung für die Brut verwenden.",
+          "start": 172.22,
+          "end": 184.54
+        },
+        {
+          "text": "Der Pyrol ruft im grünen Hag.",
+          "start": 187.62,
+          "end": 190.18
+        },
+        {
+          "text": "Der Gesang von Rotkirchen beginnt etwa eine Stunde vor Sonnenaufgang.",
+          "start": 193.33,
+          "end": 198.41
+        },
+        {
+          "text": "Früher traten die Spatzen in großen Schwärmen auf.",
+          "start": 201.57,
+          "end": 204.97
+        },
+        {
+          "text": "Der Zaunkönig kann einen Stamm mit den langen Zehen und den kräftigen Krallen senkrecht hinaufklettern.",
+          "start": 207.21,
+          "end": 214.99
+        },
+        {
+          "text": "Die Geier kreisen über dem Aas.",
+          "start": 218.06,
+          "end": 220.56
+        },
+        {
+          "text": "Ein Habicht ist auf die Erde niedergestoßen und hat seine Beute gefasst.",
+          "start": 223.51,
+          "end": 228.35
+        },
+        {
+          "text": "Die Eule gilt oft als Sinnbild der Weisheit.",
+          "start": 231.41,
+          "end": 234.77
+        },
+        {
+          "text": "Die Schleiereule kommt als Brutvogel in vielen Regionen der Welt vor.",
+          "start": 237.8,
+          "end": 242.68
+        },
+        {
+          "text": "Der Steinkauz galt im antiken Griechenland als Vogel der Weisheit und war Sinnbild der Götten Athene.",
+          "start": 245.69,
+          "end": 253.27
+        }
       ]
     }
   ]

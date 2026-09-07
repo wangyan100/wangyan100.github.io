@@ -1,54 +1,65 @@
-Schwangerschaft
-Befruchten
-Fetus
-Fötus
-Implantation
-Mutterkuchen
-Nabelschnur
-Ovulation
-Zygote
-Blut abnehmen
-der errechnete Geburtstermin
-Herzklopfen
-Ultraschalluntersuchung
-Urinprobe
-Anämie
-Blutarm
-Erbrechen
-Hormon
-Kindsbewegungen
-Müdigkeit
-Schwangere
-Übelkeit
-Unwohlsein
-die schwere Geburt
-entbinden
-gebären
-früchen
-Frühgeburt
-Fruchtwasser
-Hebamme
-Schnittentbindung
-Wehen
-Abtreibung
-Missbildung
-Totgeburt
-entwöhnen
-Muttermilch
-Wochenbett
-Kindbett
-stillen
-Sprechen Sie bitte die folgenden Sätze
-Der Mutterkuchen besteht aus Gewebe in der Gebärmutter.
-In der dritten Woche nach der Befruchtung beginnt der Herzschlag des Fötuses.
-Die Kinder werden nach der Geburt ausführlich untersucht und der Papa darf die Nabelschnur durchschneiden.
-Der Arzt möchte den Blutdruck messen oder Blut abnehmen und es im Labor untersuchen.
-Bei der Ultraschalluntersuchung können der Arzt und die schwangere Frau das ungeborene Kind beobachten.
-Eine Anämie ist entweder erworben oder angeboren.
-Etwa in der 22. Schwangerschaftswoche haben die meisten Schwangeren schon die Kindsbewegungen gespürt.
-Schwangerschaftserbrechen tritt oft am Morgen auf und kann von Unwohlsein und Übelkeit begleitet sein.
-Von einer Frühgeburt wird gesprochen, wenn das Baby vor Vollendung der 37. Schwangerschaftswoche geboren wird
-oder weniger als 2500 Gramm wiegt.
-Hebamme berät und hilft ihnen während der Schwangerschaft und auch nach der Geburt von ihrem Kind.
-Eine angeborene Missbildung der linken Hand machte ihm das Leben schwer.
-Während des Wochenbets seiner Frau hatte eine Krankenpflegerin beschäftigt.
+[00:00:01.780 --> 00:00:03.720] Schwangerschaft
+[00:00:05.000 --> 00:00:06.780] Befruchten
+[00:00:08.090 --> 00:00:09.530] Fetus
+[00:00:10.900 --> 00:00:13.380] Fötus
+[00:00:13.380 --> 00:00:15.580] Implantation
+[00:00:16.860 --> 00:00:19.020] Mutterkuchen
+[00:00:20.270 --> 00:00:22.230] Nabelschnur
+[00:00:23.480 --> 00:00:25.060] Ovulation
+[00:00:26.340 --> 00:00:28.180] Zygote
+[00:00:29.520 --> 00:00:32.120] Blut abnehmen
+[00:00:32.440 --> 00:00:35.620] der errechnete Geburtstermin
+[00:00:36.940 --> 00:00:38.740] Herzklopfen
+[00:00:41.680 --> 00:00:43.080] Ultraschalluntersuchung
+[00:00:43.780 --> 00:00:45.800] Urinprobe
+[00:00:47.080 --> 00:00:49.760] Anämie
+[00:00:49.760 --> 00:00:51.440] Blutarm
+[00:00:52.690 --> 00:00:54.210] Erbrechen
+[00:00:55.520 --> 00:00:57.100] Hormon
+[00:00:58.410 --> 00:01:00.190] Kindsbewegungen
+[00:01:01.470 --> 00:01:03.350] Müdigkeit
+[00:01:04.730 --> 00:01:06.430] Schwangere
+[00:01:07.710 --> 00:01:10.250] Übelkeit
+[00:01:10.770 --> 00:01:12.650] Unwohlsein
+[00:01:13.710 --> 00:01:16.070] die schwere Geburt
+[00:01:17.320 --> 00:01:18.780] entbinden
+[00:01:20.020 --> 00:01:21.660] gebären
+[00:01:23.040 --> 00:01:24.620] früchen
+[00:01:26.000 --> 00:01:27.720] Frühgeburt
+[00:01:29.060 --> 00:01:30.840] Fruchtwasser
+[00:01:32.150 --> 00:01:33.790] Hebamme
+[00:01:35.230 --> 00:01:37.150] Schnittentbindung
+[00:01:38.430 --> 00:01:39.770] Wehen
+[00:01:41.020 --> 00:01:42.980] Abtreibung
+[00:01:44.230 --> 00:01:45.830] Missbildung
+[00:01:48.680 --> 00:01:50.080] Totgeburt
+[00:01:50.080 --> 00:01:52.040] entwöhnen
+[00:01:54.950 --> 00:01:56.350] Muttermilch
+[00:01:56.350 --> 00:01:58.030] Wochenbett
+[00:01:59.380 --> 00:02:00.880] Kindbett
+[00:02:02.350 --> 00:02:03.710] stillen
+[00:02:08.160 --> 00:02:10.780] Sprechen Sie bitte die folgenden Sätze
+[00:02:13.650 --> 00:02:17.670] Der Mutterkuchen besteht aus Gewebe in der Gebärmutter.
+[00:02:20.810 --> 00:02:23.350] In der dritten Woche nach der Befruchtung
+[00:02:23.350 --> 00:02:25.830] beginnt der Herzschlag des Fötuses.
+[00:02:28.980 --> 00:02:33.300] Die Kinder werden nach der Geburt ausführlich untersucht und der Papa
+[00:02:33.300 --> 00:02:35.420] darf die Nabelschnur durchschneiden.
+[00:02:38.390 --> 00:02:42.110] Der Arzt möchte den Blutdruck messen oder Blut abnehmen
+[00:02:42.110 --> 00:02:44.290] und es im Labor untersuchen.
+[00:02:47.350 --> 00:02:49.630] Bei der Ultraschalluntersuchung
+[00:02:49.630 --> 00:02:51.990] können der Arzt und die schwangere Frau
+[00:02:51.990 --> 00:02:54.370] das ungeborene Kind beobachten.
+[00:02:57.520 --> 00:03:01.180] Eine Anämie ist entweder erworben oder angeboren.
+[00:03:04.270 --> 00:03:07.590] Etwa in der 22. Schwangerschaftswoche
+[00:03:07.590 --> 00:03:12.150] haben die meisten Schwangeren schon die Kindsbewegungen gespürt.
+[00:03:14.800 --> 00:03:17.240] Schwangerschaftserbrechen tritt oft am Morgen auf
+[00:03:17.240 --> 00:03:20.680] und kann von Unwohlsein und Übelkeit begleitet sein.
+[00:03:24.440 --> 00:03:26.740] Von einer Frühgeburt wird gesprochen,
+[00:03:26.740 --> 00:03:32.480] wenn das Baby vor Vollendung der 37. Schwangerschaftswoche geboren wird
+[00:03:32.480 --> 00:03:36.880] oder weniger als 2500 Gramm wiegt.
+[00:03:39.860 --> 00:03:43.280] Hebamme berät und hilft ihnen während der Schwangerschaft
+[00:03:43.280 --> 00:03:45.700] und auch nach der Geburt von ihrem Kind.
+[00:03:48.860 --> 00:03:51.760] Eine angeborene Missbildung der linken Hand
+[00:03:51.760 --> 00:03:53.640] machte ihm das Leben schwer.
+[00:03:56.850 --> 00:03:58.730] Während des Wochenbets seiner Frau
+[00:03:58.730 --> 00:04:01.270] hat er eine Krankenpflegerin beschäftigt.

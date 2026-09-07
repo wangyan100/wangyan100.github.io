@@ -1,50 +1,51 @@
-Beinkleider und Unterwäsche
-Anzughose
-Bermudas
-Bügelfalte
-die weit geschnittene Hose
-Hosentasche
-Hosenträger
-Jeans
-Overall
-Hosenrock
-Maxirock
-Midirock
-Minirock
-Plisserock
-Satinrock
-Wickelrock
-Büstenhalter
-Elastikschlüpfer
-Corsolette
-Mieder
-Miederhose
-Schlüpfer
-Slip
-Höschen
-Boxershorts
-Netzhemd
-Unterhemd
-Unterjacke
-Unterhose
-Hausanzug
-Morgenmantel
-Nachthemd
-Schlafanzug
-Sprechen Sie bitte die folgenden Sätze
-Als Strafe musste er schließlich die Hosen fallen lassen
-und stand in blauen Boxershorts da.
-Diese Anzughose hat schon ausgebeulte Knie.
-Die Mutter hat ein Loch in den Bermudas gestopft.
-Die Bügelfalte ist eine Erfindung vom Anfang des 20. Jahrhunderts.
-Jeans waren nie wirklich out.
-Im Orangen Overall stehen er und seine Kumpels im warmen Sonnenlicht.
-Der Minirock erfreut sich bis heute besonderer Beliebtheit.
-Sie verwandte den Stoff für einen Plisserock.
-Sie hat beim Bügeln den Wickelrock gesenkt.
-Dieser Büstenhalter sieht nicht nur gut aus, er gehört auch zu den teuersten der Welt.
-Es ging jetzt um die Frage, ob sie ein Korsett tragen sollte.
-Ist das Mieder zu eng, kann es für bestimmte Muskeln schädlich sein.
-Mit beiden Händen hat sie vorsichtig den weißen Schlüpfer etwas nach unten gezogen.
-Für Männer ist das Unterhemd eines der wichtigsten Kleidungsstücke überhaupt.
-Eine Frau im Morgenmantel öffnet vorsichtig die Haustüre.
+[00:00:01.650 --> 00:00:05.090] Beinkleider und Unterwäsche
+[00:00:06.430 --> 00:00:08.350] Anzughose
+[00:00:09.660 --> 00:00:11.180] Bermudas
+[00:00:12.560 --> 00:00:14.520] Bügelfalte
+[00:00:15.800 --> 00:00:18.460] die weit geschnittene Hose
+[00:00:19.740 --> 00:00:21.660] Hosentasche
+[00:00:23.000 --> 00:00:24.780] Hosenträger
+[00:00:26.060 --> 00:00:28.480] Jeans
+[00:00:28.480 --> 00:00:29.980] Overall
+[00:00:31.260 --> 00:00:32.760] Hosenrock
+[00:00:34.040 --> 00:00:36.120] Maxirock
+[00:00:37.630 --> 00:00:39.570] Midirock
+[00:00:40.820 --> 00:00:42.420] Minirock
+[00:00:43.790 --> 00:00:45.630] Plisserock
+[00:00:47.200 --> 00:00:48.280] Satinrock
+[00:00:50.170 --> 00:00:51.750] Wickelrock
+[00:00:53.120 --> 00:00:55.300] Büstenhalter
+[00:00:56.620 --> 00:00:58.800] Elastikschlüpfer
+[00:01:00.140 --> 00:01:01.920] Corsolett
+[00:01:03.170 --> 00:01:04.650] Mieder
+[00:01:05.960 --> 00:01:07.740] Miederhose
+[00:01:09.050 --> 00:01:10.650] Schlüpfer
+[00:01:12.160 --> 00:01:13.540] Slip
+[00:01:14.910 --> 00:01:16.350] Höschen
+[00:01:17.700 --> 00:01:20.360] Boxershorts
+[00:01:22.300 --> 00:01:23.700] Netzhemd
+[00:01:23.700 --> 00:01:25.700] Unterhemd
+[00:01:26.980 --> 00:01:29.580] Unterjacke
+[00:01:29.580 --> 00:01:31.620] Unterhose
+[00:01:34.360 --> 00:01:35.120] Hausanzug
+[00:01:39.040 --> 00:01:39.800] Morgenmantel
+[00:01:40.600 --> 00:01:41.360] Nachthemd
+[00:01:43.720 --> 00:01:44.480] Schlafanzug
+[00:01:49.000 --> 00:01:51.780] Sprechen Sie bitte die folgenden Sätze.
+[00:01:54.600 --> 00:01:57.840] Als Strafe musste er schließlich die Hosen fallen lassen
+[00:01:57.840 --> 00:02:00.860] und stand in blauen Boxershorts da.
+[00:02:03.890 --> 00:02:07.290] Diese Anzughose hat schon ausgebeulte Knie.
+[00:02:10.370 --> 00:02:13.550] Die Mutter hat ein Loch in den Bermudas gestopft.
+[00:02:16.230 --> 00:02:22.190] Die Bügelfalte ist eine Erfindung vom Anfang des 20. Jahrhunderts.
+[00:02:24.570 --> 00:02:26.770] Jeans waren nie wirklich out.
+[00:02:29.810 --> 00:02:35.170] Im Orangen Overall stehen er und seine Kumpels im warmen Sonnenlicht.
+[00:02:38.320 --> 00:02:42.260] Der Minirock erfreut sich bis heute besonderer Beliebtheit.
+[00:02:45.290 --> 00:02:48.630] Sie verwandte den Stoff für einen Plisserock.
+[00:02:51.600 --> 00:02:54.660] Sie hat beim Bügeln den Wickelrock gesenkt.
+[00:02:57.500 --> 00:03:00.700] Dieser Büstenhalter sieht nicht nur gut aus,
+[00:03:00.800 --> 00:03:03.240] er gehört auch zu den teuersten der Welt.
+[00:03:06.370 --> 00:03:10.230] Es ging jetzt um die Frage, ob sie ein Korsett tragen sollte.
+[00:03:13.340 --> 00:03:17.660] Ist das Mieder zu eng, kann es für bestimmte Muskeln schädlich sein.
+[00:03:20.720 --> 00:03:25.920] Mit beiden Händen hat sie vorsichtig den weißen Schlüpfer etwas nach unten gezogen.
+[00:03:29.020 --> 00:03:33.720] Für Männer ist das Unterhemd eines der wichtigsten Kleidungsstücke überhaupt.
+[00:03:35.990 --> 00:03:40.910] Eine Frau im Morgenmantel öffnet vorsichtig die Haustüre.

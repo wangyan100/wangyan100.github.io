@@ -4,63 +4,262 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Hauptspeisen",
-        "Dinkel",
-        "Gerste",
-        "Hafer",
-        "Hirse",
-        "Mais",
-        "Reis",
-        "Roggen",
-        "Weizen",
-        "Das glutenfreie Weizenmehl",
-        "Dinkelmehl",
-        "Kartoffelmehl",
-        "Roggenmehl",
-        "Stärke",
-        "Vollkornmehl",
-        "Weizenmehl",
-        "Basmati-Reis",
-        "Klebreis",
-        "Langkornreis",
-        "Milchreis",
-        "Rundkornreis",
-        "Vollkornreis",
-        "Auflauf",
-        "Krepp",
-        "Glasnudel",
-        "Kaiserschmarrn",
-        "Macaroni",
-        "Nudel",
-        "Spaghetti",
-        "Spätzle",
-        "Frühlingsrolle",
-        "Gewürzgurke",
-        "Gulasch",
-        "Knödel",
-        "Kloß",
-        "Maultasche",
-        "Omelette",
-        "Sauerkraut"
+        {
+          "text": "Hauptspeisen",
+          "start": 1.9,
+          "end": 3.8
+        },
+        {
+          "text": "Dinkel",
+          "start": 5.12,
+          "end": 6.6
+        },
+        {
+          "text": "Gerste",
+          "start": 7.84,
+          "end": 9.42
+        },
+        {
+          "text": "Hafer",
+          "start": 10.83,
+          "end": 12.23
+        },
+        {
+          "text": "Hirse",
+          "start": 13.58,
+          "end": 15.04
+        },
+        {
+          "text": "Mais",
+          "start": 16.38,
+          "end": 18.42
+        },
+        {
+          "text": "Reis",
+          "start": 19.06,
+          "end": 20.94
+        },
+        {
+          "text": "Roggen",
+          "start": 22.22,
+          "end": 23.68
+        },
+        {
+          "text": "Weizen",
+          "start": 24.96,
+          "end": 26.4
+        },
+        {
+          "text": "Das glutenfreie Weizenmehl",
+          "start": 27.65,
+          "end": 30.75
+        },
+        {
+          "text": "Dinkelmehl",
+          "start": 32.09,
+          "end": 33.95
+        },
+        {
+          "text": "Kartoffelmehl",
+          "start": 36.86,
+          "end": 38.26
+        },
+        {
+          "text": "Roggenmehl",
+          "start": 38.26,
+          "end": 40.08
+        },
+        {
+          "text": "Stärke",
+          "start": 41.55,
+          "end": 42.81
+        },
+        {
+          "text": "Vollkornmehl",
+          "start": 44.15,
+          "end": 46.61
+        },
+        {
+          "text": "Weizenmehl",
+          "start": 29.37,
+          "end": 30.75
+        },
+        {
+          "text": "Basmati-Reis",
+          "start": 50.72,
+          "end": 52.8
+        },
+        {
+          "text": "Klebreis",
+          "start": 55.68,
+          "end": 57.08
+        },
+        {
+          "text": "Langkornreis",
+          "start": 58.92,
+          "end": 60.32
+        },
+        {
+          "text": "Milchreis",
+          "start": 60.32,
+          "end": 62.2
+        },
+        {
+          "text": "Rundkornreis",
+          "start": 64.02,
+          "end": 66.16
+        },
+        {
+          "text": "Vollkornreis",
+          "start": 67.57,
+          "end": 69.81
+        },
+        {
+          "text": "Auflauf",
+          "start": 71.19,
+          "end": 72.57
+        },
+        {
+          "text": "Krepp",
+          "start": 73.98,
+          "end": 75.2
+        },
+        {
+          "text": "Glasnudel",
+          "start": 76.73,
+          "end": 78.61
+        },
+        {
+          "text": "Kaiserschmarrn",
+          "start": 79.99,
+          "end": 81.59
+        },
+        {
+          "text": "Macaroni",
+          "start": 84.66,
+          "end": 86.06
+        },
+        {
+          "text": "Nudel",
+          "start": 86.06,
+          "end": 87.72
+        },
+        {
+          "text": "Spaghetti",
+          "start": 89.12,
+          "end": 90.56
+        },
+        {
+          "text": "Spätzle",
+          "start": 91.97,
+          "end": 93.55
+        },
+        {
+          "text": "Frühlingsrolle",
+          "start": 95.02,
+          "end": 96.68
+        },
+        {
+          "text": "Gewürzgurke",
+          "start": 97.93,
+          "end": 100.25
+        },
+        {
+          "text": "Gulasch",
+          "start": 101.56,
+          "end": 103.06
+        },
+        {
+          "text": "Knödel",
+          "start": 104.38,
+          "end": 105.72
+        },
+        {
+          "text": "Klos",
+          "start": 107.12,
+          "end": 109.2
+        },
+        {
+          "text": "Maultasche",
+          "start": 109.78,
+          "end": 111.88
+        },
+        {
+          "text": "Omelette",
+          "start": 113.26,
+          "end": 115.9
+        },
+        {
+          "text": "Sauerkraut",
+          "start": 115.9,
+          "end": 117.78
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Gerste wird überwiegend als Tierfutter verwendet.",
-        "Die Haferpflanzen sind einjährige Gräser.",
-        "Der Herbst ist die beste Jahreszeit für Menschen, Mais zu essen.",
-        "Mit Stärke speichern Pflanzen ihre überschüssige Energie als Reserve.",
-        "In China isst man gern Zunzi aus Klebreis, eingewickelt in Bambus oder Schilfblätter mit verschiedenen Füllungen.",
-        "Glasnudeln sind eine Nudelartige Beilage in den ostasiatischen Gerichten.",
-        "Kaiserschmarrn zählt zu den bekanntesten Süßspeisen der österreichischen Küche.",
-        "Der Name leitet sich von Kaiser Franz Josef I. ab.",
-        "Gewürzgurken gelten als besonders während der Schwangerschaft geeignetes Nahrungsmittel.",
-        "Am Abend habe ich den Rest vom Gulasch aufgewärmt.",
-        "Als spanisches Nationalgericht ist Tortilla ein Omelett aus Eiern mit Kartoffeln und Zwiebeln.",
-        "Bereits im 7.",
-        "Jahrhundert entstand die koreanische Variante des Sauerkrauts, das Kimchi."
+        {
+          "text": "Gerste wird überwiegend als Tierfutter verwendet.",
+          "start": 127.91,
+          "end": 132.03
+        },
+        {
+          "text": "Die Haferpflanzen sind einjährige Gräser.",
+          "start": 134.27,
+          "end": 138.95
+        },
+        {
+          "text": "Der Herbst ist die beste Jahreszeit für Menschen, Mais zu essen.",
+          "start": 141.65,
+          "end": 146.13
+        },
+        {
+          "text": "Mit Stärke speichern Pflanzen ihre überschüssige Energie als Reserve.",
+          "start": 149.13,
+          "end": 154.23
+        },
+        {
+          "text": "In China isst man gern Zunzi aus Klebreis, eingewickelt in Bambus oder Schilfblätter mit verschiedenen Füllungen.",
+          "start": 157.44,
+          "end": 166.68
+        },
+        {
+          "text": "Glasnudeln sind eine Nudelartige Beilage in den ostasiatischen Gerichten.",
+          "start": 169.02,
+          "end": 175.9
+        },
+        {
+          "text": "Kaiserschmarrn zählt zu den bekanntesten Süßspeisen der österreichischen Küche.",
+          "start": 179.07,
+          "end": 184.83
+        },
+        {
+          "text": "Der Name leitet sich von Kaiser Franz Josef I. ab.",
+          "start": 185.03,
+          "end": 189.49
+        },
+        {
+          "text": "Gewürzgurken gelten als besonders während der Schwangerschaft geeignetes Nahrungsmittel.",
+          "start": 192.37,
+          "end": 198.31
+        },
+        {
+          "text": "Am Abend habe ich den Rest vom Gulasch aufgewärmt.",
+          "start": 201.36,
+          "end": 204.84
+        },
+        {
+          "text": "Als spanisches Nationalgericht ist Tortilla ein Omelett aus Eiern mit Kartoffeln und Zwiebeln.",
+          "start": 207.12,
+          "end": 215.12
+        },
+        {
+          "text": "Bereits im siebten Jahrhundert entstand die koreanische Variante des Sauerkrauts, das Kimchi.",
+          "start": 218.29,
+          "end": 224.71
+        }
       ]
     }
   ]

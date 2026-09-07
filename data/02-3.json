@@ -4,56 +4,232 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Biere",
-        "Biermischgetränk",
-        "das dunkle Bier",
-        "einfach Bier",
-        "Fassbier",
-        "Flaschenbier",
-        "Sauerbier",
-        "Schankbier",
-        "Starkbier",
-        "Vollbier",
-        "Aale",
-        "Altbier",
-        "Berliner Weiße",
-        "Emmerbier",
-        "Gose",
-        "Haferbier",
-        "Kölsch",
-        "Porter",
-        "Staut",
-        "Weißbier",
-        "Weizenbier",
-        "Exportbier",
-        "Lagerbier",
-        "Merzenbier",
-        "Pilzner",
-        "Rotbier",
-        "Schwarzbier",
-        "das alkoholfreie Bier",
-        "Bockbier",
-        "Leichtbier",
-        "Malzbier",
-        "Radler",
-        "Rauchbier"
+        {
+          "text": "Biere",
+          "start": 1.65,
+          "end": 3.11
+        },
+        {
+          "text": "Biermischgetränk",
+          "start": 4.89,
+          "end": 7.87
+        },
+        {
+          "text": "das dunkle Bier",
+          "start": 7.87,
+          "end": 9.69
+        },
+        {
+          "text": "einfach Bier",
+          "start": 11.59,
+          "end": 12.87
+        },
+        {
+          "text": "Fassbier",
+          "start": 14.86,
+          "end": 16.12
+        },
+        {
+          "text": "Flaschenbier",
+          "start": 17.94,
+          "end": 19.28
+        },
+        {
+          "text": "Sauerbier",
+          "start": 21.2,
+          "end": 22.38
+        },
+        {
+          "text": "Schankbier",
+          "start": 24.2,
+          "end": 25.46
+        },
+        {
+          "text": "Starkbier",
+          "start": 27.52,
+          "end": 28.74
+        },
+        {
+          "text": "Vollbier",
+          "start": 30.56,
+          "end": 31.78
+        },
+        {
+          "text": "Aale",
+          "start": 33.62,
+          "end": 34.4
+        },
+        {
+          "text": "Altbier",
+          "start": 36.21,
+          "end": 37.39
+        },
+        {
+          "text": "Berliner Weiße",
+          "start": 39.17,
+          "end": 40.41
+        },
+        {
+          "text": "Emmerbier",
+          "start": 42.42,
+          "end": 43.56
+        },
+        {
+          "text": "Gose",
+          "start": 45.34,
+          "end": 45.86
+        },
+        {
+          "text": "Haferbier",
+          "start": 48.14,
+          "end": 49.36
+        },
+        {
+          "text": "Kölsch",
+          "start": 51.15,
+          "end": 51.75
+        },
+        {
+          "text": "Porter",
+          "start": 53.06,
+          "end": 54.76
+        },
+        {
+          "text": "Staut",
+          "start": 56.91,
+          "end": 57.93
+        },
+        {
+          "text": "Weißbier",
+          "start": 59.6,
+          "end": 60.88
+        },
+        {
+          "text": "Weizenbier",
+          "start": 62.8,
+          "end": 64.18
+        },
+        {
+          "text": "Exportbier",
+          "start": 66.16,
+          "end": 67.66
+        },
+        {
+          "text": "Lagerbier",
+          "start": 69.41,
+          "end": 70.73
+        },
+        {
+          "text": "Merzenbier",
+          "start": 72.45,
+          "end": 73.81
+        },
+        {
+          "text": "Pilzner",
+          "start": 75.68,
+          "end": 76.7
+        },
+        {
+          "text": "Rotbier",
+          "start": 78.6,
+          "end": 79.6
+        },
+        {
+          "text": "Schwarzbier",
+          "start": 81.66,
+          "end": 82.96
+        },
+        {
+          "text": "das alkoholfreie Bier",
+          "start": 84.86,
+          "end": 86.8
+        },
+        {
+          "text": "Bockbier",
+          "start": 88.64,
+          "end": 89.96
+        },
+        {
+          "text": "Leichtbier",
+          "start": 91.72,
+          "end": 93.54
+        },
+        {
+          "text": "Malzbier",
+          "start": 95.3,
+          "end": 96.24
+        },
+        {
+          "text": "Radler",
+          "start": 98.11,
+          "end": 98.89
+        },
+        {
+          "text": "Rauchbier",
+          "start": 100.98,
+          "end": 102.1
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Unterhalb einer Stammwürze von 7% spricht man vom Einfachbier.",
-        "Fassbier enthält etwas mehr Kohlensäure als Flaschenbier.",
-        "Die Berliner Weiße ist ein Weißbier, das aus der deutschen Hauptstadt stammt.",
-        "Leicht salzig und säuerlich im Geschmack gehört die Gose zur Familie der Sauerbiere.",
-        "Der Ursprung des Kölsches geht zurück auf die Zeit des Hochmittelalters bis in die Renaissance.",
-        "Der Hopfen spielt bei den meisten Stauts eine nur sehr untergeordnete Rolle, um die Malzsüße mit einer leichten Hopfenbittere etwas auszubalancieren.",
-        "Das Weizenbier hat eine Stammwürze von 11% und einen Alkoholgehalt von 5,4%.",
-        "Lagerbiere schmecken malzig, weich und ein wenig süß.",
-        "Die Rotfärbung des Rotbiers wird durch Lagerung oder die Zugabe von Farbmalzen erreicht.",
-        "Durch die Verwendung von dunklen Röstmalzen erhält Schwarzbier seine Farbe.",
-        "Der Geschmack des Bockbieres lässt sich als vollmundig beschreiben."
+        {
+          "text": "Unterhalb einer Stammwürze von 7% spricht man vom Einfachbier.",
+          "start": 112.22,
+          "end": 117.14
+        },
+        {
+          "text": "Fassbier enthält etwas mehr Kohlensäure als Flaschenbier.",
+          "start": 117.14,
+          "end": 124.81
+        },
+        {
+          "text": "Die Berliner Weiße ist ein Weißbier, das aus der deutschen Hauptstadt stammt.",
+          "start": 124.81,
+          "end": 133.35
+        },
+        {
+          "text": "Leicht salzig und säuerlich im Geschmack gehört die Gose zur Familie der Sauerbiere.",
+          "start": 133.35,
+          "end": 142.17
+        },
+        {
+          "text": "Der Ursprung des Kölsches geht zurück auf die Zeit des Hochmittelalters bis in die Renaissance.",
+          "start": 142.17,
+          "end": 152.17
+        },
+        {
+          "text": "Der Hopfen spielt bei den meisten Stauts eine nur sehr untergeordnete Rolle, um die Malzsüße mit einer leichten Hopfenbittere etwas auszubalancieren.",
+          "start": 152.17,
+          "end": 166.21
+        },
+        {
+          "text": "Das Walzenbier hat eine Stammwürze von 11% und einen Alkoholgehalt von 5,4%.",
+          "start": 166.21,
+          "end": 177.13
+        },
+        {
+          "text": "Lagerbiere schmecken malzig, weich und ein wenig süß.",
+          "start": 177.13,
+          "end": 185.4
+        },
+        {
+          "text": "Die Rotfärbung des Rotbiers wird durch Lagerung oder die Zugabe von Farbmalzen erreicht.",
+          "start": 185.4,
+          "end": 195.01
+        },
+        {
+          "text": "Durch die Verwendung von dunklen Röstmalzen erhält Schwarzbier seine Farbe.",
+          "start": 195.01,
+          "end": 204.26
+        },
+        {
+          "text": "Der Geschmack des Bockbeeres lässt sich als vollmundig beschreiben.",
+          "start": 204.26,
+          "end": 211.23
+        }
       ]
     }
   ]

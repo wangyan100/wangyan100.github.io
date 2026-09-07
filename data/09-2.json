@@ -4,55 +4,227 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Hals und Rumpf",
-        "Adamsapfel",
-        "Genick",
-        "Gurgel",
-        "Kehle",
-        "Kehlkopf",
-        "Luftröhre",
-        "Nacken",
-        "Schlund",
-        "Speiseröhre",
-        "Brustkorb",
-        "Brusthöhle",
-        "Brustspitze",
-        "Brustwarze",
-        "Bauch",
-        "Bauchhöhle",
-        "Bauchmuskel",
-        "Nabel",
-        "Unterleib",
-        "Schulter",
-        "Schultergelenk",
-        "Schultergürtel",
-        "Wirbel",
-        "Anus",
-        "Becken",
-        "Gesäß",
-        "Hüfte",
-        "Leiste",
-        "Lände"
+        {
+          "text": "Hals und Rumpf",
+          "start": 1.74,
+          "end": 3.96
+        },
+        {
+          "text": "Adamsapfel",
+          "start": 6.89,
+          "end": 8.29
+        },
+        {
+          "text": "Genick",
+          "start": 8.29,
+          "end": 9.67
+        },
+        {
+          "text": "Gurgel",
+          "start": 10.92,
+          "end": 12.48
+        },
+        {
+          "text": "Kehle",
+          "start": 13.79,
+          "end": 15.09
+        },
+        {
+          "text": "Kehlkopf",
+          "start": 16.37,
+          "end": 17.69
+        },
+        {
+          "text": "Luftröhre",
+          "start": 19.2,
+          "end": 21.8
+        },
+        {
+          "text": "Nacken",
+          "start": 21.8,
+          "end": 23.6
+        },
+        {
+          "text": "Schlund",
+          "start": 24.97,
+          "end": 26.13
+        },
+        {
+          "text": "Speiseröhre",
+          "start": 29.01,
+          "end": 30.41
+        },
+        {
+          "text": "Brustkorb",
+          "start": 30.41,
+          "end": 32.57
+        },
+        {
+          "text": "Brusthöhle",
+          "start": 34.01,
+          "end": 36.59
+        },
+        {
+          "text": "Brustspitze",
+          "start": 36.59,
+          "end": 38.99
+        },
+        {
+          "text": "Brustwarze",
+          "start": 40.27,
+          "end": 42.65
+        },
+        {
+          "text": "Bauch",
+          "start": 44.31,
+          "end": 45.01
+        },
+        {
+          "text": "Bauchhöhle",
+          "start": 47.21,
+          "end": 47.91
+        },
+        {
+          "text": "Bauchmuskel",
+          "start": 49.31,
+          "end": 50.71
+        },
+        {
+          "text": "Nabel",
+          "start": 52.17,
+          "end": 53.57
+        },
+        {
+          "text": "Unterleib",
+          "start": 53.57,
+          "end": 55.87
+        },
+        {
+          "text": "Schulter",
+          "start": 57.41,
+          "end": 58.87
+        },
+        {
+          "text": "Schultergelenk",
+          "start": 60.24,
+          "end": 62.0
+        },
+        {
+          "text": "Schultergürtel",
+          "start": 63.91,
+          "end": 66.09
+        },
+        {
+          "text": "Wirbel",
+          "start": 66.09,
+          "end": 68.21
+        },
+        {
+          "text": "Anus",
+          "start": 68.91,
+          "end": 70.55
+        },
+        {
+          "text": "Becken",
+          "start": 72.35,
+          "end": 73.75
+        },
+        {
+          "text": "Gesäß",
+          "start": 76.39,
+          "end": 77.11
+        },
+        {
+          "text": "Hüfte",
+          "start": 79.01,
+          "end": 79.73
+        },
+        {
+          "text": "Leiste",
+          "start": 81.13,
+          "end": 81.85
+        },
+        {
+          "text": "Lände",
+          "start": 83.11,
+          "end": 83.83
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Die Frau wirft den Kopf in den Nacken.",
-        "Mir brennt der Schlund.",
-        "Die Speiseröhre ist ein hohler Schlauch, der vom Rachen bis zum Magen führt.",
-        "Er drückt seine weinende Frau an die Brust.",
-        "Die weibliche Brust besteht zum größten Teil aus Fett- und Drüsengewebe.",
-        "Schläfst du auf dem Bauch oder auf dem Rücken?",
-        "Als Bauchhöhle wird der Raum unterhalb des Zwerchfels bezeichnet.",
-        "In diesem Fall ist es nötig, eine Ultraschalluntersuchung des Abdomens vorzunehmen.",
-        "Nabel ist ein Überbleibsel der Nabelschnur, die mit der Plazenta unserer Mutter verbunden hat, um Föten mit lebenswichtigen Nährstoffen zu versorgen.",
-        "Der Schweiß ran dem Sklaven den Rücken hinunter.",
-        "Er zuckte die Schulter und sagte, er habe keine Ahnung.",
-        "Wegen eines Muskelrisses im Schultergelenk ihres linken Arms musste die 21 Jahre alte Amerikanerin das Turnier in der kommenden Woche absagen.",
-        "Heute streben Frauen wieder nach weiblicheren Figuren mit schönen, aber straffen Kurven, wie eine schmale Talie.",
-        "Die Form des Beckens ist zwischen Frauen und Männern sehr unterschiedlich."
+        {
+          "text": "Die Frau wirft den Kopf in den Nacken.",
+          "start": 93.84,
+          "end": 96.44
+        },
+        {
+          "text": "Mir brennt der Schlund.",
+          "start": 99.57,
+          "end": 101.15
+        },
+        {
+          "text": "Die Speiseröhre ist ein hohler Schlauch, der vom Rachen bis zum Magen führt.",
+          "start": 104.12,
+          "end": 109.22
+        },
+        {
+          "text": "Er drückt seine weinende Frau an die Brust.",
+          "start": 112.27,
+          "end": 115.25
+        },
+        {
+          "text": "Die weibliche Brust besteht zum größten Teil aus Fett- und Drüsengewebe.",
+          "start": 117.42,
+          "end": 122.22
+        },
+        {
+          "text": "Schläfst du auf dem Bauch oder auf dem Rücken?",
+          "start": 122.22,
+          "end": 128.41
+        },
+        {
+          "text": "Als Bauchhöhle wird der Raum unterhalb des Zwerchfels bezeichnet.",
+          "start": 128.41,
+          "end": 135.51
+        },
+        {
+          "text": "In diesem Fall ist es nötig, eine Ultraschalluntersuchung des Abdomens vorzunehmen.",
+          "start": 135.51,
+          "end": 144.4
+        },
+        {
+          "text": "Nabel ist ein Überbleibsel der Nabelschnur, die mit der Plazenta unserer Mutter verbunden hat, um Föten mit lebenswichtigen Nährstoffen zu versorgen.",
+          "start": 144.4,
+          "end": 158.13
+        },
+        {
+          "text": "Der Schweiß ran dem Sklaven den Rücken hinunter.",
+          "start": 158.13,
+          "end": 164.16
+        },
+        {
+          "text": "Er zuckte die Schulter und sagte, er habe keine Ahnung.",
+          "start": 164.16,
+          "end": 170.7
+        },
+        {
+          "text": "Wegen eines Muskelrisses im Schultergelenk ihres linken Arms musste die 21 Jahre alte Amerikanerin das Turnier in der kommenden Woche absagen.",
+          "start": 170.7,
+          "end": 183.68
+        },
+        {
+          "text": "Heute streben Frauen wieder nach weiblicheren Figuren mit schönen, aber straffen Kurven, wie eine schmale Talje.",
+          "start": 183.68,
+          "end": 194.52
+        },
+        {
+          "text": "Die Form des Beckens ist zwischen Frauen und Männern sehr unterschiedlich.",
+          "start": 194.52,
+          "end": 201.92
+        }
       ]
     }
   ]

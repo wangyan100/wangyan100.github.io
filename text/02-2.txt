@@ -1,27 +1,27 @@
-Weine, Champagner, Sekt
-Dessertwein, Fasswein
-Riesling, Rotwein, Schaumwein, Weißwein, Madeira
-Malaga, Masala, Portwein, Sherry
-Tafelwein, Landwein, Prädikatswein, Kabinett
-Spätlese, Auslese, Trockenbärenauslese, Eiswein
-Kellermeister, Weinmacher, Küfer
-Weinkenner, Winzer, Önologe, Sommelier
-Weinkellner, Federweiße, Gespritzte
-Weinschorle, Honigwein
-Mett, Most
-Obstwein, Tristerwein
-Sprechen Sie bitte die folgenden Sätze.
-Im deutschen Sprachraum ist Sekt die Bezeichnung für hochwertige Schaumweine.
-Dessertwein wird in einigen Ländern am Ende einer Mahlzeit mit dem Dessert getrunken.
-Riesling genießt hohes Ansehen auf internationalen Märkten.
-Sie trinkt gern französische Rotweine.
-Um ihre Schaumweine noch besser in Szene zu setzen, engagieren die Winzer Künstler aus aller Welt.
-Man kann Portwein rot bei Zimmertemperatur trinken.
-Sherry wurde im 18. und 19. Jahrhundert durch englische Handelshäuser weltweit bekannt gemacht.
-Nach Qualitätsbezeichnung für Wein aus Deutschland ist Tafelwein die niedrigste Qualitätsstufe.
-Der Prädikatswein ist die Bezeichnung für die höchste Weinqualität in Deutschland.
-Die Auslese ist als Wein von der Güte zwischen der Spätlese und der Beerenauslese eingeordnet.
-Weinschorle besteht etwa zur Hälfte aus frischem Weißwein und kohlesäurehaltigem Mineralwasser.
-Honigwein ist zu jeder Jahres- und Tageszeit ein Genuss.
-Aus einer Ortschronik vom Ende des 19. Jahrhunderts geht hervor,
-dass Most auf der Schwäbischen Alb zu einem der wichtigsten Getränke zählte.
+[00:00:01.810 --> 00:00:10.600] Weine, Champagner, Sekt
+[00:00:10.600 --> 00:00:16.480] Dessertwein, Fasswein
+[00:00:17.060 --> 00:00:31.220] Riesling, Rotwein, Schaumwein, Weißwein, Madeira
+[00:00:31.220 --> 00:00:42.100] Malaga, Masala, Portwein, Sherry
+[00:00:43.440 --> 00:00:54.540] Tafelwein, Landwein, Prädikatswein, Kabinett
+[00:00:56.010 --> 00:01:08.080] Spätlese, Auslese, Trockenbärenauslese, Eiswein
+[00:01:09.420 --> 00:01:17.240] Kellermeister, Weinmacher, Küfer
+[00:01:18.520 --> 00:01:28.840] Weinkenner, Winzer, Önologe, Sommelier
+[00:01:30.530 --> 00:01:39.190] Weinkellner, Federweiße, Gespritzte
+[00:01:40.530 --> 00:01:46.780] Weinschorle, Honigwein
+[00:01:46.780 --> 00:01:50.780] Mett, Most
+[00:01:52.780 --> 00:01:56.890] Obstwein, Tristerwein
+[00:02:01.370 --> 00:02:04.310] Sprechen Sie bitte die folgenden Sätze.
+[00:02:07.160 --> 00:02:13.540] Im deutschen Sprachraum ist Sekt die Bezeichnung für hochwertige Schaumweine.
+[00:02:16.520 --> 00:02:23.100] Dessertwein wird in einigen Ländern am Ende einer Mahlzeit mit dem Dessert getrunken.
+[00:02:25.650 --> 00:02:30.510] Riesling genießt hohes Ansehen auf internationalen Märkten.
+[00:02:33.470 --> 00:02:36.370] Sie trinkt gern französische Rotweine.
+[00:02:38.740 --> 00:02:46.660] Um ihre Schaumweine noch besser in Szene zu setzen, engagieren die Winzer Künstler aus aller Welt.
+[00:02:49.820 --> 00:02:54.180] Man kann Portwein rot bei Zimmertemperatur trinken.
+[00:02:57.040 --> 00:03:04.080] Sherry wurde im 18. und 19. Jahrhundert durch englische Handelshäuser weltweit bekannt gemacht.
+[00:03:07.220 --> 00:03:14.540] Nach Qualitätsbezeichnung für Wein aus Deutschland ist Tafelwein die niedrigste Qualitätsstufe.
+[00:03:16.810 --> 00:03:22.850] Der Prädikatswein ist die Bezeichnung für die höchste Weinqualität in Deutschland.
+[00:03:25.990 --> 00:03:33.470] Die Auslese ist als Wein von der Güte zwischen der Spätlese und der Beerenauslese eingeordnet.
+[00:03:36.690 --> 00:03:43.890] Weinschorle besteht etwa zur Hälfte aus frischem Weißwein und kohlesäurehaltigem Mineralwasser.
+[00:03:47.180 --> 00:03:51.360] Honigwein ist zu jeder Jahres- und Tageszeit ein Genuss.
+[00:03:53.640 --> 00:03:59.000] Aus einer Ortschronik vom Ende des 19. Jahrhunderts geht hervor,
+[00:03:59.420 --> 00:04:04.520] dass Most auf der Schwäbischen Alb zu einem der wichtigsten Getränke zählte.

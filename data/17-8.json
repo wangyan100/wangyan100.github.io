@@ -4,65 +4,267 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Verlag",
-        "Beiträger",
-        "Herausgeber",
-        "Kolumnist",
-        "Maler",
-        "Mituhrheber",
-        "Propaganda",
-        "Schriftsteller",
-        "Auflage",
-        "Erscheinen",
-        "Exemplar",
-        "Herausgeben",
-        "Impressum",
-        "Neuerscheinung",
-        "Neuerscheinung",
-        "publizieren",
-        "Chefredakteur",
-        "Designer",
-        "Editor",
-        "Illustrator",
-        "Redakteur",
-        "Verleger",
-        "Beauftragen",
-        "Korrektur",
-        "Korrigieren",
-        "Manuskript",
-        "Revidieren",
-        "Überarbeiten",
-        "Unterschreiben",
-        "Änderungen vorbehalten",
-        "Auflagenhöhe",
-        "Urheberrecht",
-        "Druck",
-        "Honorar",
-        "Redaktionsschluss",
-        "Schließen",
-        "Urheberrechtsschutz"
+        {
+          "text": "Verlag",
+          "start": 1.94,
+          "end": 3.36
+        },
+        {
+          "text": "Beiträger",
+          "start": 5.25,
+          "end": 6.77
+        },
+        {
+          "text": "Herausgeber",
+          "start": 8.08,
+          "end": 9.92
+        },
+        {
+          "text": "Kolumnist",
+          "start": 11.87,
+          "end": 13.27
+        },
+        {
+          "text": "Maler",
+          "start": 14.87,
+          "end": 16.27
+        },
+        {
+          "text": "Mituhrheber",
+          "start": 16.27,
+          "end": 17.87
+        },
+        {
+          "text": "Propaganda",
+          "start": 20.2,
+          "end": 21.22
+        },
+        {
+          "text": "Schriftsteller",
+          "start": 23.26,
+          "end": 25.06
+        },
+        {
+          "text": "Auflage",
+          "start": 26.38,
+          "end": 28.02
+        },
+        {
+          "text": "Erscheinen",
+          "start": 29.26,
+          "end": 31.04
+        },
+        {
+          "text": "Exemplar",
+          "start": 32.29,
+          "end": 34.15
+        },
+        {
+          "text": "Herausgeben",
+          "start": 35.5,
+          "end": 37.22
+        },
+        {
+          "text": "Impressum",
+          "start": 40.08,
+          "end": 41.48
+        },
+        {
+          "text": "Neuerscheinung",
+          "start": 41.48,
+          "end": 42.18
+        },
+        {
+          "text": "Publizieren",
+          "start": 45.29,
+          "end": 45.99
+        },
+        {
+          "text": "Chefredakteur",
+          "start": 48.86,
+          "end": 49.56
+        },
+        {
+          "text": "Designer",
+          "start": 51.57,
+          "end": 52.59
+        },
+        {
+          "text": "Editor",
+          "start": 53.87,
+          "end": 55.55
+        },
+        {
+          "text": "Illustrator",
+          "start": 56.8,
+          "end": 58.82
+        },
+        {
+          "text": "Redakteur",
+          "start": 60.13,
+          "end": 62.15
+        },
+        {
+          "text": "Verleger",
+          "start": 63.56,
+          "end": 65.18
+        },
+        {
+          "text": "Beauftragen",
+          "start": 66.56,
+          "end": 68.4
+        },
+        {
+          "text": "Korrektur",
+          "start": 70.18,
+          "end": 71.5
+        },
+        {
+          "text": "Korrigieren",
+          "start": 73.46,
+          "end": 75.44
+        },
+        {
+          "text": "Manuskript",
+          "start": 75.44,
+          "end": 77.36
+        },
+        {
+          "text": "Revidieren",
+          "start": 78.67,
+          "end": 81.15
+        },
+        {
+          "text": "Überarbeiten",
+          "start": 82.63,
+          "end": 83.33
+        },
+        {
+          "text": "Unterschreiben",
+          "start": 85.33,
+          "end": 86.69
+        },
+        {
+          "text": "Änderungen vorbehalten",
+          "start": 88.0,
+          "end": 90.5
+        },
+        {
+          "text": "Auflagenhöhe",
+          "start": 91.78,
+          "end": 92.46
+        },
+        {
+          "text": "Urheberrecht",
+          "start": 95.7,
+          "end": 97.06
+        },
+        {
+          "text": "Druck",
+          "start": 98.37,
+          "end": 99.05
+        },
+        {
+          "text": "Honorar",
+          "start": 101.26,
+          "end": 101.94
+        },
+        {
+          "text": "Redaktionsschluss",
+          "start": 104.7,
+          "end": 105.38
+        },
+        {
+          "text": "Schließen",
+          "start": 107.4,
+          "end": 108.58
+        },
+        {
+          "text": "Urheberrechtsschutz",
+          "start": 109.83,
+          "end": 111.73
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Bei welchem Verlag erscheint das Werk?",
-        "Helmut Schmidt ist einer der Herausgeber des Handbuchs.",
-        "Er wird als Kolumnist für eine Schweizer Tageszeitung arbeiten.",
-        "Die Regierung wirft einigen Programmen vor, Propaganda zu betreiben.",
-        "Das ist eine Zeitschrift mit einer hohen Auflage.",
-        "Dieses Buch ist schon rund 50.000 Exemplare gedruckt worden.",
-        "Seine Aufsätze wurden in Buchform herausgegeben.",
-        "Der Redakteur empfiehlt den Lesern einen lesenswerten Roman.",
-        "Der erste Verleger lehnte das Buch ab.",
-        "Dem zweiten gefiel dieses Buch.",
-        "Der neue Ministerpräsident wurde mit der Kabinettsbildung beauftragt.",
-        "Bitte korrigieren Sie mich, wenn ich etwas Falsches sage.",
-        "Er schickt das Manuskript an einen Redakteur.",
-        "Ich habe den Vertrag in der letzten Woche unterschrieben.",
-        "Das geschützte Objekt des Urheberrechts ist in allen Rechtsordnungen ein Werk der Kunst.",
-        "Wer als Arzt mitmacht, kann pro Behandlung 20 bis 30 Euro als Honorar erhalten."
+        {
+          "text": "Bei welchem Verlag erscheint das Werk?",
+          "start": 122.18,
+          "end": 125.32
+        },
+        {
+          "text": "Helmut Schmidt ist einer der Herausgeber Er wird als Kolumnist für eine Schweizer Tageszeitung arbeiten.",
+          "start": 128.44,
+          "end": 139.1
+        },
+        {
+          "text": "Die Regierung wirft einigen Programmen vor, Propaganda zu betreiben.",
+          "start": 142.25,
+          "end": 146.65
+        },
+        {
+          "text": "Das ist eine Zeitschrift mit einer hohen Auflage.",
+          "start": 149.74,
+          "end": 152.9
+        },
+        {
+          "text": "Dieses Buch ist schon rund 50.000 Exemplare gedruckt worden.",
+          "start": 156.04,
+          "end": 160.4
+        },
+        {
+          "text": "Seine Aufsätze wurden in Buchform herausgegeben.",
+          "start": 163.66,
+          "end": 167.02
+        },
+        {
+          "text": "Der Redakteur empfiehlt den Lesern von einem lesenswerten Roman.",
+          "start": 170.09,
+          "end": 174.17
+        },
+        {
+          "text": "Der erste Verleger lehnte das Buch ab.",
+          "start": 177.24,
+          "end": 179.9
+        },
+        {
+          "text": "Dem zweiten gefiel dieses Buch.",
+          "start": 180.3,
+          "end": 182.22
+        },
+        {
+          "text": "Der neue Ministerpräsident wurde mit der Kabinettsbildung beauftragt.",
+          "start": 185.31,
+          "end": 189.93
+        },
+        {
+          "text": "Bitte korrigieren Sie mich, wenn ich etwas Falsches sage.",
+          "start": 192.99,
+          "end": 196.21
+        },
+        {
+          "text": "Er schickt das Manuskript an einen Redakteur.",
+          "start": 199.32,
+          "end": 202.44
+        },
+        {
+          "text": "Ich habe den Vertrag in der letzten Woche unterschrieben.",
+          "start": 205.25,
+          "end": 208.73
+        },
+        {
+          "text": "Das geschützte Objekt des Urheberrechts ist in allen Rechtsordnungen ein Werk der Kunst.",
+          "start": 211.71,
+          "end": 217.69
+        },
+        {
+          "text": "Wer als Arzt mitmacht, kann pro Behandlung 20 bis 30 Euro als Honorar erhalten.",
+          "start": 220.92,
+          "end": 227.18
+        }
       ]
     }
   ]

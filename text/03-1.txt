@@ -1,52 +1,52 @@
-Küche
-Backofen
-Reiskocher
-Elektroherd
-Gasherd
-Kühlschrank
-Mikrowellenherd
-Spülmaschine
-Toaster
-Wasserkocher
-Pfanne
-Schnellkochtopf
-Wok
-Essstäbchen
-Gabel
-Löffel
-Messer
-Blech
-Kanne
-Krug
-Schale
-Schüssel
-Teller
-Becher
-Seidel
-Glas
-Henkelbecher
-Kelch
-Sektglas
-Tasse
-Allzweckmesser
-Ausbeinmesser
-Brotmesser
-Fleischmesser
-Gemüsemesser
-Hackmesser
-Messerblock
-Schälmesser
-Sprechen Sie bitte die folgenden Sätze.
-Backofen und Herd sind in Deutschland wichtige Bestandteile jeder Küche.
-Man kann Eier in der Pfanne braten.
-Jeder Topf findet seinen Deckel.
-Wenn man Essstäbchen gekreuzt ablegt, wird es Unglück bringen.
-Wenn ein Deutscher Besteck sagt, meint er Gabel, Löffel und Messer.
-Er hat die Suppe mit dem Löffel gegessen.
-Das Messer schneidet sehr scharf.
-Bereite bitte das Blech für den Kuchen vor.
-In diese Kanne passen 1,8 Liter.
-Der Krug geht so lange zum Wasser, bis er bricht.
-Marie schabte den Reis aus der Schüssel.
-Könnten Sie mir bitte einen der Becher da rüberreichen?
-Mein Kollege hat ein Glas über den Durst getrunken und ist in den Tiefschlaf geraten.
+[00:00:01.840 --> 00:00:03.340] Küche
+[00:00:04.680 --> 00:00:06.280] Backofen
+[00:00:07.560 --> 00:00:09.360] Reiskocher
+[00:00:10.610 --> 00:00:12.650] Elektroherd
+[00:00:13.900 --> 00:00:15.640] Gasherd
+[00:00:16.920 --> 00:00:18.540] Kühlschrank
+[00:00:19.820 --> 00:00:22.040] Mikrowellenherd
+[00:00:23.420 --> 00:00:25.020] Spülmaschine
+[00:00:26.330 --> 00:00:27.950] Toaster
+[00:00:29.230 --> 00:00:30.890] Wasserkocher
+[00:00:32.390 --> 00:00:33.610] Pfanne
+[00:00:37.680 --> 00:00:39.360] Schnellkochtopf
+[00:00:40.990 --> 00:00:42.010] Wok
+[00:00:43.610 --> 00:00:45.490] Essstäbchen
+[00:00:46.770 --> 00:00:48.330] Gabel
+[00:00:49.640 --> 00:00:51.080] Löffel
+[00:00:52.360 --> 00:00:53.820] Messer
+[00:00:55.230 --> 00:00:56.710] Blech
+[00:00:58.080 --> 00:00:59.100] Kanne
+[00:01:00.510 --> 00:01:01.730] Krug
+[00:01:03.200 --> 00:01:04.560] Schale
+[00:01:06.000 --> 00:01:07.220] Schüssel
+[00:01:08.630 --> 00:01:10.190] Teller
+[00:01:11.600 --> 00:01:12.880] Becher
+[00:01:14.220 --> 00:01:15.660] Seidel
+[00:01:16.980 --> 00:01:18.180] Glas
+[00:01:19.520 --> 00:01:21.700] Henkelbecher
+[00:01:23.080 --> 00:01:25.660] Kelch
+[00:01:25.660 --> 00:01:27.600] Sektglas
+[00:01:28.880 --> 00:01:30.100] Tasse
+[00:01:31.600 --> 00:01:33.700] Allzweckmesser
+[00:01:35.010 --> 00:01:37.030] Ausbeinmesser
+[00:01:38.310 --> 00:01:40.210] Brotmesser
+[00:01:41.680 --> 00:01:43.640] Fleischmesser
+[00:01:44.960 --> 00:01:46.980] Gemüsemesser
+[00:01:48.380 --> 00:01:50.160] Hackmesser
+[00:01:51.480 --> 00:01:52.880] Messerblock
+[00:01:55.460 --> 00:01:56.240] Schälmesser
+[00:02:00.810 --> 00:02:03.910] Sprechen Sie bitte die folgenden Sätze.
+[00:02:06.760 --> 00:02:12.680] Backofen und Herd sind in Deutschland wichtige Bestandteile jeder Küche.
+[00:02:15.330 --> 00:02:18.550] Man kann Eier in der Pfanne braten.
+[00:02:21.150 --> 00:02:23.830] Jeder Topf findet seinen Deckel.
+[00:02:26.560 --> 00:02:31.560] Wenn man Essstäbchen gekreuzt ablegt, wird es Unglück bringen.
+[00:02:33.860 --> 00:02:39.940] Wenn ein Deutscher Besteck sagt, meint er Gabel, Löffel und Messer.
+[00:02:42.960 --> 00:02:45.640] Er hat die Suppe mit dem Löffel gegessen.
+[00:02:48.820 --> 00:02:50.970] Das Messer schneidet sehr scharf.
+[00:02:54.350 --> 00:02:57.110] Bereite bitte das Blech für den Kuchen vor.
+[00:03:00.200 --> 00:03:03.100] In diese Kanne passen 1,8 Liter.
+[00:03:06.310 --> 00:03:10.250] Der Krug geht so lange zum Wasser, bis er bricht.
+[00:03:13.030 --> 00:03:15.650] Marie schabte den Reis aus der Schüssel.
+[00:03:18.020 --> 00:03:21.820] Könnten Sie mir bitte einen der Becher da rüberreichen?
+[00:03:24.980 --> 00:03:30.840] Mein Kollege hat ein Glas über den Durst getrunken und ist in den Tiefschlaf geraten.

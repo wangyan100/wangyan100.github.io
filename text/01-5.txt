@@ -1,17 +1,16 @@
-snacks, drops, Gummibongbong, Halspastille, Halstablette, Kaugummi, Knallbrause, Knisterzucker,
-Lutscher, Nougat, die dunkle Schokolade, Marzipanpraline, Milchschokolade, Praline,
-Schokoladentafel, Trüffel, die weiße Schokolade, Überraschungsei, das Eis am Stiel, Eisbecher,
-Eiscreme, Eiskugel, Eistüte, Fruchteis, Cashewnuss, Erdnuss, Haselnuss, Maroni, Pistazie,
-Studentenfutter, Walnuss, Chips, Cracker, Crackers, Erdnussflips, Extrudaprodukt, Schokoflocken.
-Sprechen Sie bitte die folgenden Sätze.
-Gummibärchen sind Gummibongbongs in Form von etwa zwei Zentimeter großen, stilisierten
-Halspastillen lindern und behandeln die schmerzhaften Symptome leicht entzündeter Schleimhäute.
-Jeder Deutsche kaut Schätzungen zufolge 100 Kaugummis im Jahr.
-Milchschokolade ist hitzeempfindlicher und weniger lange haltbar als Bitterschokolade.
-Das Leben ist wie eine Schachtel Pralinen. Man weiß nie, was man kriegt.
-Mozartkugeln sind Pralinen aus Pistazien, Marzipan und Nougat.
-Häufig kostet eine Eiskugel der handwerklichen Eisdealer ein Euro.
-Erdnüsse wachsen unterirdisch. Es gilt für die Pistazie, je grüner,
-desto höher die Qualität. Studentenfutter ist eine bekannte Bezeichnung für einen Snack,
-der aus getrockneten Früchten und Nüssen besteht.
-Cracker werden oft als kleine Beilage zu Wein, Bier, Käse und ähnlichem gegessen.
+[00:00:01.810 --> 00:00:25.250] snacks, drops, Gummibongbong, Halspastille, Halstablette, Kaugummi, Knallbrause, Knisterzucker,
+[00:00:27.060 --> 00:00:44.560] Lutscher, Nougat, die dunkle Schokolade, Marzipanpraline, Milchschokolade, Praline,
+[00:00:46.000 --> 00:01:04.480] Schokoladentafel, Trüffel, die weiße Schokolade, Überraschungsei, das Eis am Stiel, Eisbecher,
+[00:01:06.820 --> 00:01:32.140] Eiscreme, Eiskugel, Eistüte, Fruchteis, Cashewnuss, Erdnuss, Haselnuss, Maroni, Pistazie,
+[00:01:36.840 --> 00:01:56.670] Studentenfutter, Walnuss, Chips, Cracker, Crackers, Erdnussflips, Extrudaprodukt, Schokoflocken.
+[00:02:02.170 --> 00:02:04.470] Sprechen Sie bitte die folgenden Sätze.
+[00:02:07.600 --> 00:02:14.900] Gummibärchen sind Gummibongbongs in Form von etwa zwei Zentimeter großen stilisierten
+[00:02:14.900 --> 00:02:24.830] Beeren. Halspastillen lindern und behandeln die schmerzhaften Symptome leicht entzündeter
+[00:02:24.830 --> 00:02:38.250] Schleimhäute. Jeder Deutsche kaut Schätzungen zufolge 100 Kaugummis im Jahr. Milchschokolade
+[00:02:38.250 --> 00:02:47.000] ist hitzeempfindlicher und weniger lange haltbar als Bitterschokolade. Das Leben
+[00:02:47.000 --> 00:02:51.800] ist wie eine Schachtel Pralinen. Man weiß nie, was man kriegt.
+[00:02:56.500 --> 00:03:06.330] Mozartkugeln sind Pralinen aus Pistazien, Marzipan und Nougat. Häufig kostet eine
+[00:03:06.330 --> 00:03:19.080] Eiskugel der handwerklichen Eisdealer ein Euro. Erdnüsse wachsen unterirdisch. Es
+[00:03:19.080 --> 00:03:28.650] gilt für die Pistazie, je grüner, desto höher die Qualität. Studentenfutter ist
+[00:03:28.650 --> 00:03:34.350] eine bekannte Bezeichnung für einen Snack, der aus getrockneten Früchten und Nüssen
+[00:03:34.350 --> 00:03:45.190] besteht. Cracker werden oft als kleine Beilage zu Wein, Bier, Käse und ähnlichem gegessen.

@@ -1,18 +1,15 @@
-Bildsäule Moumiere, Pharao, Pylon, Pyramide, Sarg, Sphinx,
-Taltempel, Fiale, Gewölbe, Kreuzblume, Maßwerk, Portal, Rosette
-Wasserspeyer, Akropolis, Blattkranz, Ornament, Patenon, Säule, Standbild, Stele
-Biedermeier, Dachärker, Manierismus, Muschelwerk, Prächtig, Prachtvoll, Rollwerk, Schatz, Absis, Bogen, Chor, Mittelschiff, Pfeiler, Querschiff, Seitenschiff
-Sprechen Sie bitte die folgenden Sätze.
-Pharao war im alten Ägypten ein Titel für den König.
-Die größte und bekannteste Pyramide ist die Cheops-Pyramide aus dem alten Ägypten.
-In einer Bibliothek in Amsterdam haben die Autoren in uralten Schriften nach dem Schlüssel der Sphinx gesucht.
-Die Konstruktionsweise dieses Gewölbes weckt das Interesse vieler Baufachleute.
-Das Gewölbe wird von Säulen gestützt.
-Die Kreuzblume findet sich als Schmuck auf Dachfürsten, Giebeln, Fialen und Turmpyramiden.
-Die Akropolis ist ein Weltkulturerbe der UNESCO und zielt heute viele Urlauber an.
-Der Patenon war sowohl innen als auch außen mit aufwändigen Marmornen Bildhauerarbeiten dekoriert.
-Der Dachärker dient zur Belichtung und Belüftung des Dachraumes.
-Das Rollwerk ist eine Dekorationsform, die hauptsächlich in der Kunst und Architektur Frühbarock vorkommt.
-Die Zeitdauer ist ein unbezahlbarer Schatz.
-Absieden sind typische Bestandteile von antiken Basiliken.
-Die steinerne Brücke ruht auf vier Pfeilern.
+[00:00:07.000 --> 00:00:23.900] Bildsäule Moumiere, Pharao, Pylon, Pyramide, Sarg, Sphinx,
+[00:00:25.670 --> 00:00:45.680] Taltempel, Fiale, Gewölbe, Kreuzblume, Maßwerk, Portal, Rosette
+[00:00:46.240 --> 00:01:09.220] Wasserspeier, Akropolis, Blattkranz, Ornament, Patenon, Säule, Standbild, Stele
+[00:01:09.980 --> 00:01:52.600] Biedermeier, Dachärker, Manierismus, Muschelwerk, prächtig, prachtvoll, Rollwerk, Schatz, Absis, Bogen, Chor, Mittelschiff, Pfeiler, Querschiff, Seitenschiff
+[00:02:03.250 --> 00:02:15.990] Pharao war im alten Ägypten ein Titel für den König. Die größte und bekannteste Pyramide ist die Cheops-Pyramide aus dem alten Ägypten.
+[00:02:19.020 --> 00:02:26.140] In einer Bibliothek in Amsterdam haben die Autoren in uralten Schriften nach dem Schlüssel der Sphinx gesucht.
+[00:02:29.180 --> 00:02:34.660] Die Konstruktionsweise dieses Gewölbes weckt das Interesse vieler Baufachleute.
+[00:02:37.540 --> 00:02:50.490] Das Gewölbe wird von Säulen gestützt. Die Kreuzblume findet sich als Schmuck auf Dachfürsten, Giebeln, Fialen und Turmpyramiden.
+[00:02:53.530 --> 00:02:59.770] Die Akropolis ist ein Weltkulturerbe der UNESCO und zielt heute viele Urlauber an.
+[00:03:02.710 --> 00:03:09.570] Der Patenon war sowohl innen als auch außen mit aufwendigen Marmornen-Bildhauer-Arbeiten dekoriert.
+[00:03:11.880 --> 00:03:17.280] Der Dacherker dient zur Belichtung und Belüftung des Dachraumes.
+[00:03:20.390 --> 00:03:27.810] Das Rollwerk ist eine Dekorationsform, die hauptsächlich in der Kunst- und Architektur Frühbarock vorkommt.
+[00:03:30.910 --> 00:03:34.040] Die Zeitdauer ist ein unbezahlbarer Schatz.
+[00:03:37.020 --> 00:03:41.080] Absieden sind typische Bestandteile von antiken Basiliken.
+[00:03:44.070 --> 00:03:47.150] Die steinerne Brücke ruht auf vier Pfeilern.

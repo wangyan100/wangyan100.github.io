@@ -4,65 +4,277 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "trauer",
-        "abgeschiedenheit",
-        "einsam",
-        "eintönig",
-        "vereinsamen",
-        "verlassen",
-        "Verlassenheit",
-        "Vereinsamung",
-        "betrüben",
-        "betrüblich",
-        "enttäuschen",
-        "Enttäuschung",
-        "hoffnungslos",
-        "Kummer",
-        "traurig",
-        "Verzweiflung",
-        "bedrücken",
-        "Depression",
-        "depressiv",
-        "deprimieren",
-        "deprimiert",
-        "melancholisch",
-        "trübselig",
-        "unausgefüllt",
-        "abstumpfen",
-        "Apathie",
-        "apathisch",
-        "frostig",
-        "gleichgültig",
-        "jemandem die kalte Schulter zeigen",
-        "teilnahmslos",
-        "aufrichten",
-        "beruhigen",
-        "ermuntern",
-        "trösten",
-        "tröstlich",
-        "Trostwort"
+        {
+          "text": "trauer",
+          "start": 1.9,
+          "end": 3.48
+        },
+        {
+          "text": "abgeschiedenheit",
+          "start": 5.4,
+          "end": 6.86
+        },
+        {
+          "text": "einsam",
+          "start": 8.81,
+          "end": 9.73
+        },
+        {
+          "text": "eintönig",
+          "start": 11.41,
+          "end": 12.71
+        },
+        {
+          "text": "vereinsamen",
+          "start": 14.48,
+          "end": 15.58
+        },
+        {
+          "text": "verlassen",
+          "start": 17.66,
+          "end": 18.66
+        },
+        {
+          "text": "Verlassenheit",
+          "start": 20.49,
+          "end": 21.69
+        },
+        {
+          "text": "Vereinsamung",
+          "start": 23.74,
+          "end": 26.38
+        },
+        {
+          "text": "betrüben",
+          "start": 26.38,
+          "end": 28.82
+        },
+        {
+          "text": "betrüblich",
+          "start": 29.72,
+          "end": 31.64
+        },
+        {
+          "text": "enttäuschen",
+          "start": 32.82,
+          "end": 34.66
+        },
+        {
+          "text": "Enttäuschung",
+          "start": 35.88,
+          "end": 37.02
+        },
+        {
+          "text": "hoffnungslos",
+          "start": 38.87,
+          "end": 39.81
+        },
+        {
+          "text": "Kummer",
+          "start": 42.02,
+          "end": 42.9
+        },
+        {
+          "text": "traurig",
+          "start": 44.77,
+          "end": 45.33
+        },
+        {
+          "text": "Verzweiflung",
+          "start": 48.5,
+          "end": 49.9
+        },
+        {
+          "text": "bedrücken",
+          "start": 50.48,
+          "end": 51.32
+        },
+        {
+          "text": "Depression",
+          "start": 53.25,
+          "end": 54.19
+        },
+        {
+          "text": "depressiv",
+          "start": 56.39,
+          "end": 57.51
+        },
+        {
+          "text": "deprimieren",
+          "start": 59.4,
+          "end": 60.44
+        },
+        {
+          "text": "deprimiert",
+          "start": 62.44,
+          "end": 63.68
+        },
+        {
+          "text": "melancholisch",
+          "start": 65.76,
+          "end": 67.16
+        },
+        {
+          "text": "trübselig",
+          "start": 68.51,
+          "end": 69.91
+        },
+        {
+          "text": "unausgefüllt",
+          "start": 71.59,
+          "end": 72.89
+        },
+        {
+          "text": "abstumpfen",
+          "start": 74.87,
+          "end": 76.31
+        },
+        {
+          "text": "Apathie",
+          "start": 77.81,
+          "end": 79.25
+        },
+        {
+          "text": "apathisch",
+          "start": 80.63,
+          "end": 81.47
+        },
+        {
+          "text": "frostig",
+          "start": 83.62,
+          "end": 84.72
+        },
+        {
+          "text": "gleichgültig",
+          "start": 85.96,
+          "end": 88.2
+        },
+        {
+          "text": "jemandem die kalte Schulter zeigen",
+          "start": 89.52,
+          "end": 91.92
+        },
+        {
+          "text": "teilnahmslos",
+          "start": 94.01,
+          "end": 95.31
+        },
+        {
+          "text": "aufrichten",
+          "start": 97.35,
+          "end": 98.19
+        },
+        {
+          "text": "beruhigen",
+          "start": 100.44,
+          "end": 101.6
+        },
+        {
+          "text": "ermuntern",
+          "start": 103.26,
+          "end": 104.24
+        },
+        {
+          "text": "trösten",
+          "start": 106.26,
+          "end": 107.3
+        },
+        {
+          "text": "tröstlich",
+          "start": 109.18,
+          "end": 110.12
+        },
+        {
+          "text": "Trostwort",
+          "start": 112.25,
+          "end": 113.01
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Der alte Mann lebte in der Abgeschiedenheit.",
-        "Nach dem Tod seiner Frau fühlte er sich sehr einsam.",
-        "Er ist in seinem Alter in der großen Stadt völlig vereinsamt.",
-        "Das Kind stand verlassen am Straßenrand.",
-        "Was betrübt dich denn?",
-        "Ist Lukas das verleugnete Kind, das aus Enttäuschung und Wut den eigenen Vater ermordet hat?",
-        "Spinner am Morgen bringt Kummer und Sorgen, Spinner am Abend erquickend und labend.",
-        "Er war so traurig, dass er weinte.",
-        "Eine tiefe Verzweiflung packte ihn.",
-        "Dieses nasskalte Wetter deprimiert mich.",
-        "Sein schweres Schicksal hatte ihn abgestumpft.",
-        "Seine Apathie führt dazu, dass seine Frau mit Kindern das Haus verlässt.",
-        "Es ist mir völlig gleichgültig, ob du kommst oder nicht.",
-        "Wegen Geschäft zeigt er stets seiner Frau die kalte Schulter.",
-        "Wie kann ich dich wieder aufrichten?",
-        "Ihre Worte trösteten mich."
+        {
+          "text": "Der alte Mann lebte in der Abgeschiedenheit.",
+          "start": 122.82,
+          "end": 126.66
+        },
+        {
+          "text": "Nach dem Tod seiner Frau fühlte er sich sehr einsam.",
+          "start": 129.63,
+          "end": 133.43
+        },
+        {
+          "text": "Er ist in seinem Alter in der großen Stadt völlig vereinsamt.",
+          "start": 136.34,
+          "end": 140.48
+        },
+        {
+          "text": "Das Kind stand verlassen am Straßenrand.",
+          "start": 143.57,
+          "end": 146.31
+        },
+        {
+          "text": "Was betrübt dich denn?",
+          "start": 148.58,
+          "end": 151.02
+        },
+        {
+          "text": "Ist Lukas das verleugnete Kind, das aus Enttäuschung und Wut den eigenen Vater ermordet hat?",
+          "start": 154.05,
+          "end": 160.23
+        },
+        {
+          "text": "Spinner am Morgen bringt Kummer und Sorgen, Spinner am Abend erquickend und labend.",
+          "start": 163.56,
+          "end": 169.72
+        },
+        {
+          "text": "Er war so traurig, dass er weinte.",
+          "start": 172.62,
+          "end": 175.02
+        },
+        {
+          "text": "Eine tiefe Verzweiflung packte ihn.",
+          "start": 178.13,
+          "end": 180.69
+        },
+        {
+          "text": "Dieses nasskalte Wetter deprimiert mich.",
+          "start": 182.99,
+          "end": 186.59
+        },
+        {
+          "text": "Sein schweres Schicksal hatte ihn abgestumpft.",
+          "start": 189.71,
+          "end": 193.31
+        },
+        {
+          "text": "Seine Apathie führt dazu, dass seine Frau mit Kindern das Haus verlässt.",
+          "start": 196.32,
+          "end": 201.84
+        },
+        {
+          "text": "Es ist mir völlig gleichgültig, ob du kommst oder nicht.",
+          "start": 204.25,
+          "end": 207.81
+        },
+        {
+          "text": "Wegen Geschäft zeigt er stets seiner Frau die kalte Schulter.",
+          "start": 210.87,
+          "end": 214.97
+        },
+        {
+          "text": "Wie kann ich dich wieder aufrichten?",
+          "start": 217.85,
+          "end": 219.91
+        },
+        {
+          "text": "Ihre Worte trösteten mich.",
+          "start": 223.09,
+          "end": 225.11
+        }
       ]
     }
   ]

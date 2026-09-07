@@ -1,58 +1,58 @@
-Baseball
-Außenspieler
-Baseman
-Fänger
-Innenspieler
-Läufer
-Schlagmann
-Should-stop
-Werfer
-Außenfeld
-Base
-Mahlkissen
-Mahlquadrat
-Schlagmal
-Homeplate
-Strikezone
-Tribüne
-Umzäunung
-Hit
-Home run
-Inning
-Out
-Run
-Strike
-Strikeout
-Kopfhaube
-Baseballmütze
-Baseballschläger
-Brustschutz
-Fanghandschuh
-Gesichtsmaske
-Schlaghelm
-Erlaufen
-Erreichen
-Erzielen
-Schlagen
-Stehlen
-Treffen
-Verfehlen
-Werfen
-Sprechen Sie bitte die folgenden Sätze.
-Die Teams im Baseball erringen Punkte durch Ablaufen der Bases.
-Baseballspiel wird von zwei Mannschaften zu je neun Spielern gespielt.
-Der Ball berührte den Handschuh des Fängers.
-Ein Läufer kann jederzeit versuchen, die Base zu stehlen,
-auch wenn der Ball vom Schlagmann gar nicht geschlagen wurde.
-Schlagmänner und Läufer im Feld tragen Schlaghelme zum Schützen von Kopftreffern mit dem Ball.
-Der Schlagmann hat den Ball getroffen.
-Dieser Werfer hat zwei Strikes geworfen.
-Im Baseball ist die Homeplate die Endbase.
-Der Hauptschiedsrichter kann sich leicht entscheiden, ob der Ball in der Strikezone war oder nicht.
-Das Spielfeld besteht aus zwei Teilen und wird durch eine Umzäunung begrenzt.
-Ein Homerun zählt als Hit.
-Ein Baseballspiel besteht im Regelfall aus neun Innings.
-Der Fanghandschuh des First Basemans ist etwas größer als jene der anderen.
-Der Schiedsrichter zeigte einen Strikeout durch eine Handbewegung an.
-Die Heimmannschaft hat schnell den ersten Run erzielt.
-Der Schuss verfehlte sein Ziel.
+[00:00:01.740 --> 00:00:03.060] Baseball
+[00:00:06.400 --> 00:00:07.800] Außenspieler
+[00:00:07.800 --> 00:00:08.760] Baseman
+[00:00:10.110 --> 00:00:11.630] Fänger
+[00:00:14.700 --> 00:00:16.100] Innenspieler
+[00:00:16.100 --> 00:00:17.480] Läufer
+[00:00:18.820 --> 00:00:20.420] Schlagmann
+[00:00:21.760 --> 00:00:23.260] Should-stop
+[00:00:24.670 --> 00:00:25.950] Werfer
+[00:00:27.650 --> 00:00:29.050] Außenfeld
+[00:00:30.410 --> 00:00:31.550] Base
+[00:00:32.830 --> 00:00:34.610] Mahlkissen
+[00:00:36.570 --> 00:00:37.970] Mahlquadrat
+[00:00:39.350 --> 00:00:40.590] Schlagmal
+[00:00:42.210 --> 00:00:43.610] Homeplate
+[00:00:45.110 --> 00:00:47.130] Strikezone
+[00:00:48.440 --> 00:00:49.700] Tribüne
+[00:00:51.740 --> 00:00:53.140] Umzäunung
+[00:00:54.420 --> 00:00:55.200] Hit
+[00:00:56.450 --> 00:00:58.270] Home run
+[00:00:59.520 --> 00:01:00.780] Inning
+[00:01:02.060 --> 00:01:03.080] Out
+[00:01:04.400 --> 00:01:05.320] Run
+[00:01:06.790 --> 00:01:08.230] Strike
+[00:01:09.800 --> 00:01:11.740] Strikeout
+[00:01:13.050 --> 00:01:14.390] Kopfhaube
+[00:01:16.430 --> 00:01:17.830] Baseballmütze
+[00:01:19.140 --> 00:01:20.820] Baseballschläger
+[00:01:22.500 --> 00:01:23.900] Brustschutz
+[00:01:27.360 --> 00:01:28.640] Fanghandschuh
+[00:01:28.640 --> 00:01:30.560] Gesichtsmaske
+[00:01:31.900 --> 00:01:33.260] Schlaghelm
+[00:01:35.060 --> 00:01:36.340] Erlaufen
+[00:01:37.660 --> 00:01:38.800] erreichen
+[00:01:40.040 --> 00:01:41.860] erzielen
+[00:01:43.240 --> 00:01:44.600] schlagen
+[00:01:46.040 --> 00:01:47.760] stehlen
+[00:01:49.070 --> 00:01:49.990] treffen
+[00:01:53.410 --> 00:01:54.690] verfehlen
+[00:01:54.690 --> 00:01:56.050] werfen
+[00:02:00.530 --> 00:02:03.350] Sprechen Sie bitte die folgenden Sätze.
+[00:02:06.260 --> 00:02:10.720] Die Teams im Baseball erringen Punkte durch Ablaufen der Bases.
+[00:02:14.430 --> 00:02:19.210] Baseballspiel wird von zwei Mannschaften zu je neun Spielern gespielt.
+[00:02:22.400 --> 00:02:25.140] Der Ball berührte den Handschuh des Fängers.
+[00:02:28.150 --> 00:02:32.730] Ein Läufer kann jederzeit versuchen, die Base zu stehlen,
+[00:02:32.910 --> 00:02:36.850] auch wenn der Ball vom Schlagmann gar nicht geschlagen wurde.
+[00:02:40.190 --> 00:02:46.710] Schlagmänner und Läufer im Feld tragen Schlaghelme zum Schützen von Kopftreffern mit dem Ball.
+[00:02:49.730 --> 00:02:51.950] Der Schlagmann hat den Ball getroffen.
+[00:02:54.910 --> 00:02:58.190] Dieser Werfer hat zwei Strikes geworfen.
+[00:03:01.230 --> 00:03:04.890] Im Baseball ist die Homeplate die Endbase.
+[00:03:07.900 --> 00:03:14.620] Der Hauptschiedsrichter kann sich leicht entscheiden, ob der Ball in der Strikezone war oder nicht.
+[00:03:17.670 --> 00:03:23.390] Das Spielfeld besteht aus zwei Teilen und wird durch eine Umzäunung begrenzt.
+[00:03:26.260 --> 00:03:28.600] Ein Homerun zählt als Hit.
+[00:03:31.650 --> 00:03:35.690] Ein Baseballspiel besteht im Regelfall aus neun Innings.
+[00:03:38.470 --> 00:03:44.420] Der Fanghandschuh des First Basemans ist etwas größer als jene der anderen.
+[00:03:47.550 --> 00:03:52.670] Der Schiedsrichter zeigte einen Strikeout durch eine Handbewegung an.
+[00:03:55.600 --> 00:03:59.240] Die Heimmannschaft hat schnell den ersten Run erzielt.
+[00:04:02.270 --> 00:04:04.410] Der Schuss verfehlte sein Ziel.

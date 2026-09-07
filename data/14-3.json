@@ -4,61 +4,257 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Beinkleider und Unterwäsche",
-        "Anzughose",
-        "Bermudas",
-        "Bügelfalte",
-        "die weit geschnittene Hose",
-        "Hosentasche",
-        "Hosenträger",
-        "Jeans",
-        "Overall",
-        "Hosenrock",
-        "Maxirock",
-        "Midirock",
-        "Minirock",
-        "Plisserock",
-        "Satinrock",
-        "Wickelrock",
-        "Büstenhalter",
-        "Elastikschlüpfer",
-        "Corsolette",
-        "Mieder",
-        "Miederhose",
-        "Schlüpfer",
-        "Slip",
-        "Höschen",
-        "Boxershorts",
-        "Netzhemd",
-        "Unterhemd",
-        "Unterjacke",
-        "Unterhose",
-        "Hausanzug",
-        "Morgenmantel",
-        "Nachthemd",
-        "Schlafanzug"
+        {
+          "text": "Beinkleider und Unterwäsche",
+          "start": 1.65,
+          "end": 5.09
+        },
+        {
+          "text": "Anzughose",
+          "start": 6.43,
+          "end": 8.35
+        },
+        {
+          "text": "Bermudas",
+          "start": 9.66,
+          "end": 11.18
+        },
+        {
+          "text": "Bügelfalte",
+          "start": 12.56,
+          "end": 14.52
+        },
+        {
+          "text": "die weit geschnittene Hose",
+          "start": 15.8,
+          "end": 18.46
+        },
+        {
+          "text": "Hosentasche",
+          "start": 19.74,
+          "end": 21.66
+        },
+        {
+          "text": "Hosenträger",
+          "start": 23.0,
+          "end": 24.78
+        },
+        {
+          "text": "Jeans",
+          "start": 26.06,
+          "end": 28.48
+        },
+        {
+          "text": "Overall",
+          "start": 28.48,
+          "end": 29.98
+        },
+        {
+          "text": "Hosenrock",
+          "start": 31.26,
+          "end": 32.76
+        },
+        {
+          "text": "Maxirock",
+          "start": 34.04,
+          "end": 36.12
+        },
+        {
+          "text": "Midirock",
+          "start": 37.63,
+          "end": 39.57
+        },
+        {
+          "text": "Minirock",
+          "start": 40.82,
+          "end": 42.42
+        },
+        {
+          "text": "Plisserock",
+          "start": 43.79,
+          "end": 45.63
+        },
+        {
+          "text": "Satinrock",
+          "start": 47.2,
+          "end": 48.28
+        },
+        {
+          "text": "Wickelrock",
+          "start": 50.17,
+          "end": 51.75
+        },
+        {
+          "text": "Büstenhalter",
+          "start": 53.12,
+          "end": 55.3
+        },
+        {
+          "text": "Elastikschlüpfer",
+          "start": 56.62,
+          "end": 58.8
+        },
+        {
+          "text": "Corsolett",
+          "start": 60.14,
+          "end": 61.92
+        },
+        {
+          "text": "Mieder",
+          "start": 63.17,
+          "end": 64.65
+        },
+        {
+          "text": "Miederhose",
+          "start": 65.96,
+          "end": 67.74
+        },
+        {
+          "text": "Schlüpfer",
+          "start": 69.05,
+          "end": 70.65
+        },
+        {
+          "text": "Slip",
+          "start": 72.16,
+          "end": 73.54
+        },
+        {
+          "text": "Höschen",
+          "start": 74.91,
+          "end": 76.35
+        },
+        {
+          "text": "Boxershorts",
+          "start": 77.7,
+          "end": 80.36
+        },
+        {
+          "text": "Netzhemd",
+          "start": 82.3,
+          "end": 83.7
+        },
+        {
+          "text": "Unterhemd",
+          "start": 83.7,
+          "end": 85.7
+        },
+        {
+          "text": "Unterjacke",
+          "start": 86.98,
+          "end": 89.58
+        },
+        {
+          "text": "Unterhose",
+          "start": 89.58,
+          "end": 91.62
+        },
+        {
+          "text": "Hausanzug",
+          "start": 94.36,
+          "end": 95.12
+        },
+        {
+          "text": "Morgenmantel",
+          "start": 99.04,
+          "end": 99.8
+        },
+        {
+          "text": "Nachthemd",
+          "start": 100.6,
+          "end": 101.36
+        },
+        {
+          "text": "Schlafanzug",
+          "start": 103.72,
+          "end": 104.48
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Als Strafe musste er schließlich die Hosen fallen lassen und stand in blauen Boxershorts da.",
-        "Diese Anzughose hat schon ausgebeulte Knie.",
-        "Die Mutter hat ein Loch in den Bermudas gestopft.",
-        "Die Bügelfalte ist eine Erfindung vom Anfang des 20.",
-        "Jahrhunderts.",
-        "Jeans waren nie wirklich out.",
-        "Im Orangen Overall stehen er und seine Kumpels im warmen Sonnenlicht.",
-        "Der Minirock erfreut sich bis heute besonderer Beliebtheit.",
-        "Sie verwandte den Stoff für einen Plisserock.",
-        "Sie hat beim Bügeln den Wickelrock gesenkt.",
-        "Dieser Büstenhalter sieht nicht nur gut aus, er gehört auch zu den teuersten der Welt.",
-        "Es ging jetzt um die Frage, ob sie ein Korsett tragen sollte.",
-        "Ist das Mieder zu eng, kann es für bestimmte Muskeln schädlich sein.",
-        "Mit beiden Händen hat sie vorsichtig den weißen Schlüpfer etwas nach unten gezogen.",
-        "Für Männer ist das Unterhemd eines der wichtigsten Kleidungsstücke überhaupt.",
-        "Eine Frau im Morgenmantel öffnet vorsichtig die Haustüre."
+        {
+          "text": "Als Strafe musste er schließlich die Hosen fallen lassen und stand in blauen Boxershorts da.",
+          "start": 114.6,
+          "end": 120.86
+        },
+        {
+          "text": "Diese Anzughose hat schon ausgebeulte Knie.",
+          "start": 123.89,
+          "end": 127.29
+        },
+        {
+          "text": "Die Mutter hat ein Loch in den Bermudas gestopft.",
+          "start": 130.37,
+          "end": 133.55
+        },
+        {
+          "text": "Die Bügelfalte ist eine Erfindung vom Anfang des 20.",
+          "start": 136.23,
+          "end": 140.43
+        },
+        {
+          "text": "Jahrhunderts.",
+          "start": 141.27,
+          "end": 142.19
+        },
+        {
+          "text": "Jeans waren nie wirklich out.",
+          "start": 144.57,
+          "end": 146.77
+        },
+        {
+          "text": "Im Orangen Overall stehen er und seine Kumpels im warmen Sonnenlicht.",
+          "start": 149.81,
+          "end": 155.17
+        },
+        {
+          "text": "Der Minirock erfreut sich bis heute besonderer Beliebtheit.",
+          "start": 158.32,
+          "end": 162.26
+        },
+        {
+          "text": "Sie verwandte den Stoff für einen Plisserock.",
+          "start": 165.29,
+          "end": 168.63
+        },
+        {
+          "text": "Sie hat beim Bügeln den Wickelrock gesenkt.",
+          "start": 171.6,
+          "end": 174.66
+        },
+        {
+          "text": "Dieser Büstenhalter sieht nicht nur gut aus, er gehört auch zu den teuersten der Welt.",
+          "start": 177.5,
+          "end": 183.24
+        },
+        {
+          "text": "Es ging jetzt um die Frage, ob sie ein Korsett tragen sollte.",
+          "start": 186.37,
+          "end": 190.23
+        },
+        {
+          "text": "Ist das Mieder zu eng, kann es für bestimmte Muskeln schädlich sein.",
+          "start": 193.34,
+          "end": 197.66
+        },
+        {
+          "text": "Mit beiden Händen hat sie vorsichtig den weißen Schlüpfer etwas nach unten gezogen.",
+          "start": 200.72,
+          "end": 205.92
+        },
+        {
+          "text": "Für Männer ist das Unterhemd eines der wichtigsten Kleidungsstücke überhaupt.",
+          "start": 209.02,
+          "end": 213.72
+        },
+        {
+          "text": "Eine Frau im Morgenmantel öffnet vorsichtig die Haustüre.",
+          "start": 215.99,
+          "end": 220.91
+        }
       ]
     }
   ]

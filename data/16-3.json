@@ -4,65 +4,277 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Landformen 2",
-        "Eisfeld",
-        "Firnschicht",
-        "Firn",
-        "Gletscherbach",
-        "Lawine",
-        "schmelzen",
-        "Talgletscher",
-        "vergletschern",
-        "Bergkette",
-        "Bergspitze",
-        "Cliff",
-        "Pass",
-        "Saumfahrt",
-        "Steilwand",
-        "Grotte",
-        "Höhle",
-        "Hochebene",
-        "Höhlenfluss",
-        "Hügel",
-        "Schlucht",
-        "Stalagmit",
-        "Tropfstein",
-        "der aktive Vulkan",
-        "der erloschene Vulkan",
-        "Subvulkan",
-        "Krater",
-        "Lava",
-        "Mar",
-        "Magma",
-        "Schlot",
-        "Tuff",
-        "Vulkanausbruch",
-        "Dürre",
-        "Kaktus",
-        "Luftspiegelung",
-        "Fata Morgana",
-        "Oase",
-        "Sand",
-        "Sandsturm",
-        "Trockenheit"
+        {
+          "text": "Landformen 2",
+          "start": 1.78,
+          "end": 6.42
+        },
+        {
+          "text": "Eisfeld",
+          "start": 7.76,
+          "end": 9.16
+        },
+        {
+          "text": "Firnschicht",
+          "start": 10.6,
+          "end": 12.64
+        },
+        {
+          "text": "Firn",
+          "start": 14.08,
+          "end": 16.74
+        },
+        {
+          "text": "Gletscherbach",
+          "start": 16.74,
+          "end": 18.26
+        },
+        {
+          "text": "Lawine",
+          "start": 19.51,
+          "end": 21.25
+        },
+        {
+          "text": "schmelzen",
+          "start": 22.6,
+          "end": 24.22
+        },
+        {
+          "text": "Talgletscher",
+          "start": 25.56,
+          "end": 27.48
+        },
+        {
+          "text": "vergletschern",
+          "start": 28.79,
+          "end": 30.95
+        },
+        {
+          "text": "Bergkette",
+          "start": 32.49,
+          "end": 33.89
+        },
+        {
+          "text": "Bergspitze",
+          "start": 35.29,
+          "end": 36.69
+        },
+        {
+          "text": "Cliff",
+          "start": 38.07,
+          "end": 38.89
+        },
+        {
+          "text": "Pass",
+          "start": 40.2,
+          "end": 42.04
+        },
+        {
+          "text": "Saumfahrt",
+          "start": 43.62,
+          "end": 45.02
+        },
+        {
+          "text": "Steilwand",
+          "start": 46.49,
+          "end": 48.23
+        },
+        {
+          "text": "Grotte",
+          "start": 49.51,
+          "end": 51.03
+        },
+        {
+          "text": "Höhle",
+          "start": 52.34,
+          "end": 53.84
+        },
+        {
+          "text": "Hochebene",
+          "start": 55.22,
+          "end": 56.98
+        },
+        {
+          "text": "Höhlenfluss",
+          "start": 58.26,
+          "end": 59.92
+        },
+        {
+          "text": "Hügel",
+          "start": 61.23,
+          "end": 62.73
+        },
+        {
+          "text": "Schlucht",
+          "start": 64.2,
+          "end": 65.6
+        },
+        {
+          "text": "Stalagmit",
+          "start": 67.01,
+          "end": 68.73
+        },
+        {
+          "text": "Tropfstein",
+          "start": 70.08,
+          "end": 71.8
+        },
+        {
+          "text": "der aktive Vulkan",
+          "start": 73.04,
+          "end": 76.4
+        },
+        {
+          "text": "der erloschene Vulkan",
+          "start": 76.68,
+          "end": 79.38
+        },
+        {
+          "text": "Subvulkan",
+          "start": 80.76,
+          "end": 82.64
+        },
+        {
+          "text": "Krater",
+          "start": 84.02,
+          "end": 85.62
+        },
+        {
+          "text": "Lava",
+          "start": 86.86,
+          "end": 88.4
+        },
+        {
+          "text": "Ma",
+          "start": 89.65,
+          "end": 90.57
+        },
+        {
+          "text": "Magma",
+          "start": 92.61,
+          "end": 93.67
+        },
+        {
+          "text": "Schlot",
+          "start": 95.08,
+          "end": 96.8
+        },
+        {
+          "text": "Tuff",
+          "start": 98.08,
+          "end": 99.32
+        },
+        {
+          "text": "Vulkanausbruch",
+          "start": 100.63,
+          "end": 102.81
+        },
+        {
+          "text": "Dürre",
+          "start": 104.06,
+          "end": 105.32
+        },
+        {
+          "text": "Kaktus",
+          "start": 106.66,
+          "end": 109.38
+        },
+        {
+          "text": "Luftspiegelung",
+          "start": 109.38,
+          "end": 111.62
+        },
+        {
+          "text": "Fata Morgana",
+          "start": 112.94,
+          "end": 115.54
+        },
+        {
+          "text": "Oase",
+          "start": 115.54,
+          "end": 117.48
+        },
+        {
+          "text": "Sand",
+          "start": 118.72,
+          "end": 120.22
+        },
+        {
+          "text": "Sandsturm",
+          "start": 121.5,
+          "end": 123.3
+        },
+        {
+          "text": "Trockenheit",
+          "start": 124.58,
+          "end": 126.0
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Gletscher speichern 70 Prozent des Süßwassers der Erde.",
-        "Die vier Schichten des Gletschers pressen sich stetig zu Eis zusammen.",
-        "Beinahe jedes Jahr fallen Skitouristen einer Lawine zum Opfer.",
-        "Als lebendes Cliff wird ein Abschnitt einer Cliffküste bezeichnet, der durch das Meer erodiert und rückversetzt wird.",
-        "Wegen Lawinengefahr mussten mehrere Pässe gesperrt werden.",
-        "Natürliche Höhlen galten in der Antike als Aufenthaltsort von Nymphen und anderen Wesen.",
-        "Grundsätzlich befinden sich in allen Höhlen weltweit, die in Karst- und Kalkgesteinsregionen liegen, Tropfsteine.",
-        "Die größte Konzentration an Vulkanen kann man am sogenannten Pazifischen Feuerring finden.",
-        "Ein Vulkan, der seit 10.000 Jahren nicht mehr tätig ist, wird zu den erloschenen Vulkanen gerechnet.",
-        "In dem Erdmantel existieren Magmen.",
-        "Bei manchen Vulkanausbrüchen wird das Oberflächengestein kilometerweit in die Luft gestoßen.",
-        "Die Oasenwirtschaft ist eine sehr intensive Wirtschaftsform innerhalb der Oasen in den Trockengebieten."
+        {
+          "text": "Gletscher speichern 70 Prozent des Süßwassers der Erde.",
+          "start": 135.79,
+          "end": 140.69
+        },
+        {
+          "text": "Die vier Schichten des Gletschers pressen sich stetig zu Eis zusammen.",
+          "start": 143.49,
+          "end": 148.77
+        },
+        {
+          "text": "Beinahe jedes Jahr fallen Skitouristen einer Lawine zum Opfer.",
+          "start": 151.8,
+          "end": 156.62
+        },
+        {
+          "text": "Als lebendes Cliff wird ein Abschnitt einer Cliffküste bezeichnet, der durch das Meer erodiert und rückversetzt wird.",
+          "start": 159.5,
+          "end": 167.42
+        },
+        {
+          "text": "Wegen Lawinengefahr mussten mehrere Pässe gesperrt werden.",
+          "start": 170.52,
+          "end": 174.74
+        },
+        {
+          "text": "Natürliche Höhlen galten in der Antike als Aufenthaltsort von Nymphen und anderen Wesen.",
+          "start": 178.0,
+          "end": 184.66
+        },
+        {
+          "text": "Grundsätzlich befinden sich in allen Höhlen weltweit, die in Karst- und Kalkgesteinsregionen liegen, Tropfsteine.",
+          "start": 187.36,
+          "end": 194.14
+        },
+        {
+          "text": "Die größte Konzentration an Vulkanen kann man am sogenannten Pazifischen Feuerring finden.",
+          "start": 194.44,
+          "end": 204.04
+        },
+        {
+          "text": "Ein Vulkan, der seit 10.000 Jahren nicht mehr tätig ist, wird zu den erloschenen Vulkanen gerechnet.",
+          "start": 204.04,
+          "end": 214.59
+        },
+        {
+          "text": "In dem Erdmantel existieren Magmen.",
+          "start": 214.59,
+          "end": 220.83
+        },
+        {
+          "text": "Bei manchen Vulkanausbrüchen wird das Oberflächengestein kilometerweit in die Luft gestoßen.",
+          "start": 220.83,
+          "end": 230.47
+        },
+        {
+          "text": "Die Oasenwirtschaft ist eine sehr intensive Wirtschaftsform innerhalb der Oasen in den Trockengebieten.",
+          "start": 230.47,
+          "end": 240.51
+        }
       ]
     }
   ]

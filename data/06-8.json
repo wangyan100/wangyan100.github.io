@@ -4,76 +4,302 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "andere Sportarten",
-        "Anlauf",
-        "aufstellen",
-        "Bowler",
-        "Bowlingbahn",
-        "Durchgang",
-        "Griffloch",
-        "halten",
-        "Kegel",
-        "Boxen",
-        "Budo",
-        "Judo",
-        "Fechten",
-        "Ringen",
-        "Sumo",
-        "Taekwondo",
-        "Diskuswerfen",
-        "Hochsprung",
-        "Hürdenlauf",
-        "Kugelstoßen",
-        "Lauf",
-        "Marathonlauf",
-        "Sperrwerfen",
-        "Staffellauf",
-        "Barren",
-        "Einzelmeerkampf",
-        "Mannschaftskampf",
-        "Ringe",
-        "Schwebebalken",
-        "Stufenbarren",
-        "Trampolin",
-        "Grün",
-        "Holzschläger",
-        "Loch",
-        "Hole",
-        "Putten",
-        "Einrollen",
-        "Haken",
-        "Schiene",
-        "Sperren",
-        "Stock",
-        "Robben",
-        "ница",
-        "rot",
-        "ril",
-        "Muche",
-        "Kai",
-        "Sumo",
-        "Tabata",
-        "Insel",
-        "Rei",
-        "Insel",
-        "Ricou",
-        "Junta",
-        "Tenno"
+        {
+          "text": "andere Sportarten",
+          "start": 1.71,
+          "end": 3.97
+        },
+        {
+          "text": "Anlauf",
+          "start": 6.74,
+          "end": 7.44
+        },
+        {
+          "text": "aufstellen",
+          "start": 8.92,
+          "end": 10.32
+        },
+        {
+          "text": "Bowler",
+          "start": 11.02,
+          "end": 13.08
+        },
+        {
+          "text": "Bowlingbahn",
+          "start": 13.08,
+          "end": 15.22
+        },
+        {
+          "text": "Durchgang",
+          "start": 16.5,
+          "end": 18.36
+        },
+        {
+          "text": "Griffloch",
+          "start": 19.68,
+          "end": 21.24
+        },
+        {
+          "text": "halten",
+          "start": 22.58,
+          "end": 23.46
+        },
+        {
+          "text": "Kegel",
+          "start": 26.19,
+          "end": 26.89
+        },
+        {
+          "text": "Boxen",
+          "start": 31.06,
+          "end": 32.46
+        },
+        {
+          "text": "Budo",
+          "start": 33.7,
+          "end": 35.0
+        },
+        {
+          "text": "Judo",
+          "start": 37.19,
+          "end": 37.89
+        },
+        {
+          "text": "Fechten",
+          "start": 39.33,
+          "end": 40.81
+        },
+        {
+          "text": "Karate",
+          "start": 42.25,
+          "end": 44.25
+        },
+        {
+          "text": "Ringen",
+          "start": 46.51,
+          "end": 47.91
+        },
+        {
+          "text": "Sumo",
+          "start": 47.91,
+          "end": 48.61
+        },
+        {
+          "text": "Taekwondo",
+          "start": 51.13,
+          "end": 51.83
+        },
+        {
+          "text": "Diskuswerfen",
+          "start": 54.36,
+          "end": 55.06
+        },
+        {
+          "text": "Hochsprung",
+          "start": 57.1,
+          "end": 58.18
+        },
+        {
+          "text": "Hürdenlauf",
+          "start": 60.22,
+          "end": 61.68
+        },
+        {
+          "text": "Kugelstoßen",
+          "start": 63.02,
+          "end": 65.16
+        },
+        {
+          "text": "Lauf",
+          "start": 66.41,
+          "end": 67.83
+        },
+        {
+          "text": "Marathonlauf",
+          "start": 69.08,
+          "end": 71.06
+        },
+        {
+          "text": "Sperrwerfen",
+          "start": 72.53,
+          "end": 74.41
+        },
+        {
+          "text": "Staffellauf",
+          "start": 75.92,
+          "end": 77.7
+        },
+        {
+          "text": "Barren",
+          "start": 79.66,
+          "end": 80.42
+        },
+        {
+          "text": "Einzelmeerkampf",
+          "start": 82.97,
+          "end": 83.73
+        },
+        {
+          "text": "Mannschaftskampf",
+          "start": 84.98,
+          "end": 87.2
+        },
+        {
+          "text": "Pauschenpferd",
+          "start": 88.51,
+          "end": 90.55
+        },
+        {
+          "text": "Ringe",
+          "start": 91.89,
+          "end": 92.93
+        },
+        {
+          "text": "Schwebebalken",
+          "start": 95.07,
+          "end": 96.49
+        },
+        {
+          "text": "Stufenbarren",
+          "start": 98.54,
+          "end": 99.6
+        },
+        {
+          "text": "Trampolin",
+          "start": 101.62,
+          "end": 102.32
+        },
+        {
+          "text": "Grün",
+          "start": 103.63,
+          "end": 105.15
+        },
+        {
+          "text": "Holzschläger",
+          "start": 106.52,
+          "end": 108.34
+        },
+        {
+          "text": "Loch",
+          "start": 109.66,
+          "end": 110.46
+        },
+        {
+          "text": "Hole",
+          "start": 111.8,
+          "end": 113.36
+        },
+        {
+          "text": "Putten",
+          "start": 114.7,
+          "end": 116.14
+        },
+        {
+          "text": "Einrollen",
+          "start": 117.49,
+          "end": 119.01
+        },
+        {
+          "text": "Haken",
+          "start": 120.42,
+          "end": 121.62
+        },
+        {
+          "text": "Schiene",
+          "start": 123.02,
+          "end": 124.5
+        },
+        {
+          "text": "Sperren",
+          "start": 126.01,
+          "end": 127.39
+        },
+        {
+          "text": "Stock",
+          "start": 129.35,
+          "end": 129.76
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "jeweils Fußtechnik, Handtechnik und Weg.",
-        "Diskuswerfen, Hochspringen und Kugelstoßen sind Disziplinen der Leichtathletik.",
-        "Der Marathonlauf ist die längste Laufdisziplin in der Leichtathletik.",
-        "Leichtathletik ist, abgesehen vom Staffellauf, ein Einzelsport.",
-        "Der Barren zählt zu den Geräten, die beim Kunstturnen nur von den Männern eingesetzt werden.",
-        "Stufenbarren gehört zu den Disziplinen für Kunstturnen der Frauen.",
-        "Hrvenna gewann bei den Olympischen Sommerspielen 2008 Goldmedaille im Trampolin.",
-        "Beim Golf spricht man auch über das Geschäft.",
-        "Viele Golfspieler vernachlässigen bei ihrem Training das so wichtige Patten."
+        {
+          "text": "Der Spieler kann sich durch Anlauf bewegen, um ihren Wurf des Bowlings durchzuführen.",
+          "start": 140.54,
+          "end": 146.1
+        },
+        {
+          "text": "Er stellt sofort das umgestoßene Glas wieder auf.",
+          "start": 149.2,
+          "end": 152.74
+        },
+        {
+          "text": "Sie erhielt im dritten Durchgang die höchste Bewertung.",
+          "start": 155.8,
+          "end": 159.4
+        },
+        {
+          "text": "Er wirft alle Kegel auf einen Schub um.",
+          "start": 162.34,
+          "end": 165.26
+        },
+        {
+          "text": "Er ist ein Ass im Boxen.",
+          "start": 168.2,
+          "end": 170.05
+        },
+        {
+          "text": "Budo ist der Oberbegriff für alle japanischen Kampfkünste, darunter auch Judo.",
+          "start": 172.32,
+          "end": 179.44
+        },
+        {
+          "text": "Die drei Silben von dem Namen Taekwondo bedeuten jeweils Fußtechnik, Handtechnik und Weg.",
+          "start": 182.51,
+          "end": 191.01
+        },
+        {
+          "text": "Diskuswerfen, Hochspringen und Kugelstoßen sind Disziplinen der Leichtathletik.",
+          "start": 194.3,
+          "end": 200.92
+        },
+        {
+          "text": "Der Marathonlauf ist die längste Laufdisziplin in der Leichtathletik.",
+          "start": 203.23,
+          "end": 209.23
+        },
+        {
+          "text": "Leichtathletik ist, abgesehen vom Staffellauf, ein Einzelsport.",
+          "start": 211.81,
+          "end": 216.43
+        },
+        {
+          "text": "Der Barren zählt zu den Geräten, die beim Kunstturnen nur von den Männern eingesetzt werden.",
+          "start": 219.51,
+          "end": 226.13
+        },
+        {
+          "text": "Stufenbarren gehört zu den Disziplinen für Kunstturnen der Frauen.",
+          "start": 229.72,
+          "end": 234.26
+        },
+        {
+          "text": "Rue Venard gewann bei den Olympischen Sommerspielen 2008 Goldmedaille im Trampolin.",
+          "start": 236.76,
+          "end": 244.94
+        },
+        {
+          "text": "Beim Golf spricht man auch über das Geschäft.",
+          "start": 247.66,
+          "end": 250.44
+        },
+        {
+          "text": "Viele Golfspieler vernachlässigen bei ihrem Training das so wichtige Patten.",
+          "start": 253.71,
+          "end": 258.89
+        }
       ]
     }
   ]

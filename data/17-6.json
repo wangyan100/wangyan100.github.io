@@ -4,65 +4,277 @@
       "type": "vocabulary",
       "title": "Wortschatz",
       "items": [
-        "Märchen",
-        "Kaiser",
-        "Kaiserin",
-        "König",
-        "Königin",
-        "Prinz",
-        "Prinzessin",
-        "Herzog",
-        "Graf",
-        "Reiter",
-        "Bestie",
-        "Drache",
-        "Einhorn",
-        "Geist",
-        "Teufel",
-        "Ungeheuer",
-        "Ungetüm",
-        "Elfe",
-        "Fee",
-        "Hexe",
-        "Jäger",
-        "Meerjungfrau",
-        "Riese",
-        "Zauberer",
-        "Zwerg",
-        "Festung",
-        "Kaiserhof",
-        "Mühle",
-        "Reich",
-        "Schloss",
-        "Stadtmauer",
-        "Turm",
-        "Warte",
-        "Feder",
-        "Helm",
-        "Krone",
-        "Panzer",
-        "Schild",
-        "Schwert"
+        {
+          "text": "Märchen",
+          "start": 2.0,
+          "end": 3.76
+        },
+        {
+          "text": "Kaiser",
+          "start": 5.46,
+          "end": 6.12
+        },
+        {
+          "text": "Kaiserin",
+          "start": 8.24,
+          "end": 9.28
+        },
+        {
+          "text": "König",
+          "start": 11.15,
+          "end": 12.09
+        },
+        {
+          "text": "Königin",
+          "start": 13.81,
+          "end": 14.95
+        },
+        {
+          "text": "Prinz",
+          "start": 16.67,
+          "end": 17.61
+        },
+        {
+          "text": "Prinzessin",
+          "start": 19.28,
+          "end": 20.58
+        },
+        {
+          "text": "Herzog",
+          "start": 22.19,
+          "end": 23.07
+        },
+        {
+          "text": "Graf",
+          "start": 25.11,
+          "end": 25.99
+        },
+        {
+          "text": "Reiter",
+          "start": 27.79,
+          "end": 28.77
+        },
+        {
+          "text": "Bestie",
+          "start": 30.55,
+          "end": 32.41
+        },
+        {
+          "text": "Drache",
+          "start": 32.41,
+          "end": 34.31
+        },
+        {
+          "text": "Einhorn",
+          "start": 36.1,
+          "end": 36.84
+        },
+        {
+          "text": "Geist",
+          "start": 38.82,
+          "end": 39.78
+        },
+        {
+          "text": "Teufel",
+          "start": 41.52,
+          "end": 43.64
+        },
+        {
+          "text": "Ungeheuer",
+          "start": 44.36,
+          "end": 46.28
+        },
+        {
+          "text": "Ungetüm",
+          "start": 47.3,
+          "end": 48.18
+        },
+        {
+          "text": "Elfe",
+          "start": 50.22,
+          "end": 50.94
+        },
+        {
+          "text": "Fee",
+          "start": 53.08,
+          "end": 53.78
+        },
+        {
+          "text": "Hexe",
+          "start": 55.62,
+          "end": 56.2
+        },
+        {
+          "text": "Jäger",
+          "start": 58.46,
+          "end": 59.26
+        },
+        {
+          "text": "Meerjungfrau",
+          "start": 61.35,
+          "end": 62.63
+        },
+        {
+          "text": "Riese",
+          "start": 64.82,
+          "end": 65.34
+        },
+        {
+          "text": "Zauberer",
+          "start": 67.42,
+          "end": 68.4
+        },
+        {
+          "text": "Zwerg",
+          "start": 70.3,
+          "end": 71.38
+        },
+        {
+          "text": "Festung",
+          "start": 73.06,
+          "end": 74.22
+        },
+        {
+          "text": "Kaiserhof",
+          "start": 76.05,
+          "end": 77.15
+        },
+        {
+          "text": "Mühle",
+          "start": 78.85,
+          "end": 80.25
+        },
+        {
+          "text": "Reich",
+          "start": 82.25,
+          "end": 82.69
+        },
+        {
+          "text": "Schloss",
+          "start": 84.83,
+          "end": 85.55
+        },
+        {
+          "text": "Stadtmauer",
+          "start": 87.56,
+          "end": 88.58
+        },
+        {
+          "text": "Turm",
+          "start": 90.55,
+          "end": 91.59
+        },
+        {
+          "text": "Warte",
+          "start": 93.24,
+          "end": 94.14
+        },
+        {
+          "text": "Feder",
+          "start": 96.13,
+          "end": 96.67
+        },
+        {
+          "text": "Helm",
+          "start": 99.15,
+          "end": 99.95
+        },
+        {
+          "text": "Krone",
+          "start": 101.72,
+          "end": 102.46
+        },
+        {
+          "text": "Panzer",
+          "start": 104.5,
+          "end": 105.46
+        },
+        {
+          "text": "Schild",
+          "start": 107.31,
+          "end": 107.93
+        },
+        {
+          "text": "Schwert",
+          "start": 110.04,
+          "end": 110.98
+        }
       ]
     },
     {
       "type": "sentences",
       "title": "Satzübung",
       "items": [
-        "Nachdem Ying Zheng die chinesischen Staaten zu einem Reich vereint hatte, ließ er sich seit 221 vor Christus erster Kaiser nennen.",
-        "Unterblinden ist der einäugige König.",
-        "Prinz küsst Prinzessin und beide sind glücklich bis an ihr Lebensende.",
-        "Die größte Bestie auf unserem Planeten ist der Mensch.",
-        "Mit Horn soll das Einhorn gegen seine Feinde kämpfen, heilen und sogar Tote wiederbeleben können.",
-        "Sünden und böse Geister scheuen das Licht.",
-        "Faust verkaufte dem Teufel seine Seele.",
-        "Feen werden überwiegend als heiter, besonders schön und niemals alternd beschrieben und darüber hinaus als glückbringend.",
-        "Die böse Hexe hat den Prinzen verzaubert.",
-        "Nach dem Aberglauben beschützen mehr Jungfrauen das Schiff vor Unglück.",
-        "Die Mutter erzählte ihrem Kind das Märchen von Schneewittchen und sieben Zwergen.",
-        "Die Mühle liegt im Tal.",
-        "Wer die toskanische Stadt Lukka besucht, sollte sich einen Spaziergang auf der noch fast vollständig erhaltenen Stadtmauer nicht entgehen lassen.",
-        "Den Vogel erkennt man an den Federn."
+        {
+          "text": "Nachdem Ying Zheng die chinesischen Staaten zu einem Reich vereint hatte, ließ er sich seit 221 vor Christus erster Kaiser nennen.",
+          "start": 121.15,
+          "end": 131.93
+        },
+        {
+          "text": "Unter Blinden ist der einäugige König.",
+          "start": 135.09,
+          "end": 138.71
+        },
+        {
+          "text": "Prinz küsst Prinzessin und beide sind glücklich bis an ihr Lebensende.",
+          "start": 141.39,
+          "end": 146.17
+        },
+        {
+          "text": "Die größte Bestie auf unserem Planeten ist der Mensch.",
+          "start": 149.03,
+          "end": 152.87
+        },
+        {
+          "text": "Mit Horn soll das Einhorn gegen seine Feinde kämpfen, heilen und sogar Tote wiederbeleben können.",
+          "start": 155.95,
+          "end": 162.77
+        },
+        {
+          "text": "Sünden und böse Geister scheuen das Licht.",
+          "start": 166.0,
+          "end": 168.96
+        },
+        {
+          "text": "Faust verkaufte dem Teufel seine Seele.",
+          "start": 172.18,
+          "end": 175.6
+        },
+        {
+          "text": "Feen werden überwiegend als heiter, besonders schön und niemals alternd beschrieben und darüber hinaus als glückbringend.",
+          "start": 178.04,
+          "end": 187.28
+        },
+        {
+          "text": "Die böse Hexe hat den Prinzen verzaubert.",
+          "start": 190.25,
+          "end": 193.33
+        },
+        {
+          "text": "Nach dem Aberglauben beschützen Meerjungfrauen das Schiff vor Unglück.",
+          "start": 196.37,
+          "end": 201.45
+        },
+        {
+          "text": "Die Mutter erzählte ihrem Kind das Märchen von Schneewittchen und sieben Zwergen.",
+          "start": 204.41,
+          "end": 209.33
+        },
+        {
+          "text": "Die Mühle liegt im Tal.",
+          "start": 212.17,
+          "end": 214.15
+        },
+        {
+          "text": "Wer die toskanische Stadt Luka besucht, sollte sich einen Spaziergang auf der noch fast vollständig erhaltenen Stadtmauer nicht entgehen lassen.",
+          "start": 216.42,
+          "end": 226.38
+        },
+        {
+          "text": "Den Vogel erkennt man an den Federn.",
+          "start": 229.5,
+          "end": 231.9
+        }
       ]
     }
   ]
