@@ -20,6 +20,21 @@ const openLibraryButton = document.querySelector("#openLibrary");
 const closeLibraryButton = document.querySelector("#closeLibrary");
 const libraryBackdrop = document.querySelector("#libraryBackdrop");
 let transcriptItems = [];
+let autoScrollSuppressedUntil = 0;
+const AUTO_SCROLL_PAUSE_MS = 4000;
+
+function suppressAutoScroll() {
+  autoScrollSuppressedUntil = Date.now() + AUTO_SCROLL_PAUSE_MS;
+}
+
+function initializeTranscriptScrollGuard() {
+  // Manual scroll/touch/drag inside the transcript pauses auto-scroll so users can pick another item.
+  const events = ["wheel", "touchstart", "touchmove", "touchend", "pointerdown", "pointerup"];
+  events.forEach((eventName) => {
+    transcript.addEventListener(eventName, suppressAutoScroll, { passive: true });
+  });
+  transcript.addEventListener("scroll", suppressAutoScroll, { passive: true });
+}
 
 function setLibraryOpen(isOpen) {
   document.body.classList.toggle("is-library-open", isOpen);
@@ -188,16 +203,18 @@ function playTranscriptItem(item) {
   if (!Number.isFinite(start)) {
     return;
   }
+  autoScrollSuppressedUntil = 0;
   audioPlayer.currentTime = start;
   audioPlayer.play();
 }
 
 function updateTranscriptHighlight() {
   const currentTime = audioPlayer.currentTime;
+  const autoScrollAllowed = Date.now() >= autoScrollSuppressedUntil;
   transcriptItems.forEach((item) => {
     const isActive = Number(item.dataset.start) <= currentTime && currentTime < Number(item.dataset.end);
     item.classList.toggle("is-playing", isActive);
-    if (isActive && !item.matches(":hover")) {
+    if (isActive && autoScrollAllowed && !item.matches(":hover")) {
       item.scrollIntoView({ block: "nearest" });
     }
   });
@@ -308,5 +325,6 @@ document.addEventListener("keydown", (event) => {
   }
 });
 initializePaneResizer();
+initializeTranscriptScrollGuard();
 
 initialize();
