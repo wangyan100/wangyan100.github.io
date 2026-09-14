@@ -22,6 +22,71 @@ const libraryBackdrop = document.querySelector("#libraryBackdrop");
 let transcriptItems = [];
 let autoScrollSuppressedUntil = 0;
 const AUTO_SCROLL_PAUSE_MS = 4000;
+const translationCache = new Map();
+const translationRequests = new Map();
+
+function getProvidedTranslation(item) {
+  if (typeof item === "string") {
+    return "";
+  }
+  return item.translation || item.translationZh || item.zh || "";
+}
+
+async function translateText(text) {
+  if (translationCache.has(text)) {
+    return translationCache.get(text);
+  }
+  if (translationRequests.has(text)) {
+    return translationRequests.get(text);
+  }
+
+  const request = fetch(
+    `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=de|zh-CN`,
+  )
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("Translation request failed");
+      }
+      return response.json();
+    })
+    .then((result) => {
+      const translation = result.responseData?.translatedText?.trim();
+      if (!translation) {
+        throw new Error("No translation found");
+      }
+      translationCache.set(text, translation);
+      return translation;
+    })
+    .finally(() => translationRequests.delete(text));
+
+  translationRequests.set(text, request);
+  return request;
+}
+
+async function showTranslation(listItem, item, translationElement) {
+  const providedTranslation = getProvidedTranslation(item);
+  if (providedTranslation) {
+    translationElement.textContent = providedTranslation;
+    translationElement.classList.add("is-visible");
+    return;
+  }
+
+  const text = typeof item === "string" ? item : item.text;
+  translationElement.textContent = "翻译中...";
+  translationElement.classList.add("is-visible");
+  try {
+    translationElement.textContent = await translateText(text);
+  } catch {
+    translationElement.textContent = "暂时无法翻译";
+  }
+  if (listItem.matches(":hover") || document.activeElement === listItem) {
+    translationElement.classList.add("is-visible");
+  }
+}
+
+function hideTranslation(translationElement) {
+  translationElement.classList.remove("is-visible");
+}
 
 function suppressAutoScroll() {
   autoScrollSuppressedUntil = Date.now() + AUTO_SCROLL_PAUSE_MS;
@@ -158,10 +223,26 @@ function renderTranscript(content) {
     section.items.forEach((item) => {
       const listItem = document.createElement("li");
       const itemText = typeof item === "string" ? item : item.text;
-      listItem.textContent = itemText;
+      const textElement = document.createElement("span");
+      textElement.className = "transcript-text";
+      textElement.textContent = itemText;
+      const translationElement = document.createElement("span");
+      translationElement.className = "translation-popover";
+      translationElement.setAttribute("role", "status");
+      translationElement.setAttribute("aria-live", "polite");
+      listItem.append(textElement, translationElement);
       listItem.tabIndex = 0;
-      listItem.classList.add("transcript-item");
-      listItem.title = "播放这一项";
+      listItem.classList.add("transcript-item", "has-translation");
+      listItem.title = "悬停查看中文翻译，点击播放这一项";
+      listItem.addEventListener("mouseenter", () => showTranslation(listItem, item, translationElement));
+      listItem.addEventListener("mouseleave", () => hideTranslation(translationElement));
+      listItem.addEventListener("pointerdown", (event) => {
+        if (event.pointerType === "touch") {
+          showTranslation(listItem, item, translationElement);
+        }
+      });
+      listItem.addEventListener("focus", () => showTranslation(listItem, item, translationElement));
+      listItem.addEventListener("blur", () => hideTranslation(translationElement));
       listItem.addEventListener("click", () => playTranscriptItem(listItem));
       listItem.addEventListener("keydown", (event) => {
         if (event.key === "Enter" || event.key === " ") {

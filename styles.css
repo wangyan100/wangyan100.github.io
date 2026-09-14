@@ -310,12 +310,46 @@ h3 {
 }
 
 .transcript-section-sentences li {
+  position: relative;
   padding: 0.75rem 1rem;
   border-left: 3px solid rgba(173, 61, 43, 0.45);
   background: rgba(255, 250, 240, 0.78);
   font-size: clamp(1.05rem, 2vw, 1.25rem);
   line-height: 1.65;
   cursor: pointer;
+}
+
+.transcript-section-vocabulary li {
+  position: relative;
+}
+
+.transcript-text {
+  display: block;
+}
+
+.translation-popover {
+  position: absolute;
+  z-index: 2;
+  left: 0.75rem;
+  bottom: calc(100% + 0.45rem);
+  max-width: min(34rem, calc(100vw - 3rem));
+  padding: 0.55rem 0.75rem;
+  border: 1px solid rgba(34, 91, 82, 0.32);
+  border-radius: 5px;
+  color: #fffaf0;
+  background: var(--green);
+  box-shadow: 0 8px 20px rgba(40, 33, 22, 0.18);
+  font-size: 0.9rem;
+  line-height: 1.4;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(0.25rem);
+  transition: opacity 120ms ease, transform 120ms ease;
+}
+
+.translation-popover.is-visible {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .transcript-item:hover,
