@@ -24,6 +24,7 @@ let autoScrollSuppressedUntil = 0;
 const AUTO_SCROLL_PAUSE_MS = 4000;
 const translationCache = new Map();
 const translationRequests = new Map();
+let touchTranslationItem = null;
 
 function getProvidedTranslation(item) {
   if (typeof item === "string") {
@@ -235,9 +236,17 @@ function renderTranscript(content) {
       listItem.classList.add("transcript-item", "has-translation");
       listItem.title = "悬停查看中文翻译，点击播放这一项";
       listItem.addEventListener("mouseenter", () => showTranslation(listItem, item, translationElement));
-      listItem.addEventListener("mouseleave", () => hideTranslation(translationElement));
+      listItem.addEventListener("mouseleave", () => {
+        if (touchTranslationItem !== listItem) {
+          hideTranslation(translationElement);
+        }
+      });
       listItem.addEventListener("pointerdown", (event) => {
         if (event.pointerType === "touch") {
+          if (touchTranslationItem && touchTranslationItem !== listItem) {
+            hideTranslation(touchTranslationItem.querySelector(".translation-popover"));
+          }
+          touchTranslationItem = listItem;
           showTranslation(listItem, item, translationElement);
         }
       });

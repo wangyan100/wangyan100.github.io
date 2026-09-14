@@ -484,4 +484,9 @@ h3 {
   .transcript-panel {
     padding: 0.8rem;
   }
+
+  .translation-popover {
+    top: calc(100% + 0.45rem);
+    bottom: auto;
+  }
 }
