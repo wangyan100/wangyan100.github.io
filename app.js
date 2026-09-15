@@ -68,12 +68,14 @@ async function showTranslation(listItem, item, translationElement) {
   const providedTranslation = getProvidedTranslation(item);
   if (providedTranslation) {
     translationElement.textContent = providedTranslation;
+    positionTranslation(listItem, translationElement);
     translationElement.classList.add("is-visible");
     return;
   }
 
   const text = typeof item === "string" ? item : item.text;
   translationElement.textContent = "翻译中...";
+  positionTranslation(listItem, translationElement);
   translationElement.classList.add("is-visible");
   try {
     translationElement.textContent = await translateText(text);
@@ -83,6 +85,15 @@ async function showTranslation(listItem, item, translationElement) {
   if (listItem.matches(":hover") || document.activeElement === listItem) {
     translationElement.classList.add("is-visible");
   }
+}
+
+function positionTranslation(listItem, translationElement) {
+  const transcriptBounds = transcript.getBoundingClientRect();
+  const itemBounds = listItem.getBoundingClientRect();
+  translationElement.classList.toggle(
+    "is-below",
+    itemBounds.top - transcriptBounds.top < 3.5 * parseFloat(getComputedStyle(document.documentElement).fontSize),
+  );
 }
 
 function hideTranslation(translationElement) {

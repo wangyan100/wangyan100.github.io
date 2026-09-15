@@ -352,6 +352,16 @@ h3 {
   transform: translateY(0);
 }
 
+.translation-popover.is-below {
+  top: calc(100% + 0.45rem);
+  bottom: auto;
+  transform: translateY(-0.25rem);
+}
+
+.translation-popover.is-below.is-visible {
+  transform: translateY(0);
+}
+
 .transcript-item:hover,
 .transcript-item:focus-visible {
   border-color: var(--accent);
